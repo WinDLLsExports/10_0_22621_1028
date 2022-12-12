@@ -1,0 +1,680 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+Software\Policies\Microsoft\Windows\AppCompat
+DisablePca
+TRACE
+ PcaCliDebug
+ntdll.dll
+%s\Temp
+RtlIsStateSeparationEnabled
+%s\AslLog_%S_%s_%d.txt
+%s,%04d,%04d,%s,%s
+PcaCliTrace
+RtlGetNtSystemRoot
+0767A036-0D22-48aa-BA69-B619480F38CB
+ncalrpc
+\Registry\Machine
+LogFlags
+PcaClient
+PcaSvc
+ServiceStartup,Time,%llu
+Global\SC_AutoStartComplete
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+RpcStringBindingCompose failed [%d]
+PcapCreateBindingHandle
+RpcBindingFromStringBinding failed [%d]
+RpcBindingSetOption failed [%d]
+Failed to create sid [%d]
+RpcBindingSetAuthInfoEx failed [%d]
+Bad ApplicationName or CommandLine [%d]
+PcapCheckEnablePca
+Excluded,%S,PCA disabled
+control.exe
+/name 
+Excluded,System CPL
+Bad cpl command line [%d]
+msiexec.exe
+Excluded,%S,SFC protected
+Bad flags parameter
+PcaMonitorProcessThreadProc
+Failed to process ApplicationName [%d]
+Failed to process CommandLine [%d]
+Failed to process CurrentDirectory [%d]
+Failed to create binding handle [%d]
+MonitorProcess,%S,Time,%llu
+PcaMonitorProcess
+Two many threads
+Out of memory
+DuplicateHandle failed %d
+SendToService ignored,PCA disabled
+PcaNotifyMsiCustomAction
+Local\SM0:%lu:%lu:%hs
+\System32\sfc_os.dll
+SfcIsFileProtected
+PcaUtilityGetExecutablePath
+Failed to copy NtSystemRoot
+PcaUtilityCompareToSystemExe
+\system32\
+Failed to cat system32 path
+Failed to cat SystemExeName
+\syswow64\
+Failed to cat syswow64 path
+Parameters too long
+RtlStringCchCopyW failed [%x]
+\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+\OSDATA\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+wdscore.dll
+ConstructPartialMsgIfA
+WdsSetupLogMessageA
+%s,%s,%d,
+ASL_LOG FAIL: 
+Message too long!
+api-ms-win-eventing-provider-l1-1-0.dll
+advapi32.dll
+EventSetInformation
+RtlStringCchLengthA failed [%x]
+AslStringDuplicateA
+SIZE_T arithmetic failed [%x]
+AslStringDuplicate failed with "%s" [%x]
+AslAnsiStringCreate
+%USERNAME%
+SystemDrive=
+DataDrive=
+OSDataDrive=
+AslEnvBuildBasic
+SystemRoot=
+WinDir=
+\Registry\Machine\System\CurrentControlSet\Control\Session Manager\Environment
+\Registry\Machine\Software\Microsoft\Windows\CurrentVersion
+Failed to open reg key [%x]
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\ProfileList
+Failed to expand: %ls %ls
+APRINT
+ERROR
+CommonFilesDir
+CommonProgramFiles
+CommonFilesDir (x86)
+CommonProgramFiles(x86)
+ProgramFilesDir
+ProgramFiles
+ProgramFilesDir (x86)
+ProgramFiles(x86)
+ProgramData
+Public
+DataDrive
+OSDataDrive
+TelemetryClient
+PartA_PrivTags
+BinFileVersion
+ChannelName
+CorrelationVectors
+Types
+Names
+Counts
+Metrics
+Messages
+ActivityResults
+Microsoft.Windows.Compatibility.Asl
+Failed to get AutoStartEvent [%d]
+PcacpStartPCAService
+Auto-start services not ready [%d]
+Failed to OpenSCManager [%d]
+Failed to OpenService [%d]
+Failed to start the service [%d]
+NotifyServiceStatusChange failed [%d]
+Timeout while starting service
+Service failed to start [%d]
+PcaApiSamplingStart ignored,PCA disabled
+PcaApiSamplingStart
+RAiApiSamplingStart result, %u
+PcaApiSamplingStop ignored,PCA disabled
+PcaApiSamplingStop
+RAiApiSamplingStop result, %u
+PcaApiSamplingSetValue
+RAiApiSamplingSetValue result, %u
+PcaNotifyMsiInstall
+PcaLinkChildProcessToParent
+LinkChildToParent,Time,%llu
+GetFileInfoFromPath ignored,PCA disabled
+PcaGetFileInfoFromPath
+GetFileInfoFromPath,Time,%llu
+\System32
+\SysWOW64
+\SysARM32
+PcaUtilityDuplicateString
+Failed to duplicate string [%d]
+PcaUtilityWcsIStr
+Bad log message
+DEBUG,%04d,%04d,%s
+%OSDataDrive%\SystemData\Temp
+%TEMP%
+%hs: %hs
+Simple
+Metric
+Message
+Activity
+AslTelemetryCreate
+%s#%s
+%s#%d
+ERROR#%s#%d
+AslRegistryOpenKey passed bad Path [%x]
+AslRegistryOpenKey
+AslRegistryOpenSubKey passed bad Path [%x]
+AslRegistryOpenSubKey
+Failed to query key value [%x]
+AslRegistryGetUInt32_UStr
+Invalid value type
+RtlInitUnicodeStringEx failed [%x]
+AslRegistryGetUInt32
+AslRegistryGetString
+Out of memory [%x]
+AslEnvGetProcessWowInfo failed [%x]
+AslRegistryGetStringExpand
+AslEnvExpandStrings2 failed to expand strings for %ws [%x]
+Failed to allocate %d bytes for user key buffer
+AslRegistryBuildMachinePath
+AslRegistryBuildMachinePath failed for %ws [%x]
+AslRegistryGetKey
+NtOpenKey failed for %ws [%x]
+RtlStringCchLengthW failed [%x]
+AslStringDuplicate
+s-1-5-18
+s-1-5-19
+s-1-5-20
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+ProfileImagePath
+%USERPROFILE%
+systemroot
+AslEnvVarQuery failed [%x]
+AslEnvExpandStrings
+AslpEnvResolveVars failed to fail properly for null buffer
+AslEnvExpandStrings2
+AslpEnvResolveVars failed [%x]
+AslEnvExpandStrings failed [%x]
+%system32%
+%systemroot%\system32
+%sysnative%
+%windir%
+%systemroot%
+%programfilesnative%
+%systemdrive%\Program Files
+AslpEnvResolveVars
+RtlStringCchCatW failed [%x]
+Invalid combination of Host/Current processor architectures passed to AslpEnvResolveVars Host: %x4 Current: %x4
+RtlGetNativeSystemInformation failed [%x]
+AslEnvGetProcessWowInfo
+ZwQuerySystemInformation failed [%x]
+pcacli.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$01
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.text$di
+.text$lp01pcacli.dll!20_pri7
+.text$lp09pcacli.dll!50_coldboot
+.text$mn
+.text$yd
+.text$zy
+.text$zz
+.xdata$x
+.edata
+.data$dk00$brc
+.data$dk01$brc
+.data$zz$brc
+.data
+.data$00
+.data$dk00
+.bss$00
+.bss$09
+.bss$dk00
+.bss$pr00
+.bss$pr01
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+yGjWh
+"u2f9
+x#Qh@
+x#Qh<
+x#Qh<
+x#Qh@
+PQQQh
+f;O*sqSV
+j<SP3
+t&htD
+j,h@2
+Y__^[
+|$hWQ
+t$hVQ
+PVVh@
+&PWSV
+QQSVW
+v,Sh\
+t!jW^h
+L$4^3
+4SVWQQP
+97s/j
+D$(PQ
+T$0QQV
+QQVW3
+D$4Ph
+txVhx
+txVhx
+txVhx
+tsVhx
+t jWh
+SVWjW[R
+jW^Vh
+wHj R
+t9j"X
+tDSj"[f9
+QQVW3
+NPPPPP
+t SVP
+t#j]P
+F ;G u 
+VWh@1
+t'Shp
+tsj=W
+j=XSf
+xEj\W
+SVWj0j
+x@QWQ
+y"VhP$
+j%Yf;
+j%Zf9
+u?f97u:3
+j=Xf;
+IVhX5
+pcacli.dll
+PcaApiSamplingSetValue
+PcaApiSamplingStart
+PcaApiSamplingStop
+PcaGetFileInfoFromPath
+PcaIsPcaDisabled
+PcaLinkChildProcessToParent
+PcaMonitorProcess
+PcaNotifyMsiCustomAction
+PcaNotifyMsiInstall
+PcaNotifyStatusIcon
+PcaSendToService
+PcaMonitorProcess2
+_vsnwprintf
+memcpy_s
+_purecall
+memmove_s
+wcscpy_s
+wcscat_s
+_XcptFilter
+_amsg_exit
+malloc
+_initterm
+_except_handler4_common
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+OpenServiceW
+StartServiceW
+OpenSCManagerW
+CloseServiceHandle
+api-ms-win-service-management-l1-1-0.dll
+NotifyServiceStatusChangeW
+api-ms-win-service-management-l2-1-0.dll
+RegGetValueW
+api-ms-win-core-registry-l1-1-0.dll
+CreateWellKnownSid
+api-ms-win-security-base-l1-1-0.dll
+NdrClientCall4
+GetModuleFileNameA
+RpcBindingSetOption
+CreateSemaphoreExW
+HeapFree
+SetLastError
+EnterCriticalSection
+GetCurrentProcess
+ReleaseSemaphore
+GetModuleHandleExW
+GetProcessId
+LeaveCriticalSection
+InitializeCriticalSectionEx
+WaitForThreadpoolTimerCallbacks
+WaitForSingleObject
+RpcBindingFromStringBindingW
+GetCurrentThreadId
+RpcStringBindingComposeW
+OpenEventW
+ReleaseMutex
+I_RpcExceptionFilter
+DuplicateHandle
+RpcBindingSetAuthInfoExW
+RpcStringFreeW
+FormatMessageW
+GetLastError
+ReleaseSRWLockExclusive
+OutputDebugStringW
+CloseThreadpoolTimer
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+CreateThread
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+RpcBindingFree
+AcquireSRWLockShared
+DeleteCriticalSection
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+SleepEx
+DebugBreak
+IsDebuggerPresent
+WNetGetConnectionW
+LoadLibraryW
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount
+RPCRT4.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+MPR.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+RtlAllocateHeap
+EtwEventWriteTransfer
+RtlFreeHeap
+RtlGetNtSystemRoot
+EtwEventUnregister
+EtwEventRegister
+ntdll.dll
+_wcsicmp
+_wcslwr
+wcsstr
+_wcsnicmp
+wcsrchr
+_vsnprintf
+strcpy_s
+LocalAlloc
+LocalFree
+WriteFile
+CreateFileW
+GetFileAttributesW
+HeapReAlloc
+FreeLibrary
+GetCurrentThread
+GetThreadTimes
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+EtwEventWriteNoRegistration
+wcschr
+strchr
+sprintf_s
+EventUnregister
+EventRegister
+EventWriteTransfer
+api-ms-win-eventing-provider-l1-1-0.dll
+ExpandEnvironmentStringsW
+OutputDebugStringA
+GetModuleFileNameW
+GetModuleHandleExA
+LoadLibraryExW
+api-ms-win-core-processenvironment-l1-1-0.dll
+RtlInitUnicodeString
+ZwClose
+RtlAppendUnicodeToString
+RtlDeleteCriticalSection
+RtlEnterCriticalSection
+RtlInitializeCriticalSection
+RtlLeaveCriticalSection
+EtwEventWrite
+RtlEqualString
+RtlInitAnsiString
+RtlMultiByteToUnicodeN
+ZwOpenKey
+ZwEnumerateKey
+RtlInitUnicodeStringEx
+ZwQueryValueKey
+RtlAppendUnicodeStringToString
+RtlUpcaseUnicodeChar
+RtlGetNativeSystemInformation
+ZwQuerySystemInformation
+memcmp
+memcpy
+memmove
+memset
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Program Compatibility Assistant Client Module
+FileVersion
+10.0.22621.885 (WinBuild.160101.0800)
+InternalName
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.885
+VarFileInfo
+Translation
+0 0P0T0X0\0`0d0h0l0p0t0x0|0
+0 181D1L1T1\1`1d1h1l1p1t1x1|1
+;2;6;<;@;F;J;b;f;l;p;v;z;
+<!<A<
+=S=X=c=
+=*>/>5>
+>4?F?]?l?
+50w0~051G1
+1*242E2O2
+454Z4d4
+585h5r5
+6.6O6\6
+7"7G7Q7
+8%8U8_8
+939@9q9{9
+:W:\:b:
+:J;n;
+<'<<<F<N<X<
+="=,=
+0!0'04090?0Y0
+1/15191
+1J2h2
+3.3:3I3a3u3
+8)838=8F8]8m8
+8u9}9
+:/:s:}:
+=*=D=_=
+>;>e>
+?7?I?O?U?o?v?|?
+040F0L0
+3:3P3
+454P4k4
+4!5L5{5
+5*6/7:7y7
+8Q9W9^9c9h9m9s9
+:4:F:W:^:s:}:
+;%;0;Q;^;t;
+>!>N>^>c>
+?&?,?2?`?w?
+3>3b3
+4!4(4/464>4F4N4Z4c4h4n4x4
+5!5(5/565=5D5J5V5a5f5k5q5{5
+7=7Q7W7
+888G8P8Y8n8
+9!9-999E9Q9]9i9u9
+:@;F;
+;(<c<
+<">T>
+%0[21383o3
+4>5d5{5
+8b9{9
+:D;J;};
+;b=|=
+?*?m?
+0%000K0|0
+101`1
+2'2?2Z2t2
+263=3s3
+4x4`5
+536t6
+6A9H9
+<&<;<C<P<X<k<
+=#=/=8=D=
+0(1h1q1
+2 3*3A3o3y3
+4"4*414S4
+5,5E5M5^5d5r5~5
+576<6B6\6e6
+627S7
+7:8a8
+9%9+949=9G9Y9x9~9
+:#;C;M;
+F0C1J1
+2%363(414=4E4W4u4~4
+5H7N7[7f7}7
+;D<n<
+<'=4=
+? ?>?K?S?[?a?|?
+0'0-02090P0m0|0
+1V1x1
+9%9+909D9R9^9f9w98:D:P:X:y:
+< <(<<<T<b<n<v<
+=Z= >
+? ?.?Z?k?
+111A1
+242>2W2f2
+363J3V3x3
+3E4Q4u4
+505?5)61686@6U6
+6"7+7
+7Y8y8=:I:S:i:s:
+:;;E;\;f;
+<"<,<D<L<V<k<
+='=S=n=u=
+> >&>1>8>s>
+>2?7?=?H?O?
+B0G0M0X0_0
+2*242Q2
+3%3/3
+3)444?4i4
+575A5\5w5
+6+6?6D6R6b6k6r6
+8"8,8@8Y8z8
+9>:E:
+:!;+;
+;'<@<
+2X2j2}2
+4]5e5k5q5w5
+7!8Z8
+>(?C?\?n?
+0-090B0U0o0
+071K1
+5C5^5t5~5
+6P6c6
+7'7Z7d7
+838>8H8
+909V9b9l9
+;X;c;m;
+<d<u<
+<<=^=n=
+80?0Q0X0j0q0
+031H1
+2=2U2~2
+353H3T3h3
+7*8n8
+989T9
+:(;J;g;
+=.=E=
+1%2/2C2M2j2
+6(6@6O6T6^6s6
+8&9H9
+;M;W;
+=Q>X>
+0A0J0W0l0
+24282X2`2d2l2p2x2|2
+34383T3X3t3x3
+0(0\0`0d0l0t0|0

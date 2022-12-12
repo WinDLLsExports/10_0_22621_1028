@@ -1,0 +1,942 @@
+!This program cannot be run in DOS mode.
+Rich`
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+Invalid parameter passed to C runtime function.
+FirewallAPI.dll
+FWPolicyIOMgr.dll
+ForceRemove
+NoRemove
+Delete
+SmartAiQueue
+SmartAiQueue Installer
+APPID
+Module
+Module_Raw
+REGISTRY
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_PERFORMANCE_DATA
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+SECURITY
+SYSTEM
+Software
+TypeLib
+API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+RegDeleteKeyExW
+advapi32.dll
+RegDeleteKeyW
+domain
+private
+public
+RPC-EPMap
+Teredo
+IPTLSIn
+IPTLSOut
+IPHTTPSIn
+IPHTTPSOut
+Ply2Disc
+TcpCDPSvc
+LocalSubnet
+DefaultGateway
+Ply2Renders
+CaptivePortal
+Proximity
+ProxSharing
+WFDPrint
+WFDDisplay
+WFDDevices
+WFDKmDriver
+WFDCDPSvc
+internalName
+profile
+action
+active
+protocol
+icmp4
+icmp6
+lport
+rport
+binary
+group
+edgedefer
+appContainerSid
+luauth
+sysos
+gameos
+devmode
+onecore\net\mpssvc\cmi\plugin\firewallconfig.cpp
+$(runtime.windows)
+systemroot
+windir
+$(runtime.programfiles)
+programfiles
+$(runtime.programfilesx86)
+programfiles(x86)
+FirewallConfigInstaller::QueueComponent
+InstallerData.Allocate()
+internalname
+FirewallConfigInstaller::QueueComponent() Missing internalName.
+((HRESULT)0x80070057L)
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() RuleName is NULL or empty.
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() No Servicing Reference Instance.
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() DuplicateString() failed. (0x%x)
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() Append() failed. (0x%x)
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() pCustomAttr->get_Content() failed. (0x%x)
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() BuildFirewallRuleProfilesFromBSTR() failed. (0x%x)
+FirewallConfigInstaller::IsRulePresentInReferenceInstance() with Profiles: 0%d.
+FirewallConfigInstaller::MatchRules() matched rules based on rule ID: %S.
+FirewallConfigInstaller::MatchRules() did not matched rule ID %S because of Status Error.
+FirewallConfigInstaller::MatchRules() did not matched rule ID %S because of NULL Name.
+FirewallConfigInstaller::MatchRules() matched rules based on name: %S.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of name.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of embedded context.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of protocol.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of direction.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of application.
+FirewallConfigInstaller::MatchRules(%S, %S) CompareApplication failed 0x%X.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of service.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of PackageId.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of LocalUser Auth List.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of ports.
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of ICMPv4.
+FirewallConfigInstaller::MatchRules() Rule 1 ICMPv4: %d:%d
+FirewallConfigInstaller::MatchRules() Rule 2 ICMPv4: %d:%d
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of ICMPv6.
+FirewallConfigInstaller::MatchRules() Rule 1 ICMPv6: %d:%d
+FirewallConfigInstaller::MatchRules() Rule 2 ICMPv6: %d:%d
+FirewallConfigInstaller::MatchRules() did not matched rules %S and %S because of Trust Tuple Keywords.
+FirewallConfigInstaller::MatchRules() matched rules %S and %S based on rule data.
+FirewallGroupActivationInstaller:Install() installing
+FirewallConfigInstaller:AddRemoveFirewallConfig() SERVICING is %d.
+FirewallConfigInstaller:AddRemoveFirewallConfig() GetOfflineSystemHive() failed 0x%X.
+FirewallConfigInstaller:AddRemoveFirewallConfig() LoadFirewallAPI() failed. (0x%x)
+FirewallConfigInstaller:AddRemoveFirewallConfig() GetFirewallAIData() failed. (0x%x)
+FirewallConfigInstaller:AddRemoveFirewallConfig() ValidateFirewallAIData() failed. (0x%x)
+FirewallConfigInstaller:AddRemoveFirewallConfig() Installing a rule...
+FirewallConfigInstaller:AddRemoveFirewallConfig() AddFirewallRule() failed. (0x%x) - try again.
+FirewallConfigInstaller:AddRemoveFirewallConfig() AddFirewallRule() failed. (0x%x)
+FirewallConfigInstaller:AddRemoveFirewallConfig() Uninstalling a rule...
+FirewallConfigInstaller:AddRemoveFirewallConfig() RemoveFirewallRule() failed (0x%x) - try again.
+FirewallConfigInstaller:AddRemoveFirewallConfig() RemoveFirewallRule() failed. (0x%x)
+FirewallConfigInstaller::RemoveFirewallRule (%S / %S, %d) from DEFAULTS
+FirewallConfigInstaller::RemoveFirewallRule - CFirewall::Open failed: 0x%X
+FirewallConfigInstaller::RemoveFirewallRule - RemoveFirewallRuleHelper failed for defaults store: 0x%X
+FirewallConfigInstaller::RemoveFirewallRule (%S / %S, %d) from POLICY
+FirewallConfigInstaller::RemoveFirewallRule - IsRulePresentInReferenceInstance failed: 0x%X
+FirewallConfigInstaller::RemoveFirewallRule - rule (%S / %S, %d) is present in the reference instance - not removing from POLICY.
+FirewallConfigInstaller::RemoveFirewallRule - FixRuleName failed for local store: 0x%X
+FirewallConfigInstaller::RemoveFirewallRule - RemoveFirewallRuleHelper failed for local store: 0x%X
+FirewallConfigInstaller::RemoveFirewallRule - CFirewall::EnumRules failed: 0x%X
+???NULL???
+FirewallConfigInstaller::RemoveFirewallRule deleting rule (%S | %S, %d)
+FirewallConfigInstaller::AddFirewallRule - CFirewall::DeleteRule failed: 0x%X (Status: 0x%X)
+FirewallConfigInstaller::RemoveFirewallRule deleted %d rules with %d profiles
+FirewallConfigInstaller::FixRuleName Freeing the firewall rules failed: 0x%X.
+FirewallConfigInstaller::FixRuleName - CFirewall::EnumRules failed: 0x%X
+FirewallConfigInstaller::FixRuleName - MatchRules failed: 0x%X
+FirewallConfigInstaller::FixRuleName - CFirewall::SetRule failed: 0x%X
+FirewallConfigInstaller::FixRuleName - changed rule name from "%S" to "%S"
+FirewallConfigInstaller::FixRuleName renamed %d rules and fixed profiles for %d rules.
+FirewallConfigInstaller::AddFirewallRule DEFAULTS adding rule (%S | %S, %d)
+FirewallConfigInstaller::AddFirewallRule - CFirewall::Open failed: 0x%X
+FirewallConfigInstaller::AddFirewallRule - The rule existed and was overwritten.
+FirewallConfigInstaller::AddFirewallRule - CFirewall::AddRule (or SetRule) failed: 0x%X (Status: 0x%X)
+FirewallConfigInstaller::AddFirewallRule POLICY adding rule (%S | %S, %d)
+FirewallConfigInstaller::AddFirewallRule - CFirewall::GetRulesWithName failed: 0x%X
+FirewallConfigInstaller::AddFirewallRule Rule matched Name&Profile (%S | %S - %d)
+FirewallConfigInstaller::AddFirewallRule Removing rule from profile (%S | %S - %d , New Profiles: %d)
+FirewallConfigInstaller::AddFirewallRule - CFirewall::SetRule failed: 0x%X (Status: 0x%X)
+FirewallConfigInstaller::AddFirewallRule deleting rule (%S | %S - %d, New Profiles: %d)
+FirewallConfigInstaller::AddFirewallRule Active - Inactive Profiles (%d - %d)
+FirewallConfigInstaller::AddFirewallRule adding ACTIVE rule (%S | %S, %d)
+FirewallConfigInstaller::AddFirewallRule - CFirewall::AddRule/SetRule failed: 0x%X (Status: 0x%X)
+%s_%d
+FirewallConfigInstaller::AddFirewallRule %S: StringCbPrintf failed: 0x%X.
+FirewallConfigInstaller::AddFirewallRule adding INACTIVE rule (%S | %S, %d)
+FirewallConfigInstaller::AddFirewallRuleThroughServiceAPI() Freeing the firewall rules failed: 0x%X.
+block
+FirewallConfigInstaller::BuildFirewallRuleProfiles() encountered invalid profile: '%S'.
+FirewallConfigInstaller::BuildFirewallRuleProfiles() did not find a valid profile.
+FirewallConfigInstaller::BuildFirewallRulePorts() too many port specifications: %d.
+FirewallConfigInstaller::BuildFirewallRulePorts() no more memory for ports storage.
+FirewallConfigInstaller::BuildFirewallRulePorts() BadPortValue '%S'.
+FirewallConfigInstaller::BuildFirewallRulePorts() ports specified for a protocol other than TCP / UDP.
+FirewallConfigInstaller::BuildFirewallRuleProtocol() BadProtocolValue '%S'.
+FirewallConfigInstaller::BuildFirewallRuleProtocol() ICMP4 specified for protocol %d.
+FirewallConfigInstaller::BuildFirewallRuleProtocol() ICMP6 specified for protocol %d.
+FirewallConfigInstaller::BuildFirewallRuleScope() error: 0x%X in %S
+FirewallConfigInstaller::BuildFirewallRuleScope() out of memory.
+FirewallConfigInstaller::BuildFirewallRuleScope() badly formatted address specifications: %S
+FirewallConfigInstaller::BuildFirewallRuleScope() too many address specifications: %S
+FirewallConfigInstaller::GetICMPTypeCode() '%S' without colon.
+FirewallConfigInstaller::GetICMPTypeCode() '%S' is malformed.
+onecore\private\base\inc\wcp_canonical_smartai.h
+Windows::WCP::COM::SmartAdvancedInstallerHelper<struct ConfigInstallerData,class BUCL::Rtl::CSwappableValueTableTraits<class BUCL::Rtl::CCaseInsensitiveLUnicodeStringTableTraits,struct Windows::WCP::DataChangeTuple<struct ConfigInstallerData> > >::QueueOperationData
+Duplicate object {0} found during {1} operation.
+Windows::StringUtil::Rtl::Impl::CalculateEncodingLengthForString
+__rv.UcsCharacter != (0xffffffff)
+NewTempBytesRequired > TempBytesRequired
+Windows::StringUtil::Rtl::Impl::AppendTranscodedStringToPreallocatedBuffer
+__rv.NewCursorValue != 0
+Install
+Uninstall
+Inspect
+onecore\internal\base\inc\rtlstringutil.h
+RtlSystemUtil::AutoEnvironment::SetVariable
+::RtlSetEnvironmentVariable(&m_Environment, &TmpName, &TmpValue)
+onecore\internal\base\inc\rtlsystemutil.h
+RtlSystemUtil::AutoEnvironment::Initialize
+::RtlCreateEnvironment(fClone, &m_Environment)
+onecore\net\mpssvc\cmi\plugin\firewallgroupactivation.cpp
+FirewallGroupActivationInstaller::QueueComponent
+FirewallGroupActivationInstaller::CommitChanges
+GetOfflineSystemHive(m_logger, Services, &hkeySystem)
+CFirewall::OfflineLoadFirewallAPI(_Module.GetModuleInstance())
+CFirewall::Open (FW_STORE_TYPE_LOCAL, Firewall.GetInitPointer(), 1, hkeySystem)
+FirewallGroupActivationInstaller:Install() SERVICING is TRUE.
+GetFirewallAIData(m_logger, Tuple->Winner->Instance->DOM, g_rgFirewallGroupActivationSettings, (sizeof(g_rgFirewallGroupActivationSettings)/sizeof(g_rgFirewallGroupActivationSettings[0])))
+ValidateFirewallAIData(m_logger, g_rgFirewallGroupActivationSettings, (sizeof(g_rgFirewallGroupActivationSettings)/sizeof(g_rgFirewallGroupActivationSettings[0])))
+FirewallGroupActivationInstaller:Install() action must be either ENABLE or DISABLE: %S.
+FirewallGroupActivationInstaller:Install() Active profiles: %d, inactive profiles: %d.
+Firewall->SetGroupActivation ( g_rgFirewallGroupActivationSettings[0].bstrValue, ActiveProfiles, InactiveProfiles)
+Windows::WCP::COM::SmartAdvancedInstallerHelper<struct GroupActivationInstallerData,class BUCL::Rtl::CSwappableValueTableTraits<class BUCL::Rtl::CCaseInsensitiveLUnicodeStringTableTraits,struct Windows::WCP::DataChangeTuple<struct GroupActivationInstallerData> > >::QueueOperationData
+Disable
+Enable
+GetFirewallAIData() DuplicateString() failed. (0x%x)
+GetFirewallAIData() Append() failed. (0x%x)
+GetFirewallAIData() the value for "%S" is longer than the maximum %d
+GetFirewallAIData() unknown attribute: %S.
+ValidateFirewallAIData() did not find mandatory data: %S.
+GetOfflineSystemHive() get_IsolationAllocator() failed 0x%X.
+HKLM\System
+GetOfflineSystemHive() VirtualPathToPhysical() failed 0x%X.
+GetOfflineSystemHive() SplitWin32RegistryPathIntoHandleAndSubKey() failed 0x%X.
+GetOfflineSystemHive() Append() failed 0x%X.
+GetOfflineSystemHive() RegOpenKeyExW(%S) failed 0x%X.
+=L9o<
+WINDOWS_TRACING_FACILITY_
+_FLAGS
+{fail} 
+(null)
+%I64u
+%016I64x
+%I64x
+%I64d
+%08lx
+(unknown enumerant 
+RtlSystemUtil::QueryNullTerminatedEnvironmentValue
+Status
+WINDOWS_TRACING_LOGFILE
+WINDOWS_TRACING_FLAGS
+WdsSetupLogMessageA
+wdscore.dll
+\Registry\Machine\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\Tracing
+onecore\base\lstring\lunicode_string.cpp
+(Bytes % sizeof(WCHAR)) == 0
+::RtlIsUnicodeStringValid(Source)
+RtlInitLUnicodeStringFromUnicodeString
+RtlInitUnicodeStringFromLUnicodeString
+::RtlIsLUnicodeStringValid(Source)
+BUCL::Rtl::ConvertInteger(Source->Length, Length)
+BUCL::Rtl::ConvertInteger(Source->MaximumLength, MaximumLength)
+Not-null check failed: String
+::RtlIsLUnicodeStringValid(String)
+RtlReallocateUnicodeString
+::RtlIsUnicodeStringValid(String)
+BUCL::Rtl::ConvertInteger(Bytes, NewLength)
+NewBuffer = (*RtlReallocateStringRoutine)(Bytes, String->Buffer)
+NewBuffer = (*RtlAllocateStringRoutine)(Bytes)
+RtlReallocateLUnicodeString
+*** Assertion failed: %s
+***   Source File: %s, line %ld
+onecore\base\lstring\path.cpp
+RtlSplitWin32RegistryPathIntoRootAndLeaves
+Not-null check failed: KeyRoot
+Not-null check failed: RootRelativePath
+onecore\base\lstring\lblob.cpp
+RtlReallocateLBlob
+Not-null check failed: Blob
+::RtlIsLBlobValid(Blob)
+Temp = (*RtlReallocateStringRoutine)(Bytes, Blob->Buffer)
+Temp = (PUCHAR)((*RtlAllocateStringRoutine)(Bytes))
+RtlCompareEncodedLBlobs
+Not-null check failed: ComparisonResult
+Not-null check failed: String1
+Not-null check failed: String2
+RtlHashEncodedLBlob
+Not-null check failed: PseudoKeyOut
+HKCR\
+\Registry\Machine\SOFTWARE\Classes\
+\Registry\User\
+\Registry\Machine\
+HKCC\
+HKEY_CLASSES_ROOT\
+HKEY_LOCAL_MACHINE\
+HKEY_CURRENT_USER\
+HKLM\
+\Registry\Machine\System\CurrentControlSet\Hardware Profiles\Current\
+HKEY_USERS\
+HKCU\
+HKEY_CURRENT_CONFIG\
+onecore\base\wcp\rtllib\nativelib\environment.cpp
+RtlSystemUtil::ExpandAndNullTerminateEnvironmentVariableString
+::BUCL::Rtl::ConvertInteger(ulResultLength, usResultLength)
+RtlExpandEnvironmentStrings_U( Environment, &usEnvString, usResult.GetMutablePointer(), nullptr)
+&amp;
+&apos;
+&quot;
+ xmlns="
+FirewallOfflineApi.dll
+FwOpenOfflinePolicyStore
+FwAlloc
+FwFree
+FwEnumRules
+FwFreeRules
+FwDeleteRule
+FwAddRule
+FwSetRule
+FwClosePolicyStore
+mpssvc
+api-ms-win-core-delayload-l1-1-1.dll
+KERNEL32.DLL
+ResolveDelayLoadedAPI
+ResolveDelayLoadsFromDll
+RSDSf
+cmifw.pdb
+.rdata$brc
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zzzdbg
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+ATL$__a
+ATL$__z
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$brc
+.data$r$brc
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+q(9>u
+4Af9:u
+t3G;{
+?=uGW
+f;8u`
+jjjjjjj
+jjjjjjj
+VPVSj
+9;:u73
+D$0VW
+T$DQPR
+T$pRS
+T$dRj
+D$XPh
+D$hPh
+D$ L@
+D$,P!
+VShP%
+VShP%
+VShp&
+t~VSh
+VSh@(
+_^[Y]
+_^[Y]
+_^[Y]
+D$TPW
+D$$Pj
+D$$Pj
+D$$Pj
+T$<QPR
+D$PPh
+D$PPh
+D$$L@
+D$(PH
+D$,PD
+\$ Vj
+D$D0E
+D$,P!
+D$$_^[3
+D$4<P
+D$<XP
+D$d<P
+D$t8M
+D$|lM
+>,u(W3
+<{u%;
+PRRRV
+t Sh0M
+VRPh8Q
+SVWf;
+Wd_^[
+8_^[]
+PQRj+
+;@tFj
+w.j\W
+w#QWQ
+t/j4h
+L$,_^3
+L$$^3
+D$(SV
+L$4_^[3
+t(h`X
+uhVVW
+PPPPP
+Y__^[
+FWDeleteFirewallRule
+FWAddFirewallRule
+FWEnumFirewallRules
+FwFree
+FWOpenPolicyStore
+FwAlloc
+FWSetFirewallRule
+FWFreeFirewallRules
+FWClosePolicyStore
+FWGetGlobalConfig
+FwClosePolicyStore
+FwDeleteRule
+FwOpenPolicyStore
+FwAddRule
+FwSetRule
+FwEnumRules
+FwFreeRules
+cmifw.DLL
+EnableGroupW
+unattendW
+DllCanUnloadNow
+DllCsiGetHandler
+.?AVCServiceManagerException@@
+Public
+Private
+Domain
+Active
+Profile
+Group
+Software\Microsoft\Windows NT\CurrentVersion\UnattendSettings\FirewallRules\FirewallGroups
+wcsncpy_s
+malloc
+memcpy_s
+_purecall
+wcstol
+_vsnwprintf
+wcstok_s
+_wtol
+wcsstr
+iswspace
+_vsnprintf
+_callnewh
+_XcptFilter
+_amsg_exit
+_initterm
+_except_handler4_common
+msvcrt.dll
+_errno
+realloc
+_lock
+_unlock
+__dllonexit
+_onexit
+wcstok
+FreeLibrary
+CoTaskMemFree
+CharNextW
+GetLastError
+GetProcAddress
+LoadLibraryExW
+GetModuleHandleW
+RegCloseKey
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExW
+lstrcmpiW
+RaiseException
+RegSetValueExW
+RegCreateKeyExW
+RegDeleteValueW
+CoTaskMemRealloc
+LeaveCriticalSection
+EnterCriticalSection
+CoTaskMemAlloc
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceExW
+GetModuleFileNameW
+InitializeCriticalSection
+DeleteCriticalSection
+CoCreateInstance
+DisableThreadLibraryCalls
+CompareStringW
+lstrcmpW
+RegQueryValueExW
+LocalFree
+LocalAlloc
+SetLastError
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+OutputDebugStringA
+api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-string-obsolete-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+RtlDestroyEnvironment
+RtlRaiseStatus
+RtlCreateEnvironment
+RtlSetEnvironmentVariable
+RtlIpv4StringToAddressW
+RtlIpv6StringToAddressW
+RtlDeleteCriticalSection
+RtlTimeToTimeFields
+RtlEnterCriticalSection
+RtlInitializeCriticalSection
+RtlLeaveCriticalSection
+LdrGetProcedureAddress
+NtWriteFile
+NtOpenKey
+LdrUnloadDll
+RtlDosPathNameToNtPathName_U
+LdrGetDllHandleEx
+RtlQueryEnvironmentVariable_U
+NtClose
+RtlFreeHeap
+NtCreateFile
+DbgPrint
+NtQueryValueKey
+RtlCreateUnicodeStringFromAsciiz
+DbgPrintEx
+RtlUpcaseUnicodeChar
+RtlDowncaseUnicodeChar
+RtlAllocateHeap
+RtlReAllocateHeap
+RtlExpandEnvironmentStrings_U
+RtlNtStatusToDosErrorNoTeb
+ntdll.dll
+OLEAUT32.dll
+strncmp
+_snprintf_s
+wcstoul
+__CxxFrameHandler3
+_wcsicmp
+wcsrchr
+??1type_info@@UAE@XZ
+SHLoadIndirectString
+TraceMessage
+api-ms-win-core-shlwapi-obsolete-l1-1-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+OpenSCManagerW
+OpenServiceW
+CloseServiceHandle
+QueryServiceStatus
+StartServiceW
+ControlService
+LoadLibraryExA
+DelayLoadFailureHook
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-0.dll
+EtwTraceMessage
+_CxxThrowException
+memcmp
+memcpy
+memmove
+memset
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Windows Defender Firewall rule configuration plug-in
+FileVersion
+10.0.22621.746 (WinBuild.160101.0800)
+InternalName
+cmifw.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+cmifw.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.746
+VarFileInfo
+Translation
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 282@2H2P2X2`2h2p2x2
+3(30343<3@3H3L3T3X3`3d3l3p3x3|3
+4(444t4x4
+1=7=;=J=S=Y=]=q=
+>T>y>
+?B?s?
+70t0z0
+10161U1k1{1
+1/2<2S2]2j2
+2,323F3
+4%5X5
+:-:\:
+:@;Z;
+=.=i=
+?!?K?R?a?r?
+1S2i2
+5-5D5X5g5
+6;6j6
+6 7s7
+;)<h<o<
+?6?<?E?L?Z?`?i?p?
+/0R0e0p0
+0T1X1
+333:3=4_4w4
+5@5O5
+9R:_:}:
+:5;<;C;\;`;
+<#<;<
+>F>V>s>
+12191@1G1N1U1\1c1}1
+454<4J4e4o4
+5(5@5J5^5o5
+8m9y9
+:.;y;
+<G<<=@=D=H=
+?'?1?>?H?P?X?a?g?
+0%1?1
+172P2u3
+3-4g4
+4L596u6
+6=7V7\7c7
+8A8]8d8z8
+9#9B9_9
+9i:v:
+<;<Q<\<
+<4=a=
+>l>y>
+0 0M0R0Y0^0v0{0
+051L1V1
+2%2f2p2x2
+3'3/393I3S3[3e3u3
+4+4}4
+5W5y5
+5O6_6
+637V7e7
+8&9Q9t9
+9-:k:
+;&;R;
+=9>C>]>i>u>
+0&000<0G0R0_0|0
+1&1C1N1[1s1~1
+2'222?2_2
+4-4:4N4p4
+4L5{5
+5/6<6`6
+7m7w7
+848C8P8x8~8
+9#9)9Q9l9
+9 :\:
+;-<E<M<~<
+>)>O>Y>
+?%?0?E?P?e?p?
+0H1v1
+1a7h7v7
+8.858C8
+9"9'9;9@9
+0+121@1z1
+3!373L3R3a3v3
+4%4Y4m4
+5H6O6]6
+6%7,7:7~7
+<l<t<
+<"=B=Z=a=g=m=}=
+>,>6>a>f>~>
+>>?C?[?m?u?
+*0U0Z0a0f0
+1.1J1g1
+1C2a2|2
+3Z3s3
+3)4`4n4
+415R5j5
+7"7B7_7
+7#858I8[8g8o8
+879?9O9
+;+;U;p;
+</<@<F<L<R<n<|<
+= =-=9=A=
+>A>L>b>
+0.0b0
+1O1i1{1
+2X2a2
+2#3*333>3X3b3
+3#474
+4!5m5
+667t7
+718y8
+959H9M9i9n9
+:+:_:e:u:
+:3;8;M;T;Z;
+;&<C<X<
+=9=V=k=
+>,?l?
+0&050o0
+131B1f1u1
+3C3]3|3
+4#484T4l4{4
+5a5~5
+6!606Q6b6
+7+7B7Y7p7
+8H8x8
+989i9
+:I:V:f:
+:(;:;H;g;
+<&<E<y<
+=(=X=j=x=
+>@>U>y>
+>)?i?
+0,0p0
+0R1z1
+2.2~2
+333>3]3
+4'4O4b4m4
+5)595X5
+6&6N6^6n6
+858;8H8N8
+8A9Q9X9}9
+9%:1:<:X:q:@;];i;s;
+?&?H?p?
+2"2E2Y2
+6:6`6z6
+607@7T7
+;J<n<r<v<z<~<
+= =+=0=;=@=
+>6>;>b>v>{>
+>6?;?W?\?x?}?
+2@2Y2g2
+353\3a3z3
+354_4
+5!5:5?5P5d5x5
+6$6=6[6`6u6
+7*7/7R7X7u7
+9.9D9I9t9
+9":7:?:O:b:j:p:
+;0;5;I;N;b;g;{;
+<.<X<j<
+<&=e=
+?3?C?z?
+080=0S0
+1"1'141:1@1E1R1X1^1c1p1v1|1
+1)2]2
+3'3J3^3j3r3|3
+4,434=4w4
+5'575B5U5w5
+6P7U7f7
+8"808Y8`8e8
+9#9_9d9t9
+:*:0:@:\:
+;?;^;c;s;
+<!<1<C<H<Z<
+=&=A=Q=W=g=
+>2>l>
+?(?B?R?b?m?v?
+0-0\0~0
+1!1N1^1c1
+2&2,222`2w2
+6>6b6
+6&7/7:7A7Y7_7e7k7q7w7~7
+8%8+878G8P8g8m8s8y8
+9$929C9K9a9i9
+<"<*<9<E<b<
+<P=\=t=
+>&>:>J>Z>j>z>
+?+?;?L?
+0+070n0
+1D1b1f1k1
+2P2d2t2
+2$343@3H3`3p3
+4$4(40444<4@4H4L4T4X4`4d4l4p4
+0 0,0<0L0\0l0|0
+1,1<1L1\1l1|1
+2 2(20282@2H2P2X2`2h2p2x2
+3H3L3P3l3
+0 0$0(0,0004080<0@0D0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,TdwaZwlS8grZh3Ch+WkXCvrxcQRxMRlK4WFEgLQQ5Co=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+:h_?"
+20221004221112.935Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:7880-E390-80141%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220302185123Z
+230511185123Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:7880-E390-80141%0#
+Microsoft Time-Stamp Service0
+qvv@!
+7@+]y
+(.Y>Y
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+zLkE0
+1^h~#{
+oxEQq6
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:7880-E390-80141%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221004183152Z
+20221005183152Z0w0=
+1/0-0
+1(0&0
+`BY|p
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+]*H=i8

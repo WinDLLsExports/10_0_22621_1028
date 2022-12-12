@@ -1,0 +1,1716 @@
+!This program cannot be run in DOS mode.
+Rich1}
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+)) | (EventClassID=null & PublisherID=null & InterfaceID=(
+ & MethodName=(null | '
+) & InterfaceID=(null
+(((EventClassID=
+((EventClassPartitionID='%s') OR (EventClassPartitionID='%s')) AND 
+EventSystem.EventClassCollection
+EventSystem.EventSubscriptionCollection
+EventSystem.EventClass
+EventSystem.EventSubscription
+PublisherProperties
+SubscriberProperties
+{26c409cc-ae86-11d1-b616-00805fc79216}
+{00000000-0000-0000-0000-000000000000}
+Version
+Interface\%s\TypeLib
+EventSystem
+ParallelFiringTimeoutEnabled
+SOFTWARE\Microsoft\EventSystem
+\KernelObjects\MaximumCommitCondition
+Software\Microsoft\EventSystem\EventLog
+es.dll
+EventSystem
+SuppressDuplicateDuration
+Software\Microsoft\EventSystem\
+%s\Software\Microsoft\EventSystem\
+D:P(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;S-1-5-80-1772571935-1555666882-3369284645-1675012128-2386634627)(A;CI;KR;;;BU)
+S-1-5-18
+Software\Microsoft\EventSystem
+Active
+%s\%s
+OLEAUT32.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+api-ms-win-service-core-l1-1-0.dll
+api-ms-win-security-provider-l1-1-0.dll
+ole32.dll
+WTSAPI32.dll
+PROPSYS.dll
+\^F&{
+\^F&{
+p)^\~e
+api-ms-win-eventlog-legacy-l1-1-0.dll
+api-ms-win-security-lsalookup-l1-1-0.dll
+m_fInitialized
+com\complus\src\events\Shared\UTSem.h
+com\complus\src\events\Shared\StringFuncs.h
+com\complus\src\events\tier1\agent.cpp
+CreateEvent
+com\complus\src\events\tier1\enum.cpp
+m_cRef == 0
+comres.dll
+com\complus\src\events\tier1\publisher.cpp
+com\complus\src\events\tier1\subscription.cpp
+com\complus\src\events\tier1\utilities.cpp
+len == guidLen
+Approximate error location
+queryCriteria parameter
+progID parameter
+Invalid query syntax in IEventSystem::Remove
+"ALL" used as queryCriteria to IEventSystem::Remove
+queryCriteria in IEventSystem::Remove contains no "identifying" subscriber properties
+queryCriteria in IEventSystem::Remove selected a COM+-configured object
+E_ACCESSDENIED removing a transient subscription in IEventSystem::Remove
+queryCriteria in IEventSystem::Remove selects multiple objects
+verifier.dll
+VerifierQueryRuntimeFlags
+VerifierGetPropertyValueByName
+EventRemoveCheck
+EsEnableRemoveQueryValidityHeuristics
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+com\complus\src\events\tier2\eventsystem2.cpp
+m_bESShutdown
+IsValidEventSystemObjectType(objectType)
+varObjectName.vt != VT_EMPTY
+com\complus\src\events\tier2\notify.cpp
+m_threadHandle == 0
+OpenThreadToken
+com\complus\src\events\tier2\security.cpp
+com\complus\src\events\tier3\regdb\table.cpp
+com\complus\src\events\queryengine\parser.cpp
+com\complus\src\events\queryengine\pool.cpp
+Debug
+m_dwFlag == 0
+com\complus\src\events\shared\utsem.cpp
+(m_dwFlag & READERS_MASK) != 0
+(m_dwFlag & WRITERS_MASK) == 0
+(dwFlag & READERS_MASK) == READERS_INCR
+(dwFlag & WRITEWAITERS_MASK) != 0
+COM+ Failfast:  Unable to allocate memory for stack trace!
+*** The serious nature of this error has caused the process to terminate.
+*** Error Code = 0x%08x : %s
+*** Internals Information:
+File: %s, Line: %d
+not loaded
+\VarFileInfo\Translation
+%u.%u.%u.%u
+Comsvcs.dll file version info: %s %s %s
+comsvcs.dll
+%s\%s*.dmp
+%s\%s_%04d_%02d_%02d_%02d_%02d_%02d.dmp
+RunDll32 comsvcs.dll,MiniDump
+%s %d %s full
+com\complus\src\shared\util\svcerr.cpp
+This is a COM+ Failfast Break
+  Process.Thread=<%d.%d>
+  File: %s:%d
+  hr=0x%08x
+#####################################################################
+#####################################################################
+Software\Microsoft\COM3\Debug
+AutoAddTraceToContext
+DebugBreakOnFailFast
+DebugBreakOnInitComPlus
+DebugBreakOnLoadComsvcs
+TraceActivityModule
+TraceContextCreation
+TraceInfrastructureCalls
+TraceSTAPool
+TraceSecurity
+TraceSecurityPM
+EventDispatchTtime
+InitializeCriticalSectionAndSpinCount
+com\complus\src\shared\util\utsem.cpp
+user32.dll
+DialogBoxParamW
+SetDlgItemTextW
+EndDialog
+GetDesktopWindow
+GetWindowRect
+GetClientRect
+MapWindowPoints
+SetWindowPos
+GetProcessWindowStation
+SetProcessWindowStation
+OpenWindowStationW
+CloseWindowStation
+GetThreadDesktop
+SetThreadDesktop
+OpenDesktopW
+CloseDesktop
+winsta0
+default
+\^F&{
+\^F&{
+ChangedEventClass
+ChangedSubscription
+EventClassName
+FiringInterfaceIID
+CustomConfigCLSID
+TypeLib
+MultiInterfacePublisherFilterCLSID
+AllowInprocActivation
+FireInParallel
+ParallelFiringTimeout
+AllowPerUserInprocActivation
+AllowPerUserActivateAsActivator
+AllowPerUserMoniker
+SerialFiringTimeout
+%\/ZK
+\[/ZK
+FALSE
+SubscriptionID
+SubscriberCLSID
+SubscriberMoniker
+SubscriptionName
+Description
+OwnerSID
+MachineName
+EventClassID
+PublisherID
+EventClassPartitionID
+EventClassApplicationID
+MethodName
+PerUser
+Enabled
+InterfaceID
+FilterCriteria
+SubscriberPartitionID
+SubscriberApplicationID
+D:P(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;%s)(A;CI;KA;;;SY)(A;CI;KR;;;S-1-5-80-1772571935-1555666882-3369284645-1675012128-2386634627)
+USERS\%s\Software\Microsoft\EventSystem
+USERS\%s\Software\Microsoft\EventSystem\%s
+Publishers
+EventClasses
+Subscriptions
+cNames == (unsigned int)(_paramInfo.numColumns + 1)
+refs != 0
+CoGetObject
+StandardCreateInstance
+CloseHandle
+WaitForSingleObject
+0 == _psubsOutstanding
+0 == _psuccesses
+0 == _allSubscriptionsFired
+0 == _dwThreadId
+0 != _psuccesses
+0 != _allSubscriptionsFired
+CoCreateInstance
+IMultiInterfacePublisherFilter::Initialize
+(EventClassPartitionID='%s') AND 
+ | PublisherID='
+refTypeAttr->typekind == TKIND_INTERFACE
+com\complus\src\events\tier1\dllmain.cpp
+com\complus\src\events\tier1\eventclass.cpp
+m_fields[EC_ALLOW_INPROC].vt == VT_BOOL
+m_fields[EC_FIRE_IN_PARALLEL].vt == VT_BOOL
+m_fields[EC_ID].vt != VT_EMPTY
+ES.DLL
+EventSystem.EventPublisher
+EventSystem.EventPublisherCollection
+com\complus\src\events\tier1\eventsystemobj.cpp
+EventSystem.EventSystem
+unk != 0
+pubProps.vt == (VT_VECTOR | VT_VARIANT)
+subProps.vt == (VT_VECTOR | VT_VARIANT)
+m_fields[SUB_PER_USER].vt == VT_BOOL
+m_fields[SUB_ENABLED].vt == VT_BOOL
+(0 != pIThreadCall)
+com\complus\src\events\tier1\workpool.cpp
+(1 == pEventThreadWorker->QueueTo(DelayedWorkQueue))
+RegisterServiceControlHandle
+com\complus\src\events\tier2\service.cpp
+g_hServiceStopEvent = CreateEvent
+g_pSvchostSharedGlobals == NULL?
+g_pSvchostSharedGlobals->RegisterStopCallback
+SetServiceStatus
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\%s
+ProfileImagePath
+\ntuser.dat
+*(SAFEALLOCA_HEADER *) (Tag) == ((SAFEALLOCA_HEADER) 0x6b637453)
+currentElement.count != 1
+currentElement.count != -1
+IsValidChangeType(type)
+g_hMaxCommitEvent != 0
+WaitForSingleObjectEx
+m_pLastNotify == 0
+0 == m_eventClass2
+0 != m_eventClass2
+EventsystemShuttingDown
+CreateThread
+DuplicateHandle
+Criteria
+((SubscriberPartitionID=%s) | (SubscriberPartitionID=%s)) & 
+m_pLastCheckerArgs == 0
+com\complus\src\events\tier2\enum2.cpp
+com\complus\src\events\tier2\eventclass2.cpp
+com\complus\src\events\tier2\subscription2.cpp
+varKey->vt == VT_CLSID
+com\complus\src\events\shared\espartitionutil.cpp
+(m_dwFlag & READERS_MASK) == 0
+(m_dwFlag & WRITERS_MASK) == WRITERS_INCR
+CreateSemaphore
+!"Unrecognized locality"
+com\complus\src\events\shared\locality.cpp
+Software\Classes\%s
+Software\Classes\AppID\%s
+DllSurrogate
+Software\Classes\CLSID\%s
+AppID
+InprocServer32
+ThreadingModel
+ProgID
+CLSID
+VersionIndependentProgID
+CurVer
+Software\Microsoft\COM3\MTAThreadPool
+MaxThreadsPerCPU
+Throttle
+WORK_QUEUE: weird error 0x%08x...
+TIMER: exception 0x%08x raised from address 0x%08x
+%4x:  %s
+0x0, 0
+CRSDSM[k
+ES.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$03$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$01
+.rdata$03
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zz
+.rdata$zzzdbg
+.text$di
+.text$lp00ES.dll!20_pri7
+.text$lp01ES.dll!20_pri7
+.text$lp03ES.dll!50_coldboot
+.text$mn
+.text$mn$00
+.text$np
+.text$x
+.text$yd
+.text$zs
+.text$zy
+.text$zz
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$00$brc
+.data$dk01$brc
+.data$dk03$brc
+.data$pr00$brc
+.data
+.data$00
+.data$dk00
+.data$dk01
+.bss$00
+.bss$03
+.bss$dk00
+.bss$dk01
+.bss$dk03
+.bss$pr00
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+tYSVW
+9w(uo
+O,PQV
+9X(taj
+QSVWh
+O(+O 
+PVh U
+@ RSP
+;{$s-
+D$(PQ
+QQSVW
+uB93tO
+PVVPPPS
+f;H,sIj<
+FCf;p,r
+C0@9E
+D$ SV
+f9_xu#
+f9BHt.
+ShRQ=
+SlRQ=
+WPRSQ
+SRWPQ
+WPRVQ
+L$ WVP
+L$<_^[3
+T$$;U
+t)_^[
+>Heap
+8Heap
+;A$s)
+X WhH?
+B`+Bd;
+j$hP:
+j$hp:
+WWWWWWWj
+WWWWWWh 
+WWWWWWWj
+QQSVW
+q0hL@
+PShL@
+v`WWh
+F 9;t
+_p@SP
+PPPh0C
+>Heap
+>Stck
+=Heap
+=Stck
+SVWQ3
+D$<Pj
+L$(QP
+D$ Pj
+D$<PW
+QQSV3
+u59>t@
+9^TuNj
+SSWhlF
+CSSh<`
+SSh$`
+SSh0`
+t&h i
+j,h =
+Y__^[
+QRPhtM
+QRPh4N
+QRPhTN
+QRPhtN
+u;PPPP
+Y__^[
+p0hL@
+PSPShtK
+PSPShtK
+PSPShtK
+PSPShtK
+PSPShtK
+9f;:u
+1f;2u
+C;_P|
+x0hL@
+p0hL@
+VRWPQ
+SPRVQ
+tSShPM
+RShL@
+D$0PSQ
+wjtc+
+f;\$$
+jH[f;
+L$<_^[3
+jThx?
+T$ RQ
+9_$u)Sj
+9~<u!
+9_<u!
+9{ t_
+9~H_t
+thf98tcP
+t`f93t[
+t)f90t$P
+Pj@Zj
+QSVWh(
+f9CHu
+WQQQP
+f9Bhu
+f9B(u
+f9B8u
+j h8A
+j$h8B
+tlf93tg
+f9BHu
+f9BXu
+f9B8u
+f9Bhu
+j hXE
+tTf93tO
+>Heapu
+>Stckt
+H0Iu3V
+QQSVW
+9s4t<
+tLWh4
+VWf9C0
+QQQSh
+9^$v43
+C;^$r
+VVVWS
+QQSV3
+t?;=(i
+PSSSSSS
+>Heapu
+t?;=(i
+>Heapu
+>Heapu
+_^9Y8[u=
+HwktQ
+w/tn;
+t9;=(i
+>Heapu
+tFVG3
+PQVQh
+QWPSV
+;Heapu
+8Heapu
+>Heapu
+VVVRQ
+QQSVW
+PSh\t
+F(9FPt
+jthxL
+C(9CPt
+C$;C 
+^(9^,t
+^,9^0t
+^09^4t
+SWhhT
+WSVSh
+$SVW3
+j(h M
+WPh W
+p QWj
+tLVWj
+t{h|\
+CoTaskMemAlloc
+StringFromGUID2
+CoCreateInstance
+CoTaskMemFree
+CoDisableCallCancellation
+CoSetProxyBlanket
+CoCancelCall
+IIDFromString
+CLSIDFromString
+CoEnableCallCancellation
+StringFromCLSID
+CoRegisterClassObject
+CoGetObjectContext
+CoRevokeClassObject
+PropVariantClear
+FreePropVariantArray
+CoCreateGuid
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+CoUninitialize
+CoDisconnectContext
+RegisterServiceCtrlHandlerW
+SetServiceStatus
+CoInitializeEx
+CoImpersonateClient
+CoRevertToSelf
+SetNamedSecurityInfoW
+CoGetInterceptorFromTypeInfo
+CoGetObject
+WTSQuerySessionInformationW
+WTSEnumerateSessionsW
+WTSFreeMemory
+VariantToPropVariant
+PropVariantToVariant
+PropVariantCopy
+CoGetClassObject
+CoCopyProxy
+ConvertSidToStringSidW
+ConvertStringSidToSidW
+CoMarshalInterface
+CoReleaseMarshalData
+CreateStreamOnHGlobal
+CoUnmarshalInterface
+ReportEventW
+RegisterEventSourceW
+DeregisterEventSource
+LookupAccountSidLocalW
+ES.dll
+SvchostPushServiceGlobals
+DllCanUnloadNow
+DllGetClassObject
+LCEControlServer
+NotifyLogoffUser
+NotifyLogonUser
+ServiceMain
+_resetstkoflw
+_vsnwprintf
+_wcsicmp
+_itow_s
+_purecall
+malloc
+wcsstr
+wcsrchr
+towupper
+wcsncmp
+_XcptFilter
+_amsg_exit
+_initterm
+_except_handler4_common
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+RtlApplicationVerifierStop
+NtOpenEvent
+RtlInitUnicodeString
+RtlNtStatusToDosError
+NtQueryEvent
+ntdll.dll
+CompareStringW
+EnterCriticalSection
+OpenThreadToken
+LeaveCriticalSection
+SetThreadToken
+WaitForSingleObject
+GetCurrentThreadId
+CreateEventW
+GetTickCount64
+GetLastError
+GetUserDefaultLCID
+SetEvent
+GetCurrentThread
+CloseHandle
+ResetEvent
+LocalFree
+DeleteCriticalSection
+GetTickCount
+DisableThreadLibraryCalls
+GetFileAttributesW
+FormatMessageW
+FreeLibrary
+LoadLibraryExW
+RegQueryValueExW
+GetModuleFileNameW
+RegOpenKeyExW
+GetProcAddress
+GetModuleHandleW
+RegCloseKey
+GetCurrentProcess
+RegGetValueW
+InitializeCriticalSectionAndSpinCount
+RegLoadKeyW
+RegUnLoadKeyW
+OpenProcessToken
+Sleep
+RegCreateKeyExW
+GetSecurityDescriptorDacl
+AdjustTokenPrivileges
+GetTokenInformation
+I_RpcOpenClientProcess
+GetModuleHandleExW
+I_RpcBindingInqLocalClientPID
+I_RpcBindingInqTransportType
+CloseThreadpoolWait
+WaitForThreadpoolWaitCallbacks
+CreateThreadpoolWait
+SetThreadpoolWait
+DebugBreak
+DuplicateHandle
+WaitForSingleObjectEx
+CreateThread
+SearchPathW
+NdrDllGetClassObject
+NdrDllCanUnloadNow
+NdrStubForwardingFunction
+NdrStubCall2
+ObjectStublessClient12
+ObjectStublessClient14
+ObjectStublessClient11
+IUnknown_AddRef_Proxy
+ObjectStublessClient22
+ObjectStublessClient27
+ObjectStublessClient18
+ObjectStublessClient28
+ObjectStublessClient20
+ObjectStublessClient15
+ObjectStublessClient23
+NdrProxyForwardingFunction6
+ObjectStublessClient7
+ObjectStublessClient13
+NdrOleFree
+ObjectStublessClient19
+IUnknown_Release_Proxy
+NdrProxyForwardingFunction4
+NdrProxyForwardingFunction5
+ObjectStublessClient8
+ObjectStublessClient9
+ObjectStublessClient26
+ObjectStublessClient17
+ObjectStublessClient10
+NdrOleAllocate
+ObjectStublessClient16
+ObjectStublessClient21
+NdrProxyForwardingFunction3
+IUnknown_QueryInterface_Proxy
+ObjectStublessClient24
+ObjectStublessClient25
+NdrProxyForwardingFunction8
+NdrProxyForwardingFunction11
+NdrProxyForwardingFunction10
+NdrProxyForwardingFunction9
+NdrProxyForwardingFunction12
+NdrProxyForwardingFunction7
+ObjectStublessClient5
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-security-base-l1-1-0.dll
+RPCRT4.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-com-midlproxystub-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+CreateTimerQueueTimer
+GetComputerNameW
+DeleteTimerQueueTimer
+UnregisterWaitEx
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+iswdigit
+iswalpha
+iswalnum
+_wcsnicmp
+_beginthreadex
+_vsnprintf
+__CxxFrameHandler3
+_waccess
+wcscpy_s
+_ultow
+?terminate@@YAXXZ
+RtlCreateServiceSid
+RtlInitializeCriticalSectionAndSpinCount
+RtlDeleteCriticalSection
+RtlDllShutdownInProgress
+RtlSplay
+RtlDelete
+RtlAllocateHeap
+RtlImageNtHeader
+RtlFreeHeap
+RegDeleteTreeW
+RegEnumKeyExW
+RegEnumValueW
+ExpandEnvironmentStringsW
+RegDeleteValueW
+RegSetValueExW
+RegQueryInfoKeyW
+InitOnceExecuteOnce
+RaiseException
+CreateSemaphoreExW
+ReleaseSemaphore
+GetSystemInfo
+CheckTokenMembership
+FreeSid
+LocalAlloc
+AllocateAndInitializeSid
+EqualSid
+GlobalAlloc
+GlobalFree
+QueryPerformanceFrequency
+CreateIoCompletionPort
+PostQueuedCompletionStatus
+SetThreadPriority
+GetQueuedCompletionStatus
+FreeLibraryAndExitThread
+OutputDebugStringA
+RegNotifyChangeKeyValue
+CreateDirectoryW
+FindFirstFileW
+FindNextFileW
+VerQueryValueW
+FindClose
+SetFileAttributesW
+OutputDebugStringW
+LockResource
+DeleteFileW
+FindResourceExW
+LoadResource
+GetLocalTime
+LoadStringW
+CreateProcessW
+IsDebuggerPresent
+GetExitCodeProcess
+InitializeCriticalSection
+GetLengthSid
+VirtualProtect
+VirtualAlloc
+SetThreadStackGuarantee
+VirtualQuery
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+ChangeTimerQueueTimer
+GlobalLock
+GlobalUnlock
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+RegisterWaitForSingleObjectEx
+api-ms-win-core-threadpool-private-l1-1-0.dll
+_CIexp
+_CIsqrt
+_ftol2_sse
+_local_unwind4
+memcmp
+memcpy
+memset
+TYPELIB
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+FileVersion
+2001.12.10941.16384 (WinBuild.160101.0800)
+InternalName
+ES.DLL
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+ES.DLL
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.870
+VarFileInfo
+Translation
+\^F&{
+\^F&{
+stdole2.tlbWWW
+EventSystemLibWW
+IEnumEventObject
+CloneWWW
+l=ppInterfaceW
+vcReqElem
++cRetElem
+>ResetWWW
+cSkipElemWWWd
+oIEventObjectCollectionWWd
+xA_NewEnum
+ppUnkEnumWWWd
+zItem@
+objectID
+A6pItemWWWd
+jNewEnumW
+ppEnumWWd
+0vCountWWW
+pCountWWd
+rAddWd
+RemoveWW
+IEventControlWWW,
+'IPublisherFilter,
+NInitializeWW
+methodNameWW
+|dispUserDefinedW
+IFiringControlWW
+IEventSubscriptionWW
+zSubscriptionIDWW
+pbstrSubscriptionIDW
+SubscriptionName
+O"pbstrSubscriptionNameWWW
+PublisherIDW
+|pbstrPublisherID
+JEventClassID
+~pbstrEventClassIDWWW
+pbstrMethodNameW
+SubscriberCLSIDW
+pbstrSubscriberCLSID
+2JSubscriberInterfaceW
+#@ppSubscriberInterfaceWWW
+PerUserW
+pfPerUserWWW
+OwnerSID
+pbstrOwnerSIDWWW
+EnabledW
+*pfEnabledWWW
+ DescriptionW
+pbstrDescription
+MachineNameW
+pbstrMachineName
+5GetPublisherProperty
+HbstrPropertyName
+@propertyValueWWW
+_PutPublisherProperty
+)RemovePublisherPropertyW
+GetPublisherPropertyCollectionWW
+WcollectionWW
+C"GetSubscriberPropertyWWW
+PutSubscriberPropertyWWW
+RemoveSubscriberProperty
+GetSubscriberPropertyCollectionW
+u1InterfaceIDW
+.pbstrInterfaceID
+QFireSubscription
+subscription,
+PrepareToFireWWW
+firingControlWWW
+fSetPublisherFilterWW
+$pPublisherFilter
+AllowInprocActivationWWW
+pfAllowInprocActivationW
+d:GetSubscriptions
+optionalCriteria
+"optionalErrorIndexWW
+RppCollection
+SetDefaultQueryW
+criteria
+ierrorIndexWWX
+IMultiInterfaceEventControlW
+IMultiInterfacePublisherFilterWW
+iidWX
+USetMultiInterfacePublisherFilter
+uclassFilterW
+6eventIID
+/bstrMethodNameWW
+bstrCriteriaX
+FireInParallelWW
+=pfFireInParallel 
+IEventSystem 
+QueryWWW
+KprogIDWW
+queryCriteriaWWW 
+QStoreWWW
+`HpInterfaceWW 
++EventObjectChangeEventClassIDWWW 
+QuerySWW 
+RemoveSW
+IEventPublisherW
+PublisherNameWWW
+\pbstrPublisherNameWW
+PublisherTypeWWW
+jpbstrPublisherTypeWW
+GetDefaultPropertyWW
+PutDefaultPropertyWW
+RemoveDefaultPropertyWWW
+GetDefaultPropertyCollection
+pIEventClassW
+EventClassNameWW
+pbstrEventClassNameW
+FiringInterfaceIDWWW
+BpbstrFiringInterfaceIDWW
+CustomConfigCLSIDWWW
+pbstrCustomConfigCLSIDWW
+TypeLibW
+pbstrTypeLibL
+8'?IEventClass2L
+MultiInterfacePublisherFilterCLSIDWW
+zmpbstrPubFilCLSID
+IEventObjectChangeWW
+EOC_ChangeTypeWWx
+__MIDL_IEventObjectChange_0001WWx
+EOC_NewObjectWWWx
+EOC_ModifiedObjectWWx
+EOC_DeletedObjectWWW
+ChangedSubscriptionW@
+ichangeTypeWW
+bstrSubscriptionIDWW
+FChangedEventClassWWW
+bstrEventClassID
+ChangedPublisher
+gbstrPublisherIDW
+COMEVENTSYSCHANGEINFOWWW@
+__MIDL___MIDL_itf_estlb_0001_0074_0001WW@
+,*cbSizeWW@
+3partitionIdW@
+applicationIdWWW@
+reserved
+89{IEventObjectChange2W
+pInfoWWW
+IEventPropertyWW
+propertyName
+KValueWWWl
+bIDontSupportEventSubscriptionWWW
+8(?IEventClass3
+GEventClassPartitionIDWWW
+pbstrEventClassPartitionIDWW
+aEventClassApplicationIDW
+pbstrEventClassApplicationID4
+IEventClassInternalW4
+-GetAllowPerUserInprocActivationW
+pfAllowPerUserInprocActivationWW4
+GetAllowPerUserActivateAsActivatorWW
+pfAllowPerUserActivateAsActivatorWWW4
+zGetAllowPerUserMonikerWW
+pfAllowPerUserMonikerWWW4
+PGetSerialFiringTimeoutWW
+pdwSerialFiringTimeoutWW
+8ozIAmAFiringAgentW
+IEventClassParallelFiringTimeout
+ParallelFiringTimeoutWWW
+pdwParallelFiringTimeout`
+IEventSubscription2W`
+FilterCriteriaWW
+^pbstrFilterCriteriaW`
+*"SubscriberMonikerWWW
+rpbstrMoniker
+IEventSubscription3W
+SubscriberPartitionIDWWW
+1pbstrSubscriberPartitionIDWW
+SubscriberApplicationIDW
+pbstrSubscriberApplicationID(
+IEventSubscriptionInternalWW(
+IsTransientW
+pfIsTransientWWW
+IEventSystem2WWW
+GetVersionWW
+I;pnVersionWWW
+VerifyTransientSubscribersWW
+EventSystem 1.0 Type LibraryWW
+IEnumEventObject Interface
+method CloneWW
+method NextWWW
+method ResetWW
+method SkipWWW 
+IEventObjectCollection InterfaceWW
+Create new IEnumVARIANTWWW
+Create new IEnumEventObjectWWW!
+Number of items in the collectionW
+Add an item to the collectionW"
+Remove an item from the collection
+IEventControl InterfaceWWW
+IPublisherFilter InterfaceK
+User-called method to initialize the publisher filter after it is installedWWW
+IFiringControl InterfaceWW
+IEventSubscription InterfaceWW
+property SubscriptionIDWWW
+property SubscriptionNameW
+property PublisherIDWW
+property EventClassIDW
+property MethodNameWWW
+property SubscriberCLSIDWW
+property SubscriberInterfaceWW
+property PerUserWW
+property OwnerSIDW
+property EnabledWW
+property DescriptionWW
+property MachineNameWW
+method GetPublisherPropertyWWW
+method PutPublisherPropertyWWW
+method RemovePublisherProperty%
+method GetPublisherPropertyCollectionW
+method GetSubscriberPropertyWW
+method PutSubscriberPropertyWW
+method RemoveSubscriberPropertyWWW&
+method GetSubscriberPropertyCollection
+property InterfaceIDWW
+Fire a single subscription4
+Prepare to fire all subscriptions in your collectionWW
+method SetPublisherFilterW
+property AllowInprocActivationA
+Get a self-updating collection of subscriptions to a given methodW5
+Establish the default query to use when not filteringW%
+IMultiInterfaceEventControl InterfaceW(
+IMultiInterfacePublisherFilter InterfaceWW'
+method SetMultiInterfacePublisherFilterWWW@
+Get a self-updating collection of subscriptions to an IID/methodWW6
+Establish the default query to use when not filtering.
+property FireInParallelWWW
+IEventSystem Interface
+method QueryWW
+method StoreWW
+method RemoveW(
+method get_EventObjectChangeEventClassIDWW
+method QuerySW
+method RemoveS
+IEventPublisher InterfaceW
+property PublisherName
+property PublisherType
+method GetDefaultPropertyW
+method PutDefaultPropertyW
+method RemoveDefaultPropertyWW#
+method GetDefaultPropertyCollectionWWW
+IEventClass InterfaceW
+property EventClassNameWWW
+property FiringInterfaceID
+property CustomConfigCLSID
+property TypeLibWW
+IEventClass2 Interface+
+property MultiInterfacePublisherFilterCLSIDWWW
+IEventObjectChange InterfaceWW
+A new object was added
+An existing object was modifiedWWW
+An existing object was deleted
+method ChangedSubscription
+method ChangedEventClassWW
+method ChangedPublisherWWW
+IEventObjectChange2 InterfaceW
+IEventProperty InterfaceWW
+property NameW
+property Value'
+IDontSupportEventSubscription InterfaceWWW
+IEventClass3 Interface
+property EventClassPartitionID 
+property EventClassApplicationIDWW*
+IEventClassParallelFiringTimeout Interface
+property ParallelFiringTimeout
+IEventSubscription2 InterfaceW
+property FilterCriteriaWWW
+property SubscriberMoniker
+IEventSubscription3 InterfaceW
+property SubscriberPartitionID 
+property SubscriberApplicationIDWW
+IEventSystem2 InterfaceWWW
+method GetVersionW!
+method VerifyTransientSubscribersW
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+809H9P9T9x9|9
+:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<`<d<l<p<x<|<
+=$=(=8=<=D=L=P=X=`=d=l=t=x=
+>(>,>0>@>D>H>X>\>`>p>t>x>
+? ?$?(?0?4?8?<?@?H?`?d?h?l?p?t?|?
+0 040<0@0T0\0`0t0|0
+1 141<1@1T1\1`1t1|1
+2 24282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4$4(4@4X4t4x4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,60646<6D6H6X6\6l6p6
+7 7$7(787<7@7P7T7X7h7l7p7
+8(8,808@8D8H8X8\8`8p8t8x8
+9 9$989@9D9X9`9d9x9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<l<p<
+= =$=(=,=0=4=8=<=@=D=H=L=P=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?`?d?h?l?p?t?x?|?
+2!2&2F2L2Q2V2v2
+343>3
+5%5.5l5
+6:6l6
+7V8o8|8
+849i9
+=W=s=
+=0>f>
+1<1C1k1t1
+2$2M2j2
+3)3L3f3y3
+454=4C4^4j4
+9X9g9
+:(;1;R;];
+;%<Q<Y<`<g<
+><>s>
+>(?h?
+262s2
+363{3
+4*4h4
+4-5a5|5
+6#7^7
+7?8`8
+8(919S9
+9,:?:q:w:
+;G;t;
+=/=y=
+=*><>
+?6?P?
+0&0r0
+0#1C1t1{1
+3>3m3
+4b4v4
+445a5
+7&7S7
+7%8 949g9|9
+:h;m;
+<0<[<i<
+=O=`=n=
+=O>l>
+2"3E3i3
+4B4t4
+5&5J5S5m5y5
+5(6-6?6
+757<7e7
+:*;c;
+=(=^=
+0"0B0l0
+081g1p1
+2W2w2
+2A3^3s3
+4<4d4k4
+4*5B5
+6:7X7]7l7
+8)9H9
+:/:o:
+:3;:;c;
+<>=G=M=
+>1?H?
+0,1B1N1U1x1}1
+393d354<4p4w4
+4A5\5
+8H9O9Y9
+:J:x:}:
+:9;U;a;
+=+?4?g?
+0B1[1
+3V3_3
+809E9P9
+:#:0:>:z:
+<X<]<o<.=D=
+=">e>
+2'363F3
+3'4A4N4[4h4u4
+7%7E7k7
+8"8S8
+<1=Q=s=
+>[?}?
+0-0>0J0S0f0}0
+2/2[2m2v2
+3&484A4J4S4\4
+4A5T5s5
+5+636;6C6U6]6e6r6
+90989
+:8:a:s:
+<a<t<
+=6=E=
+=(>-><>
+2?3\3
+4"5R5
+576A6
+8<8X8w8
+939:9R9
+:5:X:]:o:
+=^>m>
+? ?O?
+3$3<3F3
+6!7@7G7t7x7
+798d8
+;(<-<?<g<l<q<
+<6=v=
+>)>H>P>)?P?|?
+1F1U1f1x1
+333d3j3
+4&464?4H4Q4
+5$5@5G5m5t5{5
+6)696?6O6g6
+7,7P7g7
+0=0P0c0
+1/181X1]1o1
+102~2
+3>3\3z3
+3,4\4
+5-5Q5u5
+5/666j6
+747[7y7
+8!8-898}8
+929b9
+:6:P:
+;e<u<
+2/383`3
+4l5~5
+5%6J6P6f6)8u8
+92:]:m:u:~:
+:1;?;
+?V?t?
+0C0_0
+0)1J1
+1#2h2m2
+293g3
+3+4w4
+525n5
+5'6F6W6^6e6v6
+7!7H7M7_7
+838`8z8
+8I9j9
+9.:=:l:
+;+;W;^;l;
+<.<7<
+=L>x>
+0(0>0
+1(1H1M1_1
+3!3'3-3_3
+;!;2;X;];o;
+;L<x<,=G=
+>Z?q?
+1S2d2
+4%4C4i4
+6@6>7V7
+:T;l;4<
+>F?M?k?
+$0(0,0004080<0@0V1=2
+;$<5<F<
+1 1:1R1k1
+1,232N2
+405h5
+6:7S7
+91:{:
+;\<|<
+676~6
+7/8=8t8
+889<9@9D9H9L9P9T9
+:>;z;
+=L>f>
+1*2a2
+3V4|4
+6>7W7
+9:9{9
+9$:R:
+;)<8<
+=.=>=
+011=1
+1(2m2
+8"9*909s9
+;*;2;8;S;_;
+<#=T=k=
+>&>;>X>n>
+?9?`?y?
+0.0K0T0g0
+031n1
+2!3-3<3G3M3S3Y3^3s3
+6!6&6\6k6~6
+6#91969<9A9O9Y9
+;/;f;o;
+<&<C<X<
+=,>>>v>
+>%?L?s?
+1#282M2U2b2g2o2u2
+3(323Y3_3m3
+444A4`4n4u4|4
+7i7z7
+:.:7:G:a:B;P;e;n;
+=>=R=u=
+>K>g>|>
+>!?t?
+1@1G1{1
+2>3J3
+5(5.53585>5D5S5i5
+5.6^6g7
+7X8v8
+:C;u;
+</<P<
+<H=[=
+=8>=>O>t>
+?4?f?o?v?
+0D0c0
+0.151Y1
+2B3P3^3
+5'50565L5Y5m5v5{5
+6[6`6g6n6
+7'7`7x7
+8-898G8[8e8j8p8{8
+9(999
+9":D:
+:T;y;
+<(<=<J<g<p<v<
+=$=)=/=C=H=T=e=m=
+>A>X>m>
+0"0=0
+121E1N1Y1`1x1~1
+2#23292D2J2V2f2o2
+3&3/3C3Q3b3j3
+4x4}4
+6%6B6
+7,7<7L7\7l7|7
+8,8<8L8\8l8y8
+9/9B9R9b9r9
+:2:B:R:]:r:
+;";2;=;R;b;r;};
+<"<2<B<R<b<r<
+="=-=:=N=[=o=
+>->=>M>]>m>}>
+?A?b?u?
+&0:0b0
+1G2Y2
+4+4S4{4
+4-5S5o5
+6C6N6Z6t6
+7/7a7
+8I8m8
+0!010A0S0a0g0k0q0
+1&1M1_1|1
+2r2{2
+2)3[3b3
+394E4`4u4
+6D6W6{6
+7 7)7D7[7
+8$8@8d8
+9%949;9J9Q9`9g9v9}9
+:::P:V:`:f:l:w:
+;%;.;4;:;E;x;
+<'<0<6<><I<f<
+<7=L=l=
+>!>0>?>v>
+0!0M0\0k0
+1R1y1
+2*272y2
+3=3P3s3
+5 5G5T5a5n5z5
+5!6-6M6_6n6
+707?7{7
+7/8J8b8
+9-9H9]9q9
+:*:d:|:
+;E;T;c;
+<1<@<O<p<
+=G=V=b=v=
+>U>a>m>
+?%???I?
+0"0G0
+141e1q1
+272C2i2x2
+595p5
+546Y6
+7W8w8
+="=.=a=t=
+=(>;>b>q>
+?%?W?n?
+070O0
+2$232Y2x2
+4H4a4
+5*5Q5]5
+5@6O6[6l6}6
+7$797D7W7c7|7
+969L9n9v9~9
+:/:l:
+:H;N;f;x;
+;#<;<d<x<
+=*=4=L=d=p=
+>*>1>>>M>o>
+?;?O?Z?h?u?
+010F0
+1H1`1
+272G2
+333g3q3
+4&424Y4o4
+6#6:6Q6s6
+7%7D7g7
+768e8
+9)9I9
+:%:H:
+<L<S<h<r<~<
+<L=S=
+?8?A?L?}?
+0#0:0i0
+242L2`2
+3#4G4]4
+5X5b5n5}5
+5"6=6O6g6y6
+7+7=7M7S7o7
+8+8?8v8
+869K9s9
+:!;8;K;s;
+<&<8<A<d<
+=@=c=
+=&>B>x>
+>8?n?
+0'1a1
+242k2u2
+393V3e3
+4-4H4j4
+4;5W5
+696F6P6b6
+7#757O7g7y7
+8/8v8
+919]9m9
+9]:r:
+;O;^;m;
+<.<z<
+=0=<=]=
+>'><>H>r>
+? ?,?;?G?Z?i?w?
+#0?0]0
+1?1o1
+2X2k2x2
+2E3X3n3
+3/4C4P4c4p4
+5\6q6
+879n9
+<_<u<
+=:=P=b=
+=g>z>
+030?0N0Z0
+1 1?1f1
+3!333M3
+4.5B5
+7#777F7f7r7
+9+9a9m9
+:(:\:f:r:
+;%;F;
+<%=c=
+> >O>h>n>z>
+0K1f1s1
+1)222]2
+3-3`3
+4F4g4
+525Q5r5
+686Y6~6
+7/7>7M7\7
+7V8p8
+9,979=9B9M9S9X9c9i9n9}9
+:K:b:p:
+:D;~;
+<,<Q<Z<
+=D=L=X=d=
+> >.>y>
+030G0p0
+0/1V1_1}1
+2H2W2c2
+3'333O3V3
+5+5G5U5q5
+636=6G6R6`6o6
+8!8*8=8Z8z8
+909C9f9
+=P>r>
+?)?1?7?N?t?}?
+6;6Q6Z6t6
+6#7.777@7W7n7
+9^9x9
+:=:O:r:
+:3;A;M;Y;e;
+; <)<L<_<
+<E=Z=
+>7>S>e>
+?=?^?
+373Y3
+50595b5n5
+6#7/7H7e7
+8`8o8|8
+979Z9f9u9
+:1:=:L:X:r:
+<(===N=~=
+?(?7?C?S?_?r?
+131X2h2{2
+3/3I3|3
+3,4L4
+4/5C5{5
+5%6X6
+7-7A7[7+868;8F8K8V8[8f8k8v8{8
+<!<~<
+<:=_=
+>?>c>
+0O1_1
+4/4>4_4j4
+4#5A5L5s5
+6?6r6
+6;7j7
+9!9C9]9n9
+:&;=;I;p;
+</<B<n<}<
+=3=O=
+>C?`?
+233\3z3
+4<4V4l4
+7%7O7
+8 9\9
+9":j:o:
+;5;M;V;l;u;
+<&<Z<f<
+=,===\=j=}=
+>/>S>i>
+0S0e0
+181I1Z1
+3)4s4
+6%6P6
+6C7j7
+>#?@?
+0C1]1
+424J4i4
+5E6O6_6
+7D7T7r7
+8A8M8|8
+8:9O9Z9n9
+:":-:7:@:F:P:a:
+; ;o;w;
+<$<N<V<g<s<
+=D=O=e=q=
+>">/>8>=>N>V>m>
+>,?J?Q?
+1#2C3^3v3
+3N4i4
+5[5l5|5
+7<7E7_7
+989?9O9V9
+:I:R:a:
+;.;m;
+=-=<=S=c={=
+?a?q?~?
+J0[0i0r0
+2!3P3c3
+4p4y4
+6X7u7
+8"8F8X8o8x8
+9#9S9k9
+9h:y:
+;#;j;
+=#=7=[=
+>,>O>
+000G0P0Y0j0p0
+1"181\1
+252?2
+3,3a3
+3,4P4y4
+5S5n5w5
+696w6
+;4;`;j;
+<$<:<B<
+=>=a=
+=/>7>{>
+>W?_?
+282W2~2
+2,343l3u3
+3G4_4g4
+7>8v8
+: ;I;c;
+<&<E<J<P<e<
+<J=_=o=
+>$>;>V>k>
+?#?/?
+0.070>0\0c0
+0?1v1
+2*2;2H2\2b2g2t2{2
+2.383c3{3
+434e4o4
+5F5S5
+6+646
+6Z7i7
+83898f8q8
+8-9R9Z9
+:U:h:
+:I;k;
+=(=s=
+=)>C>Q>
+? ?S?
+010a0
+1*1;1c1
+1#2S2f3
+4"555[5t5
+6$7r7
+7.8r8
+8'9J9^9
+:.:j:
+:?;Z;
+<;=a=
+?,?8?P?l?v?}?
+40>0E0T0Z0a0
+2L2Y2a2~2
+3)303;3G3R3a3
+444m4|4
+5-525C5x5
+5$6?6F6R6^6c6k6v6
+7%7E7M7_7j7
+858;8}8
+:#:4:a:
+;=<y<
+=;>A>T>^>q>x>
+0+0C0J0[0l0}0
+1)111^1d1l1q1}1
+2)2/2H2P2v2
+3!30353A3G3L3^3
+4/494H4M4Y4_4d4o4{4
+5#505l5s5y5
+7 7<7o7w7
+989W9v9
+:$:i:
+;?;Y;
+=,=B=T=e=n=w=
+>A>H>Z>k>
+?I?]?
+2 2/2
+3*30373<3B3x3~3
+3J4p4}4
+5!5.535@5E5R5W5d5i5v5{5
+5&6D6N6a6i6{6
+607H7f7q7|7
+8+868`8f8v8~8
+9&969>9N9V9b9j9v9~9
+:#:*:8:w:
+;(;3;A;J;S;a;l;w;
+<><L<s<
+<7=^=v=
+><>@>L>X>d>
+? ?@?`?l?
+0$0(0H0h0
+1$1(1D1H1h1
+202L2P2\2h2t2
+3,303L3P3p3
+4$4<4@4`4
+5$5(5D5H5d5h5
+6$6(6D6H6d6h6
+7$7(7D7H7h7
+8(8D8H8d8h8
+9 9@9`9|9
+:(:D:H:d:h:
+;$;(;D;H;T;l;p;
+<$<(<H<d<h<p<t<
+=8=@=D=L=P=X=\=d=h=p=t=|=
+>4>8>T>X>t>x>
+?4?8?X?d?p?
+0,000P0l0p0
+101L1P1l1p1
+2,202L2P2l2p2
+3,303L3P3p3
+4,404L4P4l4p4
+5,505L5P5l5p5
+6,606L6P6l6p6
+7,707L7P7l7p7
+8,808L8P8l8p8
+909L9P9l9p9
+:,:0:P:p:
+;0;P;p;
+<0<P<p<
+=8=D=L=X=
+0 0$0,00080<0D0H0T0`0l0x0
+1 1$1(1,101
+1`2d2h2l2p2 3$3(3,303
+4(4,484@4L4X4d4p4|4
+5$505<5H5T5`5
+0 0$0(0,0004080<0@0D0H0L0P0T0X0`0d0l0p0t0|0
+1$1,14181

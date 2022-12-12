@@ -1,0 +1,550 @@
+!This program cannot be run in DOS mode.
+w$Rich
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+OLEAUT32.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+ext-ms-win-appmodel-state-ext-l1-2-0.dll
+SHLWAPI.dll
+SHELL32.dll
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+ntdll.dll
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+Local\SM0:%lu:%lu:%hs
+onecore\internal\sdk\inc\wil\opensource\wil\win32_helpers.h
+onecore\internal\sdk\inc\wil\opensource\wil\filesystem.h
+generic
+unknown error
+iostream
+iostream stream error
+system
+CSIDL
+folder
+Flags
+FileList
+LastAccess
+PreCleanupString
+CleanupString
+shell\applets\cleanup\dataclen\dataclen.cpp
+display
+description
+System\CurrentControlSet\Control\ContentIndex\Catalogs
+Location
+cisvc
+\AppData\Local\Packages\*
+invalid string position
+string too long
+\Temp
+onecore\internal\sdk\inc\wil\opensource\wil\winrt.h
+shell\applets\cleanup\dataclen\storagesenseeditiontraitsimpl.cpp
+4Q~RC
+Windows.Internal.System.UserProfile.UserProfileEngagementManager
+U:,60
+dataclen.pdb
+.rdata$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zzzdbg
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+minATL$__a
+minATL$__f
+minATL$__m
+minATL$__z
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$brc
+.data$r$brc
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+U:,60
+vTh8%
+v,ShT%
+Z\9;s
+QQh@&
+SVWQQ3
+97s/j
+PQQSVW
+VWjbZ
+VWjkZ
+93uHWV
+&PWSV
+f9>tcjD
+D$$WP
+D$$PWWWWWWVW
+f9>tTjD
+D$$WP
+D$$PWWWWWWVW
+XSWjD3
+PSSSSSS
+A<Au3Sj
+D$DPj
+PQSVW
+PQQSVW
+PQQSVW
+PQSVW
+PQQSVW
+PQQSVW
+Y__^[
+Y__^[
+QRPhX
+QRPhx
+OpenSCManagerW
+OpenServiceW
+QueryServiceStatus
+CloseServiceHandle
+OpenStateExplicit
+GetStateFolder
+CloseState
+StrCmpW
+SHGetValueW
+StrCmpNIW
+SHGetFolderPathW
+DATACLEN.dll
+??0CDataDrivenCleaner@@QAE@ABV0@@Z
+??0CDataDrivenCleaner@@QAE@XZ
+??1CDataDrivenCleaner@@QAE@XZ
+??4CDataDrivenCleaner@@QAEAAV0@ABV0@@Z
+??_7CDataDrivenCleaner@@6B@
+?AddFileToList@CDataDrivenCleaner@@IAEHPBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z
+?AddFolders@CDataDrivenCleaner@@QAEHPBG@Z
+?AddRef@CDataDrivenCleaner@@UAGKXZ
+?Deactivate@CDataDrivenCleaner@@UAGJPAK@Z
+?DeleteIfPathNotChanged@CDataDrivenCleaner@@IAEJPBG@Z
+?ExecuteCmd@CDataDrivenCleaner@@IAEXPAGH@Z
+?FreeList@CDataDrivenCleaner@@IAEXPAUtag_CleanFileStruct@@@Z
+?GetSpaceUsed@CDataDrivenCleaner@@UAGJPA_KPAUIEmptyVolumeCacheCallBack@@@Z
+?Initialize@CDataDrivenCleaner@@UAGJPAUHKEY__@@PBGPAPAG2PAK@Z
+?LastAccessisOK@CDataDrivenCleaner@@IAEHU_FILETIME@@@Z
+?MergeSortList@CDataDrivenCleaner@@IAEPAUtag_CleanFileStruct@@PAU2@@Z
+?Purge@CDataDrivenCleaner@@UAGJ_KPAUIEmptyVolumeCacheCallBack@@@Z
+?PurgeFiles@CDataDrivenCleaner@@IAEXPAUIEmptyVolumeCacheCallBack@@_K@Z
+?QueryInterface@CDataDrivenCleaner@@UAGJABU_GUID@@PAPAX@Z
+?Release@CDataDrivenCleaner@@UAGKXZ
+?ShowProperties@CDataDrivenCleaner@@UAGJPAUHWND__@@@Z
+?WalkForUsedSpace@CDataDrivenCleaner@@IAEHPBGPAUIEmptyVolumeCacheCallBack@@H@Z
+DllCanUnloadNow
+DllGetClassObject
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@@
+__CxxFrameHandler3
+_vsnwprintf
+memcpy_s
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+_vsnprintf_s
+_wcsnicmp
+_CxxThrowException
+memcpy
+memmove
+??0exception@@QAE@ABQBD@Z
+??0exception@@QAE@ABQBDH@Z
+?what@exception@@UBEPBDXZ
+_XcptFilter
+_amsg_exit
+malloc
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_except_handler4_common
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+SetLastError
+ReleaseSemaphore
+GetModuleHandleExW
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+FormatMessageW
+GetLastError
+OutputDebugStringW
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+IsDebuggerPresent
+LocalFree
+RoOriginateError
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+CreateFileW
+FindFirstFileW
+GetFileAttributesW
+SetFileAttributesW
+FindNextFileW
+SetFileInformationByHandle
+RegQueryValueExW
+PathCchAppendEx
+GetSystemTime
+SystemTimeToFileTime
+CompareStringW
+CreateProcessW
+CompareFileTime
+PathCchCombineEx
+FindClose
+LoadStringW
+RegOpenKeyExW
+RegEnumKeyExW
+RegCloseKey
+ConvertSidToStringSidW
+DecodePointer
+InitOnceExecuteOnce
+GetFinalPathNameByHandleW
+EncodePointer
+RaiseException
+WindowsCreateStringReference
+RoGetActivationFactory
+CreateEventExW
+CoWaitForMultipleHandles
+SetEvent
+CoCreateFreeThreadedMarshaler
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+profapi.dll
+lstrlenW
+lstrcmpW
+api-ms-win-core-string-obsolete-l1-1-0.dll
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+memset
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Disk Space Cleaner for Windows
+FileVersion
+10.0.22621.1017 (WinBuild.160101.0800)
+InternalName
+DATACLEN
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+DATACLEN.DLL
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.1017
+VarFileInfo
+Translation
+wwwwww
+wwwwww
+en-US
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7,747D7T7
+8 8,8084888<8@8D8H8L8P8\8
+2!2B2F2L2P2V2Z2r2v2|2
+3'3A3
+6'646;6H6O6V6k6
+707G7p7
+7I8P8V8c8l8
+989a9j9z9
+:9:x:
+;';-;2;9;P;6=D=Z=
+242=2
+2Q3l3
+4E4N4Z4g4}4
+405?5G5T5$6t6
+7J7V7
+878i8
+9+959S9w9
+:5:A:S:
+:F;P;
+>>>O>j>
+>(?4?T?Z?g?r?
+0$040h0u0
+1*1[1|1
+2#2J2q2
+2-3<3X3l3r3
+5(5/5
+6)70748
+:-:5:T:\:o:w:
+;.;H;u;
+<-=C=
+= >:>P>c>k>
+?!?4?>?M?f?
+01080n0
+0A1d1
+2%2M2V2}2
+5K5g5
+6)6M6^6o6
+6J7Q7
+8Z8k8
+8#9=9o9
+;!;@;v;};
+<1<8<_<f<
+>/>G>g>v>
+>L?h?
+D0W0a0k0
+2F2l2
+3(3H3q3~3
+5A5p5
+6f6u6
+8F8b8
+;H<~<7=
+>*?1?|?
+0$0=0C0T0
+262I2]2u2
+3-3l3
+4=4}4
+4I5u5
+6#606B6c6
+7W7c7r7
+;';G;Y;d;k;
+=#=4=;=?=F=J=X=~>
+9)9;9o9z9
+:&:4:D:T:i:|:
+;!;1;A;V;g;
+<+<I<#=E=K=s=
+>'>@>N>
+>H?Y?n?
+0O0_0}0
+111[1
+3 3:3_3p3
+5.5Y5h5
+7F7d7
+8&8C8N8[8a8s8{8
+;];};
+<<<f<
+=/=5=a=g=
+=6>d>
+?@?h?
+0/0<0Y0b0h0
+1!151:1F1W1_1r1~1
+212H2]2
+52585>5D5J5P5W5^5e5l5s5z5
+6 6)6=6K6\6d6z6
+7"7:7q7
+9x9}9
+;%;B;
+<.<><K<_<o<|<
+=!=.=B=
+=!>D>g>
+?9?\?
+151e1
+2;2^2
+32363R3V3
+484@4L4T4t4|4
+5D5X5h5x5
+60686@6H6P6X6d6
+7$7(707D7L7`7h7p7x7|7
+8$8(80848<8@8H8L8T8X8x8
+9(90989@9D9L9
+040T0t0
+0 0$0(0004080@0H0L0P0

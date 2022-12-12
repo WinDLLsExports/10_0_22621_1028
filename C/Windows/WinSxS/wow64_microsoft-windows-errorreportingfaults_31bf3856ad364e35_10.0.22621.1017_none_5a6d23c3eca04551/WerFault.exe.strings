@@ -1,0 +1,3925 @@
+!This program cannot be run in DOS mode.
+.text
+`.imrsiv
+.data
+.idata
+@.didat
+.rsrc
+@.reloc
+bad array new length
+RMCLIENT.dll
+api-ms-win-shell-shellfolders-l1-1-0.dll
+ext-ms-win-kernel32-package-l1-1-0
+ext-ms-win-kernel32-package-l1-1-2
+ext-ms-win-kernel32-package-l1-1-0.dll
+ext-ms-win-ntuser-dialogbox-l1-1-0.dll
+ext-ms-win-ntuser-gui-l1-1-0
+ext-ms-win-ntuser-gui-l1-1-1
+ext-ms-win-ntuser-gui-l1-3-0
+ext-ms-win-ntuser-gui-l1-3-1
+ext-ms-win-ntuser-gui-l1-3-0.dll
+ext-ms-win-ntuser-message-l1-1-0
+ext-ms-win-ntuser-message-l1-1-1
+ext-ms-win-ntuser-message-l1-1-2
+ext-ms-win-ntuser-message-l1-1-3
+ext-ms-win-ntuser-message-l1-1-0.dll
+ext-ms-win-ntuser-uicontext-ext-l1-1-0.dll
+ext-ms-win-ntuser-window-l1-1-0.dll
+ext-ms-win-ntuser-window-l1-1-3.dll
+ext-ms-win-ntuser-window-l1-1-4.dll
+ext-ms-win-ntuser-window-l1-1-0
+ext-ms-win-ntuser-window-l1-1-1
+ext-ms-win-ntuser-window-l1-1-2
+ext-ms-win-ntuser-window-l1-1-3
+ext-ms-win-ntuser-window-l1-1-4
+ext-ms-win-ntuser-window-l1-1-5
+ext-ms-win-ntuser-window-l1-1-6
+ext-ms-win-wer-xbox-l1-1-0
+ext-ms-win-wer-xbox-l1-1-1
+ext-ms-win-wer-xbox-l1-1-2
+ext-ms-win-wer-xbox-l1-1-3
+ext-ms-win-wer-xbox-l1-1-4
+ext-ms-win-wer-xbox-l1-1-1.dll
+ext-ms-win-wer-xbox-l1-1-2.dll
+ext-ms-win-wer-ui-l1-1-0
+ext-ms-win-wer-ui-l1-1-1
+ext-ms-win-wer-ui-l1-1-1.dll
+ext-ms-win-imm-l1-1-0
+ext-ms-win-imm-l1-1-1
+ext-ms-win-imm-l1-1-0.dll
+ext-ms-win-setupapi-classinstallers-l1-1-0
+ext-ms-win-setupapi-classinstallers-l1-1-1
+ext-ms-win-setupapi-classinstallers-l1-1-2
+ext-ms-win-setupapi-classinstallers-l1-1-2.dll
+ext-ms-win-appcompat-aepic-l1-1-0.dll
+WINTRUST.dll
+ext-ms-win-ntuser-windowstation-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-1
+ext-ms-win-ntuser-windowstation-l1-1-2
+ext-ms-win-ntuser-windowstation-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+SleepConditionVariableCS
+WakeAllConditionVariable
+Unknown exception
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+sntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+TraceLog: hr=0x%x at %hs:%d Code=%hs Function=%hs Message=%ls
+ResultLoggingCallback failure. Could not Sprintf.
+Software\Microsoft\Windows\Windows Error Reporting\Debug
+SilentProcessExit
+werui.dll
+WerUIReportSilentProcessExit
+Invalid command line params
+onecore\windows\feedback\core\werfault\exe\standard\werfaultexemain.cpp
+Invalid commandline passed
+GetSystemWow64Directory2W
+api-ms-win-core-wow64-l1-1-1.dll
+Software\Microsoft\Windows\Windows Error Reporting
+StorePath
+%ls\%ls
+&amp;
+&apos;
+&quot;
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+FileDescription
+ProductName
+\VarFileInfo\Translation
+\StringFileInfo\%04x%04x\%ls
+SYSTEM\CurrentControlSet\Control\MiniNT
+unknown
+Unknown
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+EditionID
+CurrentType
+OSVersionInformation
+%u.%u
+WindowsNTVersion
+%u %ls
+Build
+(0x%x): %ls
+Product
+Edition
+BuildString
+Revision
+Flavor
+ARM64
+Architecture
+GeoId
+MemoryError
+BuildLayers
+BuildStamp
+BuildBranch
+BuildArch
+BuildLab
+BuildLabEx
+LayerName
+OsMajorVersion
+OsMinorVersion
+BuildNumber
+QfeNumber
+IsTopLevel
+IsChecked
+BuildLayer
+%d.%d.%[^.].%[^.].%ls
+%d.%d.%ls.%ls.%ls
+\KernelObjects\LowMemoryCondition
+\KernelObjects\HighCommitCondition
+\KernelObjects\MaximumCommitCondition
+%ls%ls
+onecore\windows\feedback\core\common\lib\utility.cpp
+Local\SM0:%lu:%lu:%hs
+0123456789abcdef
+onecore\windows\feedback\core\common\lib\utilitydownlevel.cpp
+%ls\WER.%ls.tmp%ls
+\KernelObjects\MemoryErrors
+ntdll.dll
+MicrosoftTelemetryAssertTriggeredUM
+D:P(A;;GA;;;BA)(A;;GA;;;SY)(A;;GA;;;%s)S:(ML;;NR;;;HI)
+D:P(A;;GA;;;BA)(A;;GA;;;SY)(A;;GA;;;%s)S:(ML;;NR;;;ME)
+D:P(A;;GA;;;BA)(A;;GA;;;SY)(A;;GA;;;%s)
+WerReflectedProcessCleanup
+.mdref
+.tdref
+Reflection
+Software\Microsoft\Windows\Windows Error Reporting\Hangs
+ErrorPort
+Debugger
+%s %u
+WaitOnCoreHang
+_NT_SYMBOL_PATH
+_NT_ALT_SYMBOL_PATH
+_NT_EXECUTABLE_IMAGE_PATH
+_NT_DEBUGGER_EXTENSION_PATH
+_NT_SOURCE_PATH
+_NT_DEBUG_LOG_FILE_OPEN
+_NT_DEBUG_LOG_FILE_APPEND
+Hangs
+/SHARED
+JqQ&D
+Disable
+DisableNetworkWCT
+NOT_TCPIP
+NOT_CONNECTED
+SHARED
+_HANGREP_XPROC_PKGFULLNAME
+_HANGREP_XPROC_PKGRELAPPID
+werfault.exe
+_HANGREP_PKGFULLNAME
+_HANGREP_PKGRELAPPID
+mscorwks.dll
+mscorsvr.dll
+clr.dll
+coreclr.dll
+%s_%s
+<?xml version="1.0" encoding="UTF-16"?>
+SOFTWARE\Policies\Microsoft\SQMClient
+SOFTWARE\Microsoft\SQMClient
+MSFTInternal
+IsTest
+DontSendAdditionalData
+Disabled
+Consent
+DefaultConsent
+DefaultOverrideBehavior
+LoggingDisabled
+QueuePesterInterval
+QueueNoPesterInterval
+DebugApplications
+DontShowUI
+BypassDataThrottling
+ForceUserModeCabCollection
+BypassPowerThrottling
+BypassNetworkCostThrottling
+AutoApproveOSDumps
+LiveReportFlushInterval
+DisableArchive
+ConfigureArchive
+MaxArchiveCount
+MaxQueueCount
+ForceQueue
+CorporateWerServer
+CorporateWerUseSSL
+CorporateWerPortNumber
+CorporateWerUploadOnFreeNetworksOnly
+CorporateWerUseAuthentication
+MinFreeDiskSpace
+CabArchiveFolder
+ArchiveFolderCountLimit
+CabArchiveSeparate
+CabArchiveCreate
+ForceHeapDump
+ForceMetadata
+ForceEtw
+LocalCompression
+Source
+UploadOnFreeNetworksOnly
+DisableWerUpload
+DisableEnterpriseAuthProxy
+QueueSizeMaxPercentFreeDisk
+MinQueueSize
+MaxRetriesForSasRenewal
+NoHeapDumpOnQueue
+DeferCabUpload
+Software\Microsoft\Windows\Windows Error Reporting\Consent
+NewUserDefaultConsent
+ExcludedApplications
+BrokerUp
+Software\Policies\Microsoft\Windows\Windows Error Reporting
+CHangReport::CancelCallback
+CHangReport::Cleanup
+CHangReport::WerCallback
+HangrepAPI2WERSVC
+HangrepWERSVC2HANGREP
+HangrepBgTaskEntryPoint
+%s.xml
+triagedump.dmp
+minidump.mdmp
+memory.hdmp
+CHangReport::Create
+Stopped responding and was closed
+A problem caused this program to stop interacting with Windows.
+windows
+windows8
+CHangReport::Submit
+.version.xml
+version.xml
+DisableSnapshots
+LPEShiftRegister
+OneCore
+user32.dll
+WerHangRepMessage
+RegisterErrorReportingDialog
+CUserModeHangReport::Cleanup
+DC.NoSnapshot
+DC.SnapshotMode
+DC.CustomDump
+Minidump
+MemoryDump
+Snapshot dumper deactivated.
+-  Snapshot available: %u.
+-  Snapshots disabled: %u.
+-     Snapshot status: %08X.
+-       Dumper status: %08X.
+-   Process WER flags: %08X.
+- Watson request dump: %08X.
+Snapshot dumper failed to prepare: HRESULT %08X.
+VM read statistics:
+ -  Pre-read calls: %9u.
+ - Post-read calls: %9u.
+AppHangXProcB1
+CUserModeHangReport::StaticBucketingThreadProc
+triagedump.%04x.dmp
+dc.xpdata
+AppHangB1
+CUserModeHangReport::PreSubmitReport
+FailSnapshotDumper
+atk.kdmp
+AppTermFailureEvent
+%s.%s
+stopcode
+%08llX
+%16llX
+%i|%d|%d
+Software\Microsoft\Windows\Windows Error Reporting\Hangs\NHRTimes
+%02x%02x
+%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+Package Full Name
+Application Name
+Application Version
+Application Timestamp
+Hang Signature
+ Hang Type
+Waiting on Package Full Name
+Waiting on Application Name
+Waiting on Application Version
+Additional Hang Signature 1
+Additional Hang Signature 2
+Additional Hang Signature 3
+Additional Hang Signature 4
+Additional Hang Signature 5
+Additional Hang Signature 6
+Additional Hang Signature 7
+MoAppHangXProc
+MoAppHang
+praid:
+%u.%u.%u.%u
+AppHangTransient
+NO_PACKAGE
+UNKNOWN
+\WindowsErrorReportingServicePort
+\KernelObjects\SystemErrorPortReady
+<?xml version="1.0" encoding="utf-16"?>
+Invalid
+Live kernel dump
+User file
+Arbitrary XProc
+Debugger Config
+PROCESS_NAME
+PKGFULLNAME
+PKGRELAPPID
+QUERY_ERROR
+WAIT_THREAD
+WAIT_TIME
+CONTEXT_SWITCHES
+WAIT_TYPE
+CriticalSection
+SendMessage
+Mutex
+ComActivation
+Thread
+ThreadHandle
+ProcessHandle
+Socket
+WAIT_BLOCKINGTHREAD
+NODE_ID
+WAIT_NODE
+ALGORITHM
+MODULELIST
+MODULEOFFSET_SELEXCL
+FULLHASH
+RESTRICTEDHASH
+PARAMETERS
+APPNAME
+APPVER
+APPSTAMP
+STACKHASH
+UITHREADSTACKHASH
+TYPECODE
+WAITINGONAPPNAME
+WAITINGONAPPVER
+DEADLOCK
+CROSS_PROC
+false
+WAIT_CHAIN
+HUNG_HWND
+%s|%s
+TRUNCATED
+FILES
+AUXILIARY_PROCESSES
+AUXILIARY_PROCESS
+VERSION
+WAIT_CHAIN_LIST
+WER/CrashAPI:%u: ERROR Invalid params
+NtWow64QueryInformationProcess64
+WER/CrashAPI:%u: ERROR Unable to get NtWow64QueryInformationProcess64
+WER/CrashAPI:%u: ERROR NtWow64QueryInformationProcess64 failed with 0x%x
+NtWow64ReadVirtualMemory64
+WER/CrashAPI:%u: ERROR Unable to get NtWow64ReadVirtualMemory64
+WER/CrashAPI:%u: ERROR NtWow64ReadVirtualMemory64 failed with 0x%x
+WER/CrashAPI:%u: ERROR Invalid args
+PEB_SIGNATURE
+WER/CrashAPI:%u: ERROR WerpValidatePebHeader failed
+WER/CrashAPI:%u: ERROR OOM
+WER/CrashAPI:%u: ERROR Invalid arg
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed with status 0x%x
+WER/CrashAPI:%u: ERROR No 32 PEB for process
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read Peb32BaseAddress
+WER/CrashAPI:%u: ERROR WerpNtWow64QueryInformationProcess64 failed with status 0x%x
+WER/CrashAPI:%u: ERROR No 64 bit PEB for process
+WER/CrashAPI:%u: ERROR WerpNtWow64ReadVirtualMemory64  failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed
+WER/CrashAPI:%u: ERROR No PEB for process
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR Invalid arguments
+WER/CrashAPI:%u: ERROR Failed to read the peb from the process
+WER/CrashAPI:%u: ERROR WerpNtWow64ReadVirtualMemory64 failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read WerRegistrationData
+WER/CrashAPI:%u: ERROR StringCchCopy failed with 0x%x
+kernel32.dll
+Local\WERReportingForProcessComplete%u
+Local\WERReportingForProcess%u
+WER/CrashAPI:%u: ERROR Invalid args in call to WerpGetRuntimeDllsListStart.
+ws2_32.dll
+WSAStartup
+getsockopt
+getsockname
+getpeername
+WSACleanup
+closesocket
+TraceFlags
+WER Tracing Session
+\Device\Mup\
+0000da39a3ee5e6b4b0d3255bfef95601890afd80709
+\\?\GLOBALROOT
+%04d/%02d/%02d:%02d:%02d:%02d
+RestartRunTime
+NoHeap
+NoHardConsent
+svchost.exe
+rundll32.exe
+SYSTEM\CurrentControlSet\Services\
+ServiceDll
+Parameters
+advapi32.dll
+GetServiceDisplayNameW
+mEg]5Q
+vyg=KQ
+yRtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil/Staging.h
+WilStaging_02
+Windows Error Reporting
+og7|X
+advapi32
+comctl32
+gdi32
+gdiplus
+kernel32
+ntdll
+ole32
+oleaut32
+rpcrt4
+version
+%0I64x
+*Invalid number of command line params passed
+ParseCommandLine
+onecore\windows\feedback\core\werfault\kernel\kernelfault.cpp
+Starting kernel vertical - %S
+WaitOnStart
+Invalid command lines passed
+KernelCrashMain
+ConvertDumpAndReport failed
+ReportFromKQueue failed
+ReportLiveReport failed
+ConvertLiveDumpAndReport failed
+ReportAllLiveReports failed
+Invalid mode passed: %u
+%u_%u_%u
+%u_%u
+Reporting not cancelled during destructor
+CKernelReport::~CKernelReport
+onecore\windows\feedback\core\werfault\kernel\kernelreport.cpp
+CrashDumpEnabled
+SYSTEM\CurrentControlSet\Control\CrashControl
+Global\WerKernelVerticalReporting
+CreateMutex failed
+CKernelReport::SetReporting
+EnsureKernelQueueRegkeyExists failed
+CKernelReport::QueueKernelReport
+EnsureKernelQueueRegkeyExists returned a NULL key handle, failing
+RegQueryInfoKey failed
+Too many kernel faults in the queue: %u
+RegSetValueEx failed
+SOFTWARE\Microsoft\Windows\Windows Error Reporting\KernelFaults\Queue
+RegQueryInfoKey failed.
+CKernelReport::LoadQueuedReports
+RegQueryInfoKey returned 0 values
+Invalid type found in the queue, entry deleted
+Minidump %ws does not exist, entry deleted
+Failed to copy the dump path in the list
+Read queued report: path: %ws
+Read queued report: creation time: %08X:%08X
+Read queued report: report UUID: %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+Add to head failed
+Add to tail failed
+SendReport failed for %ws
+CKernelReport::AddUnsentReportsToWERQueue
+Global\WerKernelVerticalGeneratingDump
+Access denied for the event %ws
+CKernelReport::WaitForDumpConversion
+Global\WerKernelVerticalConvertingLiveDump
+CKernelReport::WaitForLiveDumpConversion
+Failed to set reporting mode to true
+CKernelReport::ReportFromKQueue
+EnsureRegkeyExists failed
+LoadQueuedReports failed
+SendReport failed
+Failed to set reporting mode to FALSE
+CrashDumpEnabled.New
+Initialize failed for CRASH_DUMP_ENABLED_NEW
+CKernelReport::RestoreDumpSettings
+CrashDumpEnabled.Old
+Initialize failed for CRASH_DUMP_ENABLED_OLD
+Initialize failed for SUBKEY_CRASH_CONTROL
+RestoreDumpSettings: Restoring CrashDumpEnabled to %u
+Failed to save the settings
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CrashControl
+CreateEvent failed
+CKernelReport::ConvertDumpAndReport
+CreateEvent succeeded for %ws
+ProcessDump failed
+QueueKernelReport failed
+CreateEvent failed for live conversion
+CKernelReport::ConvertLiveDumpAndReport
+liveDumpProcessor initialization failed
+%s\FullLiveKernelReports\%s\%s
+Failed to sprintf registry key name
+Could not open key %ws
+Full Report is busy for %ws - %ws
+ProcessLiveDump failed
+CKernelReport::EnableFullKernelDump
+EnableFullKernelDump: CrashDumpEnabled was %u
+EnableFullKernelDump: Setting CrashDumpEnabled to %u
+DumpFile
+%SystemRoot%\MEMORY.DMP
+Failed to save the settings for the path
+AskFull
+AskKernel
+AvailableFull
+AvailableKernel
+fulldump
+full_dump
+\SystemRoot\
+\OSDataRoot\
+LiveKernelReportsPath
+System\CurrentControlSet\Control\CrashControl\LiveKernelReports
+Reg failed to initialize
+CKernelReport::GetLiveReportsStoreRoot
+Copy failed for string into live kernel report
+Failed to load windows directory
+LiveKernelReports
+String append failed
+Empty path was found for the live kernel location
+%SystemRoot%\
+String replace failed
+%OSDataDrive%\
+UtilExpandEnvironmentStrings failed
+Invalid params
+CKernelReport::SendReport
+Integrator report ID: %ws
+BlueScreen
+WerCreateReport failed
+WerCreateReport returned a NULL report handle, failing
+WerpSetIntegratorReportId failed
+WerpSetTelemetryKernelParams failed
+WerpSetIptEnabled failed
+WerPluginsInitialize failed
+Failed to create the plugins
+ExtractBugCheckInfo failed
+AddBugCheckSignaturesToReport failed
+WerAddFile failed
+GetSystemData failed
+sysdata.xml
+full_dump=AskKernel;full_dump=AvailableKernel;full_dump=Any;fulldump=AskKernel;fulldump=AvailableKernel;fulldump=Any
+full_dump=AskFull;full_dump=AvailableFull;full_dump=Any;fulldump=AskFull;fulldump=AvailableFull;fulldump=Any
+full_dump=Any;fulldump=Any
+WerpAddFile failed
+WerSubmitReport failed
+File does not exist: %ws
+CKernelReport::SendLiveReport
+LiveKernelEvent
+full-%s
+CKernelReport::ReportLiveReport
+Failed to load livedump settings
+RegOpenKeyEx failed for root
+RegOpenKeyEx failed for report type
+Report is busy for %ws - %ws
+Failed to get the live kernel report
+%s\%s
+Sprintf Failed
+ExtractBootId failed
+Failed live report. Path %ws
+FullLiveKernelReports
+Failed to enumerate the report types
+CKernelReport::CheckForFullLiveReports
+Failed to open the sub key %ws while reporting for all kernel reports
+Failed to query the report id count for %ws.
+Failed to enum the keys for full live kernel event %ws
+CKernelReport::ReportAllLiveReports
+Failed to enum the keys for live kernel event %ws
+Failed to load settings
+CKernelReport::CheckAndDeleteMemoryDump
+Failed to load crash settings
+CKernelReport::CheckAndDeleteLiveMemoryDump
+Failed to get live dump root folder
+*.dmp
+Deleting live kernel dumps failed
+R`GCDumpProcessor::ProcessDump
+onecore\windows\feedback\core\werfault\kernel\dumpprocessor.cpp
+No dump was present
+No minidump file set
+Copy(miniDumpFile) failed
+No dump file to get header from
+CDumpProcessor::ParseLastBugCheckDriverName
+DBGENG_NO_BUGCHECK_ANALYSIS
+UtilLoadDbgEng failed
+UtilDebugCreateEx failed for IDebugClient4
+QueryInterface failed for IDebugControl
+OpenDumpFileWide failed for %ws
+WaitForEvent failed
+QueryInterface failed for IDebugDataSpace4
+StartEnumTagged failed
+GetNextTagged finished
+EndEnumTagged failed
+Unable to allocate memory for BugCheckDriverName
+ReadTagged failed
+ReadTagged returned wrong information
+0x%08x (0x%08x, 0x%08x, 0x%08x, 0x%08x)
+CDumpProcessor::ReadDumpHeader
+Unable to open the file %ws for read
+Sprintf failed for bug check string
+Invalid dump file signature, path: %ws
+Failure reading the dump file header, path: %ws
+Invalid args
+CDumpProcessor::CreateMiniDumpFile
+Minidumpdir not set
+D:P(A;OICI;GA;;;BA)(A;OICI;GA;;;SY)
+ConvertStringSecurityDescriptorToSecurityDescriptor failed
+Unable to create the folder %ws
+FileTimeToLocalTime failed
+FileTimeToSystemTime failed
+%s\%2.2d%2.2d%2.2d-%u-%2.2d.dmp
+Sprintf failed
+Copy failed
+GenerateIntegratorReportId failed
+CDumpProcessor::MoveDumpFile::<lambda_267932e4f360ec9411a565de0abfe2c9>::operator ()
+Dump not present or invalid
+CDumpProcessor::MoveDumpFile
+No dump file present in crash control
+MoveAndSecureFile failed
+CDumpProcessor::ConvertDumpFile::<lambda_f30c39577c171475ace3cf333f7a1223>::operator ()
+CDumpProcessor::ConvertDumpFile
+CreateMiniDumpFile failed
+WriteDumpFileWide failed
+*** Time for dump conversion (ms): %u
+QueryInterface failed for IDebugDataSpace3
+00000000-0000-0000-0000-000000000000
+FinalDumpFileLocation
+SYSTEM\CurrentControlSet\Control\CrashControl\MachineCrash
+Failed to initialize for FinalDumpFileLocation with error
+CDumpProcessor::SaveFinalDumpFilePath
+Failed to save for FinalDumpFileLocation with error
+UuidCreate failed
+CDumpProcessor::GenerateIntegratorReportId
+*^DebugCreateEx
+dbgeng.dll
+%s\LiveKernelReports\%s
+CLiveDumpProcessor::CancelMiniLiveReport
+onecore\windows\feedback\core\werfault\kernel\livedumpprocessor.cpp
+Could not delete ReportId %ws tree
+CLiveDumpProcessor::CreateLiveMiniDumpFile
+Live minidump directory not set
+%s\FullLiveKernelReports\%s
+CLiveDumpProcessor::CompleteFullLiveReport
+CreateLiveMiniDumpFile failed
+CLiveDumpProcessor::ConvertLiveDump
+%s\LiveKernelReports\%s\%s\Busy
+CLiveDumpProcessor::CreateLiveReportKey
+RegCreateKeyEx failed
+No live dump was present
+CLiveDumpProcessor::ProcessLiveDump
+Failed to create mini live report.
+Converting live dump failed
+CLiveDumpProcessor::ReadDumpHeader
+Invalid dump file %ws
+%s\LiveKernelReports\%s\%s
+CLiveDumpProcessor::SubmitMiniLiveReport
+Could not delete busy key
+\registry\machine\
+CLiveDumpSettings::InitLiveReportsStoreRoot
+onecore\windows\feedback\core\werfault\kernel\livedumpsettings.cpp
+LiveKernelReportsQueueRoot
+Failed to read the dumpfile setting for machine crash
+CLiveDumpSettings::LoadSettings
+System\CurrentControlSet\Control\CrashControl\FullLiveKernelReports
+FullLiveReportsMax
+DeleteLiveMiniDumps
+%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+AppendXmlEncodedString failed
+CKernelReportDataCollection::XMLEncodeString
+onecore\windows\feedback\core\werfault\kernel\kerneldatacollection.cpp
+StringCchCopy failed while copying the converted string
+CKernelReportDataCollection::PrintRegKeyXML
+AppendXmlEncodedString failed for name
+Sprintf failed for pbValData
+NON null terminated string found for value: %ws
+AppendXmlEncodedString failed for value
+Sprintf failed for name and value
+CKernelReportDataCollection::WriteRegistryKeyXML
+RegOpenKeyEx failed
+Sprintf failed while trying to print the node name
+RegEnumValue failed
+PrintRegKeyXML failed
+</%s>
+Sprintf failed while closing the xml node name
+Failed to append to buffer
+CompanyName
+Invalid file '%ws'
+CKernelReportDataCollection::WriteDriverRecord
+GetFileAttributesEx failed for %ws
+%02d-%02d-%04d
+UtilGetFileInfo failed
+StringCchPrintf failed
+<%ls>%ls</%ls>
+GetSystemDirectory failed
+CKernelReportDataCollection::GenerateDriverPath
+GetWindowsDirectory failed
+%sDrivers\%s.sys
+Failed to create path
+Group
+Instances
+DefaultInstance
+Altitude
+CKernelReportDataCollection::GetDriverInformationFromRegistry
+RegEnumKeyEx failed
+RegQueryValueEx failed
+GenerateDriverPath failed
+GetSubmissionId failed
+DriverStoreGetObjectProperty for DEVPKEY_DriverPackage_ClassGuid failed
+DriverStoreGetObjectProperty for DEVPKEY_DriverPackage_DriverFlightIds failed
+DriverStoreGetObjectProperty for DEVPKEY_DriverPackage_DriverDate failed
+GROUP
+ALTITUDE
+WriteDriverRecord failed
+CKernelReportDataCollection::AddMarkerFileData
+*.mrk
+AddMarkerFileDataEx (*.mrk) failed
+*.wdf
+AddMarkerFileDataEx (*.wdf) failed
+Drivers\
+StringCchCopy failed
+CKernelReportDataCollection::AddMarkerFileDataEx
+StringCchCat failed
+lpszSubmissionId is NULL
+CKernelReportDataCollection::GetSubmissionId
+CryptAcquireContext with CRYPT_NEWKEYSET failed
+CryptAcquireContext failed
+CryptCATOpen failed
+Submission ID
+CM_Get_Device_ID_List_SizeW
+CKernelReportDataCollection::GetDeviceData
+CM_Get_Device_ID_ListW
+CM_Locate_DevNodeW
+GetSubmissionId (extension) failed
+StringCchCopy failedTemp
+GuidToString failed
+ConvertStringSecurityDescriptorToSecurityDescriptor
+CKernelReportDataCollection::GetExtraReportFilePath
+UtilGetTempDirPath failed
+WER-%u-%u.sysdata.xml
+StringCchPrintf failed while trying to create the file path
+Unable to get the path for the file
+CKernelReportDataCollection::GetSystemData
+GetVersionEx failed
+GetProductInfo failed
+drvstore.dll
+DriverStoreGetObjectPropertyW
+Embedded
+Home Edition
+Professional
+DataCenter Server
+Advanced Server
+Web Server
+Back Office Server
+Small Business Server
+Small Business Server (restricted)
+Communications Server
+Server
+(null)
+MEMORYDIAGNOSTIC
+SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability\MemoryDiagnostic
+SERVERROLES
+Software\Microsoft\Windows\CurrentVersion\CEIPRole\RolesInWER
+GetDeviceData
+GetDeviceData failed
+<ERROR>Failed at Step: %s with error 0x%x</ERROR>
+<REG_VALUE>
+<NAME>%s</NAME>
+<DATA>%s</DATA>
+</REG_VALUE>
+</DRIVERS>
+</SYSTEMINFO>
+</DRIVER>
+</FLIGHTID>
+<FLIGHTID>
+</CLASSGUID>
+<CLASSGUID>
+</SUBMISSIONID>
+<SUBMISSIONID>
+</PRODUCTNAME>
+</MANUFACTURER>
+<PRODUCTNAME>
+</VERSION>
+<MANUFACTURER>
+<VERSION>
+</INFDATE>
+<INFDATE>
+</INFNAME>
+<INFNAME>
+</FILENAME>
+<FILESIZE>%u</FILESIZE>
+<CREATIONDATE>%02d-%02d-%04d %02d:%02d:%02d</CREATIONDATE>
+<DRIVER>
+<FILENAME>
+<DRIVERS>
+</SYSTEM>
+<?xml version="1.0" encoding="UTF-16" ?>
+<SYSTEMINFO>
+<SYSTEM>
+<OSNAME>%ls %ls</OSNAME>
+<OSVER>%u.%u.%u %u.%u</OSVER>
+<OSLANGUAGE>%u</OSLANGUAGE>
+<ARCHITECTURE>%u</ARCHITECTURE>
+<PRODUCTTYPE>%u</PRODUCTTYPE>
+</FLIGHTID>
+<FLIGHTID>
+</DRIVER>
+<DRIVER>
+</SERVICE>
+<SERVICE>
+</CLASSGUID>
+<CLASSGUID>
+</EXTENSIONSUBMISSIONIDS>
+<EXTENSIONSUBMISSIONIDS>
+</SUBMISSIONID>
+<SUBMISSIONID>
+</HARDWAREID>
+<HARDWAREID>
+</INFVERSION>
+<INFVERSION>
+</INFDATE>
+<INFDATE>
+</INFNAME>
+<INFNAME>
+</DESCRIPTION>
+<DESCRIPTION>
+</DEVICE>
+<DEVICE>
+</DEVICES>
+<DEVICES>
+Owners
+ImagePath
+System\CurrentControlSet\Services
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+BootStatus
+TempDestination
+CMachineCrashSettings::LoadSettings
+onecore\windows\feedback\core\werfault\kernel\crashsettings.cpp
+LogEvent
+Overwrite
+AlwaysKeepMemoryDump
+PersistDumpDiskSpaceLimit
+MinidumpsCount
+%SystemRoot%\Minidump
+MiniDumpDir
+Failed to read settings for MiniDumpDir
+CCrashControlSettings::LoadSettings
+Failed to read settings for DumpFile
+MoveAndSecureFile
+onecore\windows\feedback\core\werfault\kernel\kernelhelper.cpp
+Overwrite is false and file exists
+Failed to create the file %ws for write
+MoveFileEx failed
+QueryVolumeFreeSpace
+FreeVolumeSpaceMB
+PathCchStripToRoot failed
+GetDiskFreeSpaceExW failed
+Invalid number of command line params passed. Params passed: %d
+onecore\windows\feedback\core\werfault\user\userfault.cpp
+No shared mem handle passed
+Invalid process id was passed
+Invalid initiating process id was passed
+No shared mem handle or process id was passed
+OpenProcess failed for faulting pid %d (0x%x)
+OpenProcess failed for initiating pid %d (0x%x)
+OpenProcess failed for self, pid %d (0x%x)
+Crash
+onecore\windows\feedback\core\werfault\user\snapshot.cpp
+Unexpected snapshot status present in the shared data %x
+PssNtCaptureSnapshot failed, Status=0x%x
+Invalid number of command line params. Params expected %d, passed: %d
+WaitOnSnapshot
+Open process failed for pid: %d
+AppRecorderCount
+AppRecorderVersion
+GlobalFlag
+VerifierFlags
+PageHeapFlags
+PageHeapSizeRangeStart
+PageHeapSizeRangeEnd
+PageHeapRandomProbability
+PageHeapDllRangeStart
+PageHeapDllRangeEnd
+PageHeapTargetDlls
+PageHeapFaultProbability
+PageHeapFaultTimeOut
+AutoVerifierFlags
+AutoVerifierCount
+AutoVerifierTimeDuration
+AutoVerifierBucketID
+StackTraceDatabaseSizeInMb
+MinRamAmount
+Version
+VerifierDlls
+WerDiagController.dll
+PageHeapVirtualMemoryPercent
+PageHeapCommitMemoryPercent
+IptOption
+IptNumTries
+IptBufferSize
+IptTimeStamp
+IptTraceDurationInDays
+APPCRASH
+MoAppCrash
+0x%08X
+CriticalProcessFault2
+%08Ix
+CFGSUP
+OsMitigation
+MoCFGSUP
+MoOsMitigation
+MoBEX
+InPageCoFire
+InPageError
+%s\system32\cofire.exe
+"%s" "%s" "%s"
+\Device\LanmanRedirector
+psapi.dll
+GetMappedFileNameW
+sfc_os.dll
+SfcIsFileProtected
+FindFirstFileNameW
+FindNextFileNameW
+wdi.dll
+vrfcore.dll
+verifier.dll
+werdiagcontroller.dll
+VerifierGetInfoForException
+AutoVerifierV2
+%s/%x
+MoAutoVerifier
+Autoverifier
+Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\%s\Autoverifier
+%s:%s@%s
+%s@%s
+OriginalBucket
+QueryOriginalBucket
+Software\Microsoft\Windows\Windows Error Reporting\Plugins
+LastPromptedTime
+AutoverifierEnabled
+Software\Microsoft\Windows\Windows Error Reporting\Plugins\Autoverifier
+ImageExecutionOptions
+SYSTEM\CurrentControlSet\Control\Session Manager
+Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\%s
+Software\Microsoft\Windows\Windows Error Reporting\RuntimeExceptionHelperModules
+OutOfProcessExceptionEventCallback
+OutOfProcessExceptionEventSignatureCallback
+OutOfProcessExceptionEventDebuggerLaunchCallback
+ApplicationRecorder
+Software\Microsoft\Windows\Windows Error Reporting\Plugins\AppRecorder
+AppRecorderEnabled
+%d-AppRecorderEnabled
+psr.exe
+%s /stop
+WerAppRecorderNonResponsive
+AppRecorder
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+%s %s
+_unloaded
+Out of memory.
+Cannot construct mod name signature.
+Cannot log ETW event, Error %d
+StackHash12_%03x
+TextHash12_%03x
+0.0.0.0
+00000000
+kernelbase
+user32
+WmiPrvSE.exe
+dllhost.exe
+taskhost.exe
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+Software\Microsoft\TTD
+RecordingPolicy
+.exe.ttdconfig
+TTDRecordCPU.dll
+onecore\windows\feedback\core\werplugin\lib\ttdplugin.cpp
+iData
+%ws%ws
+Software\Microsoft\Windows\Windows Error Reporting\Plugins\DriverVerifier
+Driververifier
+VerifyDrivers=
+VerifyFlags=
+Bucket=
+Too large size
+Software\Microsoft\Windows\Windows Error Reporting\Plugins\FDR\CurrentSession
+SessionSettings
+AppPath
+LogPath
+ProcID
+Microsoft\Windows\FDR
+%s\%s\%u-%u.etl
+FDR_FLUSH_MESSAGE
+%s-%d
+\Device\IPT
+SYSTEM\CurrentControlSet\Control\WMI\Autologger\Microsoft-OCA-IPT
+BufferSize
+{C712AF3D-ED1E-46A9-B843-E9014D29CAEE}
+LogFileMode
+MinimumBuffers
+EnableKernelFlags
+Status
+Start
+api-ms-win-eventing-controller-l1-1-0.dll
+StartTraceW
+Microsoft-OCA-IPT
+bad allocation
+WIN://SYSAPPID
+onecore\shell\lib\calleridentity\calleridentity.cpp
+HKCU\
+HKLM\
+HKCR\
+HKCC\
+HKEY_CURRENT_USER\
+HKEY_LOCAL_MACHINE\
+HKEY_CLASSES_ROOT\
+HKEY_CURRENT_CONFIG\
+HKEY_USERS\
+dc.xpmoddata
+dc.xpmodmini
+dc.xpmodmem
+dc.OnDemandKdmp
+dc.expmoddata
+dc.expmodmini
+dc.expmodmem
+dc.CustomDump
+dc.xpminidump
+dc.xpmemdump
+dc.noreflect
+dc.forcenativedump
+NoReflection
+Abandoning reflection due to server request
+Attempting to reflect reporting process!
+Reflection/ReserveMachineQueueDirectory attempt failed: 0X%X
+Reflection attempt failed: 0X%X
+Falling back to non-reflected dump for reflection request
+Attempting to cross-proc reporting process!
+Open process failed unexpectedly: 0X%X
+Out of cross process pid space
+elevated
+non-elevated
+ReserveMachineQueueDirectory failed: 0x%x
+KernelDump failed: 0x%x
+CollectCrossProcessModuleDumps failed: 0x%x
+CollectCrossProcessDumps failed: 0x%x
+TTD recording not allowed: 0x%x
+Control Time Travel Debugging failed: 0x%x
+Could not collect xproc for reflection: 0x%x
+Could not collect dump for reflection cross process: 0x%x
+false
+CollectReflectionDump failed with: 0x%x
+Could not collect dump for cross process: 0x%x
+Could not collect cross dump for loaded module %ws: 0x%x
+Found %u native processes for xproc module: %s
+Found %u x86 processes for xproc module: %s
+ElevatedDataCollectionStatus.txt
+.dbgcfg.ini
+[UserModeDump]
+default=%s
+memory=%s
+module=%s
+WinSta0
+default
+Global\Microsoft.Windows.Setup
+UserVerticalCrashed
+PartA_PrivTags
+ExceptionCode
+WER_Spew
+PartA_PrivTags
+HRESULT
+LineNumber
+FailingCode
+FailingFunction
+UserMessage
+UtilVerifyFinalPath_Exit
+PathVerificationFailure
+ExpectedPath
+ActualPath
+UtilVerifyFinalPath_Copy
+UtilVerifyFinalPath_CopyRawChars
+UtilVerifyFinalPath_hFile
+UtilVerifyFinalPath_PassLowRights
+UtilVerifyFinalPath_Entry
+pszExpectedPath
+UtilGetFinalPathByHandle_hFile2
+UtilGetFinalPathByHandle_FinalPathRealloc
+newSize
+UtilGetFinalPathByHandle_hFileUnexpected
+UtilGetFinalPathByHandle_hFile1
+UtilGetFinalPathByHandle_FinalPathAlloc
+finalPathSize
+UtilGetFinalPathOnUnmountedVolume_Mismatch
+finalPathStr
+pathBuffer
+UtilGetFinalPathOnUnmountedVolume_After
+finalPathStr
+UtilGetFinalPathOnUnmountedVolume_Replace
+UtilGetFinalPathOnUnmountedVolume_Before
+finalPathStr
+UtilGetFinalPathOnUnmountedVolume_hFileStore
+storePathStr
+UtilGetFinalPathOnUnmountedVolume_CreateFile
+storePathStr
+UtilGetFinalPathOnUnmountedVolume_RegGetString
+UtilGetFinalPathOnUnmountedVolume_Copy1
+UtilGetFinalPathOnUnmountedVolume_Path
+pathBuffer
+UtilGetFinalPathOnUnmountedVolume_hFile
+UtilGetTempDirPath_Exit
+pwszTempDir
+UtilGetTempDirPath_GetFinalPath
+UtilGetTempDirPath_CreateDirectory
+pwszTempDir
+UtilGetTempDirPath_GetTempPath2
+UtilGetTempDirPath_BadArgs
+UtilGetFinalPath_Exit
+strTargetPath
+UtilGetFinalPath_Comparing
+lpFileName
+strTargetPath
+UtilGetFinalPath_ExtendedLength
+strTargetPath
+UtilGetFinalPath_hFile
+UtilGetFinalPath_CreateFile
+lpFileName
+UtilGetFinalPath_Entry
+lpFileName
+WERDumpCollectionStatus
+PartA_PrivTags
+CodeSite
+ReportId
+DumpType
+DumpPath
+HangReportError
+PartA_PrivTags
+EventName
+IntegratorReportId
+Message
+ReportId
+WerVerticalDisabled
+PartA_PrivTags
+Vertical
+Reason
+WerHamActivityCallback
+PartA_PrivTags
+Reason
+TerminateReason
+WerKernelDumpDeletionStatus
+PartA_PrivTags
+AlwaysKeepMemoryDump
+DumpLimitMBytes
+FreeSpaceMBytes
+DeleteResult
+WerKernelDumpProcessingStatus
+PartA_PrivTags
+OpenDumpFileResult
+ReadDumpHeaderResult
+LoadCrashRegistrySettingsResult
+BootStatus
+MoveDumpFileResult
+ConvertDumpFileResult
+OSCrash
+PartA_PrivTags
+BootId
+BugCheckCode
+BugCheckParameter1
+BugCheckParameter2
+BugCheckParameter3
+BugCheckParameter4
+IsValidDumpFile
+DumpFileSize
+DumpFileAttributes
+ReportId
+SystemErrorReporting
+PartA_PrivTags
+EventId
+EventType
+ExtraInfo1
+ExtraInfo2
+ExtraInfo3
+Microsoft.Windows.WindowsErrorReporting
+Microsoft.Windows.WERVertical
+Microsoft.Windows.FaultReporting
+Microsoft.Windows.WERVertical
+WerFault.pdb
+.rdata$brc
+.rdata$T$brc
+.rdata$r$brc
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.giats
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.imrsiv
+.data$brc
+.data$r$brc
+.data$rs$brc
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+8&&uN
+u$WSQ
+PQVVRh
+PQRRSh(
+X[_^]
+v$hl,@
+v h@-@
+v hX-@
+Vhl-@
+Z\9;s
+~p_^]
+D$@Pj
+D$(h8.@
+PVWQRj+
+G$;G(u
+PQWWh
+9f;:u
+9f;:u
+9f;:u
+9f;:u
+9f;:u
+9f;:u
+WhP @
+T$pRQ
+PQRj+
+PQRj+
+PVWQRj+
+zumhP @
+tOjLY
+j\Xf9
+r9joX
+D$ v;Wj
+D$8Pj
+D$8Pj
+D$hVP
+Ph(5@
+Ph,5@
+t=h@5@
+tTh\5@
+QQhh5@
+VWjbZ
+VWjkZ
+Vhd5@
+Vhd5@
+Shd5@
+97s/j
+PQQSVW
+PSSSSSSSjZj
+PSSSSSSSjSj
+PSSSSSSSj
+t$$Wj
+D$$Ph
+D$(Ph
+t}9\$(tw
+QPh06@
+D$@PV
+T$0;}
+QVVhP7@
+PQQhx
+Qh@:@
+QVWQj
+PPh8:@
+L$0+D$
+9D$0t
+D$(9D$ t
+Vhd5@
+93uHWV
+Vhd5@
+Vhd5@
+VhP @
+QQSVW
+@f94Bu
+PWVSR
+j\Xf9E
+D$0SVW
+t}hP @
+L$<_^[3
+t*hP @
+SVWhP
+VhT<@
+VhT<@
+r<hp=@
+3hP @
+D$`VSP
+L$(Sh
+PPShp
+VWhP @
+PQRj+
+PhT?@
+PSSSSSS
+bSSSj
+f9>t0
+QVWQ3
+Sh@@@
+Sh`@@
+PQRj+
+]$VW3
+QWPjYh
+_^[Y]
+f9>t?
+VhtA@
+Sh|A@
+D$<QP
+jBPh(B@
+QSVWj\
+tAPShl;@
+PjfhXO@
+ShX4@
+Vh0D@
+9G,t69E
+QhX7@
+PhX7@
+@_^[]
+9{4t2
+Ph$M@
+9~0t4
+7@_^]
+QhxN@
+tChP @
+9_0t$
+j1j8Q
+;D$ t/
+PQQjB
+D$(PQSShw
+QSVWj1
+PQRjoh
+D$xSV
+D$(PP
+D$(PP
+NdWj,
+D$`Pj
+D$$Pj
+9y$t,
+VWWQhPOB
+ h<P@
+Jh\P@
+!hpP@
+uU9~0uP
+O43O4
+Ph0R@
+t$XSWVP
+D$ Pj
+t.9\$
+Ph@S@
+QSVW3
+Ph@S@
+PPPQSP
+QVVh\T@
+j1j8V
+SVWhP @
+PWVj$
+PAGEr[9
+DUMPuN
+DU64uZ
+SVWjpX
+Ph,V@
+QQSVW
+VWj`j
+PPQh`
+QhxN@
+ShpV@
+,SVW3
+WhpV@
+@QSQQ
+PQRj+
+PQhx[@
+Ph0W@
+tN;L$
+D$Lj@P
+D$8f9L$
+D$<h [@
+D$8f9L$
+D$<hX7@
+D$8f9L$
+D$Lj@P
+D$8f9L$
+D$(PS
+D$ 9D$
+u#hP @
+?hP @
+0VWjFXjHf
+VVVVVVW
+PSSSSSSSj
+WSSSS
+WVPSV
+j>Xj<f
+xMC;]
+x>F;w
+_^[Y]
+QSVW3
+_^[Y]
+Ph$]@
+_^[Y]
+PhD_@
+PPPhX_@
+Ph0W@
+Ph0`@
+PhD`@
+toPPPh|`@
+Wh|`@
+Ph0a@
+PhPa@
+SSh\a@
+j YS3
+Ph$]@
+u=hP[@
+Y9;u5
+VhPh@
+tshli@
+tYhxi@
+L$(9L$
+L$ QP
+D$0Vj8PV
+Y9L$8v
+ugf9H
+uaf9H
+u[f9H
+uUf9H
+D$ PS
+Pj^h<l@
+D$0Pj@S
+%hP @
+DSVW3
+\$4SV
+D$4PV
+D$ +D$
+QSj<h
+Vh$k@
+Vh4k@
+D$ 9D$
+tsj_XP
+t2j_[f9
+Nj_[f9
+uS;\$
+7hx0@
+D$ 9D$
+t#f97t
+jlYPh
+D$ Pj
+L$t_^[3
+4SVWj
+|$$BDEWt1
+QQh@m@
+u$h(m@
+u$h\l@
+YY_^]
+D$(PQ
+T$0QQV
+L$4^3
+PQSVW
+PQSVW
+u'h|l@
+Vhd5@
+93uHWV
+Vhd5@
+Vhd5@
+VWj!^
+YYf97tU
+f92tG
+SSSSSPj!
+SSSSSPj!
+_^[Y]
+yohXp@
+y?hxp@
+PQQSVW
+4SVWQQP
+>PAGEu
+DUMPu
+>PAGEu
+DU64u
+>PAGEu8
+DUMPu/
+>PAGEu=
+DU64u4
+D$HVP
+3h0:@
+j2VVW
+PVj8j
+PVj9j
+D$$h V@
+t$ h,V@
+D$$h V@
+t$4SW
+9D$ t
+D$89D$0t
+8h4r@
+WhHr@
+y%hdr@
+PWWWWWW
+PPPhPs@
+D$ZVWh
+L$,WP
+D$ WWWWPWWWWWWS
+D$,PW
+D$`Pu5S
+D$`Phlt@
+Wh(q@
+Wh(q@
+Wh(q@
+98u|hlu@
+D$4PW
+98uKh
+D$`PS
+PhPv@
+QSVWhxv@
+_^[Y]
+Ph$w@
+Ph$w@
+y%h`w@
+Ph$w@
+ h|w@
+Ph$w@
+Ph$w@
+Sh8x@
+Shhq@
+y%htz@
+VhLz@
+VhLz@
+VhLz@
+u-SWh${@
+VhLz@
+VhLz@
+Whhq@
+Vh`{@
+Wh8x@
+Vh`{@
+Vh`{@
+y1Qj0h
+Vh`{@
+uvh$~@
+QhxN@
+t6Ph 
+PWh(q@
+Wh(q@
+PWh(q@
+VWh(q@
+u&Shh
+QhxN@
+Vh(q@
+PVh(q@
+f9>u5h
+Vhx~@
+u0WSh\
+WWWWWWW
+=VVVVVVV
+PPPPf
+Whx~@
+WWWWWWW
+:VVVVVVV
+PPPPf
+@PhX7@
+D$pj P
+D$hPQRRh}
+QQPWQ
+B(f9;t
+PAGEu~
+DUMPur
+jdC^;
+PAGEt*h8
+tMhP @
+QQQQh
+=DUMPt
+=DU64u
+QPVWQ
+HPAGEue
+LDUMPu\
+D$P8L$Hu
+uDh$~@
+Ph`}@
+f91t~QQ
+D$,SV
+L$(9E
+D$0PSSSSSS
+9\$$t
+\$$9L$ 
+D$0Pj
+D$<PVQ
+t$ WV
+L$$;L$ 
+D$4h\
+D$4+D$0
+D$89D$0t
+Pj8h4
+t&QVWV
+D$(9D$ t
+WWWWWW
+PWWWW
+PWWh,
+Php3@
+Ph83@
+Ph82@
+VQh83@
+Php1@
+Ph`2@
+Pj h\
+Pj hP
+Pj"h,
+SWVh|
+VWQRS
+SPj6h
+PQSSh
+}#Qh0
+SSSSS
+t$4WV
+<SVWQ3
+D$ Pj%S
+w'WSh
+uwhP @
+t6h@S@
+VhP @
+VhP @
+u(f98t
+9w|vQ
+0f;2u
+D$$PSSh
+F0Phd
+8f;9u
+8f;9u
+8f;9u
+8f;9u
+D$ 9D$
+93t+S
+VWj@_W
+D$,9D$$t
+D$<9D$4t
+D$L9D$Dt
+0f;1u
+@_[Y]
+8f;:u
+8f;:u
+8f;:u
+8f;:u
+8f;:u
+9C$u@
+PWWWWWW
+t`h N
+w8QPSR
+8f;:u
+10ESt
+CDh [@
++>Wh [@
+C4h [@
+CD;CHu
+s$;s(u
+s4;s8u
+CD;CHt
+Gh+GdSj
+0SVWj
+j _9}
+20ESt
+10ESt
+PPPPP
+WWWWWPj!
+YY^_[
+VhP @
+8f;9u
+8f;9u
+8f;9u
+8f;9u
+8f;9u
+D$4VW
+L$<_^3
+D$(SP
+f9:t%
+j Zf;
+teh@S@
+99t}P
+f9>tq
+zu*hP @
+QQSVW
+PPjLj
+WWWhx
+F0PSh
+F@PShh
+F4PSh
+9~H}2
+v$hl,@
+v h@-@
+v hX-@
+WWj'S
+<WWWj
+D$$f9
+f;D$$u
+9|$(rmWRQ
+PRQj3h
+^VVVj
+QQSVW3
+4h|;@
+C(;C,ur
+C8;C<uj
+CH;CLub
+CX;C\uZ
+CX;C\u
+CH;CLu
+C8;C<u
+y7Vh`
+yFVWh
+y7VWh
+PSSSSSSSj
+SVWhP @
+@_^[]
+rihP @
+PQSVW
+Y__^[
+5ineI
+5ntel
+QRPhP
+QRPhp
+QRPh0
+QRPhP
+QRPhp
+QRPh0
+QRPhP
+QRPhp
+Y__^[
+HamTerminateActivityHost
+HamConnectToServer
+HamDisconnectFromServer
+HamPopulateActivityPropertiesByClass
+HamCreateActivityForProcess
+HamStartActivityAsync
+SHGetFolderPathW
+SHCreateDirectoryExW
+GetPackageFullName
+GetPackageFamilyName
+EndDialog
+ChangeWindowMessageFilterEx
+RegisterWindowMessageW
+SendMessageW
+PostMessageW
+GetWindowThreadProcessId
+GetShellWindow
+IsHungAppWindow
+IsWindowEnabled
+GetWindow
+IsWindow
+ShowWindow
+XerDumpNotifyStart
+XerDumpNotifyComplete
+XerGetPackageIdentity
+WerUIpCheckWindow
+WerUIpHeadlessOrImersive
+WerUIpTaskDialogIndirect
+WerUIpSetWindowSubclass
+WerUIpRemoveWindowSubclass
+WerUIpDefSubclassProc
+WerUIpUIHandleWERWindowMsg
+ImmDisableIME
+SetupVerifyInfFileW
+PicRetrieveFileInfo
+PicFreeFileInfo
+CryptCATAdminAcquireContext
+CryptCATAdminCalcHashFromFileHandle
+CryptCATAdminEnumCatalogFromHash
+CryptCATCatalogInfoFromContext
+CryptCATAdminReleaseContext
+CryptCATOpen
+CryptCATEnumerateCatAttr
+CryptCATClose
+GetProcessWindowStation
+GetThreadDesktop
+GetUserObjectInformationW
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@std@@
+.?AVtype_info@@
+System\CurrentControlSet\Control\CrashControl
+_initterm
+_initterm_e
+_c_exit
+_register_thread_local_exe_atexit_callback
+api-ms-win-crt-runtime-l1-1-0.dll
+__CxxFrameHandler3
+__std_terminate
+_o___p___argc
+_o___p___wargv
+_o___p__commode
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___stdio_common_vsnprintf_s
+_o___stdio_common_vsnwprintf_s
+_o___stdio_common_vswprintf
+_o___stdio_common_vswprintf_s
+_o___stdio_common_vswscanf
+_o__callnewh
+_o__cexit
+_o__configthreadlocale
+_o__configure_wide_argv
+_o__controlfp_s
+_o__crt_atexit
+_o__errno
+_o__exit
+_o__get_initial_wide_environment
+_o__initialize_onexit_table
+_o__initialize_wide_environment
+_o__invalid_parameter_noinfo
+_o__purecall
+_o__register_onexit_function
+_o__seh_filter_exe
+_o__set_app_type
+_o__set_fmode
+_o__set_new_mode
+_o__wcsicmp
+_o__wcsnicmp
+_o__wcstoui64
+_o__wtoi
+_o__wtoi64
+_o_exit
+_o_free
+_o_isspace
+_o_malloc
+_o_terminate
+_o_tolower
+_o_towlower
+_o_wcscat_s
+_o_wcscpy_s
+_o_wcsncpy_s
+_o_wcstol
+_except_handler4_common
+__current_exception
+__current_exception_context
+memset
+_CxxThrowException
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+CryptReleaseContext
+CryptAcquireContextW
+CRYPTSP.dll
+GetModuleFileNameA
+RegQueryValueExW
+HeapFree
+GetModuleHandleExW
+ExpandEnvironmentStringsW
+EventUnregister
+RegOpenKeyExW
+SetErrorMode
+GetCurrentThreadId
+Sleep
+EventSetInformation
+FormatMessageW
+GetLastError
+OutputDebugStringW
+CloseHandle
+HeapAlloc
+EventRegister
+GetProcAddress
+GetProcessHeap
+EventWriteTransfer
+GetModuleHandleW
+FreeLibrary
+RegCloseKey
+DebugBreak
+LoadLibraryExW
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+InitializeSListHead
+WaitForSingleObject
+IsValidSid
+GetLengthSid
+CopySid
+WaitForSingleObjectEx
+RegGetValueW
+GetFileAttributesW
+CreateFileW
+GetSystemWow64DirectoryW
+GetSystemDirectoryW
+QueryFullProcessImageNameW
+GetTokenInformation
+GetSidSubAuthorityCount
+GetSidSubAuthority
+OpenProcessToken
+GetFinalPathNameByHandleW
+CompareStringOrdinal
+GetLongPathNameW
+FindFirstFileW
+FindNextFileW
+WriteFile
+CoCreateInstance
+SetLastError
+ReleaseSemaphore
+ReleaseMutex
+CoInitializeEx
+OpenSemaphoreW
+RegCreateKeyExW
+RegSetValueExW
+CoTaskMemFree
+AllocateAndInitializeSid
+CheckTokenMembership
+GetFileVersionInfoSizeExW
+GetFileVersionInfoExW
+VerQueryValueW
+CreateWellKnownSid
+ReadProcessMemory
+GetProductInfo
+GetNativeSystemInfo
+GetThreadUILanguage
+GetUserGeoID
+CreateProcessW
+OpenSCManagerW
+CloseServiceHandle
+CoUninitialize
+GetTickCount64
+OpenServiceW
+OpenProcess
+GetWindowsDirectoryW
+StartServiceW
+SetProcessInformation
+FindClose
+CreateMutexExW
+FreeSid
+CreateSemaphoreExW
+CreateDirectoryW
+SetKernelObjectSecurity
+GetTempPath2W
+GetVersionExW
+DeleteFileW
+UuidCreate
+ReadFile
+GetFileSizeEx
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-1.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-3.dll
+api-ms-win-core-file-l1-2-4.dll
+RPCRT4.dll
+GetUserDefaultUILanguage
+api-ms-win-core-localization-obsolete-l1-2-0.dll
+EtwRegisterTraceGuidsW
+EtwGetTraceEnableLevel
+EtwGetTraceLoggerHandle
+EtwTraceMessage
+EtwGetTraceEnableFlags
+EtwUnregisterTraceGuids
+RtlNtStatusToDosError
+NtQueryInformationThread
+NtQueryInformationProcess
+RtlImageNtHeaderEx
+RtlGetVersion
+NtOpenEvent
+NtQueryEvent
+NtClose
+NtSetInformationFile
+NtQuerySystemInformation
+RtlInitUnicodeString
+NtCreateFile
+ntdll.dll
+WerpCreateMachineStore
+WerpSetExitListeners
+WerpAddTerminationReason
+WerpValidateReportKey
+WerpGetStorePath
+RegisterWaitChainCOMCallback
+OpenThreadWaitChainSession
+GetThreadWaitChain
+CloseThreadWaitChainSession
+WerpReportCancel
+WerpAddFile
+WerpCreateIntegratorReportId
+WerpSetIntegratorReportId
+WerpSetTelemetryAppParams
+WerpSetProcessTimelines
+WerReportCreate
+WerpGetReportId
+WerpSetCallBack
+WerpSetReportIsFatal
+WerReportSubmit
+WerpGetNumFiles
+WerpGetFileByIndex
+WerpAddAppCompatData
+WerReportAddDump
+WerpAddRegisteredDataToReport
+WerpGetExtendedDiagData
+WerpAddMemoryBlock
+WerpFreeString
+WerReportCloseHandle
+WerpAuxmdFree
+WerpFreeUnmappedVaRanges
+WerpFlushImageCache
+WerpForceDeferredCollection
+WerpTraceSnapshotStatistics
+WerpTraceAuxMemDumpStatistics
+WerpTraceUnmappedVaRangesStatistics
+WerpTraceImageCacheStatistics
+WerpResetTransientImageCacheStatistics
+WerpStitchedMinidumpVmQueryCallback
+WerpStitchedMinidumpVmPreReadCallback
+WerpStitchedMinidumpVmPostReadCallback
+WerpGetReportFlags
+WerpSetReportFlags
+WerReportSetUIOption
+WerpIsTransportAvailable
+WerpRestartApplication
+WerpAuxmdInitialize
+WerpAuxmdDumpProcessImages
+WerpAuxmdDumpRegisteredBlocks
+WerpAuxmdFreeCopyBuffer
+WerpAuxmdHashVaRanges
+WerpAuxmdMapFile
+WerpInitializeImageCache
+WerpUnmapProcessViews
+WerpSetReportNamespaceParameter
+WerpSetDynamicParameter
+WerReportSetParameter
+WerpSetEventName
+WerpHashApplicationParameters
+WerpSetReportApplicationIdentity
+wer.dll
+MiniDumpWriteDump
+SymGetModuleBase64
+SymGetModuleInfoW64
+SymSetExtendedOption
+SymInitialize
+StackWalk64
+SymFunctionTableAccess64
+SymCleanup
+dbghelp.dll
+wcsnlen
+wcsncmp
+wcsrchr
+wcsstr
+wcschr
+TelGetWerTelemetryMode
+DiagnosticDataSettings.dll
+CoGetActivationState
+CoGetCallState
+WerGetFlags
+GetApplicationRestartSettings
+I_QueryTagInformation
+ApiSetQueryApiSetPresence
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-com-private-l1-1-0.dll
+api-ms-win-core-windowserrorreporting-l1-1-0.dll
+api-ms-win-service-private-l1-1-0.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+GetModuleHandleExA
+GetProcessId
+OpenThread
+GetThreadContext
+ConvertSidToStringSidW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+DuplicateHandle
+GetTickCount
+IsWow64Process
+OpenFileMappingW
+MapViewOfFile
+CreateThreadpoolWait
+SetThreadpoolWait
+SetEvent
+WaitForMultipleObjects
+WaitForThreadpoolWaitCallbacks
+CreateEventW
+CreateThread
+CloseThreadpoolWait
+LocalFree
+UnmapViewOfFile
+VirtualQuery
+CheckRemoteDebuggerPresent
+SetEnvironmentVariableW
+GetPriorityClass
+SetPriorityClass
+GetStringTypeExW
+ResetEvent
+EqualSid
+K32GetModuleFileNameExW
+GetEnvironmentVariableW
+InitializeCriticalSectionEx
+DeleteCriticalSection
+RtlCompareMemory
+PssQuerySnapshot
+PowerSettingRegisterNotification
+WaitOnAddress
+WakeByAddressSingle
+LeaveCriticalSection
+EnterCriticalSection
+TryEnterCriticalSection
+PowerSettingUnregisterNotification
+GetThreadTimes
+GetCurrentThread
+GetProcessTimes
+QueryPerformanceFrequency
+QueryUnbiasedInterruptTime
+LoadStringW
+GetExitCodeProcess
+PssWalkMarkerCreate
+GetThreadPriority
+SetThreadPriority
+PssWalkMarkerFree
+GetThreadId
+RegEnumValueW
+RegDeleteValueW
+CLSIDFromString
+ProgIDFromCLSID
+VirtualAlloc
+VirtualFree
+CreateMutexW
+GetSystemInfo
+LoadLibraryW
+StartTraceW
+StopTraceW
+CreateFileMappingW
+FileTimeToSystemTime
+IsWow64Process2
+SearchPathW
+RegDeleteTreeW
+WaitForThreadpoolTimerCallbacks
+ReleaseSRWLockExclusive
+CloseThreadpoolTimer
+AcquireSRWLockExclusive
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+AcquireSRWLockShared
+BCryptCreateHash
+BCryptHashData
+BCryptFinishHash
+BCryptDestroyHash
+LCMapStringW
+GetCommandLineW
+OpenMutexW
+RegQueryInfoKeyW
+CompareFileTime
+RegEnumKeyExW
+FileTimeToLocalFileTime
+GetFileAttributesExW
+CM_Get_Device_ID_List_SizeW
+CM_MapCrToWin32Err
+CM_Get_Device_ID_ListW
+CM_Locate_DevNodeW
+CM_Get_DevNode_PropertyW
+QueryServiceConfigW
+GetSystemDefaultLangID
+SetFileAttributesW
+MoveFileExW
+PathCchStripToRoot
+GetDiskFreeSpaceExW
+PssDuplicateSnapshot
+GetKernelObjectSecurity
+GetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+GetLogicalDriveStringsW
+QueryDosDeviceW
+GetDriveTypeW
+K32EnumProcessModules
+RegSetKeyValueW
+GlobalMemoryStatusEx
+OpenEventW
+VirtualQueryEx
+RegGetKeySecurity
+RegSetKeySecurity
+CoTaskMemAlloc
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-processsnapshot-l1-1-0.dll
+api-ms-win-power-setting-l1-1-0.dll
+api-ms-win-core-realtime-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-eventing-controller-l1-1-0.dll
+bcrypt.dll
+api-ms-win-devices-config-l1-1-1.dll
+api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-registry-l1-1-1.dll
+QueryTraceW
+EnableTrace
+RegDeleteKeyW
+RegOpenKeyW
+SetEntriesInAclW
+RegDeleteKeyA
+api-ms-win-eventing-legacy-l1-1-0.dll
+api-ms-win-core-registry-l2-1-0.dll
+api-ms-win-security-provider-l1-1-0.dll
+CreateToolhelp32Snapshot
+Thread32First
+Thread32Next
+Module32FirstW
+Module32NextW
+GetProcessIoCounters
+CommandLineToArgvW
+Process32FirstW
+Process32NextW
+BuildSecurityDescriptorW
+api-ms-win-core-toolhelp-l1-1-0.dll
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+api-ms-win-shcore-obsolete-l1-1-0.dll
+api-ms-win-security-trustee-l1-1-0.dll
+NtSuspendProcess
+NtResumeProcess
+RtlCreateProcessReflection
+NtPowerInformation
+NtSystemDebugControl
+RtlFreeSid
+NtAlpcSendWaitReceivePort
+NtAlpcConnectPort
+RtlAllocateAndInitializeSid
+NtWaitForSingleObject
+EtwEventWriteNoRegistration
+ZwUpdateWnfStateData
+ZwQueryWnfStateNameInformation
+DbgPrintEx
+NtQueryObject
+NtQueryInformationToken
+RtlSecondsSince1970ToTime
+ZwQueryInformationThread
+DbgPrint
+PssNtCaptureSnapshot
+RtlSetThreadErrorMode
+RtlGetUnloadEventTraceEx
+RtlAdjustPrivilege
+NtSetSystemInformation
+NtFreeVirtualMemory
+NtAllocateVirtualMemory
+NtDeviceIoControlFile
+RtlCompareUnicodeString
+RtlNtStatusToDosErrorNoTeb
+RtlAllocateHeap
+RtlFreeHeap
+WerpInitiateCrashReporting
+faultrep.dll
+WerpReportSprintfParameter
+WerpSetTelemetryKernelParams
+WerpSetIptEnabled
+WerpPromptUser
+WerpSetTtdStatus
+WerReportAddFile
+WerpReserveMachineQueueReportDir
+CoUnmarshalInterface
+CoSetProxyBlanket
+InitializeCriticalSectionAndSpinCount
+OLEAUT32.dll
+memcmp
+memcpy
+memmove
+WEVT_TEMPLATE
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+    <assemblyIdentity
+        version="1.0.0.0"
+        processorArchitecture="x86"
+        name="Microsoft.Windows.Feedback.Watson"
+        type="win32"
+    />
+    <description>watson</description>
+    <dependency>
+        <dependentAssembly>
+            <assemblyIdentity
+                type="win32"
+                name="Microsoft.Windows.Common-Controls"
+                version="6.0.0.0"
+                processorArchitecture="x86"
+                publicKeyToken="6595b64144ccf1df"
+                language="*"
+            />
+        </dependentAssembly>
+    </dependency>
+    <asmv3:application>
+       <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings"> 
+            <dpiAware>true</dpiAware> 
+       </asmv3:windowsSettings>
+    </asmv3:application>
+    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+        <security>
+            <requestedPrivileges>
+                <requestedExecutionLevel
+                    level="asInvoker"
+                    uiAccess="false"
+                />
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+</assembly>
+sj:z7x
+zzz:r
+vDDDdlz
+wDDDD
+tDDDDFVw
+tDDDDgwx
+tDDwx
+xxxxzz
+e|tLG
+||tDl
+v|DlLl
+DllLl
+DLllL
+zzz3w
+veLLlg{
+wtDDDDF
+DFDFW;;
+wtDDWsv{p
+DEg73
+{wlg7
+{c\\]Y
+da^\\_
+aaaacZz
+WE0(###'b
+#(((0:
+ +9BJL
+>!-+-N
+/--9Q
+Q!C/C-D
+CCCC/;
+%DDCD0
+*DFDE&
+9DGGE
+?DOO;
+"###P
+isiss
+B;PO( "##$)
+hiiiq
+B;WG "#$$337
+nhfiit
+KCW;"##$$333<
+#$$$3355<
+"#$$333555S
+##$$$335566
+% "#$$$3355666=
+"##$33355566T
+##$$$3355666X
+"#$$33555666
+"#$$33354466T
+"""$$'1<GU
+aUONV
+lsZRRP
+iytttZrW
+h~yxxxsts
+cY~xx[
+y~x~]
+"$$$\
+$8884
+( ' (
+LLCv||
+<!)))
+~ux~k
+D'=='
+_}vut
+d{{{c
+ccv{b
+pvccvg
+]c[vc
+,//10
+,/113
+,,/1.9
+,-/2K
+smjlO
+totk\
+GA,% 
+ICW{ug
+!!.12
+!-./3
+`"!boe
+yyta8A+7%_kkkc
+2>Q1q?C.z{
+/JKIH'R(
+W\ON\&96
+ckhkkkoootttw
+IDATx
+!.DQ$
+smE?)1
+EQGJ9g
+kt:u:
+RdH1#
+k-RIz
+27-J/ B
+.Py>o
+`08R[
+cZCf@
+.+Y[0
+ZF#2D
+K4h-06 
+uK~a]
+atv(W
+$Ir(Q(
+C5rpH
+[55JR
+5YJo`0
+K6OqZ
+(&t;M
+aK-0t
+*<tYE
+/-{cne:
+n7b}-
+C*7ph^
+yh*n!
+#/m_HS
+~^}Q{
+eyypL
+{MfDE
+G?w?/\n
+%Z@!Z
+e{imA
+I!qnW
+:+k:M
+n_[;l
+?y'kk]&
+X!X?9ap
+Yn"$`g`&`
+hLj4h
+dXdr_
+]?`}]a
+!RE`-
+C-R97
+5t:mN
+aMwQRUT{<
+E5vv4
+3qqq!PJ
+38=Op
+[Hf)"
+<q^XK
+QLK6s 
+@IJg^u
+9'`@F
++CdyZ
+8}""Mu
+!X&XUm
+8)fs)
+soe}}
+pL%pL
+IDATg
+g.e|3 
+ffefe
+,o*k0
+-tZ[)
+5iXzG
+AvI&c\
+3)SvV
+10,2G 
+4:o/7E
+C<YBJ?
+\goLf
+/)E>Q
+%$#bc
+k KLZ?|
+0,//Q.]
+t2`Q,
+v8zj|u
+EnnLqf2
+S8nRdV
+1c="61
+3kEvM
+1Y>B!
+Q"IYKZ}
+6F+&I
+dq!lsU
+?M#Xa<
+Ji{^e
+Mo2$IJx
+:UM*H
+,+/-I
+wrMoOhg
+2<Ze8
+4+H2g
+, gv#
+2?7GT
+G?9"!
+j2!Ib
+\$h<B
+3S 3?2
+/hCP*!G
+Y"*Kd
+h4z\+5
+3gfYZ
+ezGc4
+|'32c
+{W9h_ak
+1xaH9\c
+@aV^p
+/ILF1
+YZ^dqa
+Has |_
+D#PJc
+R%I=V
+5666h
+__aee
+X)|O#%H
+d2A)E
+K%ffg
+p,: HA
+*f8Q)57H
+6)Ee&
+vLp{B
+_C9*g
+{las.
+`/%}N
+X_GJI
+l}~In
+R{Oim
+iYRj2
+(2J)<
+|7#PV
+,pFJy
+IDATt
+GGG2I
+=B(*N
+)G_V+5
+)FrC~
+RXzf 
+_,X:-z
+wMtd!v
+!(7Kx
+e}2m[
+Er&DIa
+P@o_/<
+r8IIL:Z-
+UU1??
+coz7L
+^pEie
+hOO&>
+arOi9o
+\T1rv?t
+{{y~A
+MnZPw
+&P/70
+eY|uuU
+CUU666
+Qo6pi
+YdsY\
+>{pp@+
+Kccc3
+.ib:?
+f1Xw 
+==66v
+j?,b!
+'@ Tk
+T3%X_
+hIDATg
+k?DkZ
++}0-3T
+^IH}D#
+HSAZM
+XYYYF+
+}p'>q
+&Qq+~d
+p/GVv
+o+k#X
+q8}Up
+a,M.cbd
+12==}
+^>zmT
+.(gM\
+3fAt&!
+CFFF000
+Fh+w"
+&''1??
+2F)=G)}
+X,bhh(
+/s-dsA
+!aN=M
+yUUOy
+ekii)O
+uuuzgggaaaa1SSS
+E899a99:ZnnnZ
+??A0[[^L}}
+pps7tuxf
+`{{{-
+M++,K0001
+ $ B6
+?>@8__ajNeS
+##$#XX[Iy}
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Windows Problem Reporting
+FileVersion
+10.0.22621.1017 (WinBuild.160101.0800)
+InternalName
+WerFault
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+WerFault.exe
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.1017
+VarFileInfo
+Translation
+lRYR\
+CHANp
+Microsoft-Windows-WER-Diag/Operational
+TTBL<
+EventData
+NON_SYSTEM_FILE_CORRUPTED
+CorruptedFilePath
+CrashedAppName
+ExceptionCode
+ExceptionStatusCode
+CorruptedFilePath
+CrashedAppName
+ExceptionCode
+ExceptionStatusCode
+EventData
+FTH_EXCEPTION_OF_INTEREST
+ExceptionCode
+ExceptionCode
+EventData
+PINDLL_OF_INTEREST
+ProcessId
+ModuleNameLength
+ModuleName
+ProcessId
+ModuleNameLength
+ModuleName
+TEMPp
+EventData
+CRASH_ON_LAUNCH
+ProcessId
+ModuleName
+StartTime
+CrashTimeFromStart
+ProcessId
+ModuleName
+StartTime
+CrashTimeFromStart
+EventData
+CFG_VIOLATION
+AppPath
+ProcessId
+ProcessStartTime
+Is64Bit
+CallReturnAddress
+CallReturnModName
+CallReturnModOffset
+ CallReturnInstructionBytesLength
+CallReturnInstructionBytes
+CallReturnBaseAddress
+CallReturnRegionSize
+CallReturnState
+CallReturnProtect
+CallReturnType
+TargetAddress
+TargetModName
+TargetModOffset
+TargetInstructionBytesLength
+TargetInstructionBytes
+TargetBaseAddress
+TargetRegionSize
+TargetState
+TargetProtect
+TargetType
+AppPath
+ProcessId
+ProcessStartTime
+Is64Bit
+CallReturnAddress
+CallReturnModName
+CallReturnModOffset
+CallReturnInstructionBytesLength
+CallReturnInstructionBytes
+CallReturnBaseAddress
+CallReturnRegionSize
+CallReturnState
+CallReturnProtect
+CallReturnType
+TargetAddress
+TargetModName
+TargetModOffset
+TargetInstructionBytesLength
+TargetInstructionBytes
+TargetBaseAddress
+TargetRegionSize
+TargetState
+TargetProtect
+TargetType
+PRVAL
+Microsoft-Windows-WER-Diag
+OPCO0
+win:Info
+LEVL@
+win:Informational
+KEYW8
+win:WDIDiag
+CHAN0
+System
+TTBL4
+EventData
+param1
+param1
+t%oD^f
+EventData
+param1
+param2
+param3
+param1
+param2
+param3
+EventData
+SuspectedDriver
+SuspectedDriver
+$Um0&
+EventData
+param1
+param2
+param1
+param2
+PRVAl
+Microsoft-Windows-WER-SystemErrorReporting
+LEVLd
+win:Error
+win:Informational
+KEYWH
+win:EventlogClassic
+EVNTP
+Bugcheck
+BugcheckSaved
+BugcheckSavedSuspectedDriverName
+DeletingDumpFile
+SmssNotEnoughDiskSpace
+SmssOutOfMemory
+SmssUnableToCopyDumpFile
+SmssUnableToCreateTemporaryFile
+SmssUnableToOpenPageFile
+SmssUnableToOverwriteDumpFile
+SmssUnableToQueryVolume
+SmssUnableToReadCrashControl
+SmssUnableToReadPageFile
+UnableToConvertDumpFile
+UnableToMoveDumpFile
+UnableToReadRegistry
+UnknownBugcheck
+CHAN8
+Application
+TEMP`
+EventData
+EVENT_PROCESSTERMINATION_SELF
+param1
+param2
+param3
+ExitingProcessId
+param1
+param2
+param3
+ExitingProcessId
+TEMPp
+EventData
+%EVENT_PROCESSTERMINATION_CROSSPROCESS
+param1
+param2
+param3
+param4
+ExitingProcessId
+InitiatingProcessId
+param1
+param2
+param3
+param4
+ExitingProcessId
+InitiatingProcessId
+PRVA`
+Microsoft-Windows-ProcessExitMonitor
+LEVL@
+win:Informational
+KEYWH
+win:EventlogClassic
+ProcessTerminationCrossProcess
+ProcessTerminationSelf
+WEVT_TEMPLATE
+en-US
+<0@0H0P0h0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 60646D6H6X6\6l6p6
+7 7$74787H7L7\7`7p7t7
+8$8(888<8L8P8`8d8t8x8
+9(9,9<9@9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:`:l:x:
+;,;0;@;D;L;d;t;x;
+< <$<(<0<H<P<T<X<\<`<d<h<l<p<t<x<
+3F3n3
+7!7B7F7L7P7V7Z7t7
+82868R8V8\8`8f8j8
+8-:h:
+;O;`;m;
+<3<S<i<
+=-=G=X=
+>E>L>
+?6?i?
+0%000B0W0]0b0i0
+7H7R7^7k7
+7`8{8
+9+9c9m9
+:%:-:::
+;8;E;W;`;l;t;
+<8<E<W<`<l<t<
+<+=L=U=^=d=i=n=u=}=
+>*>F>
+? ?Y?
+121<1<2a2
+344b4
+6&6F6K6\6
+7-7>7D7[7b7n7|7
+8%8)8/8M8V8d8n8x8
+;!;=;G;m;w;};
+<!<+<6<;<U<i<{<
+=4=]=8?
+6$6Q6[6
+747d7
+8]8r8
+959B9S9
+9':::i:
+:H;a;
+<'<1<J<W<t<
+=,=l=v=
+=L>e>p>
+? ?6?D?e?
+141O1\1g1
+2+2;2R2{2
+3P3g3
+444F4b4y4
+6.6=6S6
+7"7<7h7
+8!868\8g8
+899B9I9P9Y9
+9]:}:
+;A;=<
+=c=m=
+>d?n?z?
+0F0_0k0
+161B1^1~1
+2F2z2
+3(3[3s3}3
+434c4
+5(636N6X607;7{7
+999h9t9
+9L:Z:n:s:
+;+;e;j;z;
+<'<Y<z<
+=5=G=Y=q=
+>4>V>
+>0?5?O?
+0;0~0
+1&1J1S1X1
+2.2d2
+313H3i3{3
+4T4_4d4t4
+5,656:6W6
+8'9,9<9n9
+: :%:;:\:b:g:
+;-;e;
+=8=J=Y=
+>B>`>e>v>
+091[1q1
+162@2F2V2[2
+3A3Z3
+424Q4c4h4
+5*5W5
+6;6F6t6z6
+6I7x7
+8I8N8
+8)94999O9U9Z9v9}9
+:O:z:
+;*;8;=;f;w;|;
+;^<e<
+>*?>?D?u?
+0*2u3
+32494k4
+4'5z5
+6(6{6
+7$7]7l7
+9%94;J;
+;F<`<v<
+=$===i=q={=
+>>?h?
+0-0:0G0[0z0
+1#1k1u1
+1 2K2o2
+283C3\3r3
+4,464P4
+616E6d6m6r6
+757l7
+8B8s8
+8N9j9
+:!:::E:J:v:
+<&<W<\<m<
+</=Q=o=
+?2?A?J?n?v?
+181U1Z1s1
+2)2N2S2k2
+3%3F3
+4'4w4|4
+5D5\5a5
+6%6*6Q6^6
+7$7e7n7u7
+8U8Z8k8
+:,:;:@:V:
+:,;7;<;_;z;
+<W<\<
+=K=W=g={=
+=&>3>R>k>}>
+?(?8?A?o?|?
+000F0h0m0
+1%2a2f2v2
+2&3+3;3p3
+344R4W4p4
+505E5K5X5^5
+6I6U6n6t6
+7Q7W7h7
+7O8]8k8r8~8
+9%959K9u9z9
+:":(:9:d:}:
+:$;-;2;N;S;j;o;
+<)<2<G<L<p<
+=B=h=n=
+>+>0>f>k>
+>!?&?7?
+0!0J0g0l0}0
+161_1d1
+6>6f6
+8#838T8^8
+9#999F9g9l9|9
+:(:@:Z:k:
+;+;0;^;g;y;
+=.=;>A>V>
+?-?C?
+0%090^0h0|0
+1A1G1M1S1Y1_1e1k1q1w1}1
+2:2|2
+2(3F3K3a3
+4O4Z4_4
+5.5E5
+6J6O6d6
+7$7H7O7g7l7|7
+8+8=8B8q8v8
+:4:9:J:m:
+<?<j<
+=*=/=L=c=l=q=
+=L>_>y>~>
+?%?9?>?T?
+0>0S0X0j0
+1%171C1H1P1a1f1|1
+282B2N2S2i2o2
+2$3)3H3M3^3
+4*4/4I4u4
+4J5O5i5
+6!6O6T6~6
+6-727U7Z7|7
+:-:A:F:
+;1;A;b;l;
+<(<6<N<S<p<
+<'=1=E=J=
+> >4>9>O>Z>c>s>
+>X?]?v?
+0,010]0
+1F1r1x1
+192L2`2e2v2
+5*5F5g5z5
+6"6'6E6U6Z6j6
+7@7J7^7c7t7
+818;8O8T8
+919C9H9V9\9a9
+9):/:@:i:o:
+:Q;W;h;
+<.<O<U<d<l<
+=0=5=N=v=
+0&1+1C1H1X1
+2.2G2L2t2
+3"3V3\3m3
+4R4e4y4~4
+4&565H5N5_5
+7D7J7Q7W7]7
+8/868y8
+9'9@9J9P9X9^9
+:-:2:K:P:l:
+>/>D>Y>n>
+>#?/?A?Q?V?s?
+0B0S0h0x0
+2#242=2F2W2`2i2{2
+2-393o3
+5A5R5V5Z5^5b5f5j5n5r5v5z5~5
+5?6h6t6
+7$797_7u7
+8!8<8_8j8o8
+9:9I9O9`9
+:i:r:
+;%;7;S;q;
+<#<S<f<z<
+<==E=T=s=
+>">;>I>t>
+?&?^?h?s?x?
+3080I0}0
+1$2<2P2U2
+30353k3
+4H4O4U4l4|4
+5L5[5`5
+6)6/6G6Z6k6
+7A7e7z7
+898>8q8{8
+909?9D9r9
+:3:8:I:k:
+;;;@;X;t;
+< =3=8=H=f=
+>=>\>a>
+0]1g1{1
+3"3'3X3]3z3
+3)4.4K4j4o4
+6*6D6
+7/7U7
+82979
+:$:*:X:
+:,;D;V;};
+;V<m<
+<5=:=Q=W=q=
+>C>R>_>e>p>u>
+>k?t?y?
+!0&0+0;0j0y0
+0[1`1
+252I2\2h2
+2B3]3
+6O6V6
+9/9E9J9b9g9}9
+9e;r;
+;4<P<]<s<
+='=,===c=
+=.>4>E>
+>S?p?
+080O0
+2)2}2
+3"3-363N3U3`3i3
+5s5y5
+5c6i6z6
+8U8Z8j8
+9C9m9
+:#;B;~;
+=1>V>[>x>
+?0?S?n?
+2/2g2
+373^3p3
+4-464H4S4X4i4y4
+5 5R5W5
+6*6E6N6^6
+7X7]7
+848F8L8]8s8x8
+9"9;9
+;';,;=;x;};
+<$<*<@<
+>S>X>v>
+>K?P?a?w?
+P0`0e0
+1&2+2U2Z2
+2/343O3T3l3q3
+5+5?5S5z5
+6N6S6c6
+8/8K8
+8&9+9
+:@:E:V:x:
+:<;G;L;];u;
+<3=:=?=P=
+>,>U>[>o>
+>$?P?Z?i?o?
+0*000F0\0h0n0
+2-2O2h2n2
+3#3*313A3H3Q3a3g3l3
+4!4&4>4h4
+6&6z6
+6%7P7
+8Q8b8
+9)9D9_9
+:!:D:[:l:r:w:
+:K;V;j;o;
+<)<A<]<n<
+=$=7=l=w=|=
+?'?J?\?j?
+0#0=0B0g0l0
+1"1g1
+1T2Y2w2
+3_3x3
+3(4=4O4
+5$5I5i5
+6#7a7
+9N9S9a9g9l9
+9V:g:|:
+:";S;m;
+<*=/=G=x=
+>$>*>/>S>h>
+?G?h?
+0&00060G0l0
+0/141
+1=2M2a2f2
+3-3B3G3c3p3
+4&4/444J4P4U4w4
+;!;,;1;R;W;g;
+<D<I<
+< =%=5=[=a=r=
+???J?l?r?
+0H0O0X0_0g0r0w0
+1T1\1g1l1
+2"2O2e2j2
+3F3\3a3
+5"5d5l5w5|5
+6-6G6L6r6
+7A7[7`7
+8<;V;q;
+<*</<o<
+=K=V=[=~=
+==>B>R>r>x>
+?)?1?=?Q?V?o?
+0=0S0
+1E1w1
+1&202D2I2Z2t2
+3+3D3I3a3v3
+374l4
+5?5D5\5q5v5
+6-6F6r6}6
+6I7X7r7
+7Q8k8z8
+8;9K9
+:0:E:l:
+<7<F<
+<k=p=
+>S>Y>j>
+>R?W?h?
+0S0_0d0u0
+1O1q1
+2!2D2J2t2z2
+2(3G3^3t3
+4&4A4_4k4|4
+5 52575H5\5a5r5
+6!6^6
+7?7V7h7}7
+878<8M8a8f8|8
+9':4:c:
+:3;L;Y;
+<^<q<w<
+=Q=d=j=
+>X>r>_?u?
+0g0l0|0
+081=1[1{1
+1I2O2X2h2m2
+4&4H4w4
+425|5
+6?6D6X6]6u6
+74797\7a7
+8$8)8L8Q8
+8+9C9H9k9{9
+:7:<:
+;&;<;Y;e;
+<2<><S<]<
+=#=I=U=y=
+>N>[>n>{>
+?0?<?`?m?
+1$1O1\1x1
+3U3h3t3
+4*464d4
+4%5e5o5
+5&636`6
+7"7'70767<7A7K7_7o7z7
+7P8V8r8|8
+:3:;:C:L:T:\:b:i:
+:D;a;r;
+<6<;<]<h<q<v<
+=$=3=g=p=
+0k1x1L2W2g2l2z2
+3)3;3I3
+3$4O4
+616@6N6
+9J9T9b9g9
+:Y:^:}:
+;l;q;
+=7=@=E=a=f={=
+?F?K?h?
+070>0G0L0]0
+1J1m1r1
+23282n2s2
+3@4F4W4
+6)6B6H6
+7]7c7
+9:9@9e9k9
+:7:<:L:
+;W;r;
+<'<7<K<P<i<
+= =2=>=C=S=i=
+>6>@>m>
+3:3F3_3
+3"4)434A4F4W4|4
+4(525F5K5}5
+6A6G6|6
+7?7E7
+8)8F8c8o8{8
+9-9d:
+<8<{<
+d2k2)3
+304F8
+9599:
+<7<=<F<O<Y<b<l<u<
+<V=_=
+>G>Y>l>
+>9?o?
+2G2o2u2
+203B3l3
+4g4{4
+5+5N5Y5e5m5
+696L6S6
+8!8G8s8
+9!9<9F9^9w9
+;,;=;T;x;
+;$<.<m<z<
+=/=<=
+>8>O>U>
+2F2n2
+4-424q4v4
+4H5M5^5
+6<6A6a6f6{6
+7-7h7v7
+8!919E9S9X9]9m9
+:':-:>:d:
+:#;3;G;L;h;
+<b=r=x=
+>8>U>
+191h1
+1&2Z2
+3b4l4
+7Z7`7
+9A9~9
+:p:u:
+:';B;M;^;k;
+<?=~=
+? ?%?F?L?Q?z?
+00060;0K0U0Z0
+2`4q4
+4+5A5Q5\5}5
+969C9P9h9
+:%:C:
+<#<L<R<W<w<
+=+=1=6=Q=
+>:>E>J>
+?@?J?O?b?h?s?
+0@0r0|0
+0b1i1o1t1
+2?2M2`2r2~2
+2.3V3\3a3
+4O4]4b4
+5$5)5V5[5t5z5
+6%606:6J6n6
+7C7I7N7
+9<9j9
+:%:K:[:`:j:o:
+;*;0;5;Z;f;q;{;
+;%<8<
+=Z=`=e=
+>0>D>J>O>}>
+>0g0<1
+3=3C3H3W3i3o3t3
+4%4?4X4c4h4z4
+535a5
+686B6G6b6
+7$7*7/7R7]7b7y7
+8,8:8@8E8Q8W8\8r8~8
+9G9M9R9o9
+:*:[:d:k:
+=;=@=F=L=j=u=|=
+=#>)>.>D>X>a>g>l>
+?/?8?>?C?f?
+111:1J1R1W1z1
+2@2F2K2_2s2y2~2
+343M3\3k3z3
+3.4:4]4s4y4~4
+5%5*5N5^5d5i5
+6?6T6l6
+7*7@7F7K7
+8"8'8r8
+979g9m9r9
+:P:j:}:
+<2<8<=<b<h<m<
+<-=X=
+>P?q?
+0(171?1l1x1
+2&2:2N2h2t2:3F3
+4)545=5o5z5
+7#7(7M7T7_7e7j7
+8$8-888>8C8b8m8s8x8
+9?9J9h9v9
+:E:T:
+; ;&;+;\;
+<7<H<N<S<t<
+<F=Q=V=
+>D>R>\>h>p>u>
+?6?M?
+010@0O0j0|0
+2Y2j2q2v2
+3P3W3q3v3|3
+414G4M4R4
+5>5w5
+6+6H6U6j6
+7*757>7S7^7g7|7
+8"8+8U8Y8]8a8e8i8m8q8u8
+:`:i:
+:&;+;@;F;K;
+<;<u<
+>/><>\>
+?V?j?
+0<0K0S0
+0E1Q1
+1m2y2
+2#3N3U3a3~3
+4X4]4q4w4|4
+5$515N5
+6,64696
+7-747?7D7c7}7
+8 8&8+8>8T8Z8_8~8
+869<9A9i9o9t9
+:):/:4:a:n:t:y:
+: ;[;x;
+<$<)<Q<i<o<t<
+<.=4=9=]=c=h=
+=$>7>D>L>Q>
+?Q?\?a?
+040:0?0V0_0u0{0
+0(1-1C1I1N1
+2G2s2x2
+243:3?3
+4F5L5Q5x5~5
+5R6X6]6
+747:7?7W7]7b7y7
+7A8Q8Y8^8m8
+8-9B9
+92:F:L:Q:x:
+<8<B<O<W<\<r<y<
+=K=i=p=
+>P>_>f>u>|>
+>A?P?W?
+0=0L0S0
+0$131:1
+152O2[2`2
+2F3L3Q3y3
+4!454;4@4\4g4l4
+6D6x6
+8^8s8
+8!9E9
+9&:3:<:C:~:
+<=<M<
+<*=:=R=X=^=c=
+>(?M?
+080X0n0t0y0
+404R4
+5 595E5Q5Y5^5u5
+7-73787n7
+8-8>8D8I839I9
+9%:+:0:z:
+:/;A;
+=d=p=
+>T>`>
+? ?I?O?T?o?
+0!0M0f0m0|0
+1)101R1Y1
+2$2P2i2p2
+3,3E3L3
+4*4C4J4f4m4
+5(5F5f5
+7"7'7
+869;9@9J9V9
+:&:T:r:
+:&;J;j;
+=!=(=4=9=h=t=y=
+>#>(>P>W>f>m>
+>H?u?
+0'070=0B0a0
+1+1D1f1k1}1
+2L2W2\2{2
+3(323>3F3K3c3m3t3
+5;5F5a5
+7!797I7T7`7i7
+868Q8a8{8
+9"9-9K9Z9p9
+:7:w:|:
+;$;);:;L;
+<?<[<
+<F=]=
+=">->D>T>]>p>
+?:?I?S?m?x?
+0-080^0p0
+0(1I1U1
+1Y2f2
+3(3f3
+4"4Z4d4x4}4
+5 5Q5[5o5t5
+5)6<6R6W6
+7%797>7i7
+808E8J8e8j8
+9$9/969i9
+;0;m;
+;(</<:<[<
+>j>o>
+?n?s?
+0#1;1T1
+1.2=2v2
+415g5
+5D6c6y6~6H7N7_7
+7,8L:
+; <|<
+=!=2=`=
+>\>a>q>
+>4?i?w?
+273<3L3_3
+4C4H4Y4y4~4
+5b5u5
+546>6R6W6t6
+7.737
+8)8<8L8X8
+9I9R9a9
+:&;2;U;
+;C<h<
+=7=D=K=^=
+?0?5?W?b?t?
+1%1W1u1
+2)2o2
+3@3N3i3
+3J4O4
+5)5e5
+959A9R9l9x9
+:p:~:
+;!;r;
+=7=O=T=f=
+=&>`>
+> ?c?h?x?
+K0V0[0y0
+00151t1}1
+282^2k2~2
+3)3.3L3o3
+374^4g4|4
+50555E5o5t5
+6B6G6m6
+71787T7[7q7
+8 8-8;8@8P8
+9O9Y9b9
+;7;=;v;|;
+<%<6<L<Q<h<
+<==B=M=^=c=s=
+=`>e>
+?%?P?U?
+)040k0
+1&1O1U1f1
+2E2J2f2k2
+3/3H3\3o3
+5*5@5[5n5
+6D6}6
+84898I8
+;3<8<O<T<i<v<{<
+<I=N=j=
+1)1.1u1z1
+2*2L2
+3.3C3K3V3[3k3
+3"4'4B4e4m4~4
+5G5S5X5h5
+5E6R6e6u6
+657o7
+8R8W8t8
+9g:m:~:
+;=;u;~;
+;0<5<E<w<|<
+=,=^=w=|=
+>O>T>d>
+?#?T?]?p?
+0%0*0;0X0x0}0
+0I1N1k1{1
+2C2U2i2n2
+3'3E3Q3V3e3v3
+575=5u5{5
+7$7i7
+8 84898O8h8
+8R9Y9y9
+9W:b:
+;!;:;N;S;l;
+>$>*>7>g>m>
+???N?
+1"171C1I1
+41474u4
+:d;|;
+;0<H<
+< =e=
+?!?t?
+X0D1}1
+2L2|2
+5d607
+:M:s:
+:';0;5;C;U;Z;
+?B?G?
+080=0R0
+0C1}1
+1+2a2
+2%3.3C3S3X3n3
+3'444H4t4
+6(6/6V6]6~6
+6 7'7s7
+708G8
+8M9_9q9
+:`;k;r;
+;"<0<@<I<N<z<
+>B>K>V>_>
+>>?D?T?
+1?1U1Z1j1
+2"2=2
+3S4n4
+5A5f5
+5:6?6O6}6
+637d7
+7,8f8o8
+9C9N9
+;2;7;G;u;z;
+<"<'<6<W<
+=#=;=A=_=
+=C>M>S>d>y>~>
+>$?)?9?^?p?u?
+070E0W0\0l0
+1 1%1C1e1j1
+1<3p3v3
+3K4Q4
+5'5/5:5B5M5U5`5h5s5{5
+6N6S6h6
+6;7@7P7
+798z8
+8,9B9L9_9|9
+;8;>;v;|;
+=8===
+>$>S>
+?)?b?g?w?
+0I0R0[0`0
+071@1I1N1~1
+1*2/2F2K2i2
+3*303@3a3
+3.434P4
+555@5E5h5
+5#656:6X6{6
+607:7@7Q7s7
+8 8?8
+9B9G9j9r9y9
+:1:6:a:f:v:
+:@;E;U;r;w;
+<4<><C<p<
+>H?N?n?s?
+0J1\1p1u1
+1I2t2y2
+3;3E3
+5U5d5
+6;6D6
+7#7*747G7Q7d7n7
+8.8E8Y8f8m8
+8I9t9
+9R:\;};
+<5<e<
+=)=A=\=v=
+>+>C>O>W>g>o>
+?+?9?B?N?
+0-090k0
+4+545:5B5H5a5q5
+556K6f6z6
+7,787r7
+7)8;8M8$9
+94:9:I:c:
+:!;&;8;t;
+<S=X=
+0(00060F0n0v0|0
+2#2(2E2
+3)3a3g3
+5K5P5e5
+6.636K6
+9 9E9J9`9
+:H;};
+<$<R<W<p<
+<5=:=K=
+0!0K0X0^0o0
+1D2J2n2t2
+3A3F3^3w3|3
+334>4C4a4
+4A5F5V5}5
+6#646N6h6m6~6
+7]7n7
+8 8$8(8,80848G8y8
+8`9e9}9
+: :{:
+:?;M;R;
+<><L<Q<c<
+<p=u=
+080E0J0
+1$1)1
+2!2L2
+7,7O7
+8,818B8g8l8
+9#979E9J9[9
+9<:A:_:
+<"<'<}<
+=>=[=`=
+>$>;>p>
+202s2|2
+353v3
+4.4E4z4
+405Y5d5z5
+5@6e6
+7(9&:2:
+:;;f;{;
+=-=6=A=H=c=q=w=}=
+>,><>E>y>
+?+?0?I?Y?|?
+1 1&1A1V1]1c1u1
+242F2
+3<3B3
+4/555
+5!6>6
+8;8D8M8[8d8
+90969U9}9
+:2:>:J:V:b:n:z:
+;";.;B;N;Z;f;r;~;
+;@>L>X>d>p>|>
+? ?0?@?P?`?p?}?
+0*0C0^0x0
+1&161C1W1d1x1
+242J2e2
+323M3g3x3
+434D4Q4j4
+5#535C5S5c5s5
+5+6c6
+6a7m7y7
+828W8]8b8h8s8y8
+;1;N;s<
+=">E>h>
+>]?m?
+0<0l0
+0!1Y1i1
+4E4h4
+6K6n6
+6.7i7
+798y8
+8:9z9
+9<:t:
+;;<h<
+=8=h=
+>$>G>j>
+?J?z?
+;?;o;
+;"<b<
+=*>b>
+?!?d?
+0(040T0\0h0
+1<1D1L1T1\1d1l1t1
+2<2D2L2T2\2d2p2
+3$3D3L3T3`3
+4<4H4l4t4|4
+5$505P5\5|5
+6 6,6L6T6`6
+7 7@7L7l7t7|7
+8 8(808<8\8h8
+9$909P9\9|9
+: :,:L:T:\:t:x:
+; ;(;0;8;@;L;l;x;
+<(<H<T<t<
+=<=H=h=t=
+>4><>D>P>p>x>
+? ?@?H?P?\?|?
+0$0,080X0`0h0t0
+1$1,181X1`1p1
+2<2D2L2T2\2h2
+3<3D3L3T3\3d3p3
+444<4D4L4T4`4
+5$505P5X5d5
+6$6,646<6D6L6T6\6d6l6t6|6
+74787D7d7p7
+8$8,848@8`8h8p8|8
+9 9,9L9T9\9h9
+: :@:H:P:X:`:l:
+;(;4;T;\;h;
+;$<(<0<8<@<D<L<`<h<p<x<|<
+=0=8=@=H=L=
+0,0|0
+1D1H1L1P1X1`1x1
+2 282P2h2
+3$3(3@3X3p3
+5@5\5
+0 0$0(0,0004080@0D0L0P0X0`0d0l0t0|0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,Br3tPNjzYZNG77liuYvKEssa6FPq0YutBYTbusBfgrU=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+KAX\:!U
+/%R;*B
+i9l L
+20221110014418.776Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220920202159Z
+231214202159Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service0
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+jn>YRv
+Ow~ugO
+sNG/_
+VWUmH
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221110042942Z
+20221111042942Z0t0:
+1,0*0
+1(0&0
+:w}_Q
+w5Oo)f
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+b>gvI
+LSB;R
+;MpKNNe

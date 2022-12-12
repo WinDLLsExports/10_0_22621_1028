@@ -1,0 +1,411 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+q0R^G'
+q0R^G'
+q0R^G'
+q0R^G'
+@SVWH
+\$ UH
+M H1E
+ H3E H3E
+u/HcH<H
+ntelA
+ineID
+@USVWATAVAWH
+D9d$(
+t(D8%
+A_A^A\_^[]
+t:fA9(t4H
+fA9,@u
+\$ UVWAVAWH
+t,D8=
+L9{Hu
+A_A^_^]
+\$ VWAVH
+D$0H;
+UVWATAUAVAWH
+ty@8=x
+t"@8=D
+fA9>u
+@A_A^A]A\_^]
+L$ SUVWH
+L$hH+
+f9,Cu
+(_^][
+t$ WATAUAVAWH
+f9<Au
+f9<Au
+fD94Ou
+tG9)u
+|$(H;
+|$0H;
+|$8H;
+|$HH;
+|$pH;
+t$XE3
+t4E88t/H
+E8<0u
+ A_A^A]A\_
+L$ SVWH
+L$ SVWAVH
+(A^_^[
+x AVH
+\$ UVWATAUAVAWH
+D9l$(|
+D$,D8-p
+t(D8-
+p AWH
+x AVH
+UVWAVAWH
+H!\$8H
+H!\$@I
+A_A^_^]
+UVWAVAWH
+H!\$8H
+H!\$@I
+H!_(H!_0H!_8H!_@M
+A_A^_^]
+l$ VWAVH
+L$0E3
+L$0fD
+L$ UVWATAUAVAWH
+pA_A^A]A\_^]
+97tKA
+A8]8t
+t$ WH
+3D$8%x
+x AVH
+{ UATAUAVAWH
+E8!t(
+A_A^A]A\]
+UVWATAUAVAWH
+8]ou1E
+A_A^A]A\_^]
+{ UATAUAVAWH
+E8!t(
+A_A^A]A\]
+u%H!\$8H
+D$@E3
+VWAVH
+0A^_^
+WAVAWH
+}0H+}(H
+0A_A^_
+t$ WAVAWH
+{8D8{@uXL9?u$E3
+0A_A^_
+H;K@H
+VWATAVAWH
+ A_A^A\_^
+UWATAVAWH
+A_A^A\_]
+VWAVH
+ A^_^
+WATAUAVAWH
+T$0L+
+A_A^A]A\_
+L$ UVWATAUAVAWH
+C D8U@u
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$dfD
+D$hfE
+D+D$x
+D+D$xD
+A_A^A]A\_^]
+t$ WH
+t$ WH
+L$ E3
+H UATAUAVAWH
+A_A^A]A\]
+t$ UWAVH
+H!D$8
+H!D$0
+UVWATAUAVAWH
+}HL9M@t
+L97sKI
+ A_A^A]A\_^]
+WAVAWH
+rHfD9?w
+C9fD9?u,
+ A_A^_
+x AVH
+uPH9i
+UVWATAUAVAWH
+\$x!\$DH!\$X3
+D$XE3
+D$PD;d$@
+A_A^A]A\_^]
+t$ WAVAWH
+0A_A^_
+VWATAVAWH
+ A_A^A\_^
+x UAVAWH
+T$0H+
+L$0fD
+HcD$$HcL$ H
+A_A^]
+WAVAWH
+fD96u)L
+ A_A^_
+WAVAWH
+ A_A^_
+UVWAVAWH
+L$HH3
+PA_A^_^]
+D$(E3
+h UAVAWH
+L$@I+
+L$PH;
+T$PL;
+A_A^]
+D$(E3
+H!\$(L
+H!\$ 3
+UVWATAUAVAWH
+|$ E3
+A_A^A]A\_^]
+x AVH
+bad allocation
+bad array new length
+Unknown exception
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+ntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+SOFTWARE\Microsoft\Windows\CurrentVersion\SecureBoot
+onecore\base\secureboot\uefiencoding\securebootencodeuefi.cpp
+EncodedUEFI
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+Local\SM0:%lu:%lu:%hs
+%hy?nw
+y^m|"S
+%B[}:
+O{+.k
+fZ=G:K
+Pyk:Ot
+vv_G9
+g+6~O
+1ah.U
+f3K91%K0
+QJI`O
+g0:3"
+T(g-l~s
+!`9MlN
+KmH],qgr
+G'Yyk
+iuLHH
+IWM6P
+4!eZ#f
+_RzUK
+<_HiDL
+mt:syqU
+>s8mi\
+:{k%}
+dj4$^
+q4Tao[
+V7W_gf
+LYHHMj~
+onr{h
+'GFRw{
+Tw0W(
+rg&ye
+>!f>-#
+\Y:7f
+L^Cz?
+xgdK.
+?JW`<
+Td%St
+SeSystemEnvironmentPrivilege
+SecureBootEncodeUEFI.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.rdata$brc
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gehcont
+.gfids
+.rdata
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$brc
+.data$r$brc
+.data$rs$brc
+.data
+.pdata
+l#HHTV
+_initterm
+_initterm_e
+_c_exit
+_register_thread_local_exe_atexit_callback
+api-ms-win-crt-runtime-l1-1-0.dll
+__CxxFrameHandler4
+__std_terminate
+_o___p___argc
+_o___p___wargv
+_o___p__commode
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___stdio_common_vsnprintf_s
+_o___stdio_common_vswprintf
+_o__callnewh
+_o__cexit
+_o__configthreadlocale
+_o__configure_wide_argv
+_o__crt_atexit
+_o__errno
+_o__exit
+_o__get_initial_wide_environment
+_o__initialize_onexit_table
+_o__initialize_wide_environment
+_o__invalid_parameter_noinfo
+_o__purecall
+_o__register_onexit_function
+_o__seh_filter_exe
+_o__set_app_type
+_o__set_fmode
+_o__set_new_mode
+_o_exit
+_o_free
+_o_malloc
+_o_qsort
+_o_terminate
+__C_specific_handler
+__current_exception
+__current_exception_context
+memset
+__CxxFrameHandler3
+_CxxThrowException
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+GetModuleFileNameA
+HeapFree
+SetLastError
+GetModuleHandleExW
+GetCurrentThreadId
+RegSetValueExW
+FormatMessageW
+GetLastError
+OutputDebugStringW
+RegCreateKeyExW
+HeapAlloc
+GetProcAddress
+GetProcessHeap
+GetModuleHandleW
+RegCloseKey
+DebugBreak
+IsDebuggerPresent
+CreateSemaphoreExW
+EnterCriticalSection
+ReleaseSemaphore
+LeaveCriticalSection
+InitializeCriticalSectionEx
+WaitForThreadpoolTimerCallbacks
+WaitForSingleObject
+ReleaseMutex
+ReleaseSRWLockExclusive
+CloseThreadpoolTimer
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+CreateMutexExW
+AcquireSRWLockShared
+DeleteCriticalSection
+GetCurrentProcessId
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+InitializeSListHead
+KERNEL32.dll
+ADVAPI32.dll
+BCryptHash
+bcrypt.dll
+RtlInitUnicodeString
+NtQuerySystemEnvironmentValueEx
+OpenThreadToken
+DuplicateTokenEx
+SetThreadToken
+OpenProcessToken
+GetCurrentThread
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+LocalAlloc
+LocalFree
+memcmp
+memcpy
+memmove
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@std@@
+.?AVtype_info@@

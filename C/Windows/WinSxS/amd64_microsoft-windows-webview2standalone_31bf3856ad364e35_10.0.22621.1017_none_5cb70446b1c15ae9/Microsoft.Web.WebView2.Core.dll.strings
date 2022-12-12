@@ -1,0 +1,2008 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+AVVWSH
+([_^A^
+AVVWSH
+L$@H1
+H[_^A^
+AWAVVWUSH
+L$PH1
+X[]_^A^A_
+AWAVVWSH
+[_^A^A_
+AWAVVWUSH
+T$@E1
+[]_^A^A_
+)AWAVATVWUSH
+[]_^A\A^A_
+AWAVAUATVWUSH
+\$0fE
+)t$0H
+T$HE1
+)t$`H
+P;l$Lr
+)t$`f
+\$0t)
+L$xH1
+[]_^A\A]A^A_
+0w+r0H
+L$HH1
+AWAVVWUSH
+D$(H9
+L$0H1
+8[]_^A^A_
+AWAVVWSH
+[_^A^A_
+L$PH1
+AVVWSH
+([_^A^
+AVVWSH
+([_^A^
+L$(H1
+AVVWSH
+D$PE1
+L$PH1
+X[_^A^
+AWAVVWSH
+0[_^A^A_
+0[_^A^A_
+L$8H1
+AWAVATVWSH
+[_^A\A^A_
+AWAVVWSH
+L$HH1
+P[_^A^A_
+L$HH1
+P[_^A^A_
+AWAVVWSH
+[_^A^A_
+AWAVAUATVWUSH
+([]_^A\A]A^A_
+AVVWUSH
+L$XH1
+`[]_^A^
+UVWAVAWH
+0A_A^_^]
+@SWAVH
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[H
+@SUWAVH
+H9\$ t
+H9\$ht
+8A^_][
+L$XH;
+UWATAVAWH
+0A_A^A\_]
+UVWAVAWH
+ A_A^_^]
+UVWAVAWH
+ A_A^_^]
+SUVWATAVAWH
+ A_A^A\_^][
+|$ AVH
+\$ UVWATAUAVAWH
+)L$pH
+D$$@8=W.
+tm@8=7.
+H SWH
+|$8L;
+@SUVWAVH
+D85K*
+A^_^][
+UVWATAUAVAWH
+@85b&
+tX@85B&
+@A_A^A]A\_^]
+|$ UAVAWH
+)L$pH
+D9t$$|
+D85T#
+L$ SUVH
+@SUVWAVH
+D$0H;
+D$0H;
+A^_^][
+D$xE3
+D$xE3
+D$8E3
+L$ VWAVH
+`A^_^
+`A^_^
+WATAUAVAWH
+ A_A^A]A\_
+@8,9u
+UVWATAUAVAWH
+D$0L+
+A_A^A]A\_^]
+D$@E3
+VWATAVAWH
+D$0H+
+D$0f9(t
+D$0f9(t
+HcL$ H
+HcD$$H
+A_A^A\_^
+@WATAUAVAWH
+H9wHscH
+ A_A^A]A\_
+t$ AVH
+|$ AVH
+UVWAVAWH
+@A_A^_^]
+L$(E3
+VWAVH
+WAVAWH
+0A_A^_
+l$ VH
+t$@E3
+@SUVWAV
+L$`H+
+A^_^][
+@USVWATAVAWH
+)L$pH
+A_A^A\_^[]
+:unH;
+UVWAVAWH
+L$XH3
+`A_A^_^]
+|$ ATAVAWH
+L9#t|H
+ A_A^A\
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWAVAWH
+@A_A^_^]
+@USVWATAVAWH
+PA_A^A\_^[]
+VWAVH
+ A^_^
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+@USVWATAVAWH
+$H9uXt
+H9uPt
+`A_A^A\_^[]
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+UVWATAUAVAWH
+T$`E3
+A_A^A]A\_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVH
+(A^_^]
+SUVWATAVAWH
+0A_A^A\_^][
+SUVWAVH
+D$(H;
+0A^_^][
+SUVWATAVAWH
+0A_A^A\_^][
+SUVWAVH
+D$(H;
+0A^_^][
+UVWAVH
+(A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+L$ UVWATAUAVAWH
+`A_A^A]A\_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+UWATAVAWH
+A_A^A\_]
+SUVWATAVAWH
+A_A^A\_^][
+VWAVH
+VWAVH
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+L$ UWATAVAWH
+A_A^A\_]
+D$PH;
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+A_A^_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UUUUUUU
+USVWAUAVAWH
+A_A^A]_^[]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VAVAWH
+0A_A^^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWAVH
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+D$PH;
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+VWAVH
+0A^_^
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWATAUAVAWH
+D$@H;
+PA_A^A]A\_^]
+VWAVH
+D$xH;
+@A^_^
+UVWAVH
+(A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+VWATAVAWH
+D$`H;
+0A_A^A\_^
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWATAUAVAWH
+T$`E3
+A_A^A]A\_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+UVWAVAWH
+0A_A^_^]
+D$8H;
+t$ WH
+l$PE3
+H9l$Pt
+L$pH;
++H9l$pt
+VWAVH
+@A^_^
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+VWAVH
+ A^_^
+D$8H;
+D$8H;
+D$8H;
+D$8H;
+L$HH3
+@SVWAVH
+(A^_^[
+H9|$0t
+t$0H+
+H9|$0t
+VWAVH
+0A^_^
+@SVWAVH
+(A^_^[
+D$0H;
+UVWATAUAVAWH
+D$ L;
+L;t$ u
+0A_A^A]A\_^]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+@SVWAVH
+(A^_^[
+(t$ H
+@SVWH
+H9t$Pt
+WAVAWH
+@A_A^_
+@SVWH
+VWAVH
+0A^_^
+VWAVH
+0A^_^
+H9|$0t
+WATAUAVAWH
+A_A^A]A\_
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+@SVWH
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+@SVWH
+@SVWH
+D$0H;
+,D$@E
+D$0H;
+D$0H;
+H9t$Xt
+D$0H;
+D$0H;
+D$0H;
+VWAVH
+0A^_^
+H9|$0t
+VWAVH
+0A^_^
+D$0H;
+D$0H;
+@SVWH
+@SVWAVH
+(A^_^[
+H9|$0t
+D$0H;
+H9|$0t
+D$0H;
+H9|$0t
+D$0H;
+VWATAVAWH
+PA_A^A\_^
+D$0H;
+D$0H;
+@SVWH
+H9t$Pt
+VWAVH
+0A^_^
+H9|$0t
+@SVWH
+H9t$Pt
+@SVWH
+H9t$Pt
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+H9|$0t
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+WAVAWH
+)L$`H
+A_A^_
+H9|$0t
+@SVWAVAWH
+0A_A^_^[
+t$ WH
+,D$tE
+D$0H;
+VWAVH
+@A^_^
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+H9|$0t
+H9t$Ht
+H9t$Ht
+VWAVH
+L9t$Pt
+0A^_^
+D$0H;
+@SVWAVH
+(A^_^[
+D$0H;
+@SVWAVH
+(A^_^[
+t$ WH
+H9t$8t
+K VWATAVAWH
+PA_A^A\_^
+@SVWAVH
+(A^_^[
+WAVAWH
+@A_A^_
+t$ WH
+H9t$8t
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+@SVWH
+H9t$Pt
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+@SVWH
+|$ AVH
+(D$ f
+H9|$0t
+@SVWAVAWH
+ A_A^_^[
+@SVWH
+@SVWH
+@SVWH
+H9t$Pt
+@SVWH
+@SVWAVAWH
+ A_A^_^[
+@SVWH
+H9t$Pt
+@SVWH
+@SVWH
+@SVWH
+@SVWAVH
+(A^_^[
+@SVWAVH
+(A^_^[
+VWAVH
+0A^_^
+@SVWH
+)D$ H
+(D$0f
+L$@H3
+)D$ H
+(D$0f
+L$@H3
+,D$@E
+,D$@E
+,D$@E
+,D$@E
+)D$ H
+(D$0f
+L$@H3
+)D$ H
+(D$0f
+L$@H3
+(t$ H
+(t$ H
+(t$ H
+(t$ H
+(t$ H
+(t$ H
+(t$ H
+H9|$0t
+H9|$0t
+H9|$`t
+@SVWAVH
+(A^_^[
+D$0H;
+@SVWAVH
+(A^_^[
+VWAVH
+0A^_^
+VWAVH
+0A^_^
+@SVWAVH
+(A^_^[
+@SVWAVH
+(A^_^[
+@SVWAVH
+(A^_^[
+VWAVH
+0A^_^
+@SVWAVH
+(A^_^[
+@SVWAVH
+(A^_^[
+H9|$0t
+@SVWAVH
+(A^_^[
+D$0H;
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+D$0H;
+(t$ H
+)D$ H
+(D$0f
+(t$@H
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+D$0H;
+@SVWH
+(t$ H
+)D$ H
+(D$0f
+L$@H3
+@USVWAWH
+PA__^[]
+PA__^[]
+@USVWAWH
+PA__^[]
+PA__^[]
+@USVWAWH
+PA__^[]
+PA__^[]
+@SWAVH
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[H
+@SWAVH
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[
+ A^_[H
+@SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+ @SUAVH
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][
+ A^][H
+\$ UVAVH
+ A^^]
+\$ UVAVH
+ A^^]
+UWAVH
+ A^_]
+ A^_]
+UWAVH
+ A^_]
+ A^_]
+UWAVH
+ A^_]
+ A^_]
+UWAVH
+ A^_]
+ A^_]
+UWAVH
+ A^_]
+ A^_]
+UWAVH
+ A^_]
+ A^_]
+I+@0H
+H+J0H
+(D$ f
+D$ H;
+|$ AVH
+A8H9A0
+P8I;P@t
+WAVAWH
+A8H+A0H
+PA_A^_
+t$ WH
+A8H+A0H
+D$pH;
+I+@0H
+H+J0H
+(D$ L
+I+@pH
+H9|$@t
+(D$ f
+(D$ L
+t$ WH
+I+@pH
+H9|$@t
+@SVWH
+I+@pH
+(D$ f
+I+@pH
+WAVAWH
+t$@H+
+ A_A^_
+WATAUAVAWH
+@A_A^A]A\_
+@SVWATAUAVAWH
+@A_A^A]A\_^[
+WATAUAVAWH
+@A_A^A]A\_
+s AWH
+D$(H;
+H9l$(t
+WAVAWH
+ A_A^_
+t$ UWAVH
+PA^_]
+t$PA9h
+D$@H;
+D$ H;
+|$ ATAVAWH
+A_A^A\
+WAVAWH
+H+_ L
+ A_A^_
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+s AWH
+D$(H;
+H9l$(t
+@UWAVH
+|$PE3
+?L9{(H
+ A^_]
+@SUATAVH
+(A^A\][
+\$ VH
+8=iPOZu,
+?!Wu,
+qD6u,
+l$ VWAVH
+ A^_^
+t$ WH
+D$0H;
+8=WBP
+}\Cu,
+UVWATAUAVAWH
+PA_A^A]A\_^]
+ePu*I
+9]Xv!
+t$ WH
+@VAWH
+l$HH+
+VWAWH
+ A__^
+@SUAVAWH
+l$ H;
+(A_A^][
+|$ AVH
+8\$(t1H
+@SVWATH
+|$0H;
+8A\_^[
+8A\_^[
+A8H+A0H
+WATAUAVAWH
+D8l$(t7H
+A_A^A]A\_
+SVWATAUAVAWH
+@A_A^A]A\_^[
+y8H;y@tAH
+|$ AVH
+D$ H;
+|$ AVH
+(D$ f
+|$ AVH
+|$ AVH
+t$0H;
+D$ H;
+\$@E;
+|$ AVH
+(D$ f
+L$ WATAUAVAWH
+@A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+fD9<Au
+E`H;u
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWAVAWH
+pA_A^_^]
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+\$HH;
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWAVAWH
+pA_A^_^]
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWAVAWH
+pA_A^_^]
+|$ ATAVAWH
+ A_A^A\
+@VWAVH
+l$(E3
+0A^_^
+@UWAVAWH
+l$ E3
+(A_A^_]
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWAVAWH
+pA_A^_^]
+t$ WH
+l$ VWAVH
+CD$HL
+L$hH3
+SVWAVAWH
+ A_A^_^[
+SVWATAUAVAWH
+\$HLc@
+pA_A^A]A\_^[
+WAVAWH
+@A_A^_
+t5Ich
+IHHcB
+~vNcD
+@SVWH
+|$ AVH
+VWAVH
+@A^_^
+ntelA
+GenuD
+\$ UH
+M H1E
+ H3E H3E
+D8L$0uP
+|$(A^
+x AVH
+(t$ H
+(t$ H
+HcE_L
+HcEgH
+H;XXs
+H;xXu5
+t7HcP
+ffffff
+fffffff
+fffff
+t$ WH
+WATAUAVAWH
+|$8;3
+ tDE3
+A_A^A]A\_
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+t)IcV
+K0HcQ
+D$pHc
+d$dD;d$ltY
+L$h;M
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+L$`;M
+A_A^A]A\_^[]
+x AVH
+x AVH
+WAVAWH
+9p@u+
+t'HcW
+9t$Pu
+C0HcH
+A_A^_
+tEHcR
+SVWATAUAWH
+d$ D!
+L!d$(L!d$@D
+D$HL9gXt
+A_A]A\_^[
+< u\A
+B(I9A(u
+SVWATAUAVAWH
+t@HcS
+t$8L;
+L;t$X
+(D$0f
+A_A^A]A\_^[
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+ A_A^A]A\_
+9)~P3
+UVWATAUAVAWH
+99~CE
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+LcA<E3
+u HcA<H
+x AVH
+SVWATAVAWH
+xA_A^A\_^[
+SVWAVAWH
+pA_A^_^[
+SVWAVAWH
+A_A^_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+VWATAVAWH
+`A_A^A\_^
+VWATAVAWH
+(t$pH
+A_A^A\_^
+VWATAVAWH
+`A_A^A\_^
+VWATAVAWH
+`A_A^A\_^
+SVWATAUAVAWH
+pA_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+SVWATAUAVAWH
+pA_A^A]A\_^[
+SVWATAUAVAWH
+A_A^A]A\_^[
+VWAVH
+t"H93t
+pA^_^
+SVWATAVAWH
+xA_A^A\_^[
+SVWATAVAWH
+xA_A^A\_^[
+VWATAVAWH
+pA_A^A\_^
+VWATAVAWH
+pA_A^A\_^
+VWATAVAWH
+pA_A^A\_^
+SVWAVAWH
+A_A^_^[
+SVWATAVAWH
+xA_A^A\_^[
+VWATAVAWH
+pA_A^A\_^
+x AVH
+SUVWAVH
+0A^_^][
+SUVWAVH
+0A^_^][
+SUVWAVH
+0A^_^][
+SUVWATAVAWH
+C0HcH
+K8Hcy
+{8Hcw
+ A_A^A\_^][
+|$ AVH
+EBWebView
+EBWebView\x64\EmbeddedBrowserWebView.dll
+{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}
+{2CD8A007-E189-409D-A2C8-9AF4EF3C72AA}
+{0D50BFEC-CD6A-4F9A-964C-C7416E3ACB10}
+{65C35B14-6C1D-4122-AC46-7148CC9D6497}
+{BE59E8FD-089A-411B-A3B0-051D9E417818}
+Software\Microsoft\EdgeUpdate\ClientState\
+canary
+internal
+WebView2: Failed to find the app exe path.
+WebView2: Failed to find the WebView2 client dll at: 
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+VerQueryValueW
+\StringFileInfo\040904B0\ProductVersion
+WebView2: skipped inaccessible 
+api-ms-win-core-version-l1-1-0.dll
+version.dll
+ADVAPI32.dll
+EventRegister
+WebView2: Failed to find an installed WebView2 runtime or non-stable Microsoft Edge installation.
+Microsoft.WebView2Runtime.Stable_8wekyb3d8bbwe
+Microsoft.WebView2Runtime.Beta_8wekyb3d8bbwe
+Microsoft.WebView2Runtime.Dev_8wekyb3d8bbwe
+Microsoft.WebView2Runtime.Canary_8wekyb3d8bbwe
+Microsoft.WebView2Runtime.Internal_8wekyb3d8bbwe
+WebView2: skipped an incompatible version 
+GetCurrentPackageInfo
+kernelbase.dll
+GetCurrentApplicationUserModelId
+Kernel32.dll
+BrowserExecutableFolder
+WEBVIEW2_BROWSER_EXECUTABLE_FOLDER
+UserDataFolder
+WEBVIEW2_USER_DATA_FOLDER
+ReleaseChannelPreference
+WEBVIEW2_RELEASE_CHANNEL_PREFERENCE
+shell32.dll
+GetCurrentProcessExplicitAppUserModelID
+Software\Policies\Microsoft\Edge\WebView2\
+0123456789ABCDEF
+CreateWebViewEnvironmentWithOptionsInternal
+WebView2: CoreWebView2Environment failed when trying to call into EmbeddedBrowserWebView.dll. hr=0x
+DllCanUnloadNow
+WebView2: CoreWebView2Environment failed when trying to LoadLibrary: hr=0x
+ path=
+bad exception
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+SleepConditionVariableCS
+WakeAllConditionVariable
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+Microsoft.Web.WebView2.Core.CoreWebView2ControllerWindowReference
+combase.dll
+length
+bad allocation
+Unknown exception
+RoOriginateLanguageException
+107.0.1387.0
+{2fde08a8-1e9a-4766-8c05-95a9ceb9d1c5}
+Exception
+ReturnHr
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+D:\a\_work\1\s\third_party\edge_webview2\win\webview2_api_writer\dotNetAPIWrapper\winrt_wrapper\packages\Microsoft.Windows.ImplementationLibrary.1.0.191107.2\include\wil\resource.h
+RoTransformError
+FRoGetAgileReference
+Windows.Foundation.Collections.IKeyValuePair`2<String, String>
+Windows.Foundation.Collections.IVector`1<String>
+Windows.Foundation.Collections.IIterator`1<String>
+kernelbase.dll
+RaiseFailFastException
+lstd::exception: %hs
+WilError_03
+C++/WinRT version:2.0.200921.6
+winrt::hresult_error: %ls
+Windows.Foundation.Deferral
+Windows.UI.ColorHelper
+Windows.Security.Cryptography.CryptographicBuffer
+Windows.Security.Cryptography.Certificates.Certificate
+Windows.UI.Core.CoreCursor
+Local\SM0:%d:%d:%hs
+activatibleClassId
+Microsoft.Web.WebView2.Core.CoreWebView2EnvironmentOptions
+Microsoft.Web.WebView2.Core.CoreWebView2Environment
+CoreWebView2::AddHostObjectToScript has been called with an IInspectable argument without having set a default ICoreWebView2DispatchAdapter for this instance. See CoreWebView2Settings::HostObjectDispatchAdapter to enable IInspectable host objects.
+invalid string position
+jE'(B
+%q(aK
+L@R`iz9
+a=E!86,0j
+FR??+~r
+Ymap/set too long
+]z:LAA
+!Y)<e:
+di$=j
+>:4Xjz
+pyYwbA
+Windows.Foundation.Collections.IVectorChangedEventArgs
+Windows.Foundation.Collections.IIterator`1<Microsoft.Web.WebView2.Core.CoreWebView2FrameInfo>
+Windows.Foundation.Collections.IIterator`1<Object>
+Windows.Foundation.Collections.IIterator`1<Microsoft.Web.WebView2.Core.CoreWebView2Cookie>
+Windows.Foundation.Collections.IIterator`1<Microsoft.Web.WebView2.Core.CoreWebView2ClientCertificate>
+Windows.Foundation.Collections.IIterator`1<Microsoft.Web.WebView2.Core.CoreWebView2ContextMenuItem>
+Windows.Foundation.Collections.IVector`1<Microsoft.Web.WebView2.Core.CoreWebView2ClientCertificate>
+Windows.Foundation.Collections.IObservableVector`1<Microsoft.Web.WebView2.Core.CoreWebView2ContextMenuItem>
+Windows.Foundation.Collections.IVector`1<Microsoft.Web.WebView2.Core.CoreWebView2Cookie>
+Windows.Foundation.Collections.IVector`1<Microsoft.Web.WebView2.Core.CoreWebView2FrameInfo>
+]&wL[
+RBe0+V
+]&wL[
+RBe0+V
+Windows.Foundation.IAsyncOperation`1<Windows.Storage.Streams.IRandomAccessStream>
+Windows.Foundation.IAsyncOperation`1<Windows.Foundation.Collections.IVectorView`1<Microsoft.Web.WebView2.Core.CoreWebView2Cookie>>
+Windows.Foundation.IAsyncAction
+Windows.Foundation.IAsyncOperation`1<Boolean>
+Windows.Foundation.IAsyncOperation`1<String>
+Windows.Foundation.IAsyncOperation`1<Microsoft.Web.WebView2.Core.CoreWebView2Controller>
+Windows.Foundation.IAsyncOperation`1<Microsoft.Web.WebView2.Core.CoreWebView2CompositionController>
+Windows.Foundation.IAsyncOperation`1<Microsoft.Web.WebView2.Core.CoreWebView2UpdateRuntimeResult>
+Windows.Foundation.IAsyncOperation`1<Microsoft.Web.WebView2.Core.CoreWebView2Environment>
+Microsoft.Web.WebView2.Core.ICoreWebView2
+{4b60f2c9-88bb-42f4-9c4f-3c0d0ed17072}
+{6b47bbe1-2480-4ff8-a5ba-69c2f0b868b3}
+Microsoft.Web.WebView2.Core.CoreWebView2WindowFeatures
+Microsoft.Web.WebView2.Core.CoreWebView2WebResourceResponseView
+Microsoft.Web.WebView2.Core.CoreWebView2WebResourceResponseReceivedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2WebResourceResponse
+Microsoft.Web.WebView2.Core.CoreWebView2WebResourceRequestedEventArgs
+AY"t\
+Microsoft.Web.WebView2.Core.CoreWebView2WebResourceRequest
+Microsoft.Web.WebView2.Core.CoreWebView2WebMessageReceivedEventArgs
+<=&wY
+Microsoft.Web.WebView2.Core.CoreWebView2SourceChangedEventArgs
+<=&wY
+Microsoft.Web.WebView2.Core.CoreWebView2Settings
+Microsoft.Web.WebView2.Core.CoreWebView2ServerCertificateErrorDetectedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2ScriptDialogOpeningEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2Profile
+Microsoft.Web.WebView2.Core.CoreWebView2ProcessFailedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2PrintSettings
+Microsoft.Web.WebView2.Core.CoreWebView2PointerInfo
+Microsoft.Web.WebView2.Core.CoreWebView2PermissionRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2NewWindowRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2NavigationStartingEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2NavigationCompletedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2MoveFocusRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2HttpResponseHeaders
+Microsoft.Web.WebView2.Core.CoreWebView2HttpRequestHeaders
+Microsoft.Web.WebView2.Core.CoreWebView2HttpHeadersCollectionIterator
+Microsoft.Web.WebView2.Core.CoreWebView2FrameInfo
+Microsoft.Web.WebView2.Core.CoreWebView2FrameCreatedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2Frame
+z0rCD
+U#>CD
+z0r1x
+/=ULC|
+/=ULC|
+Dr+5<[
+TFXK1
+)j${d
+TFXK1
+Dr+5<[
+Microsoft.Web.WebView2.Core.CoreWebView2
+Microsoft.Web.WebView2.Core.CoreWebView2DownloadStartingEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2DownloadOperation
+Microsoft.Web.WebView2.Core.CoreWebView2DOMContentLoadedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2DevToolsProtocolEventReceiver
+Microsoft.Web.WebView2.Core.CoreWebView2DevToolsProtocolEventReceivedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2CookieManager
+Microsoft.Web.WebView2.Core.CoreWebView2ControllerOptions
+Microsoft.Web.WebView2.Core.CoreWebView2ContextMenuTarget
+Microsoft.Web.WebView2.Core.CoreWebView2ContextMenuRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2ContextMenuItem
+Microsoft.Web.WebView2.Core.CoreWebView2ContentLoadingEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2ClientCertificateRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2ClientCertificate
+Microsoft.Web.WebView2.Core.CoreWebView2Certificate
+Microsoft.Web.WebView2.Core.CoreWebView2BrowserProcessExitedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2BasicAuthenticationResponse
+C4@_c
+Microsoft.Web.WebView2.Core.CoreWebView2BasicAuthenticationRequestedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2AcceleratorKeyPressedEventArgs
+Microsoft.Web.WebView2.Core.CoreWebView2UpdateRuntimeResult
+Microsoft.Web.WebView2.Core.CoreWebView2Controller
+Microsoft.Web.WebView2.Core.CoreWebView2CompositionController
+Microsoft.Web.WebView2.Core.CoreWebView2Cookie
+vector too long
+RoGetActivationFactory
+CoIncrementMTAUsage
+DllGetActivationFactory
+string too long
+bad array new length
+CreateWebViewEnvironmentError
+HRESULT
+ClientDllFound
+InstalledRuntime
+PartA_PrivTags
+Microsoft.MSEdgeWebView.Loader
+Microsoft.Web.WebView2.Core.pdb
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+minATL$__a
+minATL$__m
+minATL$__z
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+Microsoft.Web.WebView2.Core.dll
+DllCanUnloadNow
+DllGetActivationFactory
+SHLWAPI.dll
+OutputDebugStringW
+GetCurrentThreadId
+FormatMessageW
+IsDebuggerPresent
+SetLastError
+GetLastError
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+ReleaseSemaphore
+GetModuleHandleExW
+WaitForSingleObject
+ReleaseMutex
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+DecodePointer
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+InitOnceExecuteOnce
+EncodePointer
+ReleaseSRWLockShared
+AcquireSRWLockShared
+GetFileAttributesW
+CreateFileW
+OutputDebugStringA
+GetModuleFileNameW
+LoadLibraryExW
+LoadLibraryW
+FreeLibrary
+GetEnvironmentVariableW
+KERNEL32.dll
+CoTaskMemFree
+CoTaskMemAlloc
+RoOriginateError
+WindowsIsStringEmpty
+WindowsStringHasEmbeddedNull
+RoOriginateErrorW
+WindowsGetStringRawBuffer
+CreateRandomAccessStreamOverStream
+CreateStreamOverRandomAccessStream
+EventRegister
+EventSetInformation
+EventWriteTransfer
+EventUnregister
+RegOpenKeyExW
+RegQueryValueExW
+RegCloseKey
+RegGetValueW
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-shcore-stream-winrt-l1-1-0.dll
+OLEAUT32.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+terminate
+_invalid_parameter_noinfo
+_errno
+iswspace
+__stdio_common_vswprintf
+__stdio_common_vsnprintf_s
+_invalid_parameter_noinfo_noreturn
+wcslen
+_wcsicmp
+_ultow_s
+wcstol
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+RtlPcToFileHeader
+RaiseException
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+SetEvent
+ResetEvent
+CreateEventW
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlUnwindEx
+InterlockedPushEntrySList
+InterlockedFlushSList
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+malloc
+abort
+_callnewh
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_cexit
+_initterm
+_initterm_e
+strcpy_s
+calloc
+wcsncmp
+api-ms-win-crt-heap-l1-1-0.dll
+MultiByteToWideChar
+WideCharToMultiByte
+CoCreateFreeThreadedMarshaler
+CoCreateInstance
+floor
+api-ms-win-crt-math-l1-1-0.dll
+.?AVlength_error@std@@
+.?AVbad_exception@std@@
+.?AVout_of_range@std@@
+.?AUhresult_access_denied@winrt@@
+.?AUhresult_wrong_thread@winrt@@
+.?AUhresult_not_implemented@winrt@@
+.?AUhresult_invalid_argument@winrt@@
+.?AUhresult_out_of_bounds@winrt@@
+.?AUhresult_no_interface@winrt@@
+.?AUhresult_class_not_available@winrt@@
+.?AUhresult_class_not_registered@winrt@@
+.?AUhresult_changed_state@winrt@@
+.?AUhresult_illegal_method_call@winrt@@
+.?AUhresult_illegal_state_change@winrt@@
+.?AUhresult_illegal_delegate_assignment@winrt@@
+.?AUhresult_canceled@winrt@@
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AUhresult_error@winrt@@
+.?AVResultException@wil@@
+.?AVbad_array_new_length@std@@
+.?AV_Ref_count_base@std@@
+.?AV_ExceptionPtr_normal@?A0x626bcf6a@@
+.?AV?$_ExceptionPtr_static@Vbad_alloc@std@@@?A0x626bcf6a@@
+.?AV?$_ExceptionPtr_static@Vbad_exception@std@@@?A0x626bcf6a@@
+.?AVtype_info@@
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Microsoft Corporation
+FileDescription
+Microsoft Edge Embedded Browser WinRT Component
+FileVersion
+1.0.1387.0
+InternalName
+Microsoft.Web.WebView2.Core.dll
+LegalCopyright
+Copyright Microsoft Corporation. All rights reserved.
+OriginalFilename
+Microsoft.Web.WebView2.Core.dll
+ProductName
+Microsoft Edge Embedded Browser WinRT Component
+ProductVersion
+1.0.1387.0
+CompanyShortName
+Microsoft
+ProductShortName
+Microsoft Edge Embedded Browser WinRT Component
+VarFileInfo
+Translation
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+220512204604Z
+230511204604Z0t1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+230217+4705320
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+Je|4x$
+z#:PB]
+-B}ljv 
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+Legal_policy_statement
+e_.,>
+D=xz#
+*?*kXIc
+QEX82q'
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+6Microsoft Edge WebView2 SD
+https://www.microsoft.com 0
+20220916091102.328Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:C4BD-E37F-5FFC1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220302185116Z
+230511185116Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:C4BD-E37F-5FFC1%0#
+Microsoft Time-Stamp Service0
+U 9#V
+YCZHOUg%
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:C4BD-E37F-5FFC1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220916040856Z
+20220917040856Z0t0:
+1,0*0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~%z|5sA
+_0Jza5
+U)08Hz@

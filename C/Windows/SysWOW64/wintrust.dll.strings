@@ -1,0 +1,2589 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+\$`Gl$`G
+`Gp[aG 
+aG0qaG
+bG@}cG@
+aG0qaG
+aG`YcG
+bG`{aG
+@cG0AcG`>cG
+=cG0@cG
+AcG@?cGPSaG
+NaGPzcG
+zcGp|cG
+ C`GP
+F`G@eaG
+aG`L`G,L`G$$`GHL`G
+cG@NcG
+cG rcG
+aGPncG0mcG
+1`G$T`G
+"`G@T`G
+Q`G@T`G
+1`G@T`G
+Q`GXT`GR
+"`GpT`G
+pT`G$R`G
+T`G\R`G
+S`G U`G
+ U`GDS`G<U`G
+"`GXU`G
+1`GtU`G
+R`G$R`G<R`G
+<R`G\R`GtR`G
+S`G(S`G
+(S`GDS`G\S`G
+"`GxS`G
+`GX_`G\_`G
+CryptSvc
+CATADMIN
+1.3.6.1.4.1.311.10.3.6
+Disallowed
+OSAttr
+1.3.6.1.4.1.311.10.3.5
+1.3.6.1.5.5.7.3.2
+1.3.6.1.5.5.7.3.1
+2.16.840.1.113730.4.1
+1.3.6.1.4.1.311.10.3.3
+Software\Microsoft\Internet Explorer\Security
+Software\Microsoft\Windows\CurrentVersion\WinTrust\Trust Providers\Software Publishing
+State
+AuthenticodeFlags
+Microsoft Enhanced RSA and AES Cryptographic Provider
+Query
+FailInform
+Safety Warning Level
+1.3.6.1.5.5.7.3.3
+1.3.14.3.2.26
+1.3.6.1.4.1.311.2.1.25
+1.3.6.1.4.1.311.2.1.4
+1.3.6.1.4.1.311.12.2.3
+1.3.6.1.4.1.311.12.1.2
+1.3.6.1.4.1.311.12.1.3
+S-%lu-
+Software\Microsoft\Cryptography\Wintrust\Config
+CRYPT_DEBUG_FORCE_FREE_LIBRARY
+HashDigestLength
+1.3.6.1.4.1.311.2.4.2
+FileDescription
+CompanyName
+SHA256
+2.16.840.1.101.3.4.2.1
+MSASN1.dll
+CRYPTSP.dll
+CRYPT32.dll
+bcrypt.dll
+api-ms-win-security-lsalookup-l2-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+ext-ms-win-advapi32-safer-l1-1-0.dll
+ext-ms-win-advapi32-safer-l1-1-0
+USER32.dll
+imagehlp.dll
+api-ms-win-service-private-l1-1-0.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+lntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+Local\SM0:%lu:%lu:%hs
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+051101134646Z
+251101135403Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+K{D?u
+0r?(Y
+@pb{uw
+%{XFRVT
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+m0k0i
+/0\0Z
+LCopyright 
+ 2005 Microsoft Corporatio
+M0K0I
+=http://www.microsoft.com/pki/certs/MicrosoftCodeVerifRoot.crt0
+8&V: j
+:NEJ\
+WINTRUST.DLL
+1.3.6.1.4.1.311.2.1.15
+1.3.6.1.4.1.311.2.1.28
+1.3.6.1.4.1.311.2.1.12
+1.3.6.1.4.1.311.2.4.3
+1.3.6.1.4.1.311.2.4.4
+Software\Microsoft\Cryptography\Providers\Trust\Initialization
+Software\Microsoft\Cryptography\Providers\Trust\Message
+Software\Microsoft\Cryptography\Providers\Trust\Signature
+Software\Microsoft\Cryptography\Providers\Trust\Certificate
+Software\Microsoft\Cryptography\Providers\Trust\CertCheck
+Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy
+Software\Microsoft\Cryptography\Providers\Trust\DiagnosticPolicy
+Software\Microsoft\Cryptography\Providers\Trust\Cleanup
+$Function
+SucceedSilent
+Software\Microsoft\Cryptography\Providers\Trust\Usages
+DefaultId
+CallbackAllocFunction
+CallbackFreeFunction
+Certificate
+Signer
+Unspecified Name
+DeferReplaceCatalog
+ReplaceCatalog
+Call_SortedCatalogOpen
+SkipHashNotInCatalog
+{????????????????????????????????????}
+CatRoot
+CatRoot2
+Call_CatAdminCreatePath
+Call_GetFileAttributesExW
+Call_CryptSvcCatDBEnumCatalogs_NotFound
+Call_CryptSvcCatDBEnumCatalogs
+1.3.6.1.4.1.311.2.5.1
+TrustedPublisher
+\VarFileInfo\Translation
+\StringFileInfo\%04X%04X\%s
+\StringFileInfo\040904B0\%s
+\StringFileInfo\040904E4\%s
+\StringFileInfo\04090000\%s
+crypt32.dll
+CryptVerifyTimeStampSignature
+1.2.840.113549.1.9.6
+1.3.6.1.4.1.311.3.3.1
+onecore\ds\security\cryptoapi\pkitrust\softpub\configciprov.cpp
+1.3.6.1.4.1.311.10.1
+1.3.6.1.4.1.311.10.3.9
+%SystemRoot%\SystemResources\crypt32.dll.mun
+AUTHROOTSTL
+1.3.6.1.4.1.311.10.11.98
+EncodedCtl
+Software\Microsoft\SystemCertificates\AuthRoot\AutoUpdate
+PolicyInfo
+$Kernel.Smartlocker.OriginClaim
+$Kernel.Smartlocker.Hash
+$Kernel.Purge.Smartlocker.Valid
+TrustedOriginDataId
+System\CurrentControlSet\Control\AppID\Configuration\SMARTLOCKER
+S-1-5-80-242729624-280608522-2219052887-3187409060-2225943459
+catroot
+catroot2
+keysvc
+ncalrpc
+MaxHeaderBytesToMap
+MaxHashBytesToMap
+0x%02hx%02hx%02hx%02hx%02hx%02hx
+SummaryCount
+NumLargeEventFailures
+NumAllocationFailures
+NumBucketLimitReached
+MinEntriesFlushed
+MaxEntriesFlushed
+TotalEntriesFlushed
+MaxEntriesStored
+NumFlushes
+NoRevalidationUponRefresh
+NoRevalidationUponRefreshValue
+\StringFileInfo\%04x%04x\
+1.3.6.1.4.1.311.10.3.7
+1.3.6.1.4.1.311.61.4.1
+1.3.6.1.4.1.311.10.3.20
+1.2.840.113549.1.1.1
+TRUST
+SiPolicy.p7b
+SkuSiPolicy.p7b
+WinSiPolicy.p7b
+ATPSiPolicy.p7b
+DriverSiPolicy.p7b
+Default
+Information
+SMARTLOCKER://ORIGINCLAIM
+0123456789ABCDEF
+VAILSettings
+VAILPolicy
+Enforced
+Microsoft
+WindowsLockdownPolicySettings
+VerifiedAndReputableTrustMode
+VerifiedAndReputableAllowAntiMalware
+WDACAppId
+TaggingSettings
+DefaultPolicy
+InternalName
+ProductName
+OriginalFileName
+Tagging
+SignedScript
+SipExtensionCount
+Count
+qSubjectId
+Extension
+PartA_PrivTags
+TlgAggregateSummary
+PartA_PrivTags
+UtcAggParams
+Period
+MaxEvents
+Provider
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+Microsoft.Windows.Security.WinVerifyTrust
+Microsoft.Windows.TlgAggregateInternal
+2.5.29.35
+2.5.29.14
+1.3.6.1.5.5.7.3.8
+1.3.6.1.4.1.311.10.3.13
+WVTAsn1SpcPeImageDataEncode
+WVTAsn1SpcLinkEncode
+1.3.6.1.4.1.311.2.1.20
+1.3.6.1.4.1.311.2.1.30
+WVTAsn1SpcSigInfoEncode
+WVTAsn1SpcIndirectDataContentEncode
+1.3.6.1.4.1.311.2.1.10
+WVTAsn1SpcSpAgencyInfoEncode
+1.3.6.1.4.1.311.2.1.26
+WVTAsn1SpcMinimalCriteriaInfoEncode
+1.3.6.1.4.1.311.2.1.27
+WVTAsn1SpcFinancialCriteriaInfoEncode
+1.3.6.1.4.1.311.2.1.11
+WVTAsn1SpcStatementTypeEncode
+1.3.6.1.4.1.311.12.2.1
+WVTAsn1CatNameValueEncode
+1.3.6.1.4.1.311.12.2.2
+WVTAsn1CatMemberInfoEncode
+WVTAsn1CatMemberInfo2Encode
+WVTAsn1SpcSpOpusInfoEncode
+WVTAsn1IntentToSealAttributeEncode
+WVTAsn1SealingSignatureAttributeEncode
+WVTAsn1SealingTimestampAttributeEncode
+WVTAsn1SpcPeImageDataDecode
+WVTAsn1SpcLinkDecode
+WVTAsn1SpcSigInfoDecode
+WVTAsn1SpcIndirectDataContentDecode
+WVTAsn1SpcSpAgencyInfoDecode
+WVTAsn1SpcMinimalCriteriaInfoDecode
+WVTAsn1SpcFinancialCriteriaInfoDecode
+WVTAsn1SpcStatementTypeDecode
+WVTAsn1CatNameValueDecode
+WVTAsn1CatMemberInfoDecode
+WVTAsn1CatMemberInfo2Decode
+WVTAsn1SpcSpOpusInfoDecode
+WVTAsn1IntentToSealAttributeDecode
+WVTAsn1SealingSignatureAttributeDecode
+WVTAsn1SealingTimestampAttributeDecode
+CryptDllEncodeObject
+CryptDllDecodeObject
+cryptnet.dll
+CryptGetObjectUrl
+CryptRetrieveObjectByUrlW
+2.5.29.1
+1.3.6.1.4.1.311.10.4.1
+MSTESTROOT
+System\CurrentControlSet\Services\WinTrust\TrustProviders
+$ActionIDs
+WinTrustProviderClientInitialize
+DONE Adding Catalog File (%ums): %s
+[CatalogHeader]
+ResultDir
+CatalogVersion
+0x00010001
+EncodingType
+false
+PageHashes
+HashAlgorithms
+NonConformantFilesFallbackFlat
+[CatalogFiles]
+CATATTR
+<HASH>
+ALTSIPID
+1.3.6.1.4.1.311.12.1.1
+OLE32.DLL
+CoCreateGuid
+0123456789ABCDEFCryptSIPGetSignedDataMsg
+CryptSIPPutSignedDataMsg
+CryptSIPCreateIndirectData
+CryptSIPVerifyIndirectData
+CryptSIPRemoveSignedDataMsg
+0x00004550
+1.3.6.1.4.1.311.2.3.1
+1.3.6.1.4.1.311.2.3.2
+SHA512
+SHA384
+1.3.6.1.4.1.311.10.41.1
+1.3.6.1.4.1.311.96.1.1
+SoftpubInitialize
+SoftpubLoadMessage
+SoftpubLoadSignature
+GenericChainCertificateTrust
+SoftpubCheckCert
+GenericChainFinalProv
+SoftpubCleanup
+SoftpubLoadDefUsageCallData
+SoftpubFreeDefUsageCallData
+HTTPSCertificateTrust
+HTTPSFinalProv
+1.3.6.1.4.1.311.2.6.1
+1.2.840.113549.1.9.3
+1.2.840.113549.1.7.1
+1.2.840.113549.1.9.4
+1.2.840.113549.1.9.5
+1.3.6.1.4.1.311.10.3.2
+cryptui.dll
+CryptUIDlgCertMgr
+2.5.4.3
+ProgramFiles
+\Windows Defender\MpClient.dll
+MpQueryFileTrustByHandle
+@1.3.6.1.4.1.311.10.3.39
+DriverInitializePolicy
+WintrustCertificateTrust
+DriverFinalPolicy
+DriverCleanupPolicy
+Software\Microsoft\Cryptography\PersonalCertificates\ClientAuth
+Certificates
+CertificateAuxiliaryInfo
+CertificateTags
+Copy Certificate Failed
+2.5.29.19
+SoftpubAuthenticode
+SoftpubDefCertInit
+SoftpubDumpStructure
+C:\TRUSTPOL.TXT
+CRYPT_PROVIDER_DATA:
++======================================================
++-- pWintrustData:
+|   |.. cbStruct:                     %ld
+|   |.. pPolicyCallbackData:          %p
+|   |.. dwUIChoice:                   %ld
+|   |.. fdRevocationChecks:           %ld
+|   |.. dwUnionChoice:                %ld
+|   +-- pFile: <<< bad parameter! >>>
+|   +-- pFile:
+|       |.. cbStruct:                 %ld
+|       |.. pcwszFilePath:            %s
+|       |.. hFile:                    0x%p
+|       +-- pgKnownSubject:           %s
+|   +-- pCatalog: <<< bad parameter! >>>
+|   +-- pCatalog:
+|       |.. dwCatalogVersion:         0x%lx
+|       |.. pcwszCatalogFilePath:     %s
+|       |.. pcwszMemberTag:           %s
+|       |.. pcwszMemberFilePath:      %s
+|       |.. hMemberFile:              0x%p
+|       |.. pbCaclulatedFileHash:     
+%02.2X
+|       +-- cbCaclulatedFileHash:     %ld
+|   +-- pBlob: <<< bad parameter! >>>
+|   +-- pBlob:
+        |.. gSubject:                 %s
+|       |.. pcwszDisplayName:         %s
+|       |.. cbMemObject:              %ld
+|       |.. pbMemObject:              0x%p
+|       |.. cbMemSignedMsg:           %ld
+|       +.. pbMemSignedMsg:           0x%p
+|   +-- pSgnr: <<< bad parameter! >>>
+|   +-- pSgnr:
+|       |.. psSignerInfo:             0x%p
+|       |.. chStores:                 %ld
+|       +.. pahStores[%02.2d]:        0x%p
+|       |.. pahStores[%02.2d]:        0x%p
+|   +-- pCert: <<< bad parameter! >>>
+|   +-- pCert:
+|       |.. psCertContext:            0x%p
+|       |.. dwFlags:                  0x%08.8lX
+|       |-- psftVerifyAsOf:               %s - %s
+|       +.. ***Unknown structure type***
+|.. WndParent:                        0x%p
+|.. pgActionID:                       %s
+|.. hProv:                            0x%Iu
+|.. dwError:                          0x%08.8lx
+|.. dwRegSecuritySettings:            0x%08.8lx
+|.. dwRegPolicySettings:              0x%08.8lx
+|.. dwEncoding:                       0x%08.8lx
+|.. padwTrustStepErrors:
+|   +.. Step[%02.2d]:                     0x%08.8lx
+|   |.. Step[%02.2d]:                     0x%08.8lx
+|.. pahStores:
+|   +.. Store[%02.2d]:                    0x%p
+|   |.. Store[%02.2d]:                    0x%p
+|.. hMsg:                             0x%p
+|.. pPDSip:
+|   |.. gSubject:                     %s
+|   |.. pSip:                         0x%p
+|   |.. pCATSip:                      0x%p
+|   |.. psSipSubjectInfo:             0x%p
+|   |.. psSipCATSubjectInfo:          0x%p
+|   +.. psIndirectData:               0x%p
+|.. csSigners:                        %lu
+|.. pszUsageOID:                      %p
+FALSE
+|.. fRecallWithState:                 %hs
+|.. sftSystemTime:                    %s - %s
+|.. psPfns:
+|   +.. *** invalid parameter ***
+|   |.. cbStruct:                     %lu
+|   |.. pfnAlloc:                     0x%p
+|   |.. pfnFree:                      0x%p
+|   |.. pfnAddStore2Chain:            0x%p
+|   |.. pfnAddSgnr2Chain:             0x%p
+|   |.. pfnAddCert2Chain:             0x%p
+|   |.. pfnAddPrivData2Chain:         0x%p
+|   |.. pfnInitialize:                0x%p
+|   |.. pfnObjectTrust:               0x%p
+|   |.. pfnSignatureTrust:            0x%p
+|   |.. pfnCertificateTrust:          0x%p
+|   |.. pfnFinalPolicy:               0x%p
+|   |.. pfnCertCheckPolicy:           0x%p
+|   |.. pfnTestFinalPolicy:           0x%p
+|   |.. pfnCleanupPolicy:             0x%p
+|   +.. psUIpfns:
+|       +.. *** invalid parameter ***
+|       |.. cbStruct:                 %lu
+|       |.. psUIData:
+|       |   +.. *** invalid parameter ***
+|       |   |.. cbStruct:             %lu
+|       |   |.. dwFinalError:         0x%08.8lx
+|       |   |.. pYesButtonText:       %s
+|       |   |.. pNoButtonText:        %s
+|       |   |.. pMoreInfoButtonText:  %s
+|       |   |.. pAdvancedLinkText:    %s
+|       |   |.. pCopyActionText:      %s
+|       |   |.. pCopyActionTextNoTS:  %s
+|       |   |.. pCopyActionTextNotSigned:  %s
+|       |.. pfnOnMoreInfoClick:       0x%p
+|       |.. pfnOnMoreInfoClickDefault:0x%p
+|       |.. pfnOnAdvancedClick:       0x%p
+|       +.. pfnOnAdvancedClickDefault:0x%p
+|.. pasSigners[%d]:
+|.. pasSigners[%d] - CounterSigner[%d]:
+|   |.. sftVerifyAsOf:                %s - %s
+|   |.. dwSignerType:                 0x%08.8lX
+|   |.. csCertChain:                  %lu
+|   |.. psSigner:                     0x%p
+|   |.. dwError:                      0x%08.8lx
+|   +.. csCounterSigners:             %ld
+|   |   |.. casCertChain[%d]:
+|   |   +.. casCertChain[%d]:
+|   |   |   |.. cbStruct:             %ld
+|   |   |   |.. pCert:                0x%p
+|   |   |   |   |.. dwCertEncoding:   0x%08.8lx
+|   |   |   |   |.. pCertInfo:
+|   |   |   |   |   |.. Issuer:       %s
+|   |   |   |   |   |.. NotBefore:    %s - %s
+|   |   |   |   |   |.. NotAfter:     %s - %s
+|   |   |   |   |   +.. Subject:      %s
+|   |   |   |   +.. hCertStore:       0x%p
+False
+|   |   |   |.. fCommercial:          %s
+|   |   |   |.. fTrustedRoot:         %s
+|   |   |   |.. fSelfSigned:          %s
+|   |   |   |.. fTestCert:            %s
+|   |   |   |.. dwRevokedReason:      0x%08.8lx
+|   |   |   |.. dwConfidence:         0x%08.8lx
+|   |   |   |.. pTrustListContext:    0x%p
+|   |   +-- +.. dwError:              0x%08.8lx
+|   |   |   +.. dwError:              0x%08.8lx
+System\CurrentControlSet\Control\CI\Policy
+WhqlEnforcementDateTime
+ACUIProviderInvokeUI
+%SystemRoot%\System32\CatRoot2\dberr.txt
+CatDBLogging
+Software\Microsoft\Cryptography\CatalogDB
+catdbsvc.cpp
+catadnew.cpp
+catdbcli.cpp
+waitsvc.cpp
+errlog.cpp
+CatalogDB: %s: %s at line #%u encountered JET error %d
+CatalogDB: %s: %s at line #%u encountered error 0x%.8lx
+CatalogDB: %s: File #%u at line #%u encountered error 0x%.8lx
+CatalogDB: %s: %S
+.Default
+%OSDRIVE%
+%WINDIR%
+%SYSTEM32%
+%WINDIR%\System32
+jowG-P
+Microsoft Enhanced RSA and AES Cryptographic Provider
+1.2.840.113549.1.9.25.4
+1.3.6.1.4.1.311.2.4.1
+CryptSvcForceStartPolicy
+cryptsvc
+ProtectedStorage
+wintrust.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.text
+.text$di
+.text$lp00wintrust.dll!20_pri7
+.text$lp01wintrust.dll!20_pri7
+.text$lp03wintrust.dll!35_hybridboot
+.text$mn
+.text$np
+.text$x
+.text$yd
+.text$zs
+.text$zy
+.text$zz
+.xdata$x
+WilStagingFeatureDescriptors$__m
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$00$brc
+.data$dk00$brc
+.data$dk03$brc
+.data
+.data$00
+.data$dk00
+.data$pr00
+.data$pr03
+.data$zz
+.bss$00
+.bss$dk00
+.bss$pr00
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+Pj+VVRh(
+h YbG
+h0YbG
+QSVWj
+t397t/
+|A9QXv<
+PQSVW
+PPPPPPPj
+t$(j@
+dGSVW
+EPY`Gf
+MPY`Gf
+5`GQ+
+h @`Gj
+h0@`Gj
+h C`G
+jjjjjjj
+D$0Pj
+J`G<-u
+5`GQ+
+t&9>t
+Ph( `G
+GX8 `G
+u.9w@v7
+=`+aG
+WV=PIaG
+eG_^3
+O,_^[
+G,_^[
+O,_^[
+O,_^[
+D$,Pj
+D$4PVhT"`G
+D$8SVW
+hP>`G
+L$D_^[
+FTjPj
+FTjPj
+EPY`Gf
+MPY`Gf
+F,_^[
+=`+aG
+,;~@|
+J`G<-u
+dG_^3
+J`G<-u
+Qhp4`GQ
+dG_^3
+J`G<-u
+dG_^3
+J`G<-u
+J`G<-u
+J`G<-u
+J`G<-u
+J`G<-u
+Qhp5`GQ
+dG_^3
+2PQj,Y
+;~@sA
+QVWj j
+PVVVVh
+eG_^[
+eGF;w0r
+L$(Ph
+hD#`G
+Qh<#`Gj
+h0#`Gj
+|$4Wh
+dGhwt
+=0qaGu)
+89`G3
+G`GH=
+F@j@P
+QSVPh
+h`#`Gh
+h`#`Gh
+"`GX3
+H<;9v
+9u v~
+w!t4-L
+dG_[^
+PQSVW
+dGVSP
+h$$`G
+hD$`G
+Phx:`G
+u;WhT;`G
+QQSW3
+t8WVSSj
+L$`^[3
+Y__^[
+QRPht
+QRPh4
+QRPhT
+QRPht
+h VbGd
+PQQSVW
+|$hWQ
+|$hWQ
+VhL(`GjbZ
+&PWSV
+h,)`G
+dGPh@*`G
+VhL(`G
+dGPh@*`G
+VhL(`G
+VhL(`G
+dGWh`
+QQSVW
+h8'`GW
+vThL'`GWP
+v,Shh'`GW
+'`GWP
+'`GWP
+'`GWP
+'`GWP
+(`GWP
+(`GWP
+dGt(W
+hL(`G
+VhL(`G
+WhL(`G
+WhL(`G
+WhL(`G
+WhL(`G
+<G`GV
+\G`Gj
+4G`Gj
+LG`Gj
+L$4^3
+hd(`G
+97s/j
+dGt83
+VhL(`GjkZ
+hL(`G
+WhL(`G
+dGPh\
+dGh4(`GP
+hP(`G
+hx)`G
+u$h`)`G
+D$(PQ
+T$0QQV
+@_^[]
+dGQQj
+dGQQWh
+u(QQ3
+dGYY^
+wrQj@
+wbVj@
+ >`Gu
+91v:3
+9s8v2
+%SWjb
+`SVW3
+PPPPP
+h(<`G
+@<`G:
+SShX<`G
+WVhX<`G
+dGj"SV
+<`GWh
+4SVWQQP
+T!bG3
+ bGp bG
+u=WRQ
+hl?`Gj
+`>`GP
+h`>`GP
+~$SMH1
+~(SMV1u
+QQVWj
+hP(`G
+u$h`)`G
+D`GXf
+j*Zj"
+(E`GP
+$O`GPQQ
+~ 0:bGu;
+dG0:bGW
+hl?`Gj
+Vht?`G
+hl?`Gj
+PQVWQ
+9E(v,j
+Flf9T
+Z;M0r
+slhPAbGj
+QQVWj
+Y__^[
+B@`GPh
+B@`GPh
+B@`GPh
+B@`GPh
+B@`GPh
+B@`GPh
+;J(ry
+hxW`GP
+tW`GS
+zuFj@
+91ugS
+Rh( `G
+h0>`GP
+dGP-aG
+eGC;^0r
+Vj4^V
+SSSSj
+|$H\v
+dGP-aG
+L$ 9H 
+dG=, 
+DS`G3
+lQ`G:
+PPPPj
+D$$jz
+9G<t/
+ti9>r"
+tj97r"
+t7B9U
+97v<3
+QQSVW
+G9>v"Sj
+eG_^]
+D$DVW
+D$@Pj
+L$L_^3
+@ SVW
+O ;N(u,
+;N$u$
+h@Q`G
+phhLQ`G
+h@Q`GW
+hLQ`GW
+lQ`G:
+eGSWP
+dG^_[
+SVWjP3
+SVWjp3
+L$49^
+D$PXf
+L$4j Z9^
+L$49^
+D$`Xf
+L$49^
+Gf9|$
+f9|$8u
+\$@f9|$lu
+$SVj8j
+f9\$,u
+2`GF3
+tqSVW
+QQSVW
+PSSSSj
+dG^9]
+phh@Q`G
+rhhxV`G
+h8V`G
+hHV`GP
+h\V`G
+QQQPQQ
+QQQPVQ
+u%;;s
+h 6`G
+h 6`G
+L$d_^[3
+phh$R`G
+tKVSS
+XSVWj4^V3
+tT9xxuO9x|uJ9
+t$WWWV
+VVVVj
+VVVVVV
+1f;2u
+\$`Gf
+u4f9C
+u.f9C
+u4f9{
+u.f9{
+dGQQ3
+j\XPV
+dGYYj
+f;D$$u
+dGQQ3
+f;D$$u
+j\Xf9DO
+dGQQ3
+dGQQ3
+dGQQ3
++D$ Ph W`G3
+dGQQ3
+dGQQ3
+dGQQ3
+dGQQj
+dGQQ3
+dGQQ3
+dGQQVh
+dGQQVh%
+dGQQ3
+xSVWjP
+qh(X`G
+D$,P3
+L$TQP
+h(X`G
+D$LPW
+D$DhxW`GP
+D$@P3
+t$ QPW
+j\Xf9DJ
+X`Gh(X`G
+PhT#`Gh@X`G
+QPQh`X`G
+`Gh4Y`G
+t=h@Y`GV
+u4f9Y
+u.f9Y
+9^8~f3
+9^@v 3
+C;^@r
+8WWWj
+t#WWWj
+dG9>t
+dG_^[
+G ;F$u/
+;F u'
+tjj\j
+SVWh<
+EPY`Gf
+MPY`Gf
+9{,tOh
+QSVWj
+9W t[
+t:SP3
+89`G@]
+D$$pY`G
+D$4HZ`G
+;B,|i
+;J(rb
+h,WbGd
+hOWbGd
+QQSVW
+F,jHWP
+VPj$S
+<SVW3
+D$ Pj
+D$,PW
+(SVW3
+Xf9FTr5j
+F8+Fp;
+{0MSCFt
+j(_9{
+Xf9CJr
+.y,WP
+D$0SVWj
+L$<_^[3
+QSVW3
+$u~f9^XtNS
+u*9^`t S
+t@SSS
+hOWbGd
+^$PWW
+^(WWPS
+F8;F$r
+\$`G[f
+9f;>u
+2f;1u
+4VVVQ
+dG_^[
+uOhT:`G
+SVWj@_W
+GTj@^
+4SVW3
+,SVW3
+0[`G;
+4[`G|
+j\[f;
+9P vf
+u"C;_
+v8SW3
+SSSSj
+eGC;^0r
+w1jWY
+eG_^[
+Phd `G
+PhP `G
+Phx `G
+C HPj
+p4h@]`G
+C,jWY
+C,jWY
+PPPPj
+eGC;_0r
+;w0s!
+F;w0r
+xSVWjp3
+F;w0r
+s$RWW
+v4h(]`G
+X]`G:
+p]`Gj
+dG=, 
+eG_^[]
+P `G:
+x `G:
+D$,WP
+tKhD^`GW
+PVjYS
+%`Gj8Z
+QSVWj
+]`GWj
+PQQh`^`G
+SSRSP
+Phx^`Ghp^`Gj
+QSVWh
+dGC;_
+QPRSj
+u.WWWj
+D$$PSSh
+t$(Vh
+D$PVP
+ u,9q
+l$`G3
+\$`GQj 
+D$TSP
+%`Gj8Z
+\$,YY
+D$pPW
+D$@l$`G
+>`G9K
+j,Yf9
+j;XPW
+SVWj:X
+dGYj:Yf
+rsue9N
+j>Yf;
+j-Yf;
+j<Yf;
+dGYjXYf;
+t4j-Yf;
+t,j<Yf;
+dGYjXYf;
+h0>`GP
+[u,8]
+|SVW3
+VShp_`Gh
+PSSSSSS
+PSSSSSS
+PSSSSSS
+dGVSP
+dGVSP
+QQSV3
+,SVW3
+hX_`G
+x _^[
+0VVVVj
+eGG;{0r
+Yj ^3
+h\$`G
+G(C;X
+dGvWV
+dGj@Vj
+dGVSj
+`GPhH
+`GShP
+hpx`GV
+h0y`GV
+hPz`GV
+p$hp{`GV
+p,h0|`GV
+p<hP}`GV
+0h(~`GV
+hta`GV
+hPb`GV
+hpn`G
+h@m`GV
+Shhl`GV
+h(k`GV
+hPk`GV
+hl`GQSPV
+hhi`GV
+p h j`GV
+p$hxj`G
+h@h`G
+hpf`GV
+h g`GV
+h8e`G
+h(d`GV
+hXc`GV
+Ph(o`GV
+hHp`GV
+h|q`GV
+D$ Ph
+hXt`GV
+p hxu`GV
+s@h8v`GV
+9{@~dj
+G;{@|
+v`GPh
+PhPw`GV
+9F4r+
+QQVh$
+QQVhB
+`GSSW
+dG_^[
+u;QQj
+6WWQRj
+0^[_]
+WWWWVQh
+t7WWSPV
+dG_^[]
+QQSVW
+t6VVVj
+h`#`Gh
+h`#`Gh
+tdSVj{Xf
+J`G<-u
+hD#`Gj
+Qh<#`Gj
+h0#`Gj
+Y[_^]
+dGh`'dGS
+T$PPS
+D$4;D$hr
+|$h+|$
+L$<;M
+D$LWRP
+kD$(D
+D$(@k
+QQSVW3
+tyWj@
+9^Pvd
+C;^Pr
+9NPvo
+9NPvp
+9;v53
+9OPvc
+hl?`G3
+_^[Y]
+9KTv4
+9S4v.
+B;S4r
+9S<v.
+B;S<r
+t=`GP
+@E`GP
+tE`GP
+ SVWj
+E`GY3
+u PPPP
+U8;M<u
+Y;~Pr
+9MDv!Q
+F$;}Dr
+f99v 
+f99v 
+f99v 
+f99vB
+E,9FXu
+sBB;U
+9C\vq
+9x\vW
+wsPj@
+9A\v/
+G;y\r
+hPfdG
+hPfdGj$
+hPfdGj$
+QQSVW
+hp1dGj
+dG_^]
+f9W v
+9~DvR
+~H9~lt)9~\v
+[`;~\r
+^,9=h
+dG!5h
+dG_^[]
+j _WV
++xdh[
+9;vU3
+SSSSSh
+t+VVVVVVVj
+*TbG"
+]TbG"
+[obGaobG"
+CVbG"
+uVbG"
+(XbG"
+j>dG{>dG
+-BbG;BbG 
+ASN1CEREncBeginBlk
+ASN1CEREncEndBlk
+ASN1BERDecOpenType2
+ASN1BEREncRemoveZeroBits
+ASN1bitstring_cmp
+ASN1octetstring_free
+ASN1DecSetError
+ASN1BERDecExplicitTag
+ASN1BERDecPeekTag
+ASN1char16string_free
+ASN1CEREncUTCTime
+ASN1BEREncBitString
+ASN1BEREncU32
+ASN1BERDecOctetString
+ASN1BERDecNotEndOfContents
+ASN1BEREncExplicitTag
+ASN1BERDecEndOfContents
+ASN1BERDecBool
+ASN1objectidentifier_free
+ASN1DecRealloc
+ASN1EncSetError
+ASN1BEREncS32
+ASN1CEREncFlushBlkElement
+ASN1BEREncObjectIdentifier2
+ASN1BEREncCharString
+ASN1BEREncEndOfContents
+ASN1CEREncNewBlkElement
+ASN1BEREncBool
+ASN1BEREncNull
+ASN1BEREncOctetString
+ASN1_CloseModule
+ASN1BERDecObjectIdentifier2
+ASN1Free
+ASN1BERDecChar16String
+ASN1BEREncOpenType
+ASN1BERDecS32Val
+ASN1charstring_free
+ASN1BERDecBitString
+ASN1BERDecUTCTime
+ASN1BEREncChar16String
+ASN1BERDecOctetString2
+ASN1BERDecU32Val
+ASN1BERDecNull
+ASN1_CreateModule
+ASN1BERDecCharString
+ASN1bitstring_free
+ASN1_FreeDecoded
+CryptReleaseContext
+CryptAcquireContextA
+CryptGetHashParam
+CryptDestroyHash
+CryptHashData
+CryptCreateHash
+CryptAcquireContextW
+CryptSetProvParam
+ASN1_Encode
+ASN1_FreeEncoded
+ASN1_Decode
+ASN1_SetEncoderOption
+CryptDecodeObjectEx
+CertCompareCertificateName
+CertFindExtension
+CertAddStoreToCollection
+CertGetEnhancedKeyUsage
+CertGetCertificateChain
+CertFreeCertificateChainEngine
+CryptQueryObject
+CertCloseStore
+CertFreeCertificateChain
+CertOpenStore
+CertComparePublicKeyInfo
+CertCreateCertificateChainEngine
+CertFreeCTLContext
+CertFreeCertificateContext
+CertDuplicateStore
+CertDuplicateCertificateContext
+CryptUnregisterOIDFunction
+CryptRegisterOIDFunction
+CertControlStore
+CryptDecodeObject
+CertGetIssuerCertificateFromStore
+CertVerifyValidityNesting
+CertVerifyTimeValidity
+CertCompareIntegerBlob
+CertVerifySubjectCertificateContext
+CryptMsgClose
+CertOIDToAlgId
+CertFindCertificateInStore
+CertVerifyCertificateChainPolicy
+CertGetCertificateContextProperty
+CryptEnumOIDInfo
+BCryptOpenAlgorithmProvider
+BCryptCloseAlgorithmProvider
+CryptStringToBinaryW
+CertIsStrongHashToSign
+CryptSIPLoad
+CertIsWeakHash
+CertFindSubjectInSortedCTL
+CryptSIPRetrieveSubjectGuidForCatalogFile
+CertCreateContext
+CryptMsgDuplicate
+CryptMsgEncodeAndSignCTL
+CryptEncodeObject
+CryptSIPRemoveProvider
+CryptSIPAddProvider
+CryptFindOIDInfo
+BCryptFinishHash
+BCryptDestroyHash
+BCryptHashData
+BCryptCreateHash
+CertFindAttribute
+CryptEncodeObjectEx
+CertGetNameStringW
+BCryptDestroyKey
+BCryptVerifySignature
+CryptMsgVerifyCountersignatureEncodedEx
+CryptMemFree
+CryptMsgControl
+CryptMsgGetParam
+CryptImportPublicKeyInfoEx2
+CertGetSubjectCertificateFromStore
+CertDeleteCertificateFromStore
+CertAddCertificateContextToStore
+CertEnumCertificatesInStore
+CryptSIPRetrieveSubjectGuid
+CryptMsgUpdate
+CertFindSubjectInCTL
+CryptMsgOpenToDecode
+CertCreateCTLContext
+CryptVerifyMessageSignature
+CertCreateCertificateContext
+CertOpenSystemStoreA
+CryptExportPublicKeyInfo
+CertSetCertificateContextProperty
+CryptHashCertificate2
+CertRDNValueToStrW
+CertFindRDNAttr
+LookupAccountSidW
+ConvertStringSidToSidW
+SaferiSearchMatchingHashRules
+I_CryptFlushLruCache
+I_CryptFreeLruCache
+I_CryptCreateLruCache
+I_CryptCreateLruEntry
+I_CryptInsertLruEntry
+I_CryptFindLruEntryData
+I_CryptReleaseLruEntry
+I_CryptRemoveLruEntry
+I_CryptGetAsn1Encoder
+I_CryptInstallAsn1Module
+I_CryptUninstallAsn1Module
+I_CryptGetAsn1Decoder
+I_CertDiagControl
+I_CryptReadTrustedPublisherDWORDValueFromRegistry
+I_CryptGetDefaultCryptProv
+I_CryptDetachTls
+I_CryptAllocTlsEx
+I_CryptFreeTls
+I_CryptSetTls
+I_CryptGetTls
+BCryptGetProperty
+GetDesktopWindow
+MessageBoxA
+ImageEnumerateCertificates
+ImageRemoveCertificate
+ImageAddCertificate
+ImageGetCertificateDataEx
+IsBufferCleanOfInvalidMarkers
+WaitServiceState
+CryptSIPGetSealedDigest
+CertCompareCertificate
+CryptSIPGetCaps
+OpenServiceW
+ChangeServiceConfigW
+QueryServiceConfigW
+StartServiceW
+ControlService
+OpenSCManagerW
+CloseServiceHandle
+ !"#$%&'()*+,-./01234
+789:;<=>?@A
+CDEFGHIJ
+RSTUVWXYZ[\]^
+_`abcdefghijklmnopqrstuvwxyz{|}~
+WINTRUST.dll
+ComputeFirstPageHash
+CryptCATVerifyMember
+CryptSIPGetInfo
+CryptSIPGetRegWorkingFlags
+GenericChainCertificateTrust
+GenericChainFinalProv
+HTTPSCertificateTrust
+SetMessageDigestInfo
+SoftpubDefCertInit
+SoftpubFreeDefUsageCallData
+SoftpubLoadDefUsageCallData
+WTHelperCertFindIssuerCertificate
+AddPersonalTrustDBPages
+CatalogCompactHashDatabase
+ConfigCiFinalPolicy
+ConfigCiPackageFamilyNameCheck
+CryptCATAdminAcquireContext2
+CryptCATAdminAcquireContext
+CryptCATAdminAddCatalog
+CryptCATAdminCalcHashFromFileHandle2
+CryptCATAdminCalcHashFromFileHandle3
+CryptCATAdminCalcHashFromFileHandle
+CryptCATAdminEnumCatalogFromHash
+CryptCATAdminPauseServiceForBackup
+CryptCATAdminReleaseCatalogContext
+CryptCATAdminReleaseContext
+CryptCATAdminRemoveCatalog
+CryptCATAdminResolveCatalogPath
+CryptCATAllocSortedMemberInfo
+CryptCATCDFClose
+CryptCATCDFEnumAttributes
+CryptCATCDFEnumAttributesWithCDFTag
+CryptCATCDFEnumCatAttributes
+CryptCATCDFEnumMembers
+CryptCATCDFEnumMembersByCDFTag
+CryptCATCDFEnumMembersByCDFTagEx
+CryptCATCDFOpen
+CryptCATCatalogInfoFromContext
+CryptCATClose
+CryptCATEnumerateAttr
+CryptCATEnumerateCatAttr
+CryptCATEnumerateMember
+CryptCATFreeSortedMemberInfo
+CryptCATGetAttrInfo
+CryptCATGetCatAttrInfo
+CryptCATGetMemberInfo
+CryptCATHandleFromStore
+CryptCATOpen
+CryptCATPersistStore
+CryptCATPutAttrInfo
+CryptCATPutCatAttrInfo
+CryptCATPutMemberInfo
+CryptCATStoreFromHandle
+CryptSIPCreateIndirectData
+CryptSIPGetCaps
+CryptSIPGetSealedDigest
+CryptSIPGetSignedDataMsg
+CryptSIPPutSignedDataMsg
+CryptSIPRemoveSignedDataMsg
+CryptSIPVerifyIndirectData
+DllRegisterServer
+DllUnregisterServer
+DriverCleanupPolicy
+DriverFinalPolicy
+DriverInitializePolicy
+FindCertsByIssuer
+GetAuthenticodeSha256Hash
+HTTPSFinalProv
+IsCatalogFile
+MsCatConstructHashTag
+MsCatFreeHashTag
+OfficeCleanupPolicy
+OfficeInitializePolicy
+OpenPersonalTrustDBDialog
+OpenPersonalTrustDBDialogEx
+SoftpubAuthenticode
+SoftpubCheckCert
+SoftpubCleanup
+SoftpubDllRegisterServer
+SoftpubDllUnregisterServer
+SoftpubDumpStructure
+SoftpubInitialize
+SoftpubLoadMessage
+SoftpubLoadSignature
+SrpCheckSmartlockerEAandProcessToken
+TrustDecode
+TrustFindIssuerCertificate
+TrustFreeDecode
+TrustIsCertificateSelfSigned
+TrustOpenStores
+WTConvertCertCtxToChainInfo
+WTGetBioSignatureInfo
+WTGetPluginSignatureInfo
+WTGetSignatureInfo
+WTHelperCertCheckValidSignature
+WTHelperCertIsSelfSigned
+WTHelperCheckCertUsage
+WTHelperGetAgencyInfo
+WTHelperGetFileHandle
+WTHelperGetFileHash
+WTHelperGetFileName
+WTHelperGetKnownUsages
+WTHelperGetProvCertFromChain
+WTHelperGetProvPrivateDataFromChain
+WTHelperGetProvSignerFromChain
+WTHelperIsChainedToMicrosoft
+WTHelperIsChainedToMicrosoftFromStateData
+WTHelperIsInRootStore
+WTHelperOpenKnownStores
+WTHelperProvDataFromStateData
+WTIsFirstConfigCiResultPreferred
+WTLogConfigCiScriptEvent
+WTLogConfigCiSignerEvent
+WTValidateBioSignaturePolicy
+WVTAsn1CatMemberInfo2Decode
+WVTAsn1CatMemberInfo2Encode
+WVTAsn1CatMemberInfoDecode
+WVTAsn1CatMemberInfoEncode
+WVTAsn1CatNameValueDecode
+WVTAsn1CatNameValueEncode
+WVTAsn1IntentToSealAttributeDecode
+WVTAsn1IntentToSealAttributeEncode
+WVTAsn1SealingSignatureAttributeDecode
+WVTAsn1SealingSignatureAttributeEncode
+WVTAsn1SealingTimestampAttributeDecode
+WVTAsn1SealingTimestampAttributeEncode
+WVTAsn1SpcFinancialCriteriaInfoDecode
+WVTAsn1SpcFinancialCriteriaInfoEncode
+WVTAsn1SpcIndirectDataContentDecode
+WVTAsn1SpcIndirectDataContentEncode
+WVTAsn1SpcLinkDecode
+WVTAsn1SpcLinkEncode
+WVTAsn1SpcMinimalCriteriaInfoDecode
+WVTAsn1SpcMinimalCriteriaInfoEncode
+WVTAsn1SpcPeImageDataDecode
+WVTAsn1SpcPeImageDataEncode
+WVTAsn1SpcSigInfoDecode
+WVTAsn1SpcSigInfoEncode
+WVTAsn1SpcSpAgencyInfoDecode
+WVTAsn1SpcSpAgencyInfoEncode
+WVTAsn1SpcSpOpusInfoDecode
+WVTAsn1SpcSpOpusInfoEncode
+WVTAsn1SpcStatementTypeDecode
+WVTAsn1SpcStatementTypeEncode
+WinVerifyTrust
+WinVerifyTrustEx
+WintrustAddActionID
+WintrustAddDefaultForUsage
+WintrustCertificateTrust
+WintrustGetDefaultForUsage
+WintrustGetRegPolicyFlags
+WintrustLoadFunctionPointers
+WintrustRemoveActionID
+WintrustSetDefaultIncludePEPageHashes
+WintrustSetRegPolicyFlags
+WintrustUserWriteabilityCheck
+mscat32DllRegisterServer
+mscat32DllUnregisterServer
+mssip32DllRegisterServer
+mssip32DllUnregisterServer
+zedv5
+_vsnwprintf
+memcpy_s
+_purecall
+memmove_s
+_wcsicmp
+malloc
+_callnewh
+_XcptFilter
+_amsg_exit
+_initterm
+_except_handler4_common
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+GetFileVersionInfoByHandle
+api-ms-win-core-version-private-l1-1-0.dll
+CompareFileTime
+SetLastError
+InitializeCriticalSection
+DeleteCriticalSection
+LocalFree
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+EnterCriticalSection
+ReleaseSemaphore
+GetModuleHandleExW
+LeaveCriticalSection
+InitializeCriticalSectionEx
+WaitForThreadpoolTimerCallbacks
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+FormatMessageW
+GetLastError
+ReleaseSRWLockExclusive
+OutputDebugStringW
+CloseThreadpoolTimer
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+AcquireSRWLockShared
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+IsDebuggerPresent
+GetEnvironmentVariableA
+SetEvent
+DisableThreadLibraryCalls
+LoadLibraryW
+FreeLibrary
+RegQueryValueExW
+RegOpenKeyExW
+RegSetValueExW
+RegCreateKeyExW
+WideCharToMultiByte
+RegDeleteKeyExW
+RegCloseKey
+ResetEvent
+SizeofResource
+FreeResource
+GetModuleHandleExA
+LockResource
+LoadResource
+LoadLibraryA
+RegSetValueExA
+MultiByteToWideChar
+RegQueryValueExA
+ReadFile
+SetFilePointer
+GetFileAttributesExW
+GetSystemTimeAsFileTime
+RegEnumKeyExA
+LoadLibraryExA
+RegOpenKeyExA
+RegQueryInfoKeyA
+ExpandEnvironmentStringsA
+CreateFileW
+UnmapViewOfFile
+GetSystemInfo
+GetFileSize
+MapViewOfFile
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetTickCount
+FindFirstFileW
+InitOnceExecuteOnce
+FindNextFileW
+FindClose
+LocalAlloc
+GetFileAttributesW
+GetSystemDirectoryW
+GetTickCount64
+GetCurrentDirectoryW
+LocalReAlloc
+WriteFile
+VirtualUnlock
+GetFileInformationByHandle
+GetFileSizeEx
+SetFilePointerEx
+SetEndOfFile
+VerQueryValueW
+ExpandEnvironmentStringsW
+DeviceIoControl
+EventUnregister
+RegGetValueW
+GetEnvironmentVariableW
+DuplicateHandle
+FindResourceW
+EventRegister
+EventWriteTransfer
+CreateFileMappingW
+EventWrite
+LoadLibraryExW
+RegEnumValueA
+GetTimeFormatA
+FileTimeToSystemTime
+GetDateFormatA
+CreateDirectoryW
+GetLengthSid
+AddAccessAllowedAceEx
+InitializeAcl
+InitializeSecurityDescriptor
+GetFileSecurityW
+FreeSid
+RpcBindingFromStringBindingW
+AddAce
+RpcStringBindingComposeW
+RpcBindingSetAuthInfoExW
+SetFileAttributesW
+RpcStringFreeW
+RpcEpResolveBinding
+AllocateAndInitializeSid
+EqualSid
+GetAce
+RpcBindingFree
+GetAclInformation
+SetFileSecurityW
+GetSecurityDescriptorDacl
+SetSecurityDescriptorDacl
+NdrClientCall2
+OutputDebugStringA
+GetLocalTime
+GetTokenInformation
+GetSidIdentifierAuthority
+OpenThreadToken
+OpenProcessToken
+IsValidSid
+CopySid
+GetCurrentThread
+GetSidSubAuthority
+GetSidSubAuthorityCount
+CreateEventA
+CreateMutexA
+WaitForMultipleObjectsEx
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+RPCRT4.dll
+FindResourceExA
+CreateFileMappingA
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+lstrlenA
+lstrlenW
+lstrcmpA
+api-ms-win-core-string-obsolete-l1-1-0.dll
+RtlFreeHeap
+RtlNtStatusToDosError
+NtQuerySystemInformation
+ZwQueryVolumeInformationFile
+RtlFreeUnicodeString
+RtlInitUnicodeString
+RtlImageNtHeaderEx
+NtQuerySecurityObject
+RtlCreateUnicodeString
+RtlGetVersion
+NtQueryEaFile
+NtQuerySecurityAttributesToken
+RtlAllocateHeap
+ntdll.dll
+__CxxFrameHandler3
+qsort
+wcschr
+wcstol
+_itow_s
+_memicmp
+_stricmp
+_wcsnicmp
+wcsrchr
+wcscat_s
+_wtol
+towupper
+_vsnprintf
+_ltoa
+bsearch
+qsort_s
+ApiSetQueryApiSetPresence
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-apiquery-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+InitializeSRWLock
+TryAcquireSRWLockExclusive
+EventSetInformation
+RtlCompareUnicodeString
+RtlAppendUnicodeStringToString
+RtlEqualUnicodeString
+RtlPrefixUnicodeString
+RtlStringFromGUID
+LdrResSearchResource
+RtlIsNameInUnUpcasedExpression
+RtlGetAce
+RtlCopyUnicodeString
+RtlGetNtSystemRoot
+RtlInitializeSidEx
+RtlEqualSid
+RtlGetDaclSecurityDescriptor
+memcmp
+memcpy
+memmove
+memset
+IDI_TRUSTDB
+MSTESTROOT
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Microsoft Trust Verification APIs
+FileVersion
+10.0.22621.891 (WinBuild.160101.0800)
+InternalName
+WINTRUST.DLL
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+WINTRUST.DLL
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.891
+OleSelfRegister
+VarFileInfo
+Translation
+""""""""
+"""""""")
+"""""
+""""")
+""""""
+"""""""/
+"""""""
+"""""
+""""""""""""" 
+""""""""""""" 
+Washington1
+Redmond1
+Microsoft Corporation1:08
+1Microsoft Testing Root Certificate Authority 20100
+100617205802Z
+350617210411Z0
+Washington1
+Redmond1
+Microsoft Corporation1:08
+1Microsoft Testing Root Certificate Authority 20100
+DyR4(
+0u1+0)
+"Copyright (c) 1999 Microsoft Corp.1
+Microsoft Corporation1&0$
+Microsoft Test Root Authority0
+990110070000Z
+201231070000Z0u1+0)
+"Copyright (c) 1999 Microsoft Corp.1
+Microsoft Corporation1&0$
+Microsoft Test Root Authority0
+E%oE:FO
+w0u1+0)
+"Copyright (c) 1999 Microsoft Corp.1
+Microsoft Corporation1&0$
+Microsoft Test Root Authority
+$This certificate is used to sign untested drivers that have not passed the Windows Hardware Quality Labs (WHQL) testing process.  This certificate and drivers signed with this certificate are intended for use in test environments only, and are not intended for use in any other context.  Vendors who distribute this certificate or drivers signed with this certificate outside a test environment may be in violation of their driver signing agreement.  Vendors who have their drivers signed with this certificate do so at their own risk.  In particular, Microsoft assumes no liability for any damages that may result from the distribution of this certificate or drivers signed with this certificate outside the test environment described in a vendor's driver signing agreement.
+inetcomm.dll
+EssMLHistoryEncodeEx
+FuncName
+.1.248.01153941.9.1..6.1
+sERsceietpnEocedxE
+inetcomm.dll
+inetcomm.dll
+EssContentHintEncodeEx
+FuncName
+.1.248.01153941.9.1..6.2
+sERsceietpeRuqseEtcndoEe
+inetcomm.dll
+EssSignCertificateEncodeEx
+FuncName
+.1.248.01153941.9.1..6.211
+sEKsyexEhcrPfereneecnEocedxE
+.1.248.01153941.9.1..6.221
+sESsgiCnreitifacetnEocedxE
+.1.248.01153941.9.1..6.2
+sESscerutiLybalenEocedxE
+.1.248.01153941.9.1..6.2
+sEMsHLsiotyrnEocedxE
+.1.248.01153941.9.1..6.2
+sECsnoettniHtnnEocedxE
+0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1d1h1l1p1t1x1|1
+2 2$2(2,20282@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3(3\3d3l3t3|3
+4D4H4P4X4p4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5x5|5
+6$6(6,64686<6D6H6L6T6X6\6d6h6l6t6x6|6
+7 7$7,70747<7@7D7L7P7T7\7`7d7l7p7t7|7
+8$8,84888D8P8\8l8p8t8x8|8
+=M>Y>
+?$?(?.?2?B?F?b?f?l?p?v?z?
+1l1z1
+2b2r2
+5(585O5i5o5
+6+696~6
+707J7\7h7z7
+<S=Y=l=r=
+>V?\?
+131Z1
+2%2L2|2
+8!9P9
+:3:A:L:W:x:
+:4;C;
+=F>R>
+>9?q?
+0K1_1g1
+2M2^2
+2Y3m3u3
+7=8E8
+9N9X9
+99:G:O:
+:H;S;^;
+<2<L<[<j<
+=)=E=c=
+=2>j>
+?!?3?9?Z?`?
+050U0v0
+1=1[1i1o1u1
+132:2c2y2
+516>6L6`6
+8&858i8
+9'9F9a9|9
+:;:F:O:Z:e:
+;=;u;
+=*=;=C=
+>-?I?
+0[0|0
+151E1O1s1m2
+2)3V3t3
+364G4^4
+6.6Q6e6
+7#7{7
+7"8T8_8
+<P=g=m=|=
+y0 1>1
+3@4s4y4~4
+5#5*51585?5
+5\6u6
+838Q8^8o8
+<9<N<s<y<
+253O3
+3-4I4l4~4
+525L5m5{5
+6;6U6s6
+637i7
+8j9t9
+<><s<}<
+=,=2=8=A=G=M=S=v=}=
+=8>E>
+?C?M?_?
+0 000u0
+1'2M2r2z2
+3,494
+505X6
+9%9/9}9
+2 424
+5f5s5
+5;6I6
+6*7h7
+7I8O8u8
+8.9=9~9
+:):4:d:p:
+:D;H;L;P;T;
+?K?h?t?
+1.2:2}2
+2?3}3
+4%4>4}4
+575B5
+556i6u6
+727b7
+9S9_9
+:5;A;
+;#<:<x<
+= =[=g=
+>Q>h>
+0-080
+011e1q1
+222<2A2N2g2
+30373C3R3
+4+4J4Q4]4l4
+5I5{5
+6.6V6l6r6
+7"7C7Y7_7e7
+;?=]=A>
+0Z1g1u1
+3_3y3|4X5]5o5
+5?6O6
+7$7*7:7O7e7s7z7
+8!8'8O8
+:A:v:
+;;;};
+<(<.<8<Y<
+1!1_1
+292D2X2
+4H5M5_5
+6%6F6Q6W6]6h6n6
+7&7;7Q7a7h7q7x7
+7M8S8_8i8s8x8
+9$9.9F9L9V9[9`9e9|9
+:+:1:::K:a:g:l:w:}:
+;(;-;?;];c;w;
+<6=M=f={=
+>/>^>
+0#0<0@0D0H0L0P0I1U1
+3(3F3W3y3
+545L5d5|5
+506A6V6
+6)7/7K7
+8)9o9
+:Z:v:
+<<<J<
+=$=>=f=v=
+=&>I>W>
+?#?-?4?\?
+0\0y0N1
+668T8
+8J9k9s9
+011q1L2a2p2
+3l3~3
+4=4J4|4
+6#6D6S6n6
+7$8.8L8U8r8
+9c9o9
+:):R:
+1#1(1-121
+383M3Z3w3
+4!44494?4S4X4d4u4}4
+5#5/5Q5h5}5
+6(727M7
+7"8'8D8M8X8_8w8}8
+9"92989C9I9U9e9n9
+:%:.:B:P:a:i:
+;*;6;B;N;Z;f;
+=.=C=R=Z=i=u=
+>%>5>E>U>e>u>
+?%?5?E?U?e?u?
+0%050E0U0e0u0
+1&161F1V1f1v1
+2'272G2W2g2w2
+3'373G3W3g3w3
+4(484H4X4h4x4
+5(585H5X5h5x5
+6)646D6T6e6q6|6
+7*7A7N7g7
+8-8=8M8]8m8}8
+9-9:9N9^9k9
+:@:K:X:l:|:
+<c<i<
+6D6[6a6
+6G7d7~7
+:R:k:v:}:;;p;
+;:<@<s<
+>,>3>
+?#?r?y?
+0&030:0G0N0U0j0
+1/1F1o1
+393r3
+4$5F5
+6<6F6U6
+;!;b;n;v;
+<.<8<H<R<\<n<
+?,?S?_?g?|?
+1I2j2
+3@3z3
+4-434<4E4O4X4b4k4u4~4
+5&6/6?6H6
+8x9v:s;z;
+=!=-=5=G=e=n=z=
+=h>r>
+A0G0T0_0v0
+4-5W5w5
+6%6q6
+8.8;8C8K8Q8l8v8
+9"9)9@9]9l9t9
+9F:h:
+;4<t<
+?'?-?2?F?T?`?h?y?
+060R0f1r1~1
+2%2-2G2m2
+4&434M4Z4f4u4
+4H5i5
+6,6B6P6k6v6|6
+7"7)747;7
+8U8f8r8
+:L;R;W;
+<><m<r<w<
+>:>M>X>
+?"?9?
+$0*0[0q0
+1D2_2
+2D3w3
+5"535Y5
+5&686Q6j6
+8I8d8
+8!9>9T9
+:/:;:P:f:x:
+;K;V;
+<\<|<
+<\=|=
+e0l0T1X1\1|2
+494e4
+4Z5{5
+6=6D6
+6i7;8Y8t8
+8N9k9
+:`;i;o;t;
+='=;>
+0F1M1c1m1|1
+4?5i5
+7>869
+;";A;Y;`;e;o;t;~;
+<.<5<;<C<I<O<[<k<q<y<
+<<=H=n=|=
+>^?c?h?
+1+1?1v1"4~4
+495G5L5
+6&7R7
+3)3/353]3c3i3
+646f6
+7@7c7
+9!979I9h9{9
+<&<5<?<o<
+> >&><>q>
+>,?G?[?{?
+$050L0&1C1v1
+2<2m2}2
+2%323<3d3~3
+3(4I4
+5d5q5
+7$838
+9+9G9c9g9l9r9v9|9
+99:\:x:
+;);T;
+;<<B<M<T<f<
+3!3/3W3j3
+4(4;4z4d5u5
+6;6M6W6x6
+7T7{7
+8M9j9
+>3>@>b>
+?+?H?
+3)3J3t3
+4%424A4L4f4l4{4
+4*5q5
+5$616a6
+6 797C7P7Z7p7
+8m8s8
+:G:Z:
+:);:;Q;_;
+</<K<t<
+<0=C=T=
+?,?2?]?f?s?|?
+0!020C0e0w0
+1'181H1T1
+253K3X3
+4<4T4r4
+555m5
+636Y6c6
+7]7~7
+7-8s8
+9,9=9S9b9|9
+:<:T:[:!<(<g<}<
+<P=]=
+?:?S?d?x?
+00C0V0i0
+021S1v1
+102C2V2y2
+3`3s3
+454J4e4z4
+4@5s5
+6E6v6
+797L7
+818C8U8g8y8
+9H9]9|9
+:):<:
+;C;T;s;
+<6<V<f<y<
+<(=O=c=w=
+>/>C>S>
+?2?D?T?
+0"0>0_0t0
+111?1}1
+2%252g2
+3#3[3
+4*4n4
+4.5N5t5
+6N6n6
+7M7m7
+7(8Y8z8
+<_<e<
+=#=3=9=l=s=
+>L?Y?{?
+0 0&0+030D0I0O0T0\0
+=">m>s>
+>2?8?
+0#0j0
+4P5k6q6"7
+8,898Q8^8v8
+929P9z9
+;'<3<A<R<
+<2=;=I=c=m=
+>!>)>3>9>E>U>`>
+>.?Z?q?x?
+1E1Z1j1q1
+2+2K2r2
+3D4N4z4,5:5n5
+7S8p8
+9A9M9s9
+;/;>;U;u;
+;-<=<T<_<
+?&?5?
+0-0X0t0
+1&1K1[1
+2&2S2
+4/494H4u4
+4%5K5
+8Z8r8
+:7:\:
+;W;b;
+=->i>
+0>0S0g0q0
+141F1M1
+293R3
+3K4~4
+4&515i5o5~5
+627S7
+8+9g9
+;6;B;[;
+;"<,<3<l<v=
+>a>}>
+>4?P?
+1;1`1p1
+2i3p3
+7Y7u7
+:d;v;};
+<@<U<
+<"=+=7=\=
+>W>a>n>t>
+>0J0h0
+0H1t172
+3@3d3j3q3
+3M4}4
+6$646E6N6
+8/8n8
+9,9f9
+:#:L:^:i:
+<0<5<P<`<m<
+=0=G=]=d=p={=
+=A>F>L>W>^>
+3P3G4j4
+565F5
+656O6_6e6
+697h7r7x7
+:3:t:
+<.<E<
+=#===y=
+>'?I?
+2%2C2L2\2j2s2
+273G3}3
+7Z7i7
+8%8:8h8u8
+9#9G9c9v9
+9N:b:s:
+<N=V=^=f=n=v=|=
+?'?1?;?E?O?Y?
+091E1f1
+2,2:2e2R3e3
+324[4
+4`5z5
+6E7L7s7
+8-8R8
+8 9=9d9
+<0=t=
+?"?>?
+121T1
+3W4t4
+5!6U6
+6/7?7
+7$8e8u8
+9p9c:
+;$;I;i;
+2;2j2
+2J3g3
+4H4n4
+5'545A5Z5
+6&7I7d7
+8%838B8i8
+9X:f:}:
+<'<5<M<
+=%>C>d>y>
+E0S0\0n0{0
+1i1r1
+202r2
+3#3d3w3
+4%4T4a4m4
+6$6^6i6
+808F8`8
+:*;y;
+2v2H3
+5/5F5@6J6y6
+7'717^7x7
+7/898C8M8W8a8k8
+;@;Q;[;};
+>N>{>
+?#?Y?e?{?
+0?1K1X1b1
+2)2O2
+525M5Y5
+5M6y6
+8:9@9m9
+:":):C:e:
+:2;;;
+=">J>d>
+?%?4?@?
+0*090F0U0^0
+1%171B1I1`1
+3;3H3v3
+5#747>7
+748R8
+:-:C:M:W:^:|:
+:*;Z;
+;G<L<
+=,=2=M=V=
+>>>Y>
+?0?:?d?
+0+0a0|0
+1K1R1Y1^1n1
+2"2_2\3{3
+4]6|6
+:*:]:
+=L>Y?
+080l0u2
+2V3E4
+648J8
+9/9<9|9
+:D:i:w:
+=(=<=K=X=_=
+?%?8?A?f?
+1,191F1g1y1
+2 2-242<2I2S2q2
+2*363
+4t5*676A6
+7'808Y8_8
+;0;[;n;
+<9=q=
+?'?`?
+2-272=2V2z2
+3@3^3e3y3
+354R4f4t4
+5#5*5[5~5
+6+6<6P6a6z6
+7(7?7V7p7
+888R8h8x8
+9O9t9~9
+96:T:d:x:
+:3;F;d;t;
+<(<8<a<u<
+=%=9=M=a=o=
+>#>U>e>u>
+?(?/?I?j?q?
+000A0
+1,1X1~1
+5[6e6
+8?9L9
+;-<a<
+>->b>
+>)?J?X?
+0O0a0
+2/2;2J2o2v2
+3D3U3
+5<6l6Y7
+8Y9h9x9
+99:?:m:
+<.<F<V<b<
+<A=b=t=
+=$?W?`?x?
+1'1e1q1
+1F2M2W2j2q2^3g3n3
+4#4+4A4
+=.>F>Q>_>d?
+7G8O8X8a8D9
+;>;P;
+;9<G<
+0*1|1
+9[9o9
+9":::
+=4=\=c>
+"1.2.3&4l7
+87:I:`:i:
+2%2L2]2x2
+6g6z6
+;=>[>r>
+0>0Q0c0
+2E2T2
+3=3C3^3d3
+4?4E4{4
+4'5|5
+5]6h6
+7[7n7u7
+9(:/:w:}:
+;.;U;j;q;
+;#<-<J<Y<
+=o=y=
+= >r>y>
+0 0:0Y0p0y0
+1,101<1\1d1p1
+2$2<2@2L2l2
+3 3,3L3X3x3
+44484H4l4x4
+585T5X5d5
+64686D6d6p6
+7,707L7P7l7p7
+8,808L8P8T8X8
+0 00080H0T0|0
+1 1,1P1X1\1d1
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2l2p2x2
+yQ;#U
+iN*/+aV
+2N3OM
+TH-(M/
+Ss>?H
+3S<8D8
+ep1>b
+,OP)7
+>#Xcb$$
+riRZ,
+I3J1s
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,dsV3wOBq6u5JTKTp8q59Ct7FZjkK78kQu8RUjSJbypg=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+&3[Cf
+[M7[?q
+E'+7r@.
+20221031191801.05Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220920202217Z
+231214202217Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service0
+4,'3c
+6>6{5
+~t-:o
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+(*vM:
+[!01rt
+3hya9
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:FC41-4BD4-D2201%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221031184844Z
+20221101184844Z0w0=
+1/0-0
+1(0&0
+t17GV
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+';X7!'-

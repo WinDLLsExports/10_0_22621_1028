@@ -1,0 +1,776 @@
+!This program cannot be run in DOS mode.
+@Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+Sysprep_Generalize_Bcd
+onecore\base\ntsetup\opktools\sysprep\dlls\bcd\spbcd.cpp
+Sysprep_Generalize_Bcd: There is no system BCD store to be generalized.  This image will not be bootable unless a system store is later created. Status=[0x%X] Returning...
+Sysprep_Generalize_Bcd: Located BCD store on system drive. Generalizing it...
+Sysprep_Generalize_Bcd: There was an error generalizing the bcd store. Status=[0x%X]
+Sysprep_Generalize_Bcd: Successfully generalized the bcd store. Status=[0x%X]
+bootstat.dat
+\??\%ws%ws%ws
+Sysprep_Offline_Specialize_Bcd
+Sysprep_Offline_Specialize_Bcd: Failed to create bootstat for offline OS. File: %ws Status: 0x%x
+Sysprep_Online_Specialize_Bcd
+Sysprep_Specialize_Bcd: There was an error opening the system store. Status=[0x%X]
+Sysprep_Specialize_Bcd: There was an error specializing the bcd store. Status=[0x%X]
+Sysprep_Specialize_Bcd: Successfully specialized the bcd store. Status=[0x%X]
+BcdLogCallback
+BCD: %ws
+GetCurrentLoaderIdentifier
+GetCurrentLoaderIdentifier: Could not find any Windows OS Loader entries. Status = [0x%X]
+GetCurrentLoaderIdentifier: Failed to get required size of OS loader entries. Status = [0x%X]
+GetCurrentLoaderIdentifier: Failed to allocate memory to enumerate Windows Loader entries. Status = [0x%X]
+GetCurrentLoaderIdentifier: Error enumerating Windows OS Loader entries. Status = [0x%X]
+GetCurrentLoaderIdentifier: Could not find a matching Windows OS Loader object for the currently running OS. Status = [0x%X]
+GeneralizeBcdStore
+GeneralizeBcdStore: Found the memory tester object.
+GeneralizeBcdStore: Unable to get the current OS identifier. Status = [0x%X]
+{%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x}
+GeneralizeBcdStore: Found the Windows OS Loader object %s for the currently running OS. 
+GeneralizeBcdStore: Unable to open BCD object to generalize. Status = [0x%X]
+GeneralizeBcdStore: Unable to get the associated resume object for the current OS loader. Status = [0x%X]
+GeneralizeBcdStore: Found the resume object %s for the OS loader.
+GeneralizeBcdStore: IsSystemDriveTypeVirtualDisk() failed! Status = [0x%X]. Assuming non-VHD boot...
+GeneralizeBcdStore: System drive backed by VHD = %d
+GeneralizeBcdStore: Error build generalized VHD device! Status = [0x%X]
+GeneralizeBcdStore: System drive backed by VHD. Successfully built generalized VHD device...
+GeneralizeBcdStore: Generalizing object %s
+GeneralizeBcdStore: Error generalizing application device. Status = [0x%X]
+GeneralizeBcdStore: Successfully generalized application device. Status = [0x%X]
+GeneralizeBcdStore: Error generalizing OS device. Status = [0x%X]
+GeneralizeBcdStore: Successfully generalized OS device. Status = [0x%X]
+GeneralizeBcdStore: Error generalizing hiberfile device. Status = [0x%X]
+GeneralizeBcdStore: Successfully generalized hiberfile device. Status = [0x%X]
+%SystemDrive%
+IsLoaderEntryForCurrentOs
+IsLoaderEntryForCurrentOS: Encountered a Windows OS Loader entry with device of type boot or locate.  This entry was probably generalized already which means this is the system boot entry.
+IsLoaderEntryForCurrentOS: Encountered a Windows OS Loader entry with a type that is neither partition nor boot. Ignoring it.
+SpecializeBcdStore
+SpecializeBcdStore: Unable to open the BCD object for the current OS. Status = [0x%X]
+SpecializeBcdStore: Unable to get the associated resume object for the current OS loader. Status = [0x%X]
+SpecializeBcdStore: Found the resume object %s for the OS loader.
+SpecializeBcdStore: Error getting the OS drive. Status = [0x%X]
+SpecializeBcdStore: Error allocating memory for boot device!
+SpecializeBcdStore: Error getting the system partition. Status = [0x%X]
+SpecializeBcdStore: Error allocating memory for system device!
+SpecializeBcdStore: Unable to open the BCD object %s. Status = [0x%X]
+SpecializeBcdStore: Error specializing %s application device. Status = [0x%X]
+SpecializeBcdStore: Successfully specialized %s application device. Status = [0x%X]
+SpecializeBcdStore: Error seting the %s OS device entry to the boot partition. Status = [0x%X]
+SpecializeBcdStore: Successfully set the %s OS device to the boot partition. Status = [0x%X]
+SpecializeBcdStore: The /detecthal switch could not be removed because it was not found.
+SpecializeBcdStore: Error removing /detecthal switch from %s. Status = [0x%X]
+SpecializeBcdStore: Successfully removed /detecthal switch from %s.
+SpecializeBcdStore: Error seting the %s hiberfile device entry to the boot partition. Status = [0x%X]
+SpecializeBcdStore: Successfully set the %s hiberfile device to the boot partition. Status = [0x%X]
+Microsoft\Windows\CurrentVersion\Setup\Sysprep
+Software\Microsoft\Windows\CurrentVersion\Setup\Sysprep
+SysprepMode
+upgrade
+System
+Objects
+Failed to get object identifier. Status: %x
+Opening object %s
+Failed to open key for all objects. Status: %x
+Failed to get aliased identifier. Status: %x
+Failed to update object GUID string. Status: %x
+Object alias resolves to %s
+Failed to open object's key. Status: %x
+Description
+Creating object. Version: %d. Type: 0x%08x
+Generating object GUID.
+Object GUID: %s
+Elements
+BcdGetElementDataWithFlags: Failed to acquire BCD sync mutant. Status: %x
+BcdGetElementDataWithFlags: Failed to open elements key.Object: %ws Status: %x
+BcdGetElementDataWithFlags: Failed to open key.Object: %ws Type: %ws Status: %x
+Element
+BcdGetElementDataWithFlags: Failed to get registry value.Object: %ws Reg type: %lu Status: %x
+Setting element %08x
+Failed filtering for element %08x. Status: 0x%x
+Failed to open key for object's elements. Status: %x
+Failed to open key for element %s. Status: %x
+Failed to convert data for element %s. Status: %x
+Failed to set registry data for element %s. Status: %x
+Deleting element %08x
+Deleting element %08x blocked by secure boot policy.
+Failed to filter delete element %08x. Status: %x
+Failed to open key for all object's elements. Status: %x
+Failed to open element %ws key for delete. Status: %x
+Insufficient length for BCD element. Length %lu Required %lu DataType: %lu
+Unexpected length for BCD element. Length %lu Expected: %lu DataType: %lu
+Failed to resolve locate. Status: %x
+Exceeded length for BCD element. Length %lu Expected: %lu DataType: %lu
+Unexpected length for BCD element. Length %lu DataType: %lu
+String not multiple of WCHAR. Length %lu DataType: %lu
+\KernelObjects\BcdSyncMutant
+BcdOpenSystemStore: Failed to acquire BCD sync mutant.Status: %x
+Failed to get system store path. Status: %x
+BcdCloseStore: Failed to acquire BCD sync mutant. Status: %x
+Closing store. Flags: 0x%x
+BcdForciblyUnloadStore: Failed to acquire BCD sync mutant. Status: %x
+Exporting forcible unload to firmware
+Failed to export unload alterations to firmware. Status: %x
+Exporting alterations to firmware.
+Failed to export alterations to firmware. Status: %x
+KeyName
+TreatAsSystem
+FirmwareModified
+BCD%08d
+Loaded hive at BCD%08d
+Failed to load hive into key %ws from %s. Status: %x
+Too many unexplained failures. File: %s Last status: %x
+Failed to find a key to load store %s. Last attempted key: %ws
+A valid store must have a description key.
+Failed to open description key for store. Store: %s StoreKey: %ws Status: %x
+Failed to set description key value. Store: %s StoreKey: %ws Status: %x
+\Registry\Machine
+Failed to add system store from file. File: %ws Status: %x
+Failed to mark system store. File: %ws Status: %x
+File is not system store. File: %ws Status: %x
+Opening system store. Flags: 0x%x
+Found loaded store at key %s
+Store %s is the system store
+The system store is not already loaded
+Synchronizing store with firmware
+Failed to bind with firmware. Flags: 0x%x Status: %x
+FirmwareBootDevice
+WindowsSysPartDevice
+Failed open key %ws. Status: %x
+Failed to acquire permissions to load hive. Status: %x
+Failed load key %ws. Flags: 0x%x File: %s Status: %x
+Failed open newly loaded key %ws. Flags: 0x%x Status: %x
+%s\%s
+Unexpected type for BCD element. Expected type: 0x%x Actual type: 0x%x
+ZwUnloadKey2
+ZwLoadKey2
+System store path: %s
+Failed to get system partition. Status: %x
+System partition: %s
+FirmwareVariable
+GuidCache
+ntdll.dll
+RtlQueryFeatureConfiguration
+RtlNotifyFeatureUsage
+\Device\HarddiskVolume
+\Device
+\Device\%s\Partition%lu
+\??\PhysicalDrive%lu
+Directory
+SymbolicLink
+Harddisk
+BiResolveLocate: Unsupported parent device type %d. Status: %x
+BiResolveLocate: ParrentOffset is 0. Status: %x
+qAxelR\
+Registry\Machine\System\CurrentControlSet\Control\MiniNT
+\Registry\Machine\SYSTEM\CurrentControlSet\Control
+PortableOperatingSystem
+SystemStartOptions
+MININT
+Attempting to determine owner of file %ws.
+Failed to open file attributes. Status: %x
+Failed to allocate process ID buffer.
+Failed to query processes. Status: %x
+No processes are using this file.
+Found %d processes using this file.
+Failed to open process. Status: %x
+Failed to query process information for size. Status: %x
+Failed to allocate memory for space for process name.
+Failed to query process info. Status: %x
+Process Name [%d]: %ws
+ZwFilterBootOption
+multi(%d)disk(%d)rdisk(%d)partition(%d)
+\ArcName\
+\??\PhysicalDrive%d
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\Syspart
+SystemPartition
+\Device\Harddisk%lu\Partition%lu
+\EFI\Microsoft\Boot\bootmgfw.efi
+Binding EFI namespace objects
+BiBindEfiNamespaceObjects failed %x
+Exporting store alterations to efi
+BiExportStoreAlterationsToEfi failed %x
+\EFI\Microsoft\Boot\BCD
+BiBuildIdentifierList failed %x
+BiBindEfiBootManager failed %x
+Boot entry exists for DontSync with ID 0x%x
+BiBindEfiEntries failed %x
+Created boot entry 0x%x using cached variable
+Created new boot entry 0x%x
+BiCreateEfiEntry failed %x
+BiExportBcdObjects failed %x
+Timeout
+BootNext
+BiExportEfiBootManager failed: %x
+BiSpacesUpdatePhysicalDevicePath null APPLICATION DEVICE
+SyspartIsSpace failed for %s
+\??\GLOBALROOT
+SyspartGetPhysicalPartitions failed with error code: %x
+\Device\Harddisk%u\Partition%u
+BiSpacesUpdatePhysicalDevicePath failed %x
+BiUpdateEfiEntry failed %x
+WINDOWS
+BCDOBJECT=
+Translated a DontSync entry with ID 0x%x
+Translated a DontSync object to ID 0x%x
+SyspartIsSpace failed for partition path: %s
+BiCreateBootEntry: Could not retrieve BCD Object application description. Status: %x
+BiCreateBootEntry: Could not retrieve BCD Object application device. Status: %x
+BiCreateBootEntry: Could not retrieve BCD Object application path. Status: %x
+ZwAddBootEntry
+Failed to add boot entry. Status: %x
+ZwEnumerateBootEntries
+Failed to enumerate boot entries. Status: %x
+Deleting boot entry 0x%x
+ZwDeleteBootEntry
+Failed to delete boot entry 0x%x. Status: %x
+ZwQuerySystemEnvironmentValueEx
+ZwSetSystemEnvironmentValueEx
+Failed to query "%ws" variable. Status: %x
+Failed to delete "%ws" variable. Status: %x
+ZwModifyBootEntry
+Failed to modify boot entry 0x%x. Status: %x
+ZwSetBootEntryOrder
+Failed to set boot entry order. Status: %x
+ZwSetBootOptions
+Failed to set boot options. Status: %x
+ZwTranslateFilePath
+ZwQueryBootEntryOrder
+Failed to query boot entry order. Status: %x
+ZwQueryBootOptions
+Failed to query boot options. Status: %x
+\Boot\BCD
+\ArcName\multi(0)disk(0)rdisk(1)
+\ArcName\multi(0)disk(0)rdisk(0)
+\Partition0
+%s\Partition%lu
+multi(%d)disk(%d)rdisk(%d)
+BfsResealBitLockerWithRetrySucceeded
+PartA_PrivTags
+FlagOut
+RetryCount
+FveApiFound
+BfsIsBitLockerResealNeededForBootmgrServicingFailed
+PartA_PrivTags
+Action
+IsBitlockerResealNeeded
+BfsIsBitLockerResealNeededForBootmgrServicingSucceeded
+PartA_PrivTags
+Action
+IsBitlockerResealNeeded
+BfsResealBitLockerWithRetryFailed
+PartA_PrivTags
+Action
+FlagOut
+RetryCount
+FveApiFound
+Microsoft.Windows.BootFileServicing
+RSDS6i
+spbcd.pdb
+.rdata$brc
+.CRT$XCA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+WilStagingFeatureDescriptors$__m
+.edata
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+SSWVh(
+SSWVh(
+SSWVh(
+SSWVh(
+QQWVh
+QQWVhT
+QQWVhT
+QQWVhT
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+D$$VW
+QQWVh
+QQWVh
+D$NAP
+QQWVh
+QQWVh
+QQWVh
+D$NAP
+SSWVh
+D$PSP
+SSWVh
+QQWVh
+y@Sh(
+SSWVh
+j)hHc
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+D$4Pj
+QQWVh
+>_^[3
+PQQjp
+L$ VW
+QQWVhh
+QQWVhh
+QQWVhh
+j)hHc
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+j)hHc
+QQWVhh
+D$0QP
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QQWVhh
+QSVW3
+QQSVW
+D$(PSSS
+D$HSP
+L$vPV
+\$$PSSS
+D$@PjZ
+L$ h?
+L$\_^[3
+VShH*
+VWh(/
+;7vZS3
+D$(PV
+D$$Z;E
+L$$9M
+L$(QP
+D$(PV
+SWjH3
+{jHWS
+D$`SVW
+L$$PSV
+f;D$ u
+f;D$ u
+Lr-W3
+D$(h@<
+F;t$ 
+;t$ u,h
+PPPPP
+QQSVW
+j h8W
+QWWWP
+j0hXW
+j hxW
+PSSSSSSh 
+PSSSSSSSj
+ SFVP
+VWQQP
+D$(#T$
+uHj\[
+jHXPd
+jHXPj
+Ph(Y-
+SWj<3
+@9F$u
+!9~$u,
+F,j\P
+jH^VR
+jH^VR
+jH^VR
+j0^VR
+D$4u'
+f;D$0u
+f;D$0u
+4SVWQ
+QQSVW
+PQQQV
+PWWWV
+4SVWQ
+j\XPW
+VVVVh(
+twSW3
+PQQQV
+j0_f;
+t$(jXQ
+L$(PS
+D$hPj
+t$PPj
+D$d9X
+L$<Pf
+K.j\Q
+f;D$@u
+f;D$@u
+L$(;P
+D$HPd
+PShlH
+u|9\$
+PQh8D
+PQh8D
+PQQhH
+4SVWQ
+D$(Pj
+D$(Pj
+j0_f;
+L$LPj
+L$HPj
+D$tj PQ
+t$$Ph
+QQVWhlJ
+D$hSVW
+D$HPh
+L$LQj
++D$0;D$4
+A 3F 
+tiG;}
+;D$$u
+f;D$,u
+D$ 9D$
+;D$ t"Q
+jl[SPd
+WINDP
+8VWh(U
+y,VhPW
+Y__^[
+sysbcd.dll
+Sysprep_Generalize_Bcd
+Sysprep_Offline_Specialize_Bcd
+Sysprep_Online_Specialize_Bcd
+_vsnwprintf
+_wcsicmp
+swprintf_s
+wcsncpy_s
+_XcptFilter
+_amsg_exit
+malloc
+_initterm
+msvcrt.dll
+_except_handler4_common
+NtQuerySystemInformation
+RtlNtStatusToDosError
+ntdll.dll
+QueryDosDeviceW
+CompareStringW
+HeapFree
+ExpandEnvironmentStringsW
+RegGetValueW
+GetLastError
+HeapAlloc
+GetProcessHeap
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+WdsSetupLogMessageW
+ConstructPartialMsgVW
+CurrentIP
+WDSCORE.dll
+_wcsnicmp
+wcsrchr
+wcschr
+_vsnwprintf_s
+wcscpy_s
+_ultow_s
+wcstoul
+wcscat_s
+strcpy_s
+wcsstr
+_snwscanf_s
+_wcslwr
+wcsnlen
+_wcsupr
+strncmp
+NtWriteFile
+RtlInitUnicodeString
+RtlGetNtProductType
+NtClose
+NtCreateFile
+NtSetInformationThread
+NtDeviceIoControlFile
+NtOpenFile
+ZwQuerySystemInformation
+RtlGUIDFromString
+RtlFreeUnicodeString
+RtlStringFromGUID
+RtlFreeHeap
+RtlAllocateHeap
+RtlAppendUnicodeToString
+ZwQueryAttributesFile
+ZwWaitForSingleObject
+ZwQueryKey
+ZwReleaseMutant
+ZwOpenFile
+ZwOpenMutant
+ZwClose
+RtlLengthSecurityDescriptor
+RtlSetOwnerSecurityDescriptor
+RtlSetDaclSecurityDescriptor
+ZwCreateKey
+ZwLoadKey
+RtlAddAccessAllowedAceEx
+RtlAllocateAndInitializeSid
+RtlLengthSid
+ZwDeleteValueKey
+RtlFreeSid
+ZwDeleteKey
+ZwEnumerateKey
+ZwQueryValueKey
+RtlCreateAcl
+ZwSetSecurityObject
+ZwUnloadKey
+RtlCreateSecurityDescriptor
+ZwSetValueKey
+ZwOpenKey
+ZwAllocateUuids
+ZwQuerySymbolicLinkObject
+ZwDeviceIoControlFile
+ZwQueryDirectoryObject
+ZwOpenSymbolicLinkObject
+RtlGetVersion
+ZwOpenDirectoryObject
+LdrGetProcedureAddress
+LdrGetDllHandle
+ZwQueryInformationProcess
+RtlInitAnsiString
+ZwQueryInformationFile
+ZwOpenProcess
+NtAdjustPrivilegesToken
+NtOpenProcessTokenEx
+NtOpenThreadTokenEx
+RtlImpersonateSelf
+NtOpenSymbolicLinkObject
+NtOpenKey
+NtQuerySymbolicLinkObject
+NtQueryValueKey
+NtQueryBootEntryOrder
+NtQueryBootOptions
+NtTranslateFilePath
+NtOpenDirectoryObject
+NtQueryDirectoryObject
+NtEnumerateBootEntries
+RtlCompareMemory
+GetProcAddress
+GetModuleHandleW
+api-ms-win-core-libraryloader-l1-2-0.dll
+memcmp
+memcpy
+memmove
+memset
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+BCD Sysprep Plugin
+FileVersion
+10.0.22621.1017 (WinBuild.160101.0800)
+InternalName
+Spbcd.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+SPBCD.DLL
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.1017
+VarFileInfo
+Translation
+0L0P0X0`0
+>L?j?r?~?
+0"0'030I0N0Y0e0~0
+1#1-1D1L1Y1q1v1
+132;2G2_2d2p2
+2I3Q3[3o3t3
+5<5H5Z5b5h5
+6$6>6C6N6Z6e6l6
+657W7
+9%9*9o9w9}9
+:4:::B:H:b:g:r:~:
+;%;*;5;A;c;k;w;
+;7<><N<T<\<a<f<
+<-=5=E=]=b=n=z=
+>$>4>L>Q>]>i>
+?&?,?F?K?V?b?
+0%1C1[1c1h1
+2/292V2
+3N3V3[3t3y3
+4P4X4c4{4
+565;5H5T5j5x5
+6'6,6J6Q6_6g6l6
+7 797>7^7
+8#8/8
+9'9Y9a9g9l9
+:*:/:E:M:X:]:u:z:
+;$;);6;>;I;N;f;k;v;
+<&<4<
+=H=V=b=l=
+1"2e2q2
+3#383D3R3
+5%6;6
+7$7X7o7
+8"9+9>9
+:0:=:T:c:}:
+;-;n;{;
+;2<Y<y<
+=;=R=v=
+>K>a>x>
+474k4
+5/5a5
+:G:m:
+<0<?<z<
+>)>H>f>
+?*?J?_?
+A0v0|0
+0 1.1X1
+1?2M2
+2-3N3s3
+4*4;4y4
+5&5y5
+6/6>6
+7i7R8n8
+8$9^9{9
+9$:Q:y:
+;';0;5;:;Q;\;i;
+;@<`<v<{<
+< =%=<=c=
+>*>I>
+?9?O?T?^?l?
+0,030C0c0
+1-1?1p1
+1R2Y2f2z2
+353G3h3
+3.4R4
+6&7R7
+8,979K9v9
+:!:L:
+<)<<<G<U<n<
+= =/=;=S=r=
+>*?G?U?t?
+4K4|4
+495y5
+696a6p6~6
+7N8h8
+939[9d9m9s9x9}9
+99:B:K:Q:V:[:b:j:
+=l>s>
+282N2_2
+253]3i3
+3"4x4
+9<9d9
+;);-;1;5;9;=;A;E;I;M;Q;
+2W2t2
+4/4w4
+4L5]5y5
+6#7S7k7
+8-9K9l9
+:B:`:
+;.;[;
+<Q<i<
+<L=n=
+?5?N?]?
+3<3M3`3g3
+6N7`7
+7D8[8
+9=9V9k9
+:6:D:c:
+;E;O;o;z;
+<)<U<n<
+=3=B=
+>8>D>Q>Z>
+1#1+1
+2"2+2H2l2
+2!323d3
+424b4
+405f5z5
+5G6f6
+8-8K8l8
+;4;];
+; <]<{<
+=O>e>
+?I?b?}?
+111M1^1q1x1
+3@3]3|3
+4$5B5f5
+5'6U6
+>W?q?
+1a1o1
+3D4S4q4~4
+6-6T6~6
+7-7H7
+9%9D9
+=5=u=
+=$>r>
+050\0
+1#2N2U2
+7;7M75829p9
+:V;M<
+<6=O=h=
+1C1R1
+2-2M2
+3J3r3
+484J4
+5+5b5
+617V7o7~7
+8@8Y8h8
+9F9n9
+;5;j;w;
+=-=:=W=`=f=
+>3>8>D>U>]>p>|>
+?1?H?]?
+2"2(2.242:2@2G2N2U2\2c2j2q2y2
+3,383D3
+5#525:5U5a5~5
+6*6k6w6
+7,707L7P7l7p7
+8,8084888

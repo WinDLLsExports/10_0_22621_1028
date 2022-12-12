@@ -1,0 +1,9180 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+CrawlType
+InProgress
+DoneAddingCrawlSeeds
+IsCatalogLevel
+LogStartAddId
+HostDepth
+EnumerationDepth
+FollowDirectories
+StartPageIdentifier
+CrawlNumberInProgress
+CrawlNumberScheduled
+ForceFullCrawl
+ForceFullCrawlExternal
+LastCrawlStopped
+CrawlControl
+LastCrawlType
+IncludeInProjectCrawls
+NotificationHRes
+PersistedFullCrawlCount
+UPDATING CHANGE SEQUENCE: %d
+LastCrawlTime
+LastStartCrawlTime
+NewCrawlNumber
+file:
+NewStartPageIdentifier
+GetStatus - Externally Reported Gather State Transition from %s to %s
+Windows
+SystemIndex
+noindex
+PROGID
+localhost
+file:
+onecoreuap\base\appmodel\Search\common\include\sparse_bit.h
+SOFTWARE\Microsoft\Windows Search
+ETWLogging
+ETWBufferSize
+PerVolumeCatalogs
+WordBreakerDynamicAllowListMaxSize
+WordBreakerLADConfidentMinValue
+SOFTWARE\Microsoft\Windows Search\Gather
+AlwaysUseAutoLangDetection
+NewClientID
+=L9o<
+Software\Microsoft\Windows Search\Tracing\EventThrottleState
+@#|/\
+kernel32
+IsWow64Process
+Software\Microsoft\Windows Search
+LastOnlineTime
+SystemLcid
+StreamLogCount
+ElapsedRunTime
+LastCrawlId
+LastCrawlExcluded
+LastCrawlNotFound
+LastCrawlSuccesses
+LastCrawlSeedStatus
+LastCrawlAccessDenied
+LastCrawlUncategorizedErrors
+U|;&'
+pkm:catalog:schemaurl
+EventThrottleMaxControlPeriodMs
+EventThrottleMaxEvents
+EventThrottleBlockPeriodMs
+EventThrottleFlushPeriodMs
+AllowFindMyFiles
+SOFTWARE\Microsoft\Windows\Windows Search\Preferences
+UseSystemTemp
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+SleepConditionVariableCS
+WakeAllConditionVariable
+ext-ms-win-advapi32-eventlog-l1-1-0
+ext-ms-win-advapi32-eventlog-l1-1-1
+ext-ms-win-advapi32-eventlog-l1-1-2
+ext-ms-win-advapi32-eventlog-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+PROPSYS.dll
+api-ms-win-power-setting-l1-1-0.dll
+api-ms-win-shcore-registry-l1-1-0.dll
+api-ms-win-security-lsalookup-l2-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+api-ms-win-service-core-l1-1-1.dll
+ext-ms-win-resourcemanager-crm-l1-2-0.dll
+ext-ms-win-fs-vssapi-l1-1-0.dll
+WDSCORE.dll
+ext-ms-win-devmgmt-policy-l1-1-0.dll
+ext-ms-win-ntuser-windowstation-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-1
+ext-ms-win-ntuser-windowstation-l1-1-2
+ext-ms-win-ntuser-windowstation-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-window-ext-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-synch-ext-l1-1-0.dll
+ext-ms-win-session-wtsapi32-l1-1-0.dll
+ext-ms-win-session-wtsapi32-l1-1-0
+ext-ms-win-session-wtsapi32-l1-1-1
+ext-ms-win-session-usertoken-l1-1-0.dll
+ext-ms-win-wer-reporting-l1-1-0
+ext-ms-win-wer-reporting-l1-1-1
+ext-ms-win-wer-reporting-l1-1-2
+ext-ms-win-wer-reporting-l1-1-3
+ext-ms-win-wer-reporting-l1-1-0.dll
+ext-ms-win-els-elscore-l1-1-0.dll
+ext-ms-win-els-elscore-l1-1-0
+ext-ms-win-session-usermgr-l1-1-0.dll
+ext-ms-win-session-usermgr-l1-1-0
+ext-ms-win-session-usermgr-l1-2-0
+ext-ms-win-shell-shell32-l1-2-0
+ext-ms-win-shell-shell32-l1-2-1
+ext-ms-win-shell-shell32-l1-2-2
+ext-ms-win-shell-shell32-l1-2-3
+ext-ms-win-shell-shell32-l1-5-0
+ext-ms-win-shell-shell32-l1-2-2.dll
+api-ms-win-core-debug-minidump-l1-1-0.dll
+api-ms-win-shlwapi-winrt-storage-l1-1-1.dll
+ext-ms-win-shell32-shellfolders-l1-1-0.dll
+api-ms-win-security-capability-l1-1-0.dll
+api-ms-win-appmodel-runtime-l1-1-1.dll
+CRYPT32.dll
+api-ms-win-security-provider-l1-1-0.dll
+api-ms-win-power-setting-l1-1-1.dll
+USERENV.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+RPCRT4.dll
+SystemEventsBrokerClient.dll
+Bcp47Langs.dll
+api-ms-win-containers-cmclient-l1-1-0.dll
+api-ms-win-containers-cmclient-l1-2-0.dll
+api-ms-win-containers-cmclient-l1-5-0.dll
+ext-ms-win-containers-policymanagercli-l1-1-0.dll
+VN]$D{
+VN]$D{
+EK0qjd
+!mj?%H
+%s#IZ
+i3OPBK
+W/`|d
+efswrt.dll
+ext-ms-onecore-appmodel-staterepository-internal-l1-1-3.dll
+ext-ms-win-kernel32-package-l1-1-0
+ext-ms-win-kernel32-package-l1-1-2
+ext-ms-win-kernel32-package-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-cursor-l1-1-0.dll
+ext-ms-win32-subsystem-query-l1-1-0
+MPR.dll
+api-ms-win-ntuser-sysparams-l1-1-0.dll
+ForceRemove
+NoRemove
+Delete
+Unknown exception
+bad array new length
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+ntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+string too long
+Error formatting string.
+Error formatting string.
+Local\SM0:%lu:%lu:%hs
+Fonecoreuap\base\appmodel\search\mssrch\dll\searchlifetimemanager.cpp
+wsearch
+SOFTWARE\Microsoft\Windows Search\SearchIdle
+PPTP00
+PPTP00p[
+PPTP00l[
+PPTP00i[
+PPTP00m[
+PPTP00h[
+PPTP00onecoreuap\base\appmodel\search\mssrch\dll\schemacache.cxx
+System.Null
+std::invalid_argument
+std::domain_error
+std::length_error
+std::out_of_range
+std::logic_error
+std::range_error
+std::overflow_error
+std::underflow_error
+system
+unknown error
+generic
+std::system_error
+std::runtime_error
+std::bad_typeid
+std::bad_cast
+std::bad_weak_ptr
+std::bad_array_new_length
+std::bad_exception
+sqlite3_error
+%hs: %hs
+std::exception
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+onecoreuap\base\appmodel\Search\mssrch\gather\include\GthrTrx.hxx
+[SrchGatherDestruction] Destroying CLanguageResourcePools
+onecoreuap\base\appmodel\Search\mssrch\gather\include\wbreak.hxx
+Merge
+[SrchGatherDestruction] Destroying CGatherPluginMgr
+onecoreuap\base\appmodel\Search\mssrch\gather\include\gatherpimgr.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\log.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\log.hxx
+[SrchGatherDestruction] Destroying CLog
+Copyright Microsoft, 1991-2002
+[SrchGatherDestruction] Destroying CPerceivedTypePluginMgr
+onecoreuap\base\appmodel\Search\mssrch\ptypepi\PTypePIMgr.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\FileChangeTrackerInProc.hxx
+onecoreuap\base\appmodel\Search\common\include\atlext.hxx
+[UtilCommon] TPointer::operator&: Possible resource leak - m_pT not zero
+onecoreuap\base\appmodel\Search\common\include\smartcls_common.hxx
+onecoreuap\base\appmodel\Search\common\include\TPKPHMAP.hxx
+Unknown Error
+PPTP00t[
+PPTP00A
+L\ygKL
+@Qm6t
+:}X@>
+KZ?Im,
+Module
+Module_Raw
+REGISTRY
+FileType
+Software
+API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+RegDeleteKeyExW
+advapi32.dll
+RegDeleteKeyW
+Oonecoreuap\base\appmodel\Search\common\include\eventsem_common.hxx
+Fonecoreuap\base\appmodel\Search\common\include\lmstr.hxx
+EnablePerUserCatalog
+onecoreuap\base\appmodel\Search\common\include\PerUserCatalogResetHelper.h
+[SrchGatherDestruction] Destroying CTimerThread
+onecoreuap\base\appmodel\Search\mssrch\gather\include\timerthrd.hxx
+[SrchGatherDestruction] Destroying CGatheringService
+onecoreuap\base\appmodel\Search\mssrch\gather\include\CGatherSvc.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\CGatherSvc.hxx
+onecoreuap\base\appmodel\Search\common\include\recovery.h
+%u - %S (%Id)
+The catalog is corrupt
+The index must be rebuilt.
+\SOFTWARE\Microsoft\Windows Search
+SetupCompletedSuccessfully
+RebuildIndex
+onecoreuap\base\appmodel\search\mssrch\dll\srchobj.cxx
+[SrchServiceObj] Exception caught in CSearchServiceObj::Initialize(). hr=%08X
+onecoreuap\base\appmodel\search\mssrch\dll\srchobj.cxx
+[SrchServiceObj] g_pGatheringService->Start() failed. hr = %08X
+[SrchServiceObj] VSS initialization failed. hr = %08X
+[SrchServiceObj] Exception caught in CSearchServiceObj::Start(). hr=%08X
+[SrchServiceObj] Exception caught in CSearchServiceObj::Stop(). hr=%08X
+_OpenKeyForBackupRestore
+onecoreuap\base\appmodel\search\mssrch\dll\sysprep.cxx
+MSS: _OpenKeyForBackupRestore call failed to open reg key %ls - error 0x%X.
+_DeleteKey
+MSS: _DeleteKey call failed to delete reg key %ls - error 0x%X.
+MSS: _DeleteKey call failed to open reg key %ls - error 0x%X.
+_DeleteValue
+MSS: _DeleteValue call failed to delete reg value %ls under reg key %ls- error 0x%X.
+MSS: _DeleteValue call failed to open reg key %ls - error 0x%X.
+_DeleteSubKeyTree
+MSS: _DeleteSubKeyTree call failed to delete reg key tree %ls under %ls - error 0x%X.
+MSS: _DeleteSubKeyTree call failed to enumerate reg subkeys for %ls - error 0x%X.
+MSS: _DeleteSubKeyTree call failed to open reg key %ls - error 0x%X.
+MSS: _DeleteSubKeyTree call failed to delete reg key %ls - error 0x%X.
+DelNode
+MSS: Cleanup cannot delete %ls in Windows Search Data Directory with error 0x%X.
+MSS: Cleanup cannot delete Directory %ls in Windows Search Data Directory with error 0x%X.
+Cleanup
+MSS: Cleanup call failed to open reg key %ls - error 0x%X.
+DataDirectory
+\Applications\
+MSS: Cleanup call failed to delete data folder %ls - error 0x%X.
+MSS: Cleanup call failed to read reg value %ls - error 0x%X.
+Applications\Windows
+CatalogNames\Windows
+Databases\Windows
+Gather\Windows
+Gathering Manager\Applications\Windows
+UsnNotifier\Windows
+CrawlScopeManager\Windows
+SystemIndexNormalization
+onecoreuap\base\appmodel\search\mssrch\dll\sysprep.cxx
+_KillSearchService
+MSS: _KillSearchService blob allocation failed  - Error 0x%X.
+MSS: _KillSearchService failed to enumerate running processes - error 0x%X.
+MSS: _KillSearchService failed to open first handle for terminated process - error 0x%X.
+MSS: _KillSearchService is going to terminate Windows Search process pid=0x%x.
+MSS: _KillSearchService failed to open second handle for terminated process - error 0x%X.
+MSS: _KillSearchService failed with TerminateProcess, the error is 0x%X.
+MSS: _KillSearchService: Windows Search process handle is still non-signalled after 30 sec 
+MSS: _KillSearchService failed waiting on terminated process handle with error 0x%X.
+_StopService
+MSS: Stopping service %ls.
+MSS: _StopService first call to ControlService failed with error 0x%x, its latest status is 0x%X, the service name is %ls.
+MSS: _StopService %d round try to ControlService failed with error 0x%x, its latest status is 0x%X, the service name is %ls.
+MSS: _StopService ControlService succeeded, its latest status is 0x%X, the service name is %ls.
+MSS: _StopService:ControlService failed with error 0x%X, the latest status is 0x%x
+FALSE
+MSS: _StopService status checking loop %d round, QueryServiceStatus return %ls, the status is 0x%x
+MSS: _StopService exits on timeout with the latest status 0x%X, the service name is %ls.
+MSS: Error 0x%X occurred while obtaining service handle for %ls in call _StopService.
+_StopWithDependentServices
+MSS: Stopping service %ls and its dependents.
+MSS: Could not enumerate dependent services for %ls service, error 0x%x
+MSS: Could not get the count of dependent services for %ls service, error 0x%x
+MSS: Service %ls has no active dependents.
+MSS: Could not open handle for %ls service, error 0x%x
+_EnableOrDisableService
+MSS: Error 0x%X occurred while obtaining service handle for %ls in call _EnableOrDisableService.
+MSS: _EnableOrDisableService blob allocation failed  - Error 0x%X.
+MSS: QueryServiceConfig call failed with error  0x%X for service %ls.
+PreventFromStart
+_CreateBlockingRegKey
+MSS: Error 0x%X occurred while creating reg key %ls.
+WSearch
+SeBackupPrivilege
+SeRestorePrivilege
+SeDebugPrivilege
+MSSrch_SysPrep_Cleanup
+MSS: MSSrch_SysPrep_Cleanup _DisableService returned successfully.
+MSS:MSSrch_SysPrep_Cleanup _CreateBlockingRegKey failed.
+MSS: MSSrch_SysPrep_Cleanup _CreateBlockingRegKey returned successfully.
+MSS: MSSrch_SysPrep_Cleanup _StopWithDependentServices returned timeout, try to kill it.
+MSS: MSSrch_SysPrep_Cleanup _KillSearchService returned error 0x%x.
+MSS: MSSrch_SysPrep_Cleanup _KillSearchService succeeded.
+MSS:MSSrch_SysPrep_Cleanup 2nd _StopWithDependentServices failed with 0x%x
+MSS: MSSrch_SysPrep_Cleanup _StopWithDependentServices returned unhandled error 0x%x.
+MSS:MSSrch_SysPrep_Cleanup Cleanup failed.
+MSS:MSSrch_SysPrep_Cleanup Error 0x%X occurred while setting reg valuey %ls.
+MSS:MSSrch_SysPrep_Cleanup Error 0x%X occurred while opening reg key %ls.
+onecoreuap\base\appmodel\Search\common\include\smartcls_common.hxx
+MSSearch Service Writer
+onecoreuap\base\appmodel\search\mssrch\dll\writer.cxx
+DefaultApplicationsPath
+TempPath
+%s\%s
+https
+winrt
+unknown
+onecoreuap\base\appmodel\search\common\pkmutill\url.cxx
+[UtilCommon] URL - %ls, anchor - %ls, child - %ls
+onecoreuap\base\appmodel\search\common\pkmutill\url.cxx
+[UtilCommon] Unexpected relative url in CURL::MakeFileChild() -> %ls.
+onecoreuap\base\appmodel\search\common\pkmutill\cconfig.cxx
+onecoreuap\base\appmodel\search\common\pkmutill\filestream.cxx
+tquery.dll
+(HRESULT : 0x
+onecoreuap\base\appmodel\search\common\pkmutild\lmstr.cxx
+[UtilCommon] LCMapString() converted %ld out of %ld characters
+onecoreuap\base\appmodel\search\common\pkmutild\namestr.cxx
+[UtilCommon] InternalStringHash is returning fixed value, 0, as hash value.Possibly caused by empty string.
+[UtilCommon] Integer overflow occurred while computing the size of buffer to be allocated.
+onecoreuap\base\appmodel\search\common\pkmutild\cregistry.cxx
+onecore\internal\sdk\inc\wil\opensource\wil\filesystem.h
+[UtilFileSystem] CreateDirectory %ls failed. 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutild\fsutil.cxx
+[UtilFileSystem] SetFileSecurity %ls failed. 0x%08x
+[UtilFileSystem] Error delnoding '%ls'. 0x%08x
+[UtilFileSystem] Bad parameter (%ls) to GetDriveName
+[UtilFileSystem] GetDiskFreeSpaceEx ( %ls ) returned (%d).
+SYSTEM\CurrentControlSet\Services\%s\Performance
+First Counter
+First Help
+onecoreuap\base\appmodel\search\common\pkmutild\perflib.cxx
+Global\
+onecoreuap\base\appmodel\Search\common\include\secutil_common.hxx
+0x%08x
+[EventLog] EventLog could not be registered! Error 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutild\eventlog.cxx
+onecoreuap\base\appmodel\search\common\pkmutild\eventlog.cxx
+[EventLog] CEventLog::Report() called; Severity 0x%04x, Category %d, Args %d
+[EventLog] ReportEvent() Failed. 0x%08x
+InstallDirectory
+[SrchCommon] Registry does not seem to be configured correctly
+onecoreuap\base\appmodel\search\common\pkmutild\ss4.cxx
+onecoreuap\base\appmodel\search\common\pkmutild\ss4.cxx
+[SrchCommon] Exception caught in CSearchBinPathString::CSearchBinPathString(). hr=%08X
+[SrchCommon] Exception caught in CCICommonPathString::CCICommonPathString(). hr=%08X
+Windows Search Service
+Software\Microsoft\Windows Search\Tracing
+StructuredQuery
+Software\Microsoft\Windows\CurrentVersion\StructuredQuery
+onecoreuap\base\appmodel\search\common\utils\regredirect.cxx
+System
+onecoreuap\base\appmodel\search\common\utils\crchash.cxx
+[UtilSecurity] OpenThreadToken() failed with error 0x%08x.
+onecoreuap\base\appmodel\search\common\secutil\secutil.cxx
+onecoreuap\base\appmodel\search\common\secutil\secutil.cxx
+[UtilSecurity] RevertToSelf() failed. 0x%08x
+[UtilSecurity] ImpersonateLoggedOnUser failed. 0x%08x
+[UtilSecurity] SetSecurityDescriptorDacl failed. 0x%08x
+[UtilCommon] Bad pointer in SecUtil::CSecurityDescriptor::Export
+%08lX-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X
+[Schema] Creating CIndexSchemaParser at %s
+onecoreuap\base\appmodel\search\mssrch\index\schema\schemapa.cxx
+[Schema] Deleting CIndexSchemaParser at %s
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\filechangetrackerinproc.cxx
+map/set too long
+OverWrite 
+Extend 
+Truncate 
+NOverWrite 
+NExtend 
+NTruncate 
+Create 
+Delete 
+EAChange 
+Security 
+RenameOld 
+RenameNew 
+Indexed 
+Basic 
+HardLink 
+Compression 
+Encryption 
+ObjectID 
+ReparsePoint 
+Stream 
+Transacted 
+Integrity 
+Close 
+InScopeExcluded
+Archive 
+Compressed 
+Device 
+Directory 
+Encrypted 
+Hidden 
+NoScrub 
+Normal 
+FANCI 
+Offline 
+ReadOnly 
+Sparse 
+System 
+Temporary 
+Virtual 
+UsnRecordEvent
+Invalid
+SingleHash
+MultipleHash
+Identical
+PartiallyChanged
+FullyChanged
+Unknown
+Original
+Deleted
+Moved
+false
+Client: %d  Batch: %d  File: %s
+Seq: %I64d  ID: %I64x  Parent: %I64x  Reason: %s
+  Src: %s
+  (RState: %s)
+  (RState: %s, RDest: %s)
+  (%s: %d)
+  (Extent: %s)
+FN: %.*s  ID: %I64x  Parent: %I64x  Reason: %s  Attributes: %s
+, Src: %s
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\changemonitor.cpp
+Journal Reset on Volume due to failure: %d (%s)
+QueryResult: %s
+EXPANDING: %s%s
+Exception processing record for file - signaling client cleanup: %s
+Cleaning up client with failure: %s
+Unmanaged out of order USN changes received for a particular URL -- signaling client need to scan: %s
+Hiding data writes from USN_SOURCE_DATA_MANAGEMENT for the file '%ls' under the root '%ls'.
+NEW RECORD: %s (%s)
+FILTERED OUT RECORD: %s (%s)
+Out-of-order notifications received for file: %s
+DROPPED RECORD: %s (%s) (existing found: %s)
+DROPPED RECORD, RETAINED OLD: %s (%s)
+DROPPED RECORD (CYCLIC RENAME): %s (%s)
+UPDATE RECORD: %s (%s)
+RENAME: %s to %s
+?%I64X%I64X\%.*s
+UPDATED RELATED RECORD: %s (%s)
+File Operation Failed: %s -- %08X
+fOplockValid ? S_OK : ResultFromKnownError(ERROR_OPLOCK_HANDLE_CLOSED)
+(fReadFileResult != 0) ? S_OK : ResultFromLastError()
+Range Tracking: Dropping hashes for: %s (Removed:%s  JournalTracked:%s)
+Range Tracking: Found hashes for (extentKind: %s): %s
+hrRequestOplock
+hFile ? S_OK : ResultFromLastError()
+fCanAccessFile ? S_OK : ResultFromLastError()
+fCanAccessFile ? S_OK : HRESULT_FROM_WIN32(ERROR_OPEN_FAILED)
+Single
+Multiple
+Range Tracking: Hashes calculated (ChangeKind: %s, Kind: %s): %s
+UR for: %s
+UR: Offset: %I64d   Size: %I64d   NewOffset: %I64d
+vector too long
+invalid string position
+list too long
+vector<bool> too long
+()$^.*+?[]|\-{},:=!
+bad_weak_ptr
+bad cast
+%4d %s (wid:%d %s)
+%4d %s
+%4d FAILED(%08X) %s (wid:%d %s)
+%4d FAILED(%08X) %s
+CM: %s
+HashSingleCutoff
+HashRetriesAllowed
+ExtentLogging
+JetLogging
+DatabaseLogging
+StoreAppThreshold
+FileAttributesFilteredOut
+UsnSourceFilteredOut
+UsnReasonFilteredOut
+ConfigFlags
+ScopeToMonitor
+MonitoredPathRegularExpressionExclusion
+ClientId
+VolumeIndex
+PackageFamilyName
+BackgroundEventId
+ApplicationName
+LastChangeId
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\client\clientchangetrackingstatestore.cxx
+FileChangeClientConfigs
+onecoreuap\base\appmodel\search\mssrch\gather\usractivity\waitthreadhelper.cxx
+[SrchGatherServiceCatalog] CATMGR: Terminating
+onecoreuap\base\appmodel\search\mssrch\common\sssutill\catmgr.cxx
+[SrchGatherServiceCatalog] CATMGR: Creating new catalog %ls
+Indexer
+onecoreuap\base\appmodel\search\mssrch\common\sssutill\catmgr.cxx
+ConcurrentSearch
+[SrchGatherServiceCatalog] CATMGR: CreateNewCatalog: Creation of catalog %ls failed.
+[SrchGatherServiceCatalog] CATMGR: Could not find catalog  %ls in collection in RemoveCatalog
+[SrchGatherServiceCatalog] CATMGR: Removing catalog %ls
+[SrchGatherServiceCatalog] CATMGR: Mounting...
+[SrchGatherServiceCatalog] CATMGR: Registry key %ls  unaccessable. MOUNT FAILED.
+[SrchGatherServiceCatalog] CATMGR: Could not read application %ls key. MOUNT FAILED.
+[SrchGatherServiceCatalog] CATMGR: Creation of catalog %ls failed with error 0x%X
+[SrchGatherServiceCatalog] CATMGR: Dismounting...
+[SrchGatherServiceCatalog] CATMGR: Registry key %ls  unaccessable. DISMOUNT FAILED.
+[SrchGatherServiceCatalog] CATMGR: Error reading application %ls key. DISMOUNT FAILED.
+[SrchGatherServiceCatalog] CATMGR: Could not find catalog %ls in collection in DismountApplication
+[SrchGatherServiceCatalog] CATMGR: Dismounting catalog %ls
+[SrchGatherServiceCatalog] CATMGR: Exception 0x%X in dismount of project %ls
+[SrchGatherServiceCatalog] CCatalogManager::ResetCatalog failed with error 0x%X
+CatalogURL
+onecoreuap\base\appmodel\Search\common\include\tpkpslst.hxx
+onecoreuap\base\appmodel\search\mssrch\common\sssutill\catalog.cxx
+ProjectPath
+[SrchGatherServiceCatalog] CCatalog: Cannot read registry for working directory
+onecoreuap\base\appmodel\search\mssrch\common\sssutill\catalog.cxx
+Build
+[SrchGatherServiceCatalog] %ls: Creating new catalog object
+[SrchGatherServiceCatalog] %ls: Deleting catalog
+[SrchGatherServiceCatalog] %ls: Shutting down catalog
+[SrchGatherServiceCatalog] %ls: Indexer Directory %ls would have been removed. 
+[SrchGatherServiceCatalog] %ls: Indexer Directory %ls being removed. 
+[SrchGatherServiceCatalog] %ls: Resetting catalog
+[SrchGatherServiceCatalog] Exception 0x%X in CCatalog::Reset
+[SrchGatherServiceCatalog] %ls: Cleaning up catalog in preparation for removal.
+[SrchGatherServiceCatalog] %ls: Dismounting catalog.
+onecoreuap\base\appmodel\search\mssrch\ptypepi\ptypepimgr.cxx
+[SrchGatherDestruction] Destroying CPerceivedTypePlugin
+onecoreuap\base\appmodel\search\mssrch\ptypepi\PTypePI.hxx
+SystemFileAssociations\
+en-us
+FriendlyTypeName
+onecoreuap\base\appmodel\search\mssrch\ptypepi\PTypePIfiltsink.hxx
+[SrchGatherDestruction] Destroying CPerceivedTypeFilterSink
+onecoreuap\base\appmodel\search\mssrch\ptypepi\ptypepifiltsink.cxx
+MAPI/IPM.Contact;text/x-vcard
+contact
+MAPI/IPM.Note
+email;communication
+MAPI/IPM.Appointment;MAPI/IPM.Schedule.Meeting.Request;text/calendar
+calendar;communication
+MAPI/IPM.Task
+task;communication
+MAPI/IPM.Folder;file/folder
+folder
+application/vnd.ms-powerpoint;MAPI/IPM.StickyNote;application/msonenote;application/vnd.ms-excel;application/msword;application/postscript;text/html;application/x-latex;application/pdf;text/plain;text/xml
+document
+image/bmp;image/gif;image/jpeg;image/pict;image/png;image/tiff;image/x-xbitmap;application/x-cdf;wmffile;application/x-msmetafile;application/wmf;application/x-wmf;image/wmf;image/x-wmf;image/x-win-metafile
+picture
+audio/aiff;audio/basic;audio/x-mpegurl;audio/mid;audio/mpeg;audio/wav;audio/x-ms-wma
+music
+video/x-ms-asf;video/avi;video/mpeg;video/quicktime;video/x-ms-wmv;video/x-ms-wvx
+video
+eml;msg
+vcf;vcard
+mpp;mpd;mpc;mpv;mpx;ade;adp;mdb;mde;vsd;vdx;vsl;vss;vst;vsw;vsx;vtx;doc;docx;docm;dot;dotx;dotm;eps;htm;html;latex;pdf;rtf;txt;xml;mht;ps;rtx;wpd;wp;wp5;wp6;dvi;tex;pm5;pt5;pm;xlb;xlc;xls;xlsx;xlsm;xlsb;csv;tsv;wks;xlm;xll;xlw;one;jnt;pot;potx;potm;pps;ppsx;ppsm;ppt;pptx;pptm;ppz
+ics;vcs
+aif;aiff;aifc;au;cda;m3u;mid;midi;mp3;rmi;snd;stm;wav;wma;ra;rm;ram;aac;amf;dfs;dss;far;mus;okt;p16;psm;s3m;sng;ult;uw;voc;xm;xmi;wax;wpl;wmx;mp4
+cgm;dib;gif;jpe;jpeg;jpg;pds;pic;png;psd;tif;tiff;wmf;xbm;3ds;ai;cvs;dw2;dwg;fh3;fh4;pdd;vdr;a11;ani;anm;art;b&w;b1n;b8;b_w;bga;bit;bld;bm;cdf;cdr;cmp;cps;dcx;dip;dkb;fit;flc;fli;gcd;gl;gsd;hrf;hs2;hsi;iax;ica;icb;jas;jff;jpc;jtf;lbm;mpt;msp;nc;neo;pct;pcx;pda;pgm;pix;ppm;pse;qdv;rgb;rif;rip;rix;rl4;rl8;sg1;van;vda;xif;xpm;bmp
+asf;asx;avi;m1v;mov;mp2;mpa;mpe;mpeg;mpg;mpv2;wmv;wvx;qt;vue;awm;mmm;cmv;mwf;dvr-ms;ivf
+Folder
+software\microsoft\windows\currentversion\explorer\kindmap
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gthrtrx.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gthrtrx.cxx
+[SrchGatherSvc] Error Description could not be set hr 0x%08x
+AddLink - Depth exceeded... URL not added.
+[SrchGatherDestruction] Destroying CTransaction docid %d type %d
+AddLink
+EnableCDPL
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\backoffctrl.cxx
+SOFTWARE\Policies\Microsoft\Windows\Windows Search
+PreventIndexOnBattery
+pkm:catalog:PendingNotifications
+pkm:catalog:WaitingHighPriorityDocs
+Backoff State change, reason, work type: [%d, %d, %d]
+Indexing
+SearchIndexerIndexingNoThrottle
+SearchIndexer
+SearchIndexerIndexingHighThrottle
+SearchIndexerIndexingLowThrottle
+SearchIndexerMergeLowThrottle
+SearchIndexerMergeNoThrottle
+unordered_map/set too long
+SearchIndexerMergeHighThrottle
+invalid hash bucket count
+onecoreuap\base\appmodel\Search\mssrch\gather\include\PerfCounters.hxx
+onecoreuap\base\appmodel\Search\common\include\UserSidHelper.h
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gathermgr.cxx
+[SrchGatherDestruction] Destroying CGatheringManager
+usgthrsvc
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gathermgr.cxx
+Microsoft.Cortana_8wekyb3d8bbwe
+ID_CAP_OOBE_PRIVATE
+Microsoft.Windows.Cortana_cw5n1h2txyewy
+[SrchGatherSvc] Notifications Failed to initialize %ls %ls hr 0x%08x
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgthrntfy.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgthrntfy.cxx
+Fonecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgthrntfyinline.cxx
++QwUI
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\wbreak.cxx
+[SrchGatherSvc] Creating word breaker for locale %d
+[SrchGatherSvc] Creating stemmer for locale %d
+[SrchGatherSvc] Unable to create language resources object 0x%08x
+[SrchGatherSvc] Unable to find word breaker for locale %d, using neutral
+WorkingDirectory
+Plugins
+CrawlInterval
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgatherprj.cxx
+ActivePlugins
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgatherprj.cxx
+[SrchGatherSvc] Project is already removed, %ls
+[SrchGatherSvc] GetDuplicateDetection %d
+MSSearch:MD5Calculation
+indexer:ci:RequestedHitsMultiplier
+StartAddressConfigURL
+Applications
+Projects
+gatherer:use-schema
+Gathering Manager
+[SrchGatherSvc] Failed to rmv because config can not be removed %ls, %ls hr 0x%x
+[SrchGatherSvc] Attempt to double remove project
+[SrchGatherSvc] Rmv prj %ls, %ls this 0x%x
+[SrchGatherSvc] in CGthrPrj::FinishRemove did not wait for m_hStatusEvent as hr=0x%08x ptr 0x%x
+[SrchGatherSvc] Waiting for started docs to go to 0 in shutdown, %ls, started %d
+PropMap
+CreatePropMapperStorage
+Schema
+PropertyMapper
+[SrchGatherSvc] StartAddress config url is same as existing which is not allowed
+[SrchGatherSvc] Create Project: %ls
+onecoreuap\base\appmodel\Search\common\include\tpslist.hxx
+[SrchGatherDestruction] Destroying CPluginCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\pluginctx.hxx
+[SrchGatherDestruction] Destroying CVariantCollection
+[SrchGatherDestruction] Destroying CGthrPrj
+[SrchGatherSvc] Shutdown plugin %ls id %d prj ptr 0x%08x
+[SrchGatherSvc] RequestShutdown for plugins ptr 0x%08x returned hr=0x%08x
+onecoreuap\base\appmodel\Search\mssrch\gather\include\plugin.hxx
+[SrchGatherSvc] RequestShutdown plugin %ls id %d prj ptr 0x%08x resulted in hr=0x%08x
+[SrchGatherSvc] RequestShutdown for active plugins ptr 0x%08x returned hr=0x%08x
+onecoreuap\base\appmodel\Search\mssrch\gather\include\CGatherPrj.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\CGatherPrj.hxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\certstoremonitorthread.cxx
+onecoreuap\base\appmodel\Search\common\include\SessionUserHelper.h
+PerformanceLevel
+UserAgent
+RegVersion
+EmailAddress
+MaxGrowFactor
+ConnectTimeout
+RetryLimit
+DataTimeout
+DebugWordBreakers
+DebugFilters
+UseProxy
+RobotThreadsNumber
+ProxyName
+LocalByPassProxy
+ByPassList
+PortNumber
+DedicatedFilterProcessMemoryQuota
+FilterProcessMemoryQuota
+EvictionCheckFrequency
+PluginPingFrequency
+GathererHeartbeat
+MinEvictionTime
+LinksInMemoryCacheSize
+RetryIntervalSharingViolationSeconds
+RetryIntervalSeconds
+StoreAppSizeReportThresholdInPercent
+FilterHostProcessTimeout
+DisableBackOff
+StoreAppSizePerDocumentInByte
+DisableBackOffOnNotifications
+DisableBackOffOnUser
+BackOffDelay
+DisableBackOffNotificationOverride
+BackOffLowMemoryThresholdKB
+BackOffNotificationsRateThreshold
+BackOffNotificationsProcessingDelay
+BackOffLowDiskThresholdMB
+BackOffNotificationsForceAtMost
+BackOffDelayedNotificationsLimit
+BackOffOnUserActivityInterval1
+BackOffFlushInterval
+IgnoreCertCNError
+BackOffOnUserActivityInterval2
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgathersvc.cxx
+SQLServer
+UGthrSvcObj
+UGTHRSVC
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cgathersvc.cxx
+[SrchGatherSvc] Error initializing performance monitoring
+[SrchGatherSvc] CoCreate failed for back off controller, hr = 0x%08x
+[SrchGatherSvc] Error creating perfmon object instance for the gathering service
+PreventIndexingLowDiskSpaceMB
+DisableBackoff
+[SrchGatherSvc] DuplicateHandle failed with hr = 0x%08x
+MssGthrPipe
+*.tmp
+[SrchGatherSvc] Setting robot threads number from registry key.
+Local\WindowsSearchService_EfsRegKeysMutex
+_container
+[SrchGatherSvc] Exception in deleting temp path 0x%08x
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\
+\Projects\SystemIndex\PropMap
+AppData\Roaming\Microsoft\Search\Data\Applications
+ProfileImagePath
+Logon for user %s as creating catalog
+Logon for user %s as loading catalog
+\Software\Microsoft\Windows Search\Gather
+\Software\Microsoft\Windows Search\Gathering Manager\Applications
+LowDiskMinimumMBytes
+DebugTranFiles
+[SrchGatherSvc] Invalid proxy usage type
+[SrchGatherSvc] Exception in deleting previous temp path 0x%08x
+CDPLProtectedCatalogLoad
+CDPLProtectedCatalogUnload
+RoOriginateLanguageException
+combase.dll
+length
+bad allocation
+onecoreuap\base\appmodel\Search\mssrch\gather\include\gthrapp.hxx
+[SrchGatherDestruction] Destroying CGatherApplicationCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\gthrapp.hxx
+[SrchGatherDestruction] Destroying CFilterPool
+onecoreuap\base\appmodel\Search\mssrch\gather\include\fltrpool.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\RobotThrd.hxx
+[SrchGatherDestruction] Destroying CRobotThread
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\backoffstatemanager.cxx
+[SrchGatherDestruction] Destroying CGatherPrjCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\pluginmgr.hxx
+[SrchGatherDestruction] Destroying CPluginMgrCollection
+[SrchGatherDestruction] Destroying CGatherApplication
+onecoreuap\base\appmodel\Search\mssrch\gather\include\pluginmgr.hxx
+Search.TripoliIndexer
+qonecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gthrapp.cxx
+PluginManagers
+CGatherStoreManager::GetGatherStore
+DefaultProjectPath
+GathererPlugin
+ApplicationPath
+DefaultCatalogConfigUrl
+DeletedCountSync
+FilterSecurity
+UseIncrementalCrawlDirIter
+SingleInstancing
+GatherLogsPath
+UseHostHitTiming
+GatherLogs
+DisplayName
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gthrapp.cxx
+[SrchGatherSvc] Initialize New Application: %ls called 
+Gathering Manager\Applications
+[SrchGatherSvc] Leaving Initialize New Application: %ls ; hr=0x%08x 
+gatherer:deletedcount-synchronization-threshold
+Search.Gatherer
+gatherer:incremental-crawl-dir-iter
+MSSearch:EnableSingleInstancing
+gatherer:application-path
+gatherer:host-hit-timing
+GatherAppName: %ls
+gatherer:logs-path
+GatherAppName: %ls, Path: %ls
+FilterProcessMaxCPURate
+Container\AgentGathererPipe\
+[SrchGatherSvc] CShMPipe::Create() failed! Code= %ws
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\fltrpool.cxx
+[SrchGatherSvc] CShMPipe::Write() failed! Code= %ws
+[SrchGatherSvc] CShMPipe::Connect() failed! Code= %ws
+[SrchGatherSvc] CShMPipe::Want2Write(FALSE) failed! Code= %ws
+[SrchGatherSvc] CShMPipe::Want2Write(TRUE) failed! Code= %ws
+SearchProtocolHost.exe
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\fltrpool.cxx
+DownLevelDaemon
+DefaultUserAgent
+[SrchGatherSvc] New Filter Process %ws
+[SrchGatherSvc] Terminating Process %ws
+[SrchGatherDestruction] Destroying CFilterProcessBase
+SearchProtocolHost
+Global\UsGthrFltPipe
+[SrchGatherSvc] TerminateProcess( %ws )
+Data\
+Global\UsGthrCtrlFltPipe
+[SrchGatherSvc] Filter demon has exceeded memory quota, terminated...
+[SrchGatherDestruction] Destroying CFilterPipe
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\usersettings.cxx
+AllowIndexingEncryptedStoresOrItems
+%s.*\*
+%sAppData\*
+%sMicrosoftEdgeBackups\*
+CreationFlags
+ProgId
+Disabled
+PluginIdentifier
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\plugin.cxx
+NewPluginIdentifier
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\plugin.cxx
+[SrchGatherSvc] Plug-in %ls failed to initialize, error %ls - %ls
+[SrchGatherSvc] %ls Add plugin %ls prj ptr 0x%08x
+CLSID\{
+[SrchGatherSvc] %ls Add plugin %ls prj ptr 0x%08x, InitNew hr 0x%08x
+[SrchGatherSvc] %ls Add plugin %ls prj ptr 0x%08x, Failed duplicate
+[SrchGatherSvc] Removing Plugin, %d, plugin 0x%x, proj 0x%x, list 0x%x hr 0x%x
+[SrchGatherSvc] %ls Add plugin %ls, OnNewPluginAdded hr 0x%08x
+[SrchGatherSvc] Removing Plugin Error, id %d Obj not found  hr 0x%x
+[SrchGatherSvc] %ls DelRegSubTree failed in Remove plugin %ls key %ls prj ptr 0x%08x
+Add new plug-ins
+[SrchGatherSvc] %ls Remove(all) plugin %ls id %d prj ptr 0x%08x
+CPluginCollection::AdviseStatusChange
+[SrchGatherSvc] Plug-in %ls threw an exception in AdviseStatusChange, error %ls - %ls
+onecoreuap\base\appmodel\Search\mssrch\gather\include\plugin.hxx
+[SrchGatherDestruction] Destroying CPlugin
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\robotthrd.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\robotthrd.cxx
+[SrchGatherSvc] url %ls data %d connect %d
+[SrchGatherSvc] GetStandardProp in ModParts check %d %ls hr 0x%x notModhr %d, flags 0x%x
+[SrchGatherSvc] GetStandardProp %d %ls useLastMod %d, flags 0x%x
+RobotThread - CDPL item
+[SrchGatherSvc] docid %d %s error 0x%08x when getting user logon token to impersonate
+[SrchGatherSvc] Plugin threw an exception
+[SrchGatherSvc] Plugin threw an exception in OnDataChange
+SecurityStore
+urn:schemas-microsoft-com:sharepoint:portal:area:CategoryUrlNavigation
+ROBOTS
+[SrchGatherSvc] Word Breaker crashed on url: %ls
+Error occurred in text chunk prefix
+[SrchGatherSvc] Entering first phase AddCompleted for url: %ls in passive plug-ins
+Error occurred in property chunk prefix
+[SrchGatherSvc] Entering second phase AddCompleted for url: %ls in passive plug-ins
+[SrchGatherSvc] Leaving first phase AddCompleted for url: %ls in passive plug-ins
+[SrchGatherSvc] Leaving second phase AddCompleted for url: %ls in passive plug-ins
+DESCRIPTION
+ows_SiteDescription
+ows_Description
+[SrchGatherSvc] Active plugin threw an exception in AddChunk
+[SrchGatherSvc] docid %d digest %ws
+[SrchGatherSvc] Plugin threw an exception in AddChunk
+[SrchGatherSvc] Plugin threw an exception in TextIsCompleted
+[SrchGatherSvc] Active plugin threw an exception in TextIsCompleted
+[SrchGatherSvc] Active plugin threw an exception in AddMoreText
+Error
+NotProcessed
+Retry
+Success
+Delayed
+Canceled
+OnHold
+Inactive
+INDEX
+DELETE
+Robot Thread
+RobotThread - %s item completed (status: %s, hr:%X, filter:%X, plugin:%X, transaction:%X)
+RobotThread - Protocol Handler reports PRTH_S_NOTMODIFIED - skipping indexing
+ExternPropagateEventToOpenQueries
+onecoreuap\base\appmodel\Search\mssrch\gather\include\gthrpropbag.hxx
+[SrchGatherDestruction] Destroying gatherer property bag
+[SrchGatherDestruction] Destroying CGatherFilterSink
+onecoreuap\base\appmodel\Search\mssrch\gather\include\FiltSink.hxx
+[SrchGatherDestruction] Destroying CPluginFilterSink
+onecoreuap\base\appmodel\Search\common\include\SearchTraceAggregatedProvider.h
+[SrchGatherSvc] skip Update history because project is removed, setting cid force unique
+[SrchGatherSvc] Update history failed because project not initialized
+[SrchGatherSvc] AbortFiltering docid %d, Part? %d
+CGatherPluginContext::PutItem
+Service not active
+Remove the element
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\pluginctx.cxx
+Insert the element
+Create new element
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\filterhostpool.cxx
+{682b87dd-ffa0-4ae4-87b4-1b6ee77cc08a}
+invalid string_view position
+mssrestricteddesk
+msswindowstation
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\containerstatusmanager.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\defaultcatalogcreator.cxx
+PluginName: %ls
+GatherApplicationPath: %ls
+IncludeIPSPlugin
+Project: %ls, Path: %ls
+SOFTWARE\Microsoft\Windows Search\PreviousSettings
+Applications\
+AppRegPath: %ls
+SOFTWARE\Microsoft\Windows Search\CatalogList\Applications\Windows\Catalogs\SystemIndex
+Project: %ls, ActivePlugin: %ls
+Project :%ls
+Plugin: %ls
+Project: %ls, Plugin: %ls
+Gathering Service Timer
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\timerthrd.cxx
+[SrchGatherSvc] Started Timer
+[SrchGatherSvc] Terminated Timer
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\pluginmgr.cxx
+[SrchGatherDestruction] Destroying CPluginManager
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\phmultiarch.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\userprioritization.cxx
+[SrchGatherSvc] Shared memory pipe data corruption detected!
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cfilter.cxx
+[SrchGatherSvc] Shared memory pipe data: Message too long!
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\cfilter.cxx
+[SrchGatherSvc] GTHRSVC: Failed to read error msg in FILTER_MSG_EOF
+[SrchGatherSvc] GTHRSVC: Error msg read: "%ls"
+[SrchGatherSvc] Unhandled vt in CFilter::BuildVariant, %lu
+[SrchGatherSvc] filtering exception %x
+[SrchGatherSvc] GTHRSVC: GetThreadPriority() failed. LastErr = %d
+urn:schemas.microsoft.com:fulltextqueryinfo:displaytitle
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\filtsink.cxx
+[SrchGatherSvc] Unrecognized type: %d 0x%08x
+[SrchGatherSvc] includeMD5, docid %d org %d statchunk fps %ws, proplen %d
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\filtsink.cxx
+nofollow
+boundary
+noindexfolder
+[SrchGatherSvc] includeMD5, docid %d org %d statchunk fps %ws, text %ls
+BASE.HREF
+urn:schemas.microsoft.com:fulltextqueryinfo:xmlfilter:xml/urn:schemas-microsoft-com:office:office:MainFile/HRef
+LINK.ISOFFICECHILD
+urn:schemas.microsoft.com:fulltextqueryinfo:xmlfilter:xml/urn:schemas-microsoft-com:office:office:File/HRef
+pkm:catalog:LastUrlIndexed
+[SrchGatherDestruction] Destroying CCaghedLink
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\gathertextsource.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\wbselect.cxx
+WordBreakerKeepFilterHistoryMinValue
+WordBreakerFixedAllowList
+WordBreakerHistory
+CGc2`onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\actqueue.cxx
+[SrchGatherDestruction] Destroying gatherer property bag enum
+onecoreuap\base\appmodel\Search\mssrch\gather\include\gthrpropbag.hxx
+LoadPluginDataFromRegistry
+onecoreuap\base\appmodel\Search\common\include\PluginResourceHandler.h
+CpuMax
+Duration
+PenaltyBox
+CpuCycles
+Items
+Memory
+MaxProcesses
+ShutoffThreshold
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\pluginresourcemanager.cxx
+PenaltyBoxTimeout
+PluginResourceData
+{64b777f2-47ba-4867-8dcd-21c85ee33c3f}
+[SrchGatherSvc] StringCchPrintf failed, hr = 0x%08x
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\filterhostprocess.cxx
+SearchFilterHost.exe
+onecoreuap\base\appmodel\search\mssrch\gather\gthrsvc\filterhostprocess.cxx
+[SrchGatherSvc] WaitForSingleObject failed, hr = 0x%08x
+[SrchGatherSvc] m_filterHostJobObject != nullptr
+SearchFilterHost
+{15d7c04e-ec64-41d3-a8db-7de79190f520}
+mssrestricteddesk
+[SrchGatherDestruction] Destroying CGatherLog
+CurrentStreamLog
+[SrchGatherPI] Failed to create gatherlog file %ls, hr 0x%08x
+MaxLogs
+[SrchGatherPI] Failed to create crawls log file %ls, hr 0x%08x
+onecoreuap\base\appmodel\search\mssrch\gather\server\log.cxx
+[SrchGatherPI] Failed set stream log count for gatherlog file %ls, hr 0x%08x
+[SrchGatherPI] Failed set current stream for gatherlog file %ls, hr 0x%08x
+onecoreuap\base\appmodel\search\mssrch\gather\server\log.cxx
+[SrchGatherPI] Failed in create gatherlog file %ls, hr 0x%08x
+onecoreuap\base\appmodel\Search\mssrch\gather\include\StartPage.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\StartPage.hxx
+[SrchGatherDestruction] Destroying CStartPageCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\UrlMap.hxx
+[SrchGatherDestruction] Destroying CUMapCll
+onecoreuap\base\appmodel\Search\mssrch\gather\include\Protocol.hxx
+[SrchGatherDestruction] Destroying CProtocolCollection
+[SrchGatherDestruction] Destroying CProtocolAccessType
+onecoreuap\base\appmodel\Search\mssrch\gather\include\SiteRestr.hxx
+[SrchGatherDestruction] Destroying CSiteRestrCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\SiteRestr.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\Extension.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\Extension.hxx
+[SrchGatherDestruction] Destroying CextCollection
+onecoreuap\base\appmodel\Search\mssrch\gather\include\StatThrd.hxx
+[SrchGatherDestruction] Destroying CStatusThread
+[SrchGatherDestruction] Destroying CGatherer %ls 
+pkm:catalog:LastUrlIndexedTime
+onecoreuap\base\appmodel\Search\mssrch\gather\include\GatherObj.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\GatherObj.hxx
+CGatherer::GetContext
+onecoreuap\base\appmodel\search\mssrch\gather\server\gatherpimgr.cxx
+Gather
+onecoreuap\base\appmodel\search\mssrch\gather\server\gathersrv.cxx
+[SrchGatherDestruction] Destroying CGatherModule
+UGATHERER
+mssmsg.dll
+UGathererObj
+onecoreuap\base\appmodel\search\mssrch\gather\server\gathersrv.cxx
+onecoreuap\base\appmodel\Search\common\regex\include\ChkExpr.hxx
+onecoreuap\base\appmodel\Search\common\include\UrlPathHelpers.h
+CRAWL_IN_PROGRESS
+THROTTLED
+PAUSED
+SHUTDOWN
+RECOVERING
+PROCESSING_NOTIFICATIONS
+CRAWLING_INCREMENTALLY
+INVALID
+SOFTWARE\Microsoft\Windows Search\Gather\Windows\SystemIndex
+FindMyFilesExperimentOverride
+EnableFindMyFiles
+LogSuccess
+DisableFindMyFilesExperimentOverride
+LogDisabled
+LogExcluded
+LogDirectory
+StreamLogsDirectory
+Sites
+StartPages
+Extensions
+Protocols
+Mappings
+StreamLog
+FollowComplexUrls
+PausedExternal
+DisableRecovery
+FilterAlways
+DisableRobotsExclusion
+CaseSensitiveUrls
+NormalizeUrls
+Crawls
+FailureUpdateInterval
+EnableCheckPoint
+LazyCheckPointUpdateInterval
+CatalogGroup
+LogProviderProgId
+CheckPointSignature
+CatalogResetSignature
+ParentPathCacheSize
+CheckPointNumber
+text/plain
+RespectPowerModes
+application/vnd.ms
+application/ms
+onecoreuap\base\appmodel\search\mssrch\gather\server\gatherobj.cxx
+InternalContainerApplication
+onecoreuap\base\appmodel\search\mssrch\gather\server\gatherobj.cxx
+[SrchGatherPI] Initialize New Project: %ls called 
+gatherer:LogProviderProgID
+gatherer:use-check-points
+[SrchGatherPI] gatherSite get duplicate detection failed hr 0x%08x
+Search.GathererLogFileProvider.1
+[SrchGatherPI] override of start page config location failing
+[SrchGatherPI] Initialize New Project, Remove: %ls
+[SrchGatherPI] Initialize New Project, initialize gatherer log: %ls called 
+[SrchGatherPI] Creating StartPage Collection %ls at %ls
+[SrchGatherPI] Error initializing performance monitoring
+[SrchGatherPI] Leaving Initialize New Project: %ls ; hr=0x%08x 
+[SrchGatherPI] CatGuid for %ls %ls is Set %d %ws hr=0x%08x
+CatalogGUID
+[SrchGatherStatus] Removing all crawls %ls
+*.gthr*
+UpdateHistory - Successful NO_CONTENT_FILTER index...  sending retry notice
+UpdateHistory
+UpdateHistory - Finished %s transaction (SDID: %d)
+[SrchGatherStatus] Stat Req. %d, project %ls crawl %d appended to queue, total %d
+[SrchGatherStatus] Lock Gatherer for status change %d, project %ls, crawl %d
+[SrchGatherStatus] Unlock Queue
+[SrchGatherStatus] Request Start Crawl %d, project %ls, crawl %d
+[SrchGatherStatus] Remove change status request from Queue %d, crawl %d 
+[SrchGatherStatus] Removed start crawl request from Queue %d, crawl %d
+[SrchGatherStatus] No status change requests in queue
+[SrchGatherStatus] Gather Lock failed, status %d, crawl %d
+MODIFY
+ProcessDataChange - %sNotification on existing URL received (%s) scope:%d
+EXTERNAL 
+ProcessDataChange - Sending cancel for replaced pusher transaction, id:%d
+ProcessDataChange - Treating ADD of existing item as a MODIFY.
+ProcessDataChange
+ProcessDataChange - Sending immediate cancel for optimized delete (entry was never indexed), id:%d
+ProcessDataChange - Delete or modify notification on an in-scope URL that does not exist.  Ignoring.
+ProcessDataChange - Treated MODIFY of non-existing item as an ADD.
+ProcessDataChange_Internal for %ws, flags: %d, flags_e %d
+easmx
+eprtx
+edrwx
+ProcessModifyRequest - Notification on an URL marked as deleted -- bringing back to life (time: %d)
+Queued Delete Event found and canceled (time: %d)
+ProcessModifyRequest - Correcting URL start address from %d to %d
+ProcessModifyRequest - Notification on an existing URL denied - duplicate transaction (crawl ID: %d, request: %d)
+ProcessModifyRequest - Penalty Box - Item's cost is too high - last notification: %d, last cost: %d, delaying to: %d seconds from now
+ProcessModifyRequest - modify times different, change detected: %u %u (link) vs %u %u (history)
+ProcessModifyRequest - New modify scheduled
+ProcessModifyRequest - Modify was already scheduled - updated
+ProcessModifyRequest
+ProcessModifyRequest - Modify suppressed - LastModified hasn't changed
+ProcessAddRequest
+ProcessAddRequest - %sNotification on NEW url received - added - scope:%d
+Delete notification on an URL that was never indexed - directly deleting history entry
+Delete notification for a valid URL - added to queue
+Delete Event Queued to run at: %d (time: %d)
+ProcessDeleteRequest
+Delete notification for a suspected folder - queuing children
+QueueRobotThreadWakeup - robot thread scheduled to wakeup in %d ms
+WakeRobotThreadTimerCallback - waking robot thread to handle short term retry
+\WINDOWS
+FOLDER.JPG
+\PROGRAM FILES
+ALBUMART_
+DESKTOP.INI
+ALBUMART.JPG
+ALBUMARTSMALL.JPG
+.SETTINGCONTENT-MS
+\USERS
+\ADDRESSBOOK
+\MUSIC
+\DESKTOP
+\PHOTOS
+\PICTURES
+\FAVORITES
+\DOCUMENTS
+[SrchGatherDirMon] pUsnMonNotificationSource is NULL which prevents adding a notification directory
+\VIDEO
+[SrchGatherPI] Failed to get performance instance name 0x%08x
+[SrchGatherDirMon] UsnMon source is null before remove directory could be processed
+SOFTWARE\Microsoft\Windows Search\UninstalledStoreApps
+[SrchGatherPI] failed GetDiskFreeSpaceEx 0x%08x
+ScopeManager
+CheckOnStartup
+CGatherer::Recover
+Put item
+[SrchGatherStatus] Initializing check point
+NULL encountered
+Cannot initialize jet doc id map because NULL pointer encountered
+[SrchGatherStatus] Disable Recovery Used
+Shut down
+Shut down after CheckReleaseScheduledCrawls
+[SrchGatherStatus] Removing crawl in recovery %ls, crawl %d
+IObjectWithSite interface not available
+Scope manager is null
+[SrchGatherDirMon] IDirNotifier is null, which prevents setup filesys notifications
+Set site object
+[SrchGatherStatus] Advise status change %d, project %ls, crawl %d
+[SrchGatherPI] Setup File System Notifications
+IterateHistoryFromMapIterator - Beginning for Crawl ID: %d
+[SrchGatherPI] Exception in LookupgatherRules %x
+IterateHistoryFromMapIterator - URL marked with TF_DELETE_WHEN_DONE
+IterateHistoryFromMapIterator - Start Address: %s
+IterateHistoryFromMapIterator - URL failed to pass exclusion rules
+IterateHistoryFromMapIterator - URL does not belong to a valid start page
+IterateHistoryFromMapIterator
+IterateHistoryFromMapIterator - Ending for Crawl ID: %d
+DeleteUnvistedEntriesFromMapIterator - Beginning for Crawl ID %d, shallow: %s
+[SrchGatherSvc] delete unvisited crawl %d, dcnt %d, apply %d
+DeleteUnvistedEntriesFromMapIterator - Start Address: %s
+DeleteUnvistedEntriesFromMapIterator - URL Didn't pass Exclusion Rules
+[SrchGatherPI] Notification excluded in full crawl %ls
+DeleteUnvistedEntriesFromMapIterator - URL will be removed (entry crawl number: %d less than crawl: %d)
+DeleteUnvistedEntriesFromMapIterator - URL will be removed (marked for delete, fIsParentDeleted, or fIsFOlderNoIndex & FILE)
+DeleteUnvistedEntriesFromMapIterator - Notification URL not found and older than crawl, deleting
+DeleteUnvistedEntriesFromMapIterator - Notification URL no longer matches start addresses
+DeleteUnvistedEntriesFromMapIterator
+DeleteUnvistedEntriesFromMapIterator - Ending for Crawl ID %d
+[SrchGatherStatus] start page %d, %ls is invalid when starting a crawl %d 
+[SrchGatherStatus] Adding start page %ls to crawl %d, enumeration depth %d
+CreateCrawlFromStartAddressList - Start Address: %s
+CreateCrawlFromStartAddressList - Queueing Crawl (one start address already in an active crawl) ID:%d
+CreateCrawlFromStartAddressList - Starting Crawl: %d
+[SrchGatherStatus] Insert crawl %d to requested queue hr 0x%08x
+FinishCrawl - cleaning up after a crawl: %d
+[SrchGatherStatus] Insert crawl %d to inprogress queue hr 0x%08x
+pkm:catalog:LastCatalogCrawlEndTime
+FinishCrawl - Start Address: %s
+pkm:catalog:LastCatalogCrawlSuccesses
+pkm:catalog:LastCatalogCrawlId
+pkm:catalog:LastCatalogCrawlErrors
+pkm:catalog:LastCatalogCrawlModified
+pkm:catalog:LastCatalogCrawlExcludes
+pkm:catalog:LastCatalogCrawlWarnings
+pkm:catalog:LastCatalogCrawlRetries
+pkm:catalog:LastCatalogCrawlKBytes
+[SrchGatherStatus] Remove crawl %d from inprogress queue
+IsBuildDone
+CGatherer::CheckReleaseScheduledCrawls
+Get the current scheduled crawl
+Insert crawl to inprogress queue
+Convert scheduled crawl to in-progress crawl
+CheckReleaseScheduledCrawls - Releasing Previously Scheduled Crawl: %d
+[SrchGatherStatus] release sched...Insert crawl %d to inprogress queue hr 0x%08x
+Invalid crawl type
+CheckReleaseScheduledCrawls - Start Address: %s
+[SrchGatherStatus] Make sched  crawl %d inprog but SA %d has crawl %d in progress already
+Start update
+ProcessStartCrawlStatus - Crawl Beginning - CrawlType: %d, CrawID: %d
+[SrchGatherStatus] Make sched  crawl %d inprog for SA %d
+pkm:catalog:LastCatalogCrawlStartTime
+ProcessStartCrawlStatus - Start Address: %s
+ProcessStartCrawlStatus
+pkm:catalog:LastCatalogCrawlType
+UpdateCompletedTransaction - Transaction not found in history, ignoring - this should only happen after a Reset.
+UpdateCompletedTransaction - TF_DELETE_WHEN_DONE set -- queueing deletion
+UpdatedCompletedTransaction
+UpdateCompletedTransaction - Short term retry - scheduled immediately because of query cancellation (references: %d)
+UpdateCompletedTransaction - retry attempt canceled (already have %s scheduled, references: %d)
+UpdateCompletedTransaction - Retry for Push API on DPL %d retry attempt
+UpdateCompletedTransaction - Failed to index a TF_CLEARCONTENTS doc... deleting (hr: %08X, references: %d)
+UpdateCompletedTransaction - trying no content filter (hr: %08X, references: %d)
+UpdateCompletedTransaction - removing TF_NO_CONTENT_FILTER flag
+UpdateCompletedTransaction - Retry %s scheduled (attempt: %d, delay: %d sec, hr: %08X, references: %d, flags: %08X, extended flags: %08X
+UpdateCompletedTransaction - Long Term Retry limit exhausted.  No more retries without a notification (hr: %08X, references: %d)
+UpdateCompletedTransaction - Completed Deletion
+UpdateCompletedTransaction - Finished TF_CLEARCONTENTS delete... requeueing
+UpdateCompletedTransaction - Persisted deletion, but canceling removal (file is no longer scheduled for deletion)
+UpdateCompletedTransaction - Finished: %s, Holding off deletion until remaining transactions are persisted (references: %d, scheduled: %s)
+UpdateCompletedTransaction - Successful Index (references: %d)
+UpdateCompletedTransaction - Successful no-content-filter index.  Basic properties indexed.  Re-queuing for normal retries.
+CreateMatchingTransactions - No Wildcard Present - Calling OnDataChange directly for %d on %s
+URL reported as excluded -- continuing...
+CreateMatchingTransactions - Perform %s on %s
+CreateMatchingTransactions Failure
+DeleteByStartAddress - correcting start address from %d to %d
+DeleteByStartAddress - Begin %d
+DeleteByStartAddress - End
+[SrchGatherPI] Processing createBySA Exception 0x%08x
+[SrchGatherSvc] del unvisited entries Error 0x%08x
+DeleteByStartAddress
+[SrchGatherPI] Exception in AddWildcard Transactions for wildcarded notifications trantype %d
+SetDoneAddingLinksTransaction
+CheckForCompletedCrawls - Inspecting Crawl ID: %d - Priority Queue reports completion...
+AddWildcardDirectoryTran Failure
+CheckForCompletedCrawls - Start Address: %s
+CheckForCompletedCrawls - Crawl Completed - Crawl ID: %d
+LoadCrawls - Loaded a Persisted (in-progress) Crawl: %d
+CheckForCompletedCrawls - Inspecting Crawl ID: %d - Priority Queue reports more items to process...
+[SrchGatherStatus] Load crawl %d to inprogress queue hr 0x%08x
+LoadCrawls - Start Address: %s
+.Crwl*.gthr
+LoadCrawls - Loaded a Persisted (not-started) Crawl: %d
+LoadCrawls
+CGatherer::Shutdown Begin
+Cancel documents for start address: %ls
+CGatherer::Shutdown End
+[SrchGatherDirMon] about to call remove notification source
+pkm:catalog:LockedForStatusChange
+file:///C:\$Windows.~BT\
+gatherer:failure-update-interval
+gatherer:project-path
+pkm:catalog:CatalogAdaptCrawlErrors
+gatherer:check-point-update-interval
+pkm:catalog:WaitingDocs
+pkm:catalog:CatalogAdaptCrawlChangedDocs
+pkm:catalog:WaitingNotificationDocs
+pkm:catalog:WaitingIncrementalDocs
+UpdateStatusInternal - Gather State Transition from %s to %s
+[SrchGatherStatus] Disable checkpoint
+[SrchGatherPI] System lcid has been changed. Was %lu, is now %lu.All history related files will be removed.
+MSSrch.dll
+[SrchGatherPI] Failed to Flush gatherer files (project %ls), error - 0x%x
+Update Drive Letter Mask - up to date:%s recovery:%08X project:%08X
+GetNewTransaction - No Available Transactions
+GetNewTransaction - No Available Transaction - next is WID: %d, %d seconds from now
+GetNewTransaction - AppUserModelId %d is not found from table
+GetNewTransaction - AppUserModelId is not found for package process request or container request
+GetNewTransaction
+GetNewTransaction - Returning Available Transaction (Priority: %d, Type: %s, RunCount: %d)
+RunRobotTask - DeleteByStartAddress
+Delete Event Sent (Now: %d  RunTIme: %d)
+RunRobotTask - CreatingMatchingTransactions (%s)
+RunRobotTask - IterateHistory
+SendItemIndexedStatusChange
+SendItemIndexedStatusChange - Sending pusher notification (client: %d, status: %08x, phase: %d)
+[SrchGatherPI] Processing createByStoreApp Exception 0x%08x
+DeleteAllDocuments %s - Begin
+DeleteAllDocuments
+DeleteAllDocuments - End
+[SrchGatherPI] Processing GetNumberOfDocuments Exception 0x%08x
+GetNumberOfDocuments %s - Begin
+GetNumberOfDocuments
+GetNumberOfDocuments - End
+[SrchGatherPI] Failed to queue catalog status change notification: 0x%08x
+GetTransferStatus being called for path: %s
+deque<T> too long
+onecoreuap\base\appmodel\Search\common\include\IndexerQueryHelper.h
+Software\Classes\CLSID\
+\InprocServer32
+Handlers
+onecoreuap\base\appmodel\search\mssrch\gather\server\handlerlist.cxx
+.tiff
+Handlers_x86
+{098F2470-BAE0-11CD-B579-08002B30BFEB}
+SearchHandlerList - Reconciling Handlers due to container filter change
+SELECT workid FROM SystemIndex WHERE System.ItemType = '%s'
+SearchHandlerList - Reconciling Handlers (forced: %s)
+SearchHandlerList - document handler GUID change detected, re-indexing: %s
+SOFTWARE\Microsoft\Windows\CurrentVersion\PropertySystem\PropertyHandlers
+SearchHandlerList - Registry change detected... waiting 60 seconds to re-inspect.
+%ws\CLSID
+CLSID\%ws\PersistentHandler
+PersistentHandler
+SearchHandlerList - Walked registry looking for handlers, found: %d items
+SearchHandlerList - document handler change detected, re-indexing: %s
+SearchHandlerList - deserialization failed
+SuppressHandlerReindex
+SearchHandlerList - Read persisted handler list: %d items
+SearchHandlerList - Walked StateRepo looking for handlers, found: %d items
+Software\Microsoft\Windows Search\Gather\
+Software\Microsoft\Windows\CurrentVersion\PropertySystem\SystemPropertyHandlers
+Software\Microsoft\Windows\CurrentVersion\PropertySystem\PropertyHandlers
+Dw=]:s
+{45c244cf-9381-431b-8500-78b3f5318b5e}
+Dw=|:s
+Dw=':s
+Dw=onecoreuap\base\appmodel\search\mssrch\gather\server\gatherstor.cxx
+[SrchGatherDestruction] Destroying CStartPage
+SourceGroup
+NumberOfUrls
+Created
+ModifiedBy
+CsType
+CreatedBy
+[SrchGatherPI] Failed to write crawl control for %ls
+Modified
+Container
+onecoreuap\base\appmodel\search\mssrch\gather\server\startpage.cxx
+[SrchGatherPI] Leaving Initialize Start page: %ls ; hr=0x%08x 
+onecoreuap\base\appmodel\search\mssrch\gather\server\startpage.cxx
+[SrchGatherPI] Initialize New StartAddress: %ls called 
+[SrchGatherPI] CStartPage::IncrementNumberOfSuccesses called with error: %ws 
+[SrchGatherPI] CStartPage::IncrementNumberOfErrors called with success code: %ws 
+[SrchGatherPI] CStartPage::get_StatisticVar(%d) failed for start page %ls: %ws 
+[SrchGatherPI] start address identifier for %ls is invalid.
+[SrchGatherPI] Duplicate Start Page
+[SrchGatherPI] Start Notification type %d on StartAddress %ls
+[SrchGatherPI] Done Notification type %d,  on StartAddress %ls  hr 0x%08x
+onecoreuap\base\appmodel\Search\mssrch\gather\include\UrlMap.hxx
+[SrchGatherDestruction] Destroying CUMap
+onecoreuap\base\appmodel\search\mssrch\gather\server\urlmap.cxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\SitePath.hxx
+[SrchGatherDestruction] Destroying CSitePathCollection
+[SrchGatherDestruction] Destroying CSiteRestriction
+onecoreuap\base\appmodel\Search\mssrch\gather\include\SitePath.hxx
+Paths
+ApplyToDavHref
+onecoreuap\base\appmodel\search\mssrch\gather\server\siterestr.cxx
+EvaluationOrder
+Included
+[SrchGatherDestruction] Destroying CExt
+IncludedExtensions
+SOFTWARE\Microsoft\Windows Search\CurrentPolicies
+ExtensionList
+ExcludedExtensions
+onecoreuap\base\appmodel\search\mssrch\gather\server\extension.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\server\tablemap.cpp
+TableMap::GetPropSession
+onecoreuap\base\appmodel\search\mssrch\gather\server\crawl.cxx
+[SrchGatherPI] Remove startpage %d, %ls from crawl %d inprog %d hr 0x%08x
+[SrchGatherPI] Add startpage %d, %ls to crawl %d
+SOFTWARE\Microsoft\Windows Search\ScopeChangeNotification
+onecoreuap\base\appmodel\search\mssrch\gather\server\scopechangenotification.cxx
+[SrchGatherDestruction] Destroying CProtocol
+onecoreuap\base\appmodel\Search\mssrch\gather\include\Protocol.hxx
+ProtocolHandlers
+ExtraPaths
+ProgIdHandler
+onecoreuap\base\appmodel\search\mssrch\gather\server\protocol.cxx
+ProgID
+ConfigHelpers
+[SrchGatherPI] Skipping key %ls
+onecoreuap\base\appmodel\search\mssrch\gather\server\devfolderhandler.cxx
+RecoverActivity
+Gatherer Status Thread
+[SrchGatherStatus] Processing status change %d, project %ls, crawl %d
+[SrchGatherPI] Status Thread Started
+onecoreuap\base\appmodel\search\mssrch\gather\server\statthrd.cxx
+[SrchGatherPI] Finished recovery
+CStatusThread::Thread
+onecoreuap\base\appmodel\search\mssrch\gather\server\statthrd.cxx
+[SrchGatherPI] Status Thread Stopped
+onecoreuap\base\appmodel\search\mssrch\gather\server\tableiterator.cpp
+/test
+CPriorityQueue::UpdateCache, wid: %d, updating CLOUD flags %ws
+CPriorityQueue::UpdateCache, UpdatingFlag: %08x, SET wid: %d
+CPriorityQueue::JetStartupComplete - delay(%d) priority(%d) running(%d) pipeline(%d) dead(%d) high-pri(%d) none(%d)
+CanEntryUpdatesBeCached - could not cache in mem - Field:%d
+SetRowsetPriority - new priority on existing query: %p (%d pri, %d indexed, %d adds, %d modifies)
+SetRowsetPriority - new query to watch: %p (%d pri, %d indexed, %d adds, %d modifies)
+onecoreuap\base\appmodel\search\mssrch\gather\server\priorityqueue.cxx
+AdjustPriority - firing bounce zero event: %p (%d pri, %d indexed, %d adds, %d modifies)
+CPriorityQueue::RemoveEntryFromQueue, wid: %d is completed, decrementing the ac queue total
+CPriorityQueue::UpdateCache, UpdatingFlag: %08x, CLEAR wid: %d
+onecore\internal\sdk\inc\wil\Resource.h
+Inconsistent state data size in wnf_query
+HASERROR
+TRANSFERRING
+NEEDSDOWNLOAD
+NEEDSUPLOAD
+EXCLUDED
+HASWARNING
+INCOMPLETE
+PARTIAL
+PINNED
+ScopeManager::Initialize - token:%d, scopes(used:%d lastallocated:%d) wids(pending deletes:%d used:%d max:%d indexed:%d)
+onecoreuap\base\appmodel\search\mssrch\gather\server\scopemanager.cxx
+SyncTransferStatus folderWid: %d has %ws due to wid: %d
+LOCAL
+FileOfflineAvailabilityStatus folderWid: %d has %ws due to wid: %d
+ScopeManager::Initialize
+Group
+Public
+Shared
+Private
+Owner
+_RemoveScope - scope deleted(id:%d segment:%s parent:%d firstChild:%d Sibling:%d)
+SetWIDToScope
+_AddURL
+_AddURL - new scope(id:%d segment:%s) for path:%s
+_RemoveScope
+CacheSDID - SDID %d added (%s)
+newly indexed item
+restored from pending delete
+CacheSDID - SDID %d removed (pending delete)
+CScopeManager::_FireEvent - queueing scope event: ADD id:%d p:%p
+onecoreuap\base\appmodel\search\mssrch\gather\server\pathtableclient.cpp
+onecoreuap\base\appmodel\search\mssrch\gather\server\appownertableclient.cpp
+onecoreuap\base\appmodel\search\mssrch\gather\server\appowneridmap.cxx
+GetNextQueuedURL - Moving URL from the delay queue to the priority queue
+lokPrepareSetColumn - History NULLing of Priority denied (must persist oustanding transactions first) running: %d
+onecoreuap\base\appmodel\search\mssrch\gather\server\gathertbl.cxx
+Bad optional access
+StartupGatherHistory
+CGatherTableClient::StartupGatherHistory
+StartupGatherHistory - RunTime invalid - reset
+Transaction is dirty - revoking TF_USE_LAST_MODIFIED
++queued+robot
++queued+delayed+robot+pipeline
+RecoverSID - Stop (%d scheduled)
+RecoverSID - Start
++longterm
++delayed
++queued
+delete
++pipeline
++robot
++failed
+pipeline %s (waiting: %d)
+running %s
+modify
+queued %s (pri: %d)
+delayed %s (sec: %d, retry: %d)
+longterm %s (min: %d, retry: %d, indexed: %s)
+indexed (cost: %d)
+failed %s (attempted: %d, indexed: %s)
+^(?:ABORT|ACTION|ADD|AFTER|ALL|ALTER|ALWAYS|ANALYZE|AND|AS|ASC|ATTACH|AUTOINCREMENT|BEFORE|BEGIN|BETWEEN|BY|CASCADE|CASE|CAST|CHECK|COLLATE|COLUMN|COMMIT|CONFLICT|CONSTRAINT|CREATE|CROSS|CURRENT|CURRENT_DATE|CURRENT_TIME|CURRENT_TIMESTAMP|DATABASE|DEFAULT|DEFERRABLE|DEFERRED|DELETE|DESC|DETACH|DISTINCT|DO|DROP|EACH|ELSE|END|ESCAPE|EXCEPT|EXCLUDE|EXCLUSIVE|EXISTS|EXPLAIN|FAIL|FILTER|FIRST|FOLLOWING|FOR|FOREIGN|FROM|FULL|GENERATED|GLOB|GROUP|GROUPS|HAVING|IF|IGNORE|IMMEDIATE|IN|INDEX|INDEXED|INITIALLY|INNER|INSERT|INSTEAD|INTERSECT|INTO|IS|ISNULL|JOIN|KEY|LAST|LEFT|LIKE|LIMIT|MATCH|NATURAL|NO|NOT|NOTHING|NOTNULL|NULL|NULLS|OF|OFFSET|ON|OR|ORDER|OTHERS|OUTER|OVER|PARTITION|PLAN|PRAGMA|PRECEDING|PRIMARY|QUERY|RAISE|RANGE|RECURSIVE|REFERENCES|REGEXP|REINDEX|RELEASE|RENAME|REPLACE|RESTRICT|RIGHT|ROLLBACK|ROW|ROWS|SAVEPOINT|SELECT|SET|TABLE|TEMP|TEMPORARY|THEN|TIES|TO|TRANSACTION|TRIGGER|UNBOUNDED|UNION|UNIQUE|UPDATE|USING|VACUUM|VALUES|VIEW|VIRTUAL|WHEN|WHERE|WINDOW|WITH|WITHOUT)$
+^[a-zA-Z_][a-zA-Z0-9_]*$
+Already assigned.
+Invalid Unicode string.
+onecoreuap\base\appmodel\Search\common\include\utf8.h
+Unable to convert strings longer than int chars.
+SQL statement unexpectedly returned row results.
+SQL statement not entirely processed.
+The SQL string is too large.
+COMMIT TRANSACTION;
+ROLLBACK TRANSACTION;
+BEGIN TRANSACTION;
+Text column too long.
+A SQLite identifier may not contain a null character.
+ ORDER BY OwnerId;
+SELECT OwnerId, UserSid, AppUserModelId FROM 
+The current item only available after try_move_next returns true.
+_GthrAppOwner
+ WHERE OwnerId = ?;
+DELETE FROM 
+ (OwnerId, UserSid, AppUserModelId) VALUES (?, ?, ?);
+INSERT INTO 
+ (OwnerId UNSIGNEDLONG_INTEGER NOT NULL, UserSid TEXT_TEXT(64) NOT NULL, AppUserModelId LONGTEXT_TEXT(130) NOT NULL, PRIMARY KEY (OwnerId ASC)) WITHOUT ROWID;
+CREATE TABLE IF NOT EXISTS 
+DROP TABLE 
+The app owner entry to delete was not found.
+Unable to retrieve Win32 error message.
+Unable to convert Win32 error message to UTF-8.
+%s: %s
+Invalid SQLite database connection.
+SQL statement unexpectedly returned multiple rows.
+SQL statement unexpectedly returned no rows.
+FLOAT
+INTEGER
+Blob column too long.
+Unknown SQLite value type %i.
+The column is not of type BLOB or NULL.
+The type of the SQLite value is %s, not BLOB.
+Not enough bytes are left to store the varint.
+The multi-blob is invalid (is shorter than the header size indicates).
+The multi-blob is invalid (has a header size that is too small).
+The header size is too long.
+Not enough bytes are left to read the entire varint.
+The multi-blob is invalid (does not have enough body data for a header serial type code).
+The multi-blob is invalid (has a reserved serial type code).
+The multi-blob is invalid (has more body data than the header indicates should be present).
+The value size is too long.
+_indexDocID
+_Gthr
+UserData
+FileName
+ScopeID
+_indexRecovery
+LastModified
+AppOwnerId
+DocumentID
+TransactionExtendedFlags
+TransactionFlags
+DeletedCount
+RequiredSIDs
+RunTime
+Priority
+StartAddressIdentifier
+CrawlNumberCrawled
+CalculatedPropertyFlags
+StorageProviderId
+ClientID
+FailureUpdateAttempts
+SELECT 
+Unknown gather table column.
+LastRequestedRunTime
+UPDATE 
+Invalid blob for last modified column.
+ WHERE ScopeID = ? AND FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" = ? LIMIT 1;
+ FROM 
+ (ScopeID, FileName
+ WHERE ScopeID = ? AND FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" = ?;
+ SET 
+Filename is never provided via gather_table_set_entry.
+Scope ID is never provided via gather_table_set_entry.
+) VALUES (
+ WHERE RequiredSIDs IS NOT NULL AND Priority IS NOT NULL ORDER BY RequiredSIDs ASC LIMIT 1;
+ ORDER BY DocumentID ASC LIMIT 1;
+ ORDER BY ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC LIMIT 1;
+SELECT ScopeID, FileName FROM 
+:FileName
+:ScopeID
+ WHERE (ScopeID, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE") > (:ScopeID, :FileName) ORDER BY ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC LIMIT 1;
+Unknown gather index.
+:RequiredSID
+, multivalues(g.RequiredSIDs) m WHERE g.RequiredSIDs IS NOT NULL AND g.Priority IS NOT NULL AND m.Value = :RequiredSID AND (g.ScopeID, g.FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE") > (:ScopeID, :FileName) ORDER BY g.ScopeID, g.FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" LIMIT 1;
+ g INDEXED BY 
+SELECT g.ScopeID, g.FileName FROM 
+ WHERE ScopeID >= ? ORDER BY ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC LIMIT 1;
+, multivalues(g.RequiredSIDs) m WHERE g.RequiredSIDs IS NOT NULL AND g.Priority IS NOT NULL AND m.Value = ? ORDER BY g.ScopeID, g.FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" LIMIT 1;
+Moving sequentially when using the required SIDs index without a required SID filter is thought to be unused and not supported.
+Moving sequentially when using the document ID index is thought to be unused and not supported.
+The cursor is not currently positioned on a row.
+ ORDER BY ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC;
+SELECT ScopeID, FileName, UserData, DocumentID, SDID, AppOwnerId, LastModified, RequiredSIDs, DeletedCount, TransactionFlags ,TransactionExtendedFlags, CrawlNumberCrawled, StartAddressIdentifier, Priority, RunTime, FailureUpdateAttempts, ClientID, StorageProviderId, CalculatedPropertyFlags, LastRequestedRunTime FROM 
+ WHERE DocumentID = ? ORDER BY ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC LIMIT 1;
+The gather entry to update was not found.
+SELECT DocumentID FROM 
+The cursor is currently in fast-forward-only mode.
+The gather entry for the current key was not found.
+The current index must be document_id to use try_move_to_document_id.
+SELECT count(*) FROM 
+The current index must be primary_key to use try_move_to_primary_key.
+The gather entry to delete was not found.
+CREATE INDEX IF NOT EXISTS 
+ (ScopeID UNSIGNEDLONG_INTEGER NOT NULL, FileName LONGTEXT_TEXT(512) DEFAULT NULL, DocumentID UNSIGNEDLONG_INTEGER NOT NULL, SDID UNSIGNEDLONG_INTEGER DEFAULT NULL, UserData LONGBINARY_BLOB(26214400) DEFAULT NULL, AppOwnerId UNSIGNEDLONG_INTEGER DEFAULT NULL, LastModified BINARY_BLOB(8) DEFAULT NULL, RequiredSIDs BINARY_MULTI_BLOB(68) DEFAULT NULL, DeletedCount LONG_INTEGER DEFAULT NULL, TransactionFlags LONG_INTEGER DEFAULT NULL, TransactionExtendedFlags LONG_INTEGER DEFAULT NULL, CrawlNumberCrawled LONG_INTEGER DEFAULT NULL, StartAddressIdentifier UNSIGNEDSHORT_INTEGER DEFAULT NULL, Priority UNSIGNEDBYTE_INTEGER DEFAULT NULL, RunTime UNSIGNEDLONG_INTEGER DEFAULT NULL, FailureUpdateAttempts UNSIGNEDBYTE_INTEGER DEFAULT NULL, ClientID UNSIGNEDLONG_INTEGER DEFAULT NULL, LastRequestedRunTime UNSIGNEDLONG_INTEGER DEFAULT NULL, StorageProviderId LONGTEXT_TEXT(130) DEFAULT NULL, CalculatedPropertyFlags UNSIGNEDLONG_INTEGER DEFAULT NULL, PRIMARY KEY (ScopeID ASC, FileName COLLATE "UNICODE_en-US_LINGUISTIC_IGNORECASE" ASC)) WITHOUT ROWID;
+The current index must be required_sids to use try_move_to_required_sid.
+ (RequiredSIDs ASC) WHERE (RequiredSIDs IS NOT NULL) AND Priority IS NOT NULL;
+ (DocumentID ASC);
+_GthrPth
+ WHERE Scope = ?;
+ (Scope, Parent, Name) VALUES (?, ?, ?);
+ ORDER BY Scope;
+SELECT Scope, Parent, Name FROM 
+ (Scope UNSIGNEDLONG_INTEGER DEFAULT NULL, Parent UNSIGNEDLONG_INTEGER DEFAULT NULL, Name LONGTEXT_TEXT(1000) DEFAULT NULL, PRIMARY KEY (Scope ASC)) WITHOUT ROWID;
+The path entry to delete was not found.
+[SrchGatherDestruction] Destroying site path property bag enum
+[SrchGatherDestruction] Destroying CSitePath 0x%x
+[SrchGatherDestruction] Constructing CSitePath 0x%x
+onecoreuap\base\appmodel\Search\mssrch\gather\include\SitePathHelper.hxx
+appdata\
+^.*[\\/]appdata[\\/](local[\\/](packages[\\/]([^\\/]*[\\/]((localstate|roamingstate|localcache)[\\/](indexed[\\/].*)?)?)?)?)?$
+.*[\\/]appdata[\\/]local[\\/]packages[\\/][^\\/]*[\\/](localstate|roamingstate|localcache)[\\/]indexed[\\/].*
+IncludeSubdirs
+Pattern
+Default
+SearchPropertyMappingUrl
+SuppressIndex
+indexed
+onecoreuap\base\appmodel\search\mssrch\gather\server\sitepath.cxx
+NoContent
+Hierarchical
+history
+appdata
+(8\ING
+ntdll.dll
+MicrosoftTelemetryAssertTriggeredUM
+NumLargeEventFailures
+SummaryCount
+MaxEntriesFlushed
+MinEntriesFlushed
+NumBucketLimitReached
+NumAllocationFailures
+NumFlushes
+MaxEntriesStored
+TotalEntriesFlushed
+onecoreuap\base\appmodel\search\common\sysimprs\sysimprs.cxx
+OpenThreadToken() failed with error %#x
+onecoreuap\base\appmodel\search\common\sysimprs\sysimprs.cxx
+ImpersonateLoggedOnUser failed with error code %d
+RevertToSelf() failed with error %d
+[UtilCommon] failed to OpenThreadToken %d
+[UtilCommon] failed to OpenProcessToken %d
+onecoreuap\base\appmodel\search\common\pkmutill\atlext.cxx
+[UtilCommon] failed to impersonate client 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutill\ssfsutil.cxx
+AccessControl
+S-1-15-3-1024-1822509804-4202500280-131100095-208896226-3924139855-286224443-1964377501-2274755015
+onecoreuap\base\appmodel\search\common\pkmutill\acladm.cxx
+BYTE[%u] = (DWORD[]) 0x
+%s/<INVALID>
+%s/%u
+%s/%s
+ %08x
+CatalogNames
+[SrchPropertyDefs] Caught wil::ResultException in CURIToFPSMapperThreadProc. 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutild\catprops.cxx
+localhost
+http://
+onecoreuap\base\appmodel\search\common\pkmutild\catprops.cxx
+onecoreuap\base\appmodel\search\common\pkmutild\certthumbprintandsidmapping.cxx
+SOFTWARE\Microsoft\Windows Search\EFS
+AllowWindowsIndexer
+Search
+!x-sys-default-locale
+IndexerCatalogVersion
+onecoreuap\base\appmodel\search\common\pkmutild\catversion.cxx
+%d.%x.%x.%s
+[UtilCommon] Failed to create file mapping: %ls. 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutild\shmpipe.cxx
+[UtilCommon] MapViewOfFile() failed! 0x%08x
+onecoreuap\base\appmodel\search\common\pkmutild\shmpipe.cxx
+[UtilCommon] Failed to release transmit semaphore! 0x%08x
+[UtilCommon] Failed to release Transmit semaphore! 0x%08x
+[UtilCommon] Failed to release Receive semaphore! 0x%08x
+\VarFileInfo\Translation
+%d.%d.%d.%d
+\StringFileInfo\04090000\%s
+\StringFileInfo\040904E4\%s
+\StringFileInfo\%04X%04X\%s
+\WindowsSearch\MiniDumps
+MsSearchTerminateProcess
+SaveHungMiniDumps
+%s\%s_%s_%d.mdmp
+%s\%s_%s_%d.kdmp
+%s\%s_%d.hdmp
+%s\%s_%d.kdmp
+SOFTWARE\Microsoft\Windows Search\Gathering Manager\Applications
+onecoreuap\base\appmodel\search\common\utils\multicatutil.cxx
+onecoreuap\base\appmodel\search\common\volumeidurl\urlformatutil.cxx
+file:///
+file:
+onecoreuap\base\appmodel\search\common\volumeidurl\urlconverter.cxx
+IndexerVolumeGuid
+onecoreuap\base\appmodel\search\common\volumeidurl\volumeid.cxx
+Failed to get volume id for: %ls
+System Volume Information
+[XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX]
+\\?\Volume{
+}B^^y
+onecoreuap\base\appmodel\search\common\screenonsession\screenoneventmanager.cpp
+TransactionTypes
+TransactionErrors
+PackageFamilyNames
+ContentTypes
+onecoreuap\base\appmodel\search\common\jobmanager\jobmanager.cpp
+onecoreuap\base\appmodel\search\common\containerhelper\containerhelper.cpp
+onecoreuap\base\appmodel\search\common\sebhelper\sebhelper.cpp
+windows.searchProtocolHandler
+@ProtocolName
+onecoreuap\base\appmodel\search\common\staterepositoryhelper\staterepositoryhelper.cpp
+windows.searchPropertyHandler
+windows.searchFilterHandler
+SearchProtocol
+SearchProtocolHandler
+@Clsid
+@ProcessorArchitecture
+SearchFilterHandler
+#text
+windows.fileTypeAssociation
+SearchPropertyHandler
+FilterExtension
+@Path
+@ProtocolActivatorCLSID
+SupportedFileTypes
+DesktopPropertyHandler
+FileTypeAssociation
+Windows.Internal.StateRepository.ApplicationExtension
+Windows.Internal.StateRepository.Application
+Windows.Internal.StateRepository.PackageLocation
+Windows.Internal.StateRepository.PackageUser
+Windows.Internal.StateRepository.User
+onecoreuap\base\appmodel\search\common\propertyschemainspection\propertyschemainspection.cpp
+SchemaCacheTimestamp
+onecoreuap\base\appmodel\search\common\regex\fa.cxx
+[Query] ERROR: regex string value of 0 
+[Regex] Undefined transition from %u on %u
+[Regex] DFA move[ %u, %u ] = %u
+[Query] Invalid regex.  Missing %wc
+onecoreuap\base\appmodel\search\common\regex\fa.cxx
+[Regex] "%c" --> 
+[Query] CDFA::Recognize: aborting because execution time limit has been exceeded
+[Regex] Adding transition from %u on %u to %u
+[Query] Growing DFA state array.
+%s(%u) %s : %s
+ERROR
+onecoreuap\base\appmodel\search\common\regex\state.cxx
+[Query] Growing NFA State transition array.
+[Query] Integer Overflow.
+onecoreuap\base\appmodel\search\common\regex\xlatchar.cxx
+onecoreuap\base\appmodel\search\common\regex\xlatchar.cxx
+onecoreuap\base\appmodel\search\mssrch\propstore\databaseconnectionclient.cpp
+onecoreuap\base\appmodel\Search\common\include\access_token_provider.h
+onecoreuap\base\appmodel\Search\common\include\thread_impersonation_token.h
+The VFS name must not be null.
+The VFS must not be null.
+The database does not have an associated journal file.
+sqlite_schema
+Another VFS with the same name is already registered.
+onecoreuap\base\appmodel\Search\sqlite\include\sqlite3_impersonation_vfs.h
+PRAGMA synchronous=NORMAL;
+The journal file does not provide a Sync() method.
+The journal file does not have a valid set of methods.
+RELEASE POINT
+SAVEPOINT POINT
+onecoreuap\base\appmodel\search\mssrch\propstore\sqlitedatabaseconnection.cpp
+RELEASE POINT0;
+ROLLBACK TO POINT
+Busy timeout too small or too large.
+onecoreuap\base\appmodel\search\mssrch\gather\pipeserdeser\pipeser.cxx
+USN Source - Already monitoring start address: %d
+Volume ID Change: cached:%s found:%s %s %s
+USN Source - RemoveStartAddress - was not monitoring start address: %d
+RemoveStartAddress - ID:%d
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\filesystemmonitoringmanager.cxx
+USN Source - UsnJournal support: %s
+)aonecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\filesystemmonitoringparentpathcache.cxx
+UsnNotifier
+.vssx
+.vstx
+Catalogs
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\usnsource.cxx
+Volumes
+VolumePath
+%I64d
+[SrchGatherDirMon] USN 0x%I64x: Catalog %ws already processed this USN.
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\usnsource.cxx
+%s\%s\%s\
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\fatmonitorednotifier.cxx
+NextVolumeIndex
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\usnvolume.cxx
+VolumeJournal
+MultiSessionSid
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\usnnotifier.cxx
+[SrchGatherDirMon] DetectUsnJournals: Is Delete journal in progress on volume %ws?
+[SrchGatherDirMon] DetectUsnJournals: Cannot receive notification of journal delete on volume %ws
+[SrchGatherDirMon] DetectUsnJournals: Query journal on volume %ws
+[SrchGatherDirMon] DetectUsnJournals: Unable to create event
+[SrchGatherDirMon] USN Monitor: Registry Inconsistency.  Start full crawl. hr = 0x%x
+[SrchGatherDirMon] USN Monitor: Registry Inconsistency.  Start incremental crawl. hr = 0x%x
+[SrchGatherDirMon] USN Notifier: Failed to persist volume (%ws) settings to registry
+[SrchGatherDirMon] USN Notifier: Failed to persist source (%ws) settings to registry
+[SrchGatherDirMon] DetectUsnJournals: Create journal on volume %ws
+[SrchGatherDirMon] DetectUsnJournals: Query journal (#2) on volume %ws
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\usnnotifier.cxx
+[SrchGatherDirMon] >>>>>> This should not happen <<<<<  monitor thread ended due to error %d 
+[SrchGatherDirMon] USN 0x%I64x: filtered out due to source info
+CUsnMonitorNotifier - adding SEMANTICS_NO_CONTENT_FILTER for %ws
+[SrchGatherDirMon] Cannot start thread
+[SrchGatherDirMon] Create USN Monitor Thread failed with 0x%x
+[SrchGatherDirMon] Posting stop thread on 0x%x
+USN Monitor Thread
+[SrchGatherDirMon] USN Event Monitoring - DeviceIoControl failed with 0x%x
+[SrchGatherDirMon] Exit USN Monitor Thread Signal Received
+[SrchGatherDirMon] New volume being added or existing volume removed
+[SrchGatherDirMon] USN Thread: WaitForMultObj list fell out of sync with volume list
+[SrchGatherDirMon] Starting USN has been deleted.  Ordered incremental crawl.  hr=0x%x
+[SrchGatherDirMon] USN Monitoring Thread starting
+[SrchGatherDirMon] USN Event Monitoring - Retrying DeviceIoControl after sleep
+[SrchGatherDirMon] USN Event Monitoring - Change journal is no longer available, 0x%x
+CUsnMonitorNotifier - shutdown detected in the middle of processing
+CUsnMonitorNotifier - finished processing USN journal, %d records processed, nextUsn %lld
+[SrchGatherDirMon] USN Monitoring Thread stopping
+CUsnMonitorNotifier - delay reading USN journal for %d ms
+[SrchGatherDirMon] USN Event - Cannot read USN data - DeviceIoControl failed with 0x%x
+[SrchGatherDirMon] GetOverlappedResult failed on USN journal operation with 0x%x
+[SrchGatherDirMon] Possible USN Buffer issue...notified of records but couldn't retrieve the record data.
+CFatNotify - destroyed
+CFatNotify - Starting change monitor: %s
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\fatmonitor.cxx
+CFatNotify - Unable to continue monitoring directory changes: %s
+CFatNotify - Failure continuing to monitor directory changes.  Closing change monitor: %s
+CFatNotify - coalesced duplicate notification (was:%s now:%s)
+CFatNotify - queued new notification (%s)
+CFatNotify - delivering notification (%s)
+CFatNotify - Notifications missed due to exception.  Initiating crawl to catch up: %s
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\frncache.cxx
+[SrchGatherDirMon] CUsnMonitorNotifier::ResolveFrnByNtfs - Unable to open file by FRN %s
+[SrchGatherDirMon] FRN resolved by NTFS, FRN=%s, path=%ws
+[SrchGatherDirMon] CFRNCache::_PathToFRN could not open %s
+0x%016I64X%016I64X
+[SrchGatherDirMon] CUsnMonitorNotifier::ResolveFrnByNtfs - Unable to resolve file handle to path, frn=%s
+<none>
+[SrchGatherDirMon] CFRNCache::Add %s = %s\%s
+[SrchGatherDirMon] CFRNCache::_UpdateCache deleted %s=%s
+[SrchGatherDirMon] CFRNCache::_UpdateCache - %s has %d children when deleted
+[SrchGatherDirMon] CFRNCache::_PathToFRN could not get information for %s
+[SrchGatherDirMon] CFRNCache::_PathToFRN could not close %s
+[SrchGatherDirMon] CFRNCache::_PathToFRN %s=%s
+[SrchGatherDirMon] CFRNCache::_CachedFRN - Found %s = %s
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\filechangeclientmanager.cxx
+DB-SeekToRecord: key: %s  found: %s
+--WalkDelete: key: %s  value: %s
+DB-DeleteRecords: key1: %s  key2: %s
+--WalkRead: key: %s  value: %s
+DB-WalkRecords: key1: %s  key2: %s
+DB-ReadCurrentRecord: key: %s  value: %s
+DB-UpdateCurrentRecord: key: %s  value: %s
+DB-DeleteCurrentRecord: key: %s  value: %s
+DB-InsertRecord: key: %s  value: %s
+DB-GetRecordsCount: key1: %s  key2: %s
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\changetrackingtableprovider.cpp
+The column is not of type TEXT or NULL.
+:OldEntry
+:MoveSource
+:RangeInformation
+:MoveDestination
+:Batch
+:Client
+:CurrentEntry
+:Path
+ AND 
+ WHERE 
+Batch
+Client
+The change tracking entry to update was not found.
+:CaseMap
+RangeInformation
+MoveDestination
+ChangeTracking
+CaseMap
+CurrentEntry
+OldEntry
+MoveSource
+SELECT CaseMap FROM ChangeTracking WHERE Client=? AND Batch=? AND Path=?;
+The current record can no longer be found.
+The change tracking entry to delete was not found.
+DELETE FROM ChangeTracking WHERE Client=? AND Batch=? AND Path=?;
+Client = :Client AND Batch = :Batch AND Path = :Path;
+SELECT Client, Batch, Path FROM ChangeTracking WHERE 
+SELECT CaseMap, CurrentEntry, MoveSource, OldEntry, MoveDestination, RangeInformation FROM ChangeTracking WHERE Client=? AND Batch=? AND Path=?;
+No record is currently selected.
+:AfterLastBatch
+:AfterLastClient
+The source binary content cannot fit in the destination span.
+:AfterLastPath
+:FirstClient
+SELECT count(*) FROM ChangeTracking WHERE (Client, Batch, Path) >= (:FirstClient, :FirstBatch, :FirstPath) AND (Client, Batch, Path) < (:AfterLastClient, :AfterLastBatch, :AfterLastPath);
+:FirstPath
+:FirstBatch
+:BeforeFirstClient
+SELECT Client, Batch, Path FROM ChangeTracking WHERE (Client, Batch, Path) > (:BeforeFirstClient, :BeforeFirstBatch, :BeforeFirstPath) AND (Client, Batch, Path) < (:AfterLastClient, :AfterLastBatch, :AfterLastPath) ORDER BY Client, Batch, Path LIMIT 1;
+:BeforeFirstPath
+:BeforeFirstBatch
+SELECT Client, Batch, Path FROM ChangeTracking WHERE Client = :Client AND Batch = :Batch AND Path = :Path;
+The source text as UTF-16 cannot fit in the destination span.
+SELECT Client, Batch, Path FROM ChangeTracking WHERE (Client, Batch, Path) >= (:FirstClient, :FirstBatch, :FirstPath) AND (Client, Batch, Path) < (:AfterLastClient, :AfterLastBatch, :AfterLastPath) ORDER BY Client, Batch, Path LIMIT 1;
+SELECT Client, Batch, Path FROM ChangeTracking WHERE (Client, Batch, Path) >= (:Client, :Batch, :Path) ORDER BY Client, Batch, Path LIMIT 1;
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\sqlitechangetrackingtable.cpp
+) DEFAULT NULL, RangeInformation LONGBINARY_BLOB(2147483647) DEFAULT NULL, PRIMARY KEY (Client ASC, Batch ASC, Path ASC)) WITHOUT ROWID;
+) DEFAULT NULL, CaseMap LONGTEXT_TEXT(
+CREATE TABLE IF NOT EXISTS ChangeTracking (Client UNSIGNEDSHORT_INTEGER NOT NULL, Batch UNSIGNEDBYTE_INTEGER NOT NULL, Path LONGTEXT_TEXT(
+) DEFAULT NULL, OldEntry BINARY_BLOB(56) DEFAULT NULL, MoveDestination LONGTEXT_TEXT(
+) DEFAULT NULL, CurrentEntry BINARY_BLOB(56) DEFAULT NULL, MoveSource LONGTEXT_TEXT(
+ncalrpc
+AppInfo
+0497B57D-2E66-424F-A0C6-157CD5D41700
+\VmSharedMemory\Host\
+{%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x}
+onecoreuap\base\appmodel\search\common\wdsutil\wdssearchutil.cxx
+SOFTWARE\Microsoft\Windows Search\CatalogList\Applications
+PageSize
+SOFTWARE\Microsoft\Windows Search\Databases
+PPTP00
+5QX-O
+PPTP00
+PPTP007
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_PERFORMANCE_DATA
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+AppID
+CLSID
+Component Categories
+Interface
+Hardware
+SECURITY
+SYSTEM
+TypeLib
+alnum
+alnum
+alpha
+alpha
+blank
+blank
+cntrl
+cntrl
+digit
+digit
+graph
+graph
+lower
+lower
+print
+print
+punct
+punct
+space
+space
+upper
+upper
+xdigit
+xdigit
+file:///
+Search.MapPI
+BODY.BACKGROUND
+TABLE.BACKGROUND
+IMG.SRC
+TH.BACKGROUND
+TD.BACKGROUND
+FRAME.SRC
+TR.BACKGROUND
+BGSOUND.SRC
+IFRAME.SRC
+APPLET.CODE
+IMG.DYNSRC
+META.URL
+OBJECT.CODE
+STYLE
+SCRIPT
+LINK.STYLESHEET
+INPUT.SRC
+LINK.OFFICECHILD
+LINK.OFFICECHILDLIST
+LINK.LISTING
+<*!EU
+CLOUDONLINEONLY
+TRANSFERSTATUS_DOWNLOADING
+STORAGE_PROVIDER_HASSTATUS
+HASLASTSYNCERROR
+TRANSFERSTATUS_UPLOADING
+EXCLUDEDFROMSYNC
+CLOUDPINNED
+STORAGE_PROVIDER_HASERROR
+HASLASTSYNCWARNING
+EMPTYFOLDERASPLACEHOLDER
+FOLDER_EMPTY
+COMPLETE_PINNED
+COMPLETE
+NOTAVAILABLEOFFLINE
+AllowUsingDiacritics
+PreventRemoteQueries
+PreventIndexingOutlook
+PreventIndexingUncachedExchangeFolders
+PreventIndexingOfflineFiles
+DisableRemovableDriveIndexing
+PreventIndexingPublicFolders
+PreventIndexingEmailAttachments
+CompanyName
+FileDescription
+not_supported_mips
+not_supported_shx
+not_supported_ppc
+not_supported_alpha
+not_supported_msil
+not_supported_alpha64
+not_supported_ia64
+not_supported_arm32on64
+arm64
+neutral
+not_supported_ia32on64
+Winsta0\Default
+defaultroot://
+winrt://
+\\.+\\ntuser.*
+Warning
+Message
+Information
+Message
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+IndexShutdownStatus
+Status
+PartA_PrivTags
+IndexShutdownStatus
+Status
+PartA_PrivTags
+IndexSetupFailures
+Failures
+PartA_PrivTags
+IndexerCorruption
+HResult
+Message
+PartA_PrivTags
+Error
+Message
+Verbose
+Message
+ChangeTrackingProcessFATDelete
+DeletedFilePath
+FileChangeTrackingClientGetChanges
+Application
+RecordsRead
+PartA_PrivTags
+FilterProcessBackoff
+isBackedOff
+PartA_PrivTags
+UserProfileNotFound
+PartA_PrivTags
+CDPLProtectedCatalogLoad
+PartA_PrivTags
+wilActivity
+threadId
+SessionId
+UserContextToken
+CDPLProtectedCatalogUnload
+PartA_PrivTags
+wilActivity
+threadId
+SessionId
+UserContextToken
+Logoff
+SearchExtensionAppServiceFinished
+packageFullName
+PartA_PrivTags
+IndexChangeNotificationsProcessed
+Value
+PartA_PrivTags
+SearchExtensionAppServiceRequested
+packageFullName
+PartA_PrivTags
+IndexChangeNotificationsReceived
+Value
+PartA_PrivTags
+Rebuild2
+Reason
+PartA_PrivTags
+IndexingRestartedForAppUninstall
+PartA_PrivTags
+IndexingResumedFromAppServicing
+PartA_PrivTags
+IndexingPausedForAppServicing
+PartA_PrivTags
+CDPLProtectedCatalogLoad
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+CDPLProtectedCatalogLoad
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+ActivityIntermediateStop
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+ActivityError
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+ActivityError
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+CDPLProtectedCatalogUnload
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+CDPLProtectedCatalogUnload
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+ActivityStoppedAutomatically
+PartialIndexRebuild
+PartA_PrivTags
+BackoffStateAgainstCRM_Reason
+Count
+qReason
+PartA_PrivTags
+BackoffStateAgainstCRM_State
+Count
+qState
+PartA_PrivTags
+Critical
+Message
+Recover
+HResult
+Function
+Message
+PartA_PrivTags
+ProtocolHostProcessLaunchFailure
+executablePath
+launchType
+lastError
+createProcessFlag
+environmentBlockCreated
+PartA_PrivTags
+SearchProtocolHostLaunchFailure_Aggregate
+Count
+qHResult
+PartA_PrivTags
+IndexerItem_Aggregate
+Count
+qDuration_ms
+qOnACCount
+qIndexingTime_Total
+qIndexingTime_Min
+rIndexingTime_Max
+sProtocol
+Extension
+TransactionErrorCode
+ContentSize
+PartA_PrivTags
+SignalPluginStop
+clsid
+SignalPluginStart
+clsid
+SignalPluginAck
+clsid
+CheckActivePluginsTerminate
+clsid
+ActivityError
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+ActivityStoppedAutomatically
+CheckActivePlugins
+LoadPluginDataFromRegistry
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+pluginsLoaded
+maxProcessLimit
+penaltyBoxThreshold
+penaltyBoxTimeoutThreshold
+LoadPluginDataFromRegistry
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+pluginsLoaded
+maxProcessLimit
+penaltyBoxThreshold
+penaltyBoxTimeoutThreshold
+LoadPluginDataFromRegistry
+PartA_PrivTags
+wilActivity
+threadId
+LoadPluginDataFromRegistry
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+LoadPluginDataFromRegistry
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+PluginIsolationProperties
+PartA_PrivTags
+PluginIsolationPropertiesData
+CLSID
+CpuMax
+Memory
+PenaltyBoxHow many times was the plugin put in the penalty box
+CpuCyclesCpu Cycles spent in plugin
+DurationExecution time spent in plugin
+Items
+Allowed
+IndexAllFiles
+enabled
+PartA_PrivTags
+IndexCatalogResets
+PartA_PrivTags
+TransactionUpdateCalculateProperties
+Count
+qTransactionSucceeded
+PartA_PrivTags
+IndexerBatteryModeSetting
+Count
+qState
+PartA_PrivTags
+IndexerHandlerListQueueChange
+extension
+isPluginShutoffReindex
+PartA_PrivTags
+IndexerTotalDocumentsAddedByExtension
+PartA_PrivTags
+ExtensionData
+Extension
+Count
+HandlerPriority
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+PartA_PrivTags
+CleanupScopeChangeNotificationEvent
+packageFamilyName
+eventGuid
+PartA_PrivTags
+IndexingReIndexPatternQueue
+pattern
+processImmediately
+PartA_PrivTags
+RecoverActivity
+PartA_PrivTags
+wilActivity
+threadId
+RecoverActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+RecoverActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+TlgAggregateSummary
+PartA_PrivTags
+UtcAggParams
+Period
+MaxEvents
+Provider
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+UtcAggVal
+Value
+IndexerRebuildOnVersionLegacy
+HRESULT
+PartA_PrivTags
+IndexerRebuildOnVersion
+oldVersion
+newVersion
+PartA_PrivTags
+ScreenOnQueryResultsEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+TotalResultsRequested
+TotalResultsReturned
+SessionType
+PartA_PrivTags
+ScreenOnEnteringIdleEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+SessionType
+PartA_PrivTags
+ScreenOnIndexingFileEvent
+ScreenOnSessionGuid
+IndexingFileAggregationDataMetric
+TotalDurationInSeconds
+TotalNumberOfEvents
+DataTypeCount
+DataTypeString
+SessionType
+PartA_PrivTags
+ScreenOnProcessFileSystemChangeEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+TotalFATItemsProcessed
+TotalNTFSItemsProcessed
+SessionType
+PartA_PrivTags
+ScreenOnMergeEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+PreMergeIndiceCount
+PreMergeLevel
+PreMergeMinId
+PreMergeMaxId
+PostMergeIndiceCount
+PostMergeLevel
+PostMergeMinId
+PostMergeMaxId
+SessionType
+PartA_PrivTags
+ScreenOnFlushEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+MaxKeyCount
+MaxDocuments
+MaxWordList
+SessionType
+PartA_PrivTags
+ScreenOnQueryEvent
+ScreenOnSessionGuid
+TotalDurationInSeconds
+TotalNumberOfEvents
+MaxCursorsUsed
+ProtocolCount
+ProtocolString
+SessionType
+PartA_PrivTags
+LogonEventSessionEndWithThreshold
+itemsIndexed
+PartA_PrivTags
+IndexingUpdatingSchemaOnBoot
+PartA_PrivTags
+UsnJournalWrap
+PartA_PrivTags
+FileChangeTrackingClient
+Application
+VolumeIndex
+PartA_PrivTags
+WordBreakerWithRegistrationButWithoutLexicons
+LocaleID
+PartA_PrivTags
+SearchIndexerFallbackError_Aggregate
+Count
+qFileName
+LineNumber
+HResult
+FailureId
+CallContext
+PartA_PrivTags
+Microsoft.Windows.Search.Indexer.Trace
+Microsoft.Windows.Search.Indexer.Diagnostics
+`syLS
+Microsoft.Windows.Search.Indexer
+Microsoft.Windows.Search.Indexer.Aggregated.Normal
+Microsoft.Windows.Search.Indexer.Aggregated.Medium
+Microsoft.Windows.Search.Indexer.Aggregated.High
+Microsoft.Windows.Search.Indexer.PluginIsolation
+Microsoft.Windows.Search.Indexer.Aggregated.Low
+Microsoft.Windows.TlgAggregateInternal
+RaiseFailFastException
+C++/WinRT version:2.0.220110.5
+onecoreuap\base\appmodel\Search\common\include\tpcomobjhmap.hxx
+onecoreuap\base\appmodel\Search\common\include\errormsg.hxx
+\Required Categories
+CLSID\
+\Implemented Categories
+searchindexer.exe
+SOFTWARE\Microsoft\Windows Search\Gathering Manager
+winhttp.dll
+Software\Microsoft\Windows Search\Tracing\EventThrottleLastReported
+Likely Database Corruption - unable to cleanup failure from client at: %s
+Signaled event for ClientId %d, VolumeIndex %d
+USN: Offset: %I64d   Size: %I64d
+Raw USN: Offset: %I64d   Size: %I64d
+GLOBAL DELETE: %s
+onecoreuap\base\appmodel\search\mssrch\gather\changetracking\core\changehash.cpp
+CClientFileChangeClientStateStore::LoadAllClients() - Failed to load configuration for client %s.
+sr-SP-Latn
+sr-Latn-CS
+sr-SP-Cyrl
+sr-Cyrl-CS
+sr-BA-Latn
+sr-Latn-BA
+sr-BA-Cyrl
+sr-Cyrl-BA
+iu-Latn-CA
+bs-Cyrl-BA
+iu-CA-Latn
+bs-Latn-BA
+bs-BA-Cyrl
+zh-Hant
+bs-BA-Latn
+zh-Hans
+zh-CHT
+zh-CHS
+%s\%s.mui
+%s\%s\%s.mui
+.\%s.mui
+.\%s\%s.mui
+Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11CF-8B85-00AA005B4383}
+Locale
+onecoreuap\base\appmodel\search\mssrch\ptypepi\ptypepi.cxx
+onecoreuap\base\appmodel\search\mssrch\ptypepi\PTypePIfiltsink.hxx
+file://
+Directory
+Excel.Sheet
+Word.Document
+PowerPoint.Slide
+MessageLogPath
+Software\Microsoft\MSNMessenger\PerPassportSettings
+instantmessage;communication
+program
+propsys.dll
+onecoreuap\base\appmodel\Search\common\include\tplite_common.hxx
+Certificate Store Monitor
+onecore\internal\sdk\inc\wil\opensource\wil\token_helpers.h
+PreviousTempPath
+onecore\internal\sdk\inc\wil\opensource/wil/result.h
+IndexUserProfilesRoot
+Only VT_LPWSTR or vector of it are allowed for System.Security.EncryptionOwners
+urn:schemas.microsoft.com:fulltextqueryinfo:cataloggroup
+urn:schemas.microsoft.com:fulltextqueryinfo:sourcegroup
+onecoreuap\base\appmodel\Search\mssrch\gather\include\FiltSink.hxx
+onecoreuap\base\appmodel\Search\common\include\FileStream.hxx
+FAILED
+SUCCEEDED
+onecoreuap\base\appmodel\Search\common\include\darray.hxx
+onecoreuap\base\appmodel\Search\mssrch\gather\include\FileExclusionCache.h
+SetTransactionStatus - Spawning Wildcard Deletion of directory with TF_META_ROBOTS
+Delete notification on an URL arleady marked for deletion.  Ignoring.
+ShouldCrawlDeleteNotification - delete: %s, last notification: %d seconds ago, crawl started: %d seconds ago
+UpdateCompletedTransaction - Canceled and Requeued (references: %d)
+ForceFullCrawlOnFullCrawlsInProgress
+onecoreuap\base\appmodel\Search\common\include\tphtbl.hxx
+PPTP00
+SuccessfulTransactions
+ErrorTransactions
+RetryTransactions
+KilobytesCrawled
+WarningTransactions
+ExcludedTransactions
+ForcedFullCrawl
+UnvisitedItems
+onecoreuap\base\appmodel\search\mssrch\gather\server\crawl.cxx
+onecoreuap\base\appmodel\search\mssrch\gather\server\reindexpatterns.cxx
+CPriorityQueue::UpdateCache, SendingCloudNotification for wid: %d
+DIRTY
+%s: %5s
+Data Model Exclusions:  %d
+Omit From View:         %d
+%s: %s
+Data Model Folders:     %d
+Kind Music:             %d
+Setting Content:        %d
+File Search Exclusions: %d
+Link Search Exclusions: %d
+Not Available Offline:  %d
+Pinned:                 %d
+Kind Not Picture/Video: %d
+Non Data Model Folders: %d
+Photo Folders:          %d
+Document Folders:       %d
+EmptyFolderAsPlaceholder: %d
+Unknown Folders:        %d
+StorageProviderSharedFolders:          %d
+StorageProviderGroupFolders:           %d
+StorageProviderPrivateFolders:         %d
+StorageProviderPublicFolders:          %d
+Sync Warnings:          %d
+Excluded from sync:     %d
+StorageProviderOwnerFolders:           %d
+Sync Errors:            %d
+StorageProviderIDs:     %d
+Camera Roll Sources:    %d
+Upload Wids:            %d
+Downloading Wids:       %d
+StorageProviderError:   %d
+Camera Roll Backup:     %d
+StorageProviderStatus:  %d
+FireStatsEvents - Firing to Query %p (%d pri, %d indexed, %d adds, %d modifies)
+Promoting available WID for indexing -- attempting to take a non-directory if available
+onecoreuap\base\appmodel\Search\mssrch\gather\include\GatherDataChange.hxx
+FileOfflineAvailabilityStatus folderWid: %d has %ws state
+cloud file FINAL
+FileOfflineAvailabilityStatus folderWid: %d has final state: %ws
+SetWIDToScope - switch complete - compact(size:%d cap:%d) full(size:%d cap:%d)
+SetWIDToScope - switching away from compact scope (setting scope:%d on wid:%d) compact(size:%d cap:%d) full(size:%d cap:%d)
+local file FINAL
+EMPTY
+SetWIDToScope - WID too big for _fullWIDToScope size
+SetWIDToScope - WID too big for _compactWIDToScope size
+CacheSDID - WID too big for fullWIDToSDID size
+CacheSDID - WID too big for compactWIDToSDID size
+CacheSDID - switch complete - compact(size:%d cap:%d) full(size:%d cap:%d)
+CacheSDID - switching away from compact sdid (setting sdid:%d on wid:%d) compact(size:%d cap:%d) full(size:%d cap:%d)
+CacheSDID - SDID change from %d to %d
+urn:schemas-microsoft-com:publishing:PropertyMappingUrl
+onecoreuap\base\appmodel\search\mssrch\gather\server\inheritedaggregatedproperties.cxx
+CatalogID
+1.3.6.1.4.1.311.10.3.4
+2.5.29.37
+2.5.29.15
+UseLowPriorityConfiguration
+USN Source - Incremental denied on start address: %d (not yet full crawled)
+USN Source - Incremental denied on start address: %d (recently launched full crawl running)
+USN Source - Incremental denied on start address: %d (near immediate disconnect/reconnect)
+USN Source - Incremental denied on start address: %d (queued crawl already exists)
+0x%I64x
+file attr: 0x%08X 
+CFatNotify - Stopped change monitor: %s
+CFatNotify - Notifications missed due to ReadDirectoryChangesW buffer overflow.  Initiating crawl to catch up: %s
+CFatNotify - ReadDirectoryChanges callback (err:%d)
+CFatNotify - Notifications missed due to exception processing.  Initiating crawl to catch up: %s
+onecoreuap\base\appmodel\search\mssrch\gather\usnmonnotifier\frncache.cxx
+onecoreuap\base\appmodel\search\mssrch\common\sssutill\efssids.cxx
+EdpFree
+EdpCredentialDelete
+EdpSetCredServiceInfo
+EdpQueryCredServiceInfo
+EdpCredentialCreate
+EdpCredentialExists
+EdpCredentialQuery
+EdpIsConsumerDataProtectionEnforced
+EdpIsConsumerDataProtectionSupported
+EdpCredLibProxy
+SYSTEM\CurrentControlSet\Services\EFS\Parameters
+?ffffff
+?ffffff
+?333333
+?ffffff
+ORSDS
+mssrch.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$03$brc
+.rdata$T$brc
+.rdata$r$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$01
+.rdata$03
+.rdata$09
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$lp00mssrch.dll!20_pri7
+.text$lp01mssrch.dll!20_pri7
+.text$lp03mssrch.dll!30_clientonly
+.text$lp04mssrch.dll!30_clientonly
+.text$lp06mssrch.dll!35_hybridboot
+.text$lp08mssrch.dll!50_coldboot
+.text$lp09mssrch.dll!50_coldboot
+.text$mn
+.text$mn$00
+.text$np
+.text$x
+.text$yd
+.text$zy
+.text$zz
+.tls$
+.tls$ZZZ
+.xdata$x
+ATL$__a
+ATL$__z
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$00$brc
+.data$dk00$brc
+.data$dk01$brc
+.data$r$brc
+.data$rs$brc
+.data
+.data$00
+.data$03
+.data$dk00
+.data$zz
+.bss$00
+.bss$01
+.bss$03
+.bss$09
+.bss$dk00
+.bss$dk01
+.bss$dk03
+.bss$dk09
+.bss$pr00
+.bss$pr01
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+E$SV3
+Pj+VVRhhj
+E@VW3
+E,VW3
+E(VW3
+E,SVW
+E VWj
+E$SV3
+;S|r8;
+s0+S|
+j}Zf;
+;CXuQ
+F #F$
+P;C\ue
+F(#F,
+Z;C`u`
+$?<<t
+PSSVS
+;JDt:;JHt5;JLt0;JPt+;JXt&;J\t!;J`t
+;7te9^
+_f9>t
+SVWj83
+~Lj8SP
+QVWh@
+PRRRRQ
+D$0PhX
+L$ QS
+L$4QW
+9t$$t
+T$8RP
+t$tj(
+PQSVW
+;F$t;
+9~Xu6
+PWVh`
+7tGh@]
+SVWh`
+QQjbV
+QQjdQ
+QQj V
+QQj"Q
+QQj(V
+QQj*Q
+QQj0V
+QQj2Q
+QQj8V
+QQj:Q
+QQj<V
+QQj>Q
+QQj@V
+QQjBV
+QQjDV
+QQjFV
+QQjHV
+QQjJV
+QQjLV
+QQjNV
+QQjPV
+QQjRQ
+QQjZV
+QQj`V
+QQjfV
+QQjhV
+Gx_^]
+t+Wh@
+PQSVW
+QQSVW
+j}Zf;
+H4QQQ
+PQSVW
+Qj/j\
+OHhPYTPj
+Qj/j\
+t,Vhh
+G4_^[]
+PQSVW
+C09C,t
+t$$Qh "
+t.PQh
+f;F|t
+L$0QP
+9\$4u
+9\$0t18\$
+f;C|t
+uwh0 
+ufh$ 
+uUhH 
+uDh< 
+u3h` 
+u"hT 
+QPQPh
+Qj/j\
+Qj/j\
+F09F,t
+y2ShH
+Qj\^Vj/
+Qj\j/
+Qj/j\
+PQSVW
+C _^[]
+QPQPh
+9;NDu
+49p uB
+PWQRh
+<H?u0Qj#
+f+C<f
+<H?u0Qj#
+5ws.V
+hRHTGj
+PhRHTGj
+PhRHTGj
+PQSVW
+u9Wj:
+t+Ph8
+Qj\j/
+Qj/j\
+t1QQj
+Qj\j/
+Qj/j\
+9sHtL
+49x uZ
+9CHt4
+9x uZ
+9A u'
+9xHt'
+9N t1
+C<CuZ
+uY91uU
+uU91uQ
+f90tH
+f90tD
+f90t%
+~ u`d
+f98t&
+9S,uB
+9s8t2
+PQSVW
+VWt,Q
+PQSVW
+=MDNI
+=XDNIt-
+;|$$v6;FD
+T$ ;T$
+D$$;L$
+9D$ tz
+9Axt]W
+Qj/j\
+Qj/j\
+L$d_^3
+Qj\j/
+6;wTtL
+9F$vyj
+L$4_^[3
+QQSVW
+pDh<]
+pHhp]
+G8Y@P
+<A.uSf
+K|VWt
+QVWh@
+x`;0t\
+Pf90u
+PVShX
+t*_^[
+u?B;U
+L$4_^[3
+PQQVW
+L$4^3
+QQSVW
+C<_^[]
+G$_^]
+L$\_^3
+;8v*3
+PQSVW
+9^(tdV
+VWjP3
+PQSVW
+90u:h@
+f;A|t
+3t]=/
+D$ SVW
+ j@Wj
+ j@Wj
+ j@Wj
+PQSVW
+693t'
+u[f9G
+PQQSVW
+t:SSSP
+tG;7u
+F(+F$
+Ch;7t
+sd;sht!
+Qj\j/
+Qj/j\
+t]j8j
+QQQQQQQh
+WVQh8
+PQVQRPh
+uDhD7
+SVWj\
+Fh8^tu
+tu9^hup
+~<_^[
+F0;G0u 
+F4;G4u
+F8;G8u
+F<;G<u
+F;wXr
+9q\u<
+Af;2u'f
+vUSSh
+QVWh@
+PPPPj
+t)WhD
+u$WSQ
+zuBVh@
+F,SSP
+^ ^[]
+~ [_^
+QQSVW
+j2XPV
+PShx\
+QVWh@
+QVWh@
+QVWh@
+VWhSTRT
+uVQQQh
+PQhxX
+j&hH`
+$SVWh
+9|$,t
+9|$ t
+u)hh-
+9\$ u
+PQQSVW
+uRVWj
+f98u$3
+j*Yf9
+9{4t)
+SVSPSS
+N4QQQ
+C _^[]
+PSSSj
+Sj0Ph
+QQj W
+QQj"W
+QQj$W
+QQj(V
+QQj*W
+QQj,W
+QQj.W
+QQj0W
+QQj2W
+QQj6V
+QQj8W
+QQj:W
+QQj<W
+QQj@V
+QQjBW
+QQjDW
+QQjFW
+t-SSj
+j ^SSh
+u)QPQ
+QSVWh@
+VWj/Z
+VWj4Z
+;Y`s1Q
+PQQVW
+@w$tp
+8_Tt7
+9Stt0
+PQSVW
+PQSVW
+t,SSh
+yfVWj?
+VWj3Z
+DPh<]
+HPhp]
+9w<t/
+9D$$t
+yIPh0
+B(PVS
+B(PVS
+B(PVS
+B(PVS
+YY_^]
+PQSVW
+9D$$t
+PQSVW
+ukj;Y
+PQSVW
+PQSVW
+D$,SP
+D$(Ph$
+D$(Ph$
+PQVh@w
+zu|Wh@
+PQSVW
+Y__^[
+5ineI
+5ntel
+QRPh 9
+QRPh@9
+QRPh`9
+QRPh :
+QRPh@:
+QRPh`:
+QRPh ;
+QRPh@;
+QRPh`;
+QRPh <
+QRPh@<
+QRPh`<
+QRPh =
+QRPh@=
+QRPh`=
+QRPh >
+QRPh@>
+QRPh`>
+|$hWQ
+|$hWQ
+QQSVW
+X[_^]
+|$pWQ
+WPWWV
+awJtd
+VWj'_
+4Af9:u
+toj'[f;
+j%Xf;
+D$ PQQQ
+D$<PQ
+j{Xf;
+j=Xf9
+j=Xf9
+j{Xf9
+j{Xf9
+j}Xf9
+?=u/W
+PQQVW
+VWj|Z
+SSSPh
+SSWhPK
+SSWVhH"
+QQWVh|
+jTQh8
+QQWVh|
+jYQh8
+QQWVh
+QQWVh
+QQWVh
+QQWVh
+uthd%
+QQWVh
+QQWVh
+j~Qh8
+QQSWh,-
+QQSWh,-
+QQSWh,-
+QQSWh,-
+upSSSSSSSj
+SSWVh,-
+QQWVh
+jGQh8
+QQWVh
+QQSWh
+QQSWh
+QQSWh
+QQWVh
+QQWVh
+QQWVh
+SSWVh
+SSWVh
+SSWVh
+SSWVh
+SSWVh
+PPVPQPh
+SSSSWVSh
+SSVPW
+{wTta
+Qj\j/
+f9<Pt
+j0Xf;
+jaXf;
+jAXf;
+QQSVW3
+tbQh?
+9\$$w
+x19\$
+L$d_^[3
+VSVSh
+j,h88
+j=h88
+jKh88
+QQVW3
+thh@"
+j\Xf;Dr
+j_h(;
+f91t\
+tPj S
+jmh`A
+j>h`A
+jNh`A
+teQVSh
+WSRQj
+PPPVh
+w1VWP
+j Y+M
+j Y+M
+9Vhvc
+N$;Vhr
+QRPVW
+QQSVW
+tQQRP
+tQQRP
+t+VWP
+SVWjP3
+QQSVW3
+9^Ht?
+Vh9VdtG+Vd
+j\Xf9
+u0f9F
+u*j?Yf9N
+u!f9F
+D$(QP
+RPhpQ
+w$_^]
+r(9~ v#W
+9whv\
++GL+OL
+j\Xf9FHu
+~L|u\
+w(_^[]
+o8^lu
+;;7u%
+;;7u%
+>;;t8
+/w.t'
+;QLu$;QPu
+1;qPu
+\t!hD
+RPhHX
+VRPh(Z
+;A0t+
+VPh0V
+~L}uI
+?w}t$j
+FP t:
+j0Zt4f;
+SShLa
+SShLa
+SShLa
+y&hLa
+y"Sh(g
+y&hLa
+!w(^_
+|3h<r
+QQSVW
+!\$$!\$
+QQQQj
+<SVWQ
+QQSVW
+_^[Y]
+y4Vh 
+y4Vh 
+y4Vh 
+t=SVWhx
+y-PVWhx
+SVSPSS
+y+Vh8
+QQSVW
+y+Vh8
+\$ 9\$
+L$$;D$
+y(Vh8
+PQQSVW
+u$VQh
+t}Vh0
+SSSPh
+SSSPh
+jxXPh
+jFXPh$
+j(XPh
+j<XPh
+jdXPhL
+VVVPh
+D$ PQ
+D$,PQ
+$SVWP
+PQSVW
+D$0PQQ
+D$0PQQ
+H4QQQ
+jZXPhH
+D$0PQQ
+D$0PQQ
+t 8^!u
+t4VhD
+PRRQRRR
+yhVh|>
+yhVh|>
+yjWh|>
+y+Vh8
+?tb@P
+3;WSP
+Cx;C|r5
+D$ WW
+VVVPh
+VVShPK
+9^Dt"Q
+D$,,1
+CL9>t
+WWWhX
+ykPhX
+;F,tD
+6;s0t/
+SVWj,
+PQSVW
+{Vh0r
+0Vhpr
+u,Wh@
+SSSVh
+PQQSV
+D$(YY
+9^\sQ
+f91u"f
+QQSVW
+-;0u0
+f;D$ u
+;D$ t
+C<$"<
+_<_^[
+u99_8r
+u99_8r
+t$ VPQ
+s(;s(t
+D$XSVW
+L$DPj
+L$d_^[3
+FLSSP
+;Cpvf
+CpPhP
+PQSVW
+6;s0t
+;w0t4
+;w0t7
+;~0t_
+PQQVW
+D$dPQ
+QWWPj
+O$QVP
+D$0PQQ
+PQSVW
+j{Zf;
+j}Zf;TH
+x{SVW
+x{SVW
+;;7u%
+y+Vh8
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+D$0PQQ
+QQSVW
+PQSVW
+PVQRW
+j\Xj/f
+w<h07
+QQQQj
+t'QPj
+L$$_^3
+;p(uh
+]$QhP
+r+f98u&3
+j\Yf9
+r.j\Yf9
+SSSPh
+SSWhPK
+9E,t1h
+PPPPPPP
+;;7u%
+QQQQP
+QQSVW
+SW;0u"
+t*VWP
+!B$!B4
+"Phxp
+;G uO
+Qj*Pj!
+QQQQP
+u!SSSS
+j\Z_[
+QQSVW
+QQSVW
+XPh${
+OpPQW
+Qj\j/
+j:Yf;
+Qj/j\
+j\_j/[u
+N\j{Zf;
+j}Zf;TA
+9|$$t
+D$(SVW
+L$4_^[3
+SVSPSS
+QQSVW
+>8_$t
+;F(u!
+HYf9H
+;F(u$
+C<$"<
+#9t)V
+taQPj
+0f;2u
+D$0PQQ
+VVVPh
+VVShPK
+9>w@u
+;>w$u
+89;wS
+;;wCu
+QQSVW
+D$$PR
+D$@YP
+L$d_^[3
+j@j@S
+%UUUU+
+QSVWj,
+QSVWj8
+SVWj$
+@;FPr
+t+VWP
+VWjP3
+QSVWj,
+QSVWj8
+j\Yf9Lp
+;;7u%
+;;7u%
+Y;^Ps
+H;^`r
+Qj/j\
+j:Zf9T
+j:Xf;
+QQSVW
+QQSVW
+VWj83
+G0_^]
+SVWjD
+D$0PQQ
+QQSVW
+VQPWh
+PRWhp
+tJQWR
+FH<bu
+r(9~ v#W
+~L|u\
+w(_^[]
+~L}uI
+FP t:
+GB;>r
+QQSVW
+9whv\
++GL+OL;
+g8^lu
+;QLu!;QPu
+;FPt?
+QQVWQQ
+PSRSh
+PPPPW
+RRSPW
+wpSSSSV
+SSWPV
+;E u+
+FD_^[]
+Fl_^[]
+F<_^[]
+F|_^[]
+Ft_^[]
+QSVWj
+D$@SV
+uN9E$u
+_^[Y]
+j*Zj"
+D$(Xf
+sWj Xf
+QSVWh@
+x2VSj
+QQSVW
+QQSVW
+D$ ;D$<ubj
+D$,VP
+D$@9D$
+s8@PW
+s<@PP
+L$(Vj
+PWWWW
+VVVh%
+tuWSV
+WWWWh
+VWjhj
+tCj1X3
+jaXf;
+u&QWS
+;w,u(
+PQQSVW
+;w$t:
+j\Zf9TH
+;w8t%
+QQSVW
+QQSVW
+SWj2Z
+D$(j{P
+D$0j}P
+PjNVQ
+x(Vj[X3
+PSQQVW
+QVWQQ
+QVWQQ
+t"QPW
+97uSV
+D$8Vj0
+L$<^3
+$SVW3
+y#VhX
+y#VhX
+y#VhX
+899t*
+|t&RR
+j*Yf9N
+VSWh,
+QQSVQQ
+QQSVQQ
+QQSVW
+PQQSVW
+PQQSVW
+PQQSVW
+PQQSVW
+PQQSVW
+D$8SV
+PQSVW
+t$j._
+WWWWWWh
+PSSSS
+D$ VQhD
+t'QPj
+L$$^3
+j\Xj/f
+YYPj2Z
+Qj/j\
+j\Zf9TH
+j\Zf9TH
+VWj{Q
+t0Pj2Z
+j\Zf9TH
+WSPh,
+FVhd^
+;sht"
+ymVhp
+tPWWj
+tX;3tT
+u0QWh
+YYWWj
+;Cpu.
+WSPRV
+VWjJZ
+;sptS
+B9Stu,
+rLWVQ
+;sptj
+f9x(u
+$_^[]
+PP:QPuY
+Ah+Ad
+Pt;Qtu
+Oh+Od
+Gh+Gd
+Fd;Fhu
+L$4_^[3
+QQSVW
+8jLXf
+8jLXf
+Y__^[
+>@s5f
+?@s-f
+XPWQt
+9G4r9V
+j%Xt6
+97s/j
+RRRR@P
+90u:h@
+L$8Qj
+SSSSSSPSSSV
+uGSSSSSSS
+D$,PSSSV
+kSVh@
+x*Whl
+q(9>u
+QQQQQQQPQQQ
+xe95H
+QQj,hx
+QQWVh
+QQWVh
+QQWVh|.
+QQSWh
+SSWVh
+QQSWh
+SSWVh
+SSWVh
+QQSWh
+YYSSWVh
+SSWVh
+QQWVh`/
+QQWVh`/
+WVh`/
+QQWVh`/
+QQWVh`/
+WVh`/
+QQWVh`/
+QQWVh`/
+WVh`/
+WVh`/
+WVh`/
+0Sh8"
+<x%u%
+j#Zf9
+j#XtUj
+<H?u'Qj#XP
+9_ t+9_$t&9_
+9{ tm
+ukV9W tH
+Qj\_Wj/
+f98uVf9x
+?thf9x
+uDhD7
+\$DPS
+\$XPV
+L$l_^[3
+9{$t2
+Al+Ah
+Al+Ah
+~dj8SP
+QSVWjP
+QVRWh@
+\$(Y9\$
+PQSRP
+D$$QSR
+L$(RVj
+>_^[]
+>_^[]
+roQSP
+D$hSVW
+D$ jPj
+D$ j(P
+L$t_^[3
+s(hPl
+PQSVW
+v(hpp
+v(hPn
+w(h8m
+PWWhH
+tNSSSj
+t4SSSj
+QSVWj
+PQQQQQj
+9q\u~
+9_Ht2
+PQSVW
+kSVh@
+x*Whl
+kSVh@
+x*Whl
+9D$$t
+VWt0Q
+QQSVW
+9|$,t
+9|$,t
+9x<t3f
+D$8f9\$0u>
+PQVh0F
+kSVh@
+x*Whl
+D$0PQQ
+kSVh@
+x*Whl
+kSVh@
+x*Whl
+B9V u
+YYF;w
+kSVh@
+x*Whl
+kSVh@
+x*Whl
+kSVh@
+x*Whl
+kSVh@
+x*Whl
+9D$$t
+9D$$t
+_f9>t
+tXj:j
+@_^Y]
+F(#F,
+F0#F4
+v<h0G
+9t$$t
+D$,j\Zf9TH
+D$(,1
+F8_^]
+yQPhH
+x<<s-
+_f9>t
+K h4{
+D$(QQ
+kSVh@
+x*Whl
+j}Zf;TH
+u&QWS
+Qj\^Vj/
+QQSVW
+QQSVW
+;W|rZ;
+sR+W|
+Yu!hp
+yfPh(
+Af;2u
+Af;2u
+SWWWh
+xrWh@
+x[Wh@
+x6h0u
+YY_^3
+Af;2u
+B$;A$w
+B(;A(w
+B,;A,w
+C,;F,w
+W9F(u*
+B(PWS
+G,_^]
+G(_^]
+G$_^]
+SVWjp
+YjpPj
+QQSVWQQ
+0f;2u
+PQSVW
+;wDt!
+PQSVW
+QQSVW
+SSSSSSSj
+(SVWj
+PSSShH
+uojDXPj@
+j:Zf;M
+t"j j@
+QSVW3
+|SVW3
+Hf90t
+RegisterEventSourceW
+DeregisterEventSource
+ReportEventW
+IsValidSid
+GetLengthSid
+CopySid
+GetTokenInformation
+ConvertSidToStringSidW
+OpenSCManagerW
+OpenServiceW
+QueryServiceStatusEx
+CloseServiceHandle
+PSGetPropertyDescriptionByName
+PowerSettingUnregisterNotification
+SHSetValueW
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+ControlService
+QueryServiceStatus
+EnumDependentServicesW
+QueryServiceConfigW
+ChangeServiceConfigW
+ConvertStringSidToSidW
+SetFileSecurityW
+InitializeAcl
+InitializeSecurityDescriptor
+CrmActivityWindowClosedReasonUnsubscribe
+CrmActivityFree
+CrmUnregister
+CreateWriterEx
+ConstructPartialMsgVW
+WdsSetupLogMessageW
+CurrentIP
+PolicyManager_IsPolicySetByMobileDeviceManager
+PolicyManager_GetPolicyInt
+CreateWindowStationW
+SetProcessWindowStation
+CreateDesktopW
+CloseDesktop
+CloseWindowStation
+PeekMessageW
+DispatchMessageW
+MsgWaitForMultipleObjects
+WTSFreeMemory
+WTSEnumerateSessionsW
+WTSQueryUserToken
+QueryActiveSession
+WerReportCreate
+WerReportSetParameter
+WerReportAddFile
+WerReportSubmit
+WerReportCloseHandle
+MappingGetServices
+MappingRecognizeText
+MappingFreePropertyBag
+MappingFreeServices
+UMgrFreeSessionUsers
+UMgrQueryUserContext
+UMgrEnumerateSessionUsers
+UMgrQueryUserToken
+UMgrQueryDefaultAccountToken
+AssocCreateForClasses
+MiniDumpWriteDump
+RevertToSelf
+ImpersonateLoggedOnUser
+SetSecurityDescriptorDacl
+SetSecurityDescriptorOwner
+SetSecurityDescriptorGroup
+MakeSelfRelativeSD
+GetSecurityDescriptorLength
+MakeAbsoluteSD
+LookupAccountNameW
+GetSidLengthRequired
+InitializeSid
+GetSidSubAuthority
+GetAclInformation
+GetAce
+AddAce
+AddAccessAllowedAce
+AddAccessDeniedAce
+EqualSid
+CreateWellKnownSid
+IsValidAcl
+SetTokenInformation
+AssocCreate
+SHGetFolderLocation
+StrRetToBufW
+SHGetSpecialFolderPathW
+PropVariantToFileTime
+PSFormatForDisplay
+PropVariantToStringAlloc
+CapabilityCheck
+GetPackageFamilyNameFromToken
+CertOpenStore
+CertControlStore
+CertCloseStore
+SetSecurityDescriptorControl
+DuplicateTokenEx
+PowerSettingRegisterNotification
+SetEntriesInAclW
+SHGetValueW
+PowerRegisterForEffectivePowerModeNotifications
+PowerUnregisterFromEffectivePowerModeNotifications
+CreateEnvironmentBlock
+DestroyEnvironmentBlock
+ParseApplicationUserModelId
+GetUserProfileDirectoryW
+WindowsCreateStringReference
+StgDeserializePropVariant
+CreateRestrictedToken
+GetSecurityDescriptorOwner
+GetSecurityDescriptorGroup
+GetSecurityDescriptorDacl
+GetSecurityDescriptorSacl
+GetSecurityDescriptorControl
+GetProfilesDirectoryW
+SHGetFolderPathW
+UuidFromStringW
+UuidCreate
+UuidToStringW
+RpcStringFreeW
+FreeSid
+PSCreateMemoryPropertyStore
+SHGetKnownFolderPath
+AccessCheck
+DuplicateToken
+CertFindExtension
+CryptDecodeObject
+CertGetCertificateContextProperty
+CryptBinaryToStringW
+CertFindCertificateInStore
+SHEnumKeyExW
+SHEnumValueW
+AllocateAndInitializeSid
+CrmActivityStop
+CrmActivityStart
+CrmActivityQueryWindowClosedReasons
+CrmRegister
+CrmActivityAllocate
+CrmActivityRequest
+CrmActivityWindowClosedReasonSubscribe
+CrmActivityFreeWindowClosedReasons
+SebQueryEventPackage
+SebSignalEvent
+LcidFromBcp47
+CmsCloseContainer
+CmsCloseActivity
+CmsOpenContainer
+CmsRegisterForContainerNotifications
+CmsCreateActivity
+CmsStartActivityAsync
+CpmcGetContainerIdForUser
+CdplIsSupported
+CdplProtectSecretToLevel
+CdplUnprotectSecret
+SRDictionaryToPropertySet
+PackageFamilyNameFromFullName
+GetProcessWindowStation
+GetUserObjectInformationW
+GetThreadDesktop
+SetCursor
+LoadCursorW
+PostQuitMessage
+TranslateMessage
+AllowSetForegroundWindow
+WindowsDeleteString
+WindowsGetStringRawBuffer
+RpcAsyncInitializeHandle
+WNetGetConnectionW
+StartServiceW
+RpcBindingFromStringBindingW
+RpcStringBindingComposeW
+I_RpcExceptionFilter
+RpcAsyncCompleteCall
+RpcBindingSetAuthInfoExW
+RpcAsyncCancelCall
+GetMonitorInfoW
+RpcBindingFree
+NdrAsyncClientCall
+MSSRCH.DLL
+??0CSearchServiceObj@@QAE@ABV0@@Z
+??0CSearchServiceObj@@QAE@XZ
+??1CSearchServiceObj@@QAE@XZ
+??4CSearchServiceObj@@QAEAAV0@ABV0@@Z
+??_7CSearchServiceObj@@6B@
+?Cleanup@CSearchServiceObj@@SGXXZ
+?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ
+?GetFilterHostProcessPoolManager@CSearchServiceObj@@SGJPAPAUIFilterHostProcessPoolManager@@@Z
+?GetSessionSingleUserContext@CSearchServiceObj@@UAG_KK@Z
+?HandleDplKeyChange@CSearchServiceObj@@UAGJXZ
+?Initialize@CSearchServiceObj@@UAGJ_N0KPBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z
+?LogoffNotification@CSearchServiceObj@@UAGJABUSessionUser@@@Z
+?LogonNotification@CSearchServiceObj@@UAGJABUSessionUser@@@Z
+?PostServiceStartup@CSearchServiceObj@@UAGJXZ
+?SetServiceStatusObj@CSearchServiceObj@@UAGJPAUIDCOMServiceStatus@@@Z
+?Shutdown@CSearchServiceObj@@UAGJXZ
+?Start@CSearchServiceObj@@UAGJXZ
+?Stop@CSearchServiceObj@@UAGJH@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+MSSrch_SysPrep_Cleanup
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVinvalid_argument@std@@
+.?AVdomain_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVlogic_error@std@@
+.?AVrange_error@std@@
+.?AVoverflow_error@std@@
+.?AVunderflow_error@std@@
+.?AVsystem_error@std@@
+.?AVruntime_error@std@@
+.?AVbad_typeid@std@@
+.?AVbad_cast@std@@
+.?AVbad_weak_ptr@std@@
+.?AVbad_exception@std@@
+.?AUsqlite3_error@@
+.?AVSafeIntException@@
+.?AVCAtlException@ATL@@
+.?AV<lambda_7e75edc3035c5566ad2dcd2c97d7b950>@@
+.?AV<lambda_8c0ac79a752f641210579f177bce9ff9>@@
+.?AV<lambda_2a0a07479fcbd38716c52d88e4af7aaf>@@
+.?AV<lambda_48adcc11d0fef562e441682805d390cf>@@
+.?AV<lambda_ece3a4fc83f4b27774844b7084b200cd>@@
+.?AV<lambda_3fc63c2a1ac66371adc1546d71dcbbd3>@@
+.?AV<lambda_7d314fedb8d12356ea94b56409db984a>@@
+.?AV<lambda_4725a8daf5967051cb6c819c9723d477>@@
+.?AV<lambda_04bcd873b835a09c99002e441caf7ee4>@@
+.?AV<lambda_f40a8423c9c5f5a9a4c9ff484fb2feb1>@@
+.?AV<lambda_7c5924a21c70cefa744422369b5a5bbf>@@
+.?AV<lambda_ee3ccccd4f1bf08933351728fe094234>@@
+.?AUhresult_access_denied@winrt@@
+.?AUhresult_wrong_thread@winrt@@
+.?AUhresult_not_implemented@winrt@@
+.?AUhresult_invalid_argument@winrt@@
+.?AUhresult_out_of_bounds@winrt@@
+.?AUhresult_no_interface@winrt@@
+.?AUhresult_class_not_available@winrt@@
+.?AUhresult_class_not_registered@winrt@@
+.?AUhresult_changed_state@winrt@@
+.?AUhresult_illegal_method_call@winrt@@
+.?AUhresult_illegal_state_change@winrt@@
+.?AUhresult_illegal_delegate_assignment@winrt@@
+.?AUhresult_canceled@winrt@@
+.?AUhresult_error@winrt@@
+.?AV<lambda_8e37a1d2639170b0ff2354eef5d824ca>@@
+.?AV<lambda_de1849030a5e453da8ebcebe88762a7c>@@
+.?AV<lambda_ebed98b8113f52a5fb203f83e7078bc9>@@
+.?AV<lambda_ac59024b6d67473efb91df4add7f8897>@@
+.?AV<lambda_7ddac3a4324e8af7612aed5260117fb2>@@
+.?AV<lambda_d985b646d135e544c494744af0442168>@@
+.?AV<lambda_9fe312a2569559d63bb3d63addb72605>@@
+.?AV<lambda_4bb16d8d879ff19078ea3ca8604665fa>@@
+.?AV<lambda_624e94b1f0f95d02b68ab82a2f3b2e4d>@@
+.?AV<lambda_e0ed532a5929e354eb671d6503405bee>@@
+.?AV<lambda_96ee1369937c1ba94714ecf07477a1ae>@@
+.?AU?$default_delete@UIDatabaseConnectionClient@@@std@@
+.?AU?$default_delete@VCGatherTableClient@@@std@@
+.?AU?$default_delete@UIAppOwnerTableClient@@@std@@
+.?AU?$default_delete@UIPathTableClient@@@std@@
+.?AU?$default_delete@UIDatabaseConnectionFactory@@@std@@
+.P6G?AUCAllocatorState@?$sparse_bit_allocator@K@@XZ
+.?AV<lambda_e5d4c4c835f02f44552ca25108183282>@@
+.?AV<lambda_160ba50046dcff62b4908f977a776046>@@
+.?AV<lambda_f6a3250b4de414206543b8fb9fc73db2>@@
+.?AV<lambda_7d68910378f931f9c21ac8ad7947cc97>@@
+.?AV<lambda_106610d0d0e1c3e2c07df49aed5b89dd>@@
+.?AV<lambda_b9b84f031fcbc97c185f0edea66dac1f>@@
+.?AV<lambda_3bc551c0cffa92b42f1640d02eff4864>@@
+.?AV<lambda_6ab7df84d9d43c67b54e1a49adb59830>@@
+.?AV<lambda_4d94786f9056f17f771596619088270a>@@
+.?AV<lambda_05aa2cc08a930043e27afb2c75b4eb24>@@
+.?AV<lambda_ed6022bbd8c5f526cd761a1d800bb38b>@@
+.?AV<lambda_c4afdb60deca5f323df308c4df44c336>@@
+.?AV<lambda_1d5128aee4a3f826254b4ef89f1b4f77>@@
+.?AV<lambda_72d79cfa2e74e827bfca39d0c65ca2de>@@
+.?AV<lambda_1ef099199079f8d2c07a2ffc1aa3d2b8>@@
+.?AV<lambda_15511ebfe7989db2e488557caa847ae8>@@
+.?AVbad_optional_access@std@@
+.P6GKUPolicyParameters@@@Z
+.?AV<lambda_390a5d026758bdce0166ef2bd28837fc>@@
+.?AV<lambda_85de08dde739775eba6cba86efd075c6>@@
+.?AVtype_info@@
+padpadpa
+?_Xlength_error@std@@YAXPBD@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Winerror_map@std@@YAHH@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xbad_function_call@std@@YAXXZ
+msvcp_win.dll
+wcsncmp
+memmove_s
+_initterm
+_initterm_e
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+__CxxFrameHandler3
+__std_terminate
+wcsstr
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___std_type_info_destroy_list
+_o___stdio_common_vsnprintf_s
+_o___stdio_common_vsnwprintf_s
+_o___stdio_common_vsprintf
+_o___stdio_common_vswprintf
+_o___stdio_common_vswprintf_s
+_o___stdio_common_vswscanf
+_o__aligned_free
+_o__aligned_malloc
+_o__callnewh
+_o__cexit
+_o__configure_narrow_argv
+_o__crt_atexit
+_o__errno
+_o__execute_onexit_table
+_o__initialize_narrow_environment
+_o__initialize_onexit_table
+_o__invalid_parameter_noinfo
+_o__invalid_parameter_noinfo_noreturn
+_o__itow
+_o__itow_s
+_o__recalloc
+_o__register_onexit_function
+_o__seh_filter_dll
+_o__ui64tow_s
+_o__ultow
+_o__ultow_s
+_o__wcsicmp
+_o__wcsnicmp
+_o__wcsupr
+_o__wtoi
+_o__wtoi64
+_o__wtol
+_o_abort
+_o_calloc
+_o_ceil
+_o_free
+_o_isalnum
+_o_isupper
+_o_iswdigit
+_o_iswpunct
+_o_iswspace
+_o_iswxdigit
+_o_log2
+_o_malloc
+_o_qsort
+_o_realloc
+_o_srand
+_o_strerror
+_o_terminate
+_o_towlower
+_o_towupper
+_o_wcscat_s
+_o_wcscpy_s
+_o_wcsncpy_s
+_o_wcstok
+_o_wcstol
+_o_wmemcpy_s
+__current_exception
+__current_exception_context
+_except_handler4_common
+memset
+_CxxThrowException
+api-ms-win-crt-private-l1-1-0.dll
+??0CFullPropSpec@@QAE@ABV0@@Z
+TQUERY.DLL
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+SetLastError
+ReleaseSemaphore
+GetModuleHandleExW
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+FormatMessageW
+GetLastError
+OutputDebugStringW
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+IsDebuggerPresent
+CoCreateInstance
+CoGetMalloc
+CoTaskMemRealloc
+LocalAlloc
+LocalFree
+RegCloseKey
+OpenThreadToken
+GetCurrentThread
+OpenProcessToken
+GetCurrentProcess
+CoTaskMemFree
+WideCharToMultiByte
+EventWriteTransfer
+EventUnregister
+EventSetInformation
+EventRegister
+AcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+AcquireSRWLockShared
+ReleaseSRWLockShared
+SetThreadpoolTimer
+LeaveCriticalSection
+EnterCriticalSection
+DeleteCriticalSection
+CloseThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+InitializeCriticalSectionEx
+InitializeCriticalSection
+CoTaskMemAlloc
+CreateEventW
+SetEvent
+CompareStringW
+InitOnceBeginInitialize
+InitOnceComplete
+ResetEvent
+FreeLibrary
+CharNextW
+LoadLibraryExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExW
+lstrcmpiW
+RegSetValueExW
+RegCreateKeyExW
+RegDeleteValueW
+RaiseException
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceExW
+GetModuleFileNameW
+GetSystemPowerStatus
+CoCreateFreeThreadedMarshaler
+RemoveDirectoryW
+DisableThreadLibraryCalls
+StringFromGUID2
+CreateThreadpoolTimer
+ProgIDFromCLSID
+LoadStringW
+InitOnceExecuteOnce
+VerSetConditionMask
+VerifyVersionInfoW
+TlsGetValue
+CoInitializeEx
+CoUninitialize
+CreateThread
+OpenProcess
+RtlNtStatusToDosError
+NtDeleteKey
+FindFirstFileW
+DeleteFileW
+FindNextFileW
+K32GetProcessImageFileNameW
+LCMapStringW
+K32EnumProcesses
+TerminateProcess
+Sleep
+FindClose
+GetVolumePathNameW
+GetVolumeNameForVolumeMountPointW
+CharLowerW
+FormatMessageA
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsProcessorFeaturePresent
+InitializeCriticalSectionAndSpinCount
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+InitializeSListHead
+GetSystemDefaultLCID
+CreateFileW
+ReadFile
+WriteFile
+SetFilePointer
+SetEndOfFile
+FlushFileBuffers
+LockFile
+UnlockFile
+GetFileSize
+GetFileTime
+DuplicateHandle
+ExpandEnvironmentStringsW
+RegEnumValueW
+RegDeleteKeyExW
+RegQueryValueExW
+PathCchSkipRoot
+FindStringOrdinal
+CreateDirectoryW
+GetFileAttributesW
+SetFileAttributesW
+lstrcmpW
+CompareFileTime
+GetDiskFreeSpaceExW
+GetDriveTypeW
+FileTimeToLocalFileTime
+FileTimeToDosDateTime
+DosDateTimeToFileTime
+LocalFileTimeToFileTime
+UnmapViewOfFile
+CreateFileMappingW
+MapViewOfFile
+GetVersionExW
+GetTickCount64
+FileTimeToSystemTime
+SystemTimeToTzSpecificLocalTime
+GetTimeFormatW
+RegGetValueW
+CompareStringOrdinal
+RtlGetPersistedStateLocation
+RtlIsStateSeparationEnabled
+RegDeleteKeyW
+ApiSetQueryApiSetPresence
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+OLEAUT32.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-string-obsolete-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+ntdll.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-localization-obsolete-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-registry-l2-1-0.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+sqlite3_system_errno
+sqlite3_extended_errcode
+sqlite3_errmsg
+sqlite3_finalize
+sqlite3_db_handle
+sqlite3_reset
+sqlite3_prepare_v2
+sqlite3_step
+sqlite3_column_int64
+sqlite3_get_autocommit
+sqlite3_bind_int64
+sqlite3_bind_text64
+sqlite3_column_bytes
+sqlite3_column_text
+sqlite3_changes
+sqlite3_column_int
+sqlite3_bind_null
+sqlite3_bind_parameter_index
+sqlite3_bind_int
+sqlite3_bind_blob64
+sqlite3_bind_text
+sqlite3_column_type
+sqlite3_column_blob
+sqlite3VarintLen
+sqlite3PutVarint
+sqlite3GetVarint
+SearchIndexerCore.dll
+??0_Lockit@std@@QAE@H@Z
+??1_Lockit@std@@QAE@XZ
+_Wcscoll
+_Wcsxfrm
+?_Init@locale@std@@CAPAV_Locimp@12@_N@Z
+?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ
+?_Xout_of_range@std@@YAXPBD@Z
+?id@?$ctype@_W@std@@2V0locale@2@A
+?id@?$collate@_W@std@@2V0locale@2@A
+?_Xregex_error@std@@YAXW4error_type@regex_constants@1@@Z
+?c_str@?$_Yarn@D@std@@QBEPBDXZ
+?_Getcat@?$ctype@_W@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?tolower@?$ctype@_W@std@@QBEPB_WPA_WPB_W@Z
+?tolower@?$ctype@_W@std@@QBE_W_W@Z
+?is@?$ctype@_W@std@@QBE_NF_W@Z
+??1facet@locale@std@@MAE@XZ
+??0facet@locale@std@@IAE@I@Z
+?_Decref@facet@locale@std@@UAEPAV_Facet_base@3@XZ
+?_Incref@facet@locale@std@@UAEXXZ
+??Bid@locale@std@@QAEIXZ
+?_Getcoll@_Locinfo@std@@QBE?AU_Collvec@@XZ
+??1_Locinfo@std@@QAE@XZ
+??0_Locinfo@std@@QAE@PBD@Z
+?uncaught_exception@std@@YA_NXZ
+?_Ipfx@?$basic_istream@_WU?$char_traits@_W@std@@@std@@QAE_N_N@Z
+?snextc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QAEGXZ
+?rdbuf@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QBEPAV?$basic_streambuf@_WU?$char_traits@_W@std@@@2@XZ
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z
+?sgetc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QAEGXZ
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QAEXH_N@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD0@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAE@XZ
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXPA_W0@Z
+?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXH@Z
+?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z
+?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+?gbump@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXH@Z
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXPA_W00@Z
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXPA_W00@Z
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEPA_WXZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IAE@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QAE@PAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAEXXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAEXXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JXZ
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEGXZ
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JPA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JPB_W_J@Z
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEPAV12@PA_W_J@Z
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEHXZ
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEXABVlocale@2@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@K@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+?getloc@ios_base@std@@QBE?AVlocale@2@XZ
+?width@ios_base@std@@QAE_J_J@Z
+?width@ios_base@std@@QBE_JXZ
+?flags@ios_base@std@@QBEHXZ
+?eof@ios_base@std@@QBE_NXZ
+?good@ios_base@std@@QBE_NXZ
+?pbase@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IBEPA_WXZ
+??0?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QAE@PAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@_N@Z
+??1?$basic_ostream@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QAEAAV01@I@Z
+_Strcoll
+_Strxfrm
+?id@?$ctype@D@std@@2V0locale@2@A
+?id@?$collate@D@std@@2V0locale@2@A
+?_Getcat@?$ctype@D@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?tolower@?$ctype@D@std@@QBEPBDPADPBD@Z
+?tolower@?$ctype@D@std@@QBEDD@Z
+?is@?$ctype@D@std@@QBE_NFD@Z
+wcsspn
+wcscspn
+_wcsrev
+_time32
+api-ms-win-crt-time-l1-1-0.dll
+wcschr
+strchr
+wcsrchr
+__std_type_info_compare
+PathCchCombineEx
+CoSetProxyBlanket
+InitializeSRWLock
+RtlInitUnicodeString
+NtCreateFile
+CloseThreadpoolWait
+SetThreadpoolWait
+WaitForThreadpoolWaitCallbacks
+CreateThreadpoolWait
+DeviceIoControl
+CancelIoEx
+GetOverlappedResult
+CoImpersonateClient
+CoRevertToSelf
+PathAllocCombine
+PathCchRemoveFileSpec
+IStream_Write
+IStream_WriteStr
+IStream_Reset
+GetFileInformationByHandleEx
+GetFileSizeEx
+IStream_Read
+IStream_ReadStr
+MD5Init
+MD5Update
+MD5Final
+EventEnabled
+CLSIDFromString
+GetTickCount
+SearchPathW
+GetSystemDefaultUILanguage
+GetLocaleInfoEx
+GetUserDefaultUILanguage
+GetLocaleInfoW
+LCIDToLocaleName
+LocaleNameToLCID
+PathFindFileNameW
+PathRemoveFileSpecW
+PathAppendW
+LoadLibraryW
+LockResource
+SHBindToParent
+GetSystemPreferredUILanguages
+ResolveLocaleName
+PathIsUNCW
+PathGetDriveNumberW
+PropVariantClear
+GetSystemInfo
+GlobalMemoryStatus
+IsThreadpoolTimerSet
+WaitForMultipleObjects
+SetEnvironmentVariableW
+CoGetCallContext
+CoGetClassObject
+SHTaskPoolQueueTask
+TlsSetValue
+CoWaitForMultipleHandles
+RtlGetDeviceFamilyInfoEnum
+CreateSemaphoreW
+GetTempPath2W
+BuildExplicitAccessWithNameW
+CreateMutexW
+SetProcessWorkingSetSizeEx
+EventActivityIdControl
+SetThreadPriority
+CLSIDFromProgID
+CoEnableCallCancellation
+CreateTimerQueueTimer
+CoDisableCallCancellation
+DeleteTimerQueueTimer
+CoCancelCall
+CheckRemoteDebuggerPresent
+GetExitCodeProcess
+CreateProcessW
+CreateProcessAsUserW
+ResumeThread
+SetPriorityClass
+VirtualQueryEx
+StringFromCLSID
+CoCreateGuid
+NtCreateCrossVmEvent
+OpenFileMappingW
+PathCchAddBackslash
+GetUserDefaultLangID
+GetSystemDefaultLangID
+QueryUnbiasedInterruptTime
+GetProcessTimes
+GetThreadTimes
+SetThreadInformation
+SetWaitableTimerEx
+CreateWaitableTimerExW
+PathRemoveBackslashW
+DeleteProcThreadAttributeList
+RtlReplaceSystemDirectoryInPath
+InitializeProcThreadAttributeList
+UpdateProcThreadAttribute
+GetThreadPriority
+PropVariantCopy
+K32GetProcessMemoryInfo
+QueryProcessCycleTime
+CreateEventExW
+SHTaskPoolGetUniqueContext
+GetCurrentDirectoryW
+DisassociateCurrentThreadFromCallback
+GetSystemDirectoryW
+GetSystemTime
+QueueUserWorkItem
+IsWow64Process
+RtlGetImageFileMachines
+GetMachineTypeAttributes
+RegNotifyChangeKeyValue
+WakeByAddressSingle
+EventWrite
+GetComputerNameW
+GetLogicalProcessorInformationEx
+NtQueryWnfStateData
+RtlPublishWnfStateData
+SHCreateMemStream
+GetModuleHandleExA
+TryAcquireSRWLockExclusive
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+HeapSize
+HeapReAlloc
+HeapDestroy
+SHStrDupW
+RegSetKeySecurity
+OpenMutexW
+SetThreadDescription
+GetNLSVersionEx
+NtMapViewOfSection
+PathFileExistsW
+GetFileVersionInfoSizeExW
+GetFileVersionInfoExW
+VerQueryValueW
+PathRemoveExtensionW
+K32GetModuleFileNameExW
+GetLogicalDrives
+GetVolumePathNamesForVolumeNameW
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-shcore-stream-l1-1-0.dll
+api-ms-win-core-file-l2-1-0.dll
+cryptdll.dll
+api-ms-win-core-localization-l1-2-2.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-shell-namespace-l1-1-0.dll
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-shcore-taskpool-l1-1-0.dll
+api-ms-win-core-file-l1-2-4.dll
+api-ms-win-security-trustee-l1-1-1.dll
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-realtime-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-shell-shdirectory-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-7.dll
+WS2_32.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+api-ms-win-shcore-obsolete-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-3.dll
+api-ms-win-core-version-l1-1-0.dll
+sqlite3_close
+sqlite3_open_v2
+sqlite3_errstr
+sqlite3_vfs_unregister
+sqlite3_vfs_register
+sqlite3_vfs_find
+sqlite3_table_column_metadata
+sqlite3_file_control
+sqlite3_indexer_extensions_init
+sqlite3_free
+delete_sqlite3_impersonation_vfs
+create_sqlite3_impersonation_vfs
+sqlite3_busy_timeout
+_Lock_shared_ptr_spin_lock
+_Unlock_shared_ptr_spin_lock
+RtlFreeUnicodeString
+RtlDosPathNameToNtPathName_U
+RtlCreateSystemVolumeInformationFolder
+PathCchCombine
+RtlSubscribeWnfStateChangeNotification
+RtlUnsubscribeWnfStateChangeNotification
+SetInformationJobObject
+AssignProcessToJobObject
+GetProcessId
+CreateJobObjectW
+GetPriorityClass
+TerminateJobObject
+CoCreateInstanceEx
+RoGetActivationFactory
+GetModuleHandleA
+GetVolumeInformationW
+CloseThreadpoolWork
+StartThreadpoolIo
+CreateThreadpoolIo
+WaitForThreadpoolIoCallbacks
+CancelThreadpoolIo
+WaitForThreadpoolWorkCallbacks
+CloseThreadpoolIo
+ReadDirectoryChangesW
+SubmitThreadpoolWork
+CreateThreadpoolWork
+OpenFileById
+GetStringTypeW
+ProcessIdToSessionId
+NtCreateSection
+RtlAppendUnicodeToString
+IIDFromString
+api-ms-win-core-job-l2-1-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-file-l2-1-1.dll
+memchr
+memcmp
+memcpy
+memmove
+REGISTRY
+TYPELIB
+Search.EmbeddedGatherMgr.1 = s 'Windows Search Service Embedded Gathering Manager'
+CLSID = s '{9E175B69-F52A-11D8-B9A5-505054503030}'
+Search.EmbeddedGatherMgr= s 'Windows Search Service Embedded Gathering Manager'
+CLSID = s '{9E175B69-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.EmbeddedGatherMgr.1'
+NoRemove CLSID
+ForceRemove {9E175B69-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Embedded Search Gathering Manager'
+ProgID = s 'Search.EmbeddedGatherMgr.1'
+VersionIndependentProgID = s 'Search.EmbeddedGatherMgr'
+InprocServer32 = s '%Module%'
+val ThreadingModel = s 'Free'
+Search.GatherTrx.1= s 'Windows Search Service Gatherer Transaction'
+CLSID = s '{9E175B6C-F52A-11D8-B9A5-505054503030}'
+Search.GatherTrx= s 'Windows Search Service Gatherer Transaction'
+CLSID = s '{9E175B6C-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.GatherTrx.1'
+NoRemove CLSID
+ForceRemove {9E175B6C-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Gatherer Transaction'
+ProgID = s 'Search.GatherTrx.1'
+VersionIndependentProgID = s 'Search.GatherTrx'
+InprocServer32 = s '%Module%'
+val ThreadingModel = s 'Free'
+Search.EmbeddedGatherNotify.1= s 'Windows Search Service Embedded Gatherer Notification'
+CLSID = s '{9E175B6E-F52A-11D8-B9A5-505054503030}'
+Search.EmbeddedGatherNotify= s 'Windows Search Service Embedded Gatherer Notification'
+CLSID = s '{9E175B6E-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.EmbeddedGatherNotify.1'
+NoRemove CLSID
+ForceRemove {9E175B6E-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Embedded Search Gatherer Notification'
+ProgID = s 'Search.EmbeddedGatherNotify.1'
+VersionIndependentProgID = s 'Search.EmbeddedGatherNotify'
+InprocServer32 = s '%Module%'
+val ThreadingModel = s 'Free'
+Search.EmbeddedSearchSvcAdmin.1 = s 'Windows Search Service Embedded Administration'
+CLSID = s '{EDss_GUID}'
+Search.EmbeddedSearchSvcAdmin = s 'Windows Search Service Embedded Administration'
+CLSID = s '{EDss_GUID}'
+CurVer = s 'Search.EmbeddedSearchSvcAdmin.1'
+NoRemove CLSID
+ForceRemove {EDss_GUID}= s 'Windows Search Service Embedded Administration'
+ProgID = s 'Search.EmbeddedSearchSvcAdmin.1'
+VersionIndependentProgID = s 'Search.EmbeddedSearchSvcAdmin'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'Free'
+Search.LanguageResource.1= s 'Windows Search Service Gatherer Language Resource Pool'
+CLSID = s '{9E175B70-F52A-11D8-B9A5-505054503030}'
+Search.LanguageResource= s 'Windows Search Service Gatherer Language Resource Pool'
+CLSID = s '{9E175B70-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.LanguageResource.1'
+NoRemove CLSID
+ForceRemove {9E175B70-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Gatherer Language Resource Pool'
+ProgID = s 'Search.LanguageResource.1'
+VersionIndependentProgID = s 'Search.LanguageResource'
+InprocServer32 = s '%Module%'
+val ThreadingModel = s 'Both'
+HKEY_LOCAL_MACHINE
+NoRemove Software
+NoRemove Microsoft
+NoRemove 'Search'
+NoRemove '1.0'
+'Applications'
+'SearchService'
+DataSources
+Search.Gatherer.1= s 'Windows Search Service Gatherer Plug-in'
+CLSID = s '{9E175B74-F52A-11D8-B9A5-505054503030}'
+Search.Gatherer = s 'Windows Search Service Gatherer Plug-in'
+CLSID = s '{9E175B74-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.Gatherer.1'
+NoRemove CLSID
+ForceRemove {9E175B74-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Gatherer Plug-in'
+ProgID = s 'Search.Gatherer.1'
+VersionIndependentProgID = s 'Search.Gatherer'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'both'
+Search.StreamBackupProvider.1 = s 'Windows Search Service Stream Backup Provider'
+CLSID = s '{CStreamBackupProvider_GUID}'
+Search.StreamBackupProvider = s 'Windows Search Service Stream Backup Provider'
+CLSID = s '{CStreamBackupProvider_GUID}'
+CurVer = s 'Search.StreamBackupProvider.1'
+NoRemove CLSID
+ForceRemove {CStreamBackupProvider_GUID} = s 'Windows Search Service Stream Backup Provider'
+ProgID = s 'Search.StreamBackupProvider.1'
+VersionIndependentProgID = s 'Search.StreamBackupProvider'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'both'
+Search.BackoffController.1 = s 'Windows Search Service Back off Controller'
+CLSID = s '{9E175B7F-F52A-11D8-B9A5-505054503030}'
+Search.BackoffController = s 'Windows Search Service Back off Controller'
+CLSID = s '{9E175B7F-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.BackoffController.1'
+NoRemove CLSID
+ForceRemove {9E175B7F-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Back off Controller'
+ProgID = s 'Search.BackoffController.1'
+VersionIndependentProgID = s 'Search.BackoffController'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'both'
+Search.NlCiIndex.1= s 'Windows Search Service Content Indexer'
+CLSID = s '{9E175B91-F52A-11D8-B9A5-505054503030}'
+Search.NlCiIndex= s 'Windows Search Service Content Indexer'
+CLSID = s '{9E175B91-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.NlCiIndex.1'
+NoRemove CLSID
+ForceRemove {9E175B91-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Content Indexer'
+ProgID = s 'Search.NlCiIndex.1'
+VersionIndependentProgID = s 'Search.Indexer'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'Both'
+Search.Indexer.1= s 'Windows Search Service Indexer Plug-in'
+CLSID = s '{9E175B92-F52A-11D8-B9A5-505054503030}'
+Search.Indexer= s 'Windows Search Service Indexer Plug-in'
+CLSID = s '{9E175B92-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.Indexer.1'
+NoRemove CLSID
+ForceRemove {9E175B92-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Indexer Plug-in'
+ProgID = s 'Search.Indexer.1'
+VersionIndependentProgID = s 'Search.Indexer'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'Both'
+Search.NullWB.1 = s 'Windows Search Service Null Word Breaker'
+CLSID = s '{9E175BA8-F52A-11D8-B9A5-505054503030}'
+Search.NullWB = s 'Windows Search Service Null Word Breaker'
+CLSID = s '{9E175BA8-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.NullWB.1'
+NoRemove CLSID
+ForceRemove {9E175BA8-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Null Word Breaker'
+ProgID = s 'Search.NullWB.1'
+VersionIndependentProgID = s 'Search.NullWB'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'Both'
+Search.GathererLogFileProvider.1= s 'Windows Search Service Gatherer Log File Provider'
+CLSID = s '{9E175BA9-F52A-11D8-B9A5-505054503030}'
+Search.GathererLogFileProvider = s 'Windows Search Service Gatherer Log File Provider'
+CLSID = s '{9E175BA9-F52A-11D8-B9A5-505054503030}'
+CurVer = s 'Search.GathererLogFileProvider.1'
+NoRemove CLSID
+ForceRemove {9E175BA9-F52A-11D8-B9A5-505054503030} = s 'Windows Search Service Gatherer Log File Provider'
+ProgID = s 'Search.GathererLogFileProvider.1'
+VersionIndependentProgID = s 'Search.GathererLogFileProvider'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'both'
+Search.GathererLogSqlProvider.1= s 'Windows Search Service Gatherer Log SQL Provider'
+CLSID = s '{CGathererLogSqlProvider_GUID}'
+Search.GathererLogSqlProvider = s 'Windows Search Service Gatherer Log SQL Provider'
+CLSID = s '{CGathererLogSqlProvider_GUID}'
+CurVer = s 'Search.GathererLogSqlProvider.1'
+NoRemove CLSID
+ForceRemove {CGathererLogSqlProvider_GUID} = s 'Windows Search Service Gatherer Log SQL Provider'
+ProgID = s 'Search.GathererLogSqlProvider.1'
+VersionIndependentProgID = s 'Search.GathererLogSqlProvider'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'both'
+Search.MapPI.1 = s 'Windows Desktop Search Map Plugin'
+CLSID = s '{70804ECC-7272-4dc8-AFFC-97CD66AAA282}'
+Search.MapPI= s 'Windows Desktop Search Map Plugin'
+CLSID = s '{70804ECC-7272-4dc8-AFFC-97CD66AAA282}'
+CurVer = s 'Search.MapPI.1'
+NoRemove CLSID
+ForceRemove {70804ECC-7272-4dc8-AFFC-97CD66AAA282} = s 'Windows Desktop Search Scope Manager'
+ProgID = s 'Search.MapPI.1'
+VersionIndependentProgID = s 'Search.MapPI'
+InprocServer32 = s '%MODULE%'
+val ThreadingModel = s 'Both'
+PPTP00
+PPTP00
+JedBL
+PPTP00
+PPTP00T
+PPTP00
+PPTP00
+PPTP00H
+PPTP00
+PPTP00\
+PPTP00$
+stdole2.tlbWWW
+>MSSCTLBW
+jCGatheringManagerWWWd
+8%iIGatherManagerAdminW
+tIGatherApplicationsW
+0vCountWWW
+pCountWW,
+IGatherApplicationWW,
+pbstrNameWWW
+IProjectsWWW
+IGatherProjectAdminWX
+LIGatherAdminX
+LogSuccessWW
+pfLogSuccessX
+LogExcludedW
+pfLogExcludedWWW
+ISiteRestrictionsWWW
+xA_NewEnum
+VpNewEnum 
+ISiteRestriction 
+Included
+SpfIncludedWW 
+Z9AccountNameW
+6pbstrAccountName 
+AuthenticationTypeWW
+'DplAuthenticationType 
+SetAccountWW
+bstrAccountW
+bstrPassword
+lAuthenticationTypeW
+ISitePathsWW
+8hrISitePathWWW
+dpbstrPathWWW
+IncludeSubdirsWW
+pfIncludeSubdirs
+rAddW
+bstrPath
+fIncludedWWW
+zpSitePathWWW
+RemoveWW
+@OChangeOrderW
+zItem
+MbstrName
+iDppSitePathWW 
+PathsWWW
+rpppPathsW
+ppSiteRestrictionWWW
+2UbstrSite
+CheckPermissions
+2dwPermDesiredWWWX
+SitesWWW
+SppSitesWL
+IExtensionsW
+IExtensionWW
+ExtensionWWW
+pbstrExtensionWW
+bstrExtensionWWW
+ppExtensionWL
+ wIncludedExtensionsWW
+<pfIncludedExtensionsL
+TSExtensionListWWW
+pbstrExtensionListWWX
+ExtensionsWW
+ppExtensions
+IStartAddressesWx
+IStartAddressWWWx
+pbstrURLx
+MCHostDepthWWW
++plHostDepthWx
+\EnumerationDepth
+plEnumerationDepthWWx
+MqFollowDirectoriesWWW
+LpfFollowDirectoriesW
+bstrURLW
+ppStartAddressWWX
+StartAddressesWW
+ppStartAddresses
+UIMappingsWWW@
+IMapping@
+~ From
+pbstrFromWWW@
+H_ToWW
+pbstrToW
+KFppMappingWWW
+zbstrFrom
+bstrToWWX
+Mappings
+'ppMappingsWW
+IProtocolsWW
+IProtocolWWW
+2UrlNameW
+(pbstrUrlName
+ProgIdHandlerWWW
+pbstrProgIdHandlerWW
+"bstrUrlNameW
+ppProtocolWWX
+ProtocolsWWW
+ppProtocolsWX
++StatusWW
+plStatusX
+FollowComplexUrlsWWW
+l[pfFollowComplexUrlsWl
+8{JIGatherLogsW
+2IGatherLogWW
+pbstrLogFileName
+2CreatedW
+pdtCreatedWW
+updSizeWW
+1pbstrLogFilePath
+tppLogWWWl
+fMaxLogsW
+plMaxLogsWWWl
+.MCurrentLogWW
+?HppCurrentLogX
+GatherLogsWW
+ppGatherLogsX
+gDisableRecoveryW
+PpfDisableRecoveryWWWX
+DisableRobotsExclusionWW
+pfDisableRobotsExclusionX
+NormalizeUrlsWWW
+pfNormalizeUrlsWX
+`CaseSensitiveUrlsWWW
+KpfCaseSensitiveUrlsW
+GatherWW
+pGatherAdmin4
+NIPlugins
+IPluginW
+KProgIdWW
+pbstrProgidW
+ DescriptionW
+pbstrDescription
+CreationFlagsWWW
+gplCreationFlagsW
+ControlW
+pVarControlW
+{lOrderWW
+@ppPlugin
+bstrProgIdWW
+lCreationFlagsWW
+TpPluginW
+nlIdentifierW
+ActivePluginsWWW
+9ppActivePluginsW
+fPluginsW
+ppPluginsWWW
+UInProgressUrlsWW
+hpUrlsVar
+ClientCertificateNamesWW
+pNamesVarWWW
+StartWWW
+StartIncremental
+,StartFullIncremental
+4Stop
+PauseWWW
+rResumeWW
+>ResetWWW
+VPauseWithReasonW
+dlReasonW
+ppGatherProjectAdmin
+pGatherProjectAdminW,
+GatherProjectsWW
+pGatherProjectsW,
+DefaultProjectPathWW,
+n<LogsPath,
+DefaultGatheringAccountNameW,
+SetDefaultGatheringAccountWW,
+J2DefaultPluginAccountName,
+SetDefaultPluginAccountW,
+MUseServicePluginAccountW
+pfUseServicePluginAccountWWW
+IApplicationPluginsW`
+nIApplicationPluginWW
+hfpApplicationPluginWW,
+ApplicationPluginsWW
+/gppApplicationPlugins
+(ppGatherApplicationW
+bstrApplicationPathW
+j!bstrProgIdGatherPluginWW
+RemoveForUninstallWWd
+GatherApplicationsWW
+ApGatherApplicationsWd
+DefaultApplicationsPathWd
+`PerformanceLevel
+plPerformanceLevelWWd
+UserAgentWWW
+ pbstrUserAgentWWd
+TempPath
+pbstrTempPathWWWd
+InstallationPathd
+DataPath
+IGatherSiteHitsW(
+IGatherSiteHitWW(
+HitIntervalW
+plIntervalWW
+ppServerd
+JServersW
+ppServersWWWd
+MaxGrowFactorWWW
+plMaxGrowFactorWd
+UConnectTimeoutWW
+plConnectTimeoutd
+iDataTimeoutW
+plDataTimeoutWWWd
+RetryLimitWW
+2plRetryLimitd
+DefaultAccountNameWWd
+wHSetDefaultAccountWWWd
+~%UseProxy
+plUseProxyWWd
+<LocalByPassProxy
+pfLocalByPassProxyWWd
+ProxyNameWWW
+{pbstrProxyNameWWd
+gPortNumberWW
+plPortNumberd
+ByPassListWW
+pbstrByPassListWd
+SetProxy
+GlUseProxyWWW
+u'lLocalByPassProxyWWW
+lPortNumberW
+bstrProxyNameWWW
+'bstrByPassListWWd
+IgnoreCertCNErrorWWW
+pfvarIgnoreCertCNErrorWW
+ISupportErrorInfoWWW
+HInterfaceSupportsErrorInfoWW
+3riid
+CEGatheringManagerWWT
+CGatherNotifyWWW
+IGatherNotifyWWW
+\[Init
+bstrApplicationW
+bstrProjectW
+varScopesBstrArrayWW
+AddScope
+bstrScopeWWW
+RemoveScopeW
+cNOnDataChange
+0peChangeAdviseWWW
+VbstrPhysicalAddressW
+bstrLogicalAddressWW
+_OnDataMoveWW
+A^eChangeAdviseSemanticsWW
+bstrOldAddressWW
+bstrNewAddressWW
+bstrNewLogicalAddressWWW
+ACEGatherNotifyWW
+[CmdLineParserWWW
+8z/ICmdLineParserWW
+NbstrCommandW
+bstrTargetWW
+_)VerifyArgumentsW
+pbResult
+AddShortcutW
+ZbstrArgW
+pbstrShortcutWWW
+AddArgumentW
+IsHelpWW
+]GetValue
+pvarValueWWWH
+SearchHelpWW
+ISearchHelpW
+DebugOut
+bstrOutputWW
+GetErrorMessageW
+]hrWW
+strErrorMsgW
+GetHelpW
+]idWW
+bstrHelp
+CQueryGatherLogStatisticsWWWt
+IQueryGatherLogStatisticsWWW
+bstrCatalogWt
+tInitByNameWW
+>bstrLogsPath
+bstrLogsPaternWW
+IGatherLogStartAddressesGlobalWW
+plCountWt
+^&GetAllStartAddresses<
+&IGatherLogCrawlst
+:GetCrawlsWWW
+jdppCrawlst
+tGetGlobalStartDateWW
+ mpdStartWt
+XGetGlobalEndDate
+pdEndWWWt
+4SectionSizeW
+FplCrawlNumWWt
+}CrawlNumberWt
+EStartDateWWWt
+EndDateWt
+0eErrorCodeWWW
+lphrErrort
+1HTransactionTypeW
+0plTransactionTypeWWWt
+StatusCodeWW
+phrStatusWWWt
+StartAddressIDWW
+%BplStartAddressID
+pIGatherLogStatistics
+IGatherLogCrawlsNumbersW
+CrawlsNumbersWWW
+pGatherLogCrawlsNumbersWh
+IGatherLogErrorCodes
+ErrorCodesWW
+QpGatherLogErrorCodes
+WarningCodes
+pGatherLogWarningCodesWW
+jInfoCodesWWW
+pGatherLogInfoCodesW
+IGatherLogStartAddresses
+VKpGatherLogStartAddresses0
+WIGatherLogTransactionTypesWW
+TransactionTypes
+@EpGatherLogTransactionTypesWW
+8O^IGatherLogHostsW
+EHostsWWW
+pGatherLogHostsW
+RecordsCount
+pRecCountWWW
+iBSuccessCount
+pSuccessCountWWW
+hWarningCount
+pWarningCountWWW
+FailureCount
+dpFailureCountWWW
+m[NextSectionRecordPositionExW
+#pbstrPositionWWWt
+GetSummaryStatistics
++StartPositionWWW
+PppGatherStatsWWW
+IGatherLogResultt
+^GetRecordsWW\
+8y2CGatherLogQueryW
+IGatherLogQueryW
+ForwardW
+sopbForwardWWW
+pbNotWWW
+-zExecuteQuery
+bstrLogFileNameW
+0ppResult
+FilePosition
+plFilePositionWW
+'StartAddressIdentifierWW
+plStartAddressIdentifier
+plCrawlNumberWWW$
+LCNullWBW
+5CGatherNotifyInlineW
+IGatherNotifyInlineWP
+ISearchNotifyInlineSiteW
+8td_SEARCH_INDEXING_PHASEWW
+SEARCH_INDEXING_PHASE_GATHERERWW
+SEARCH_INDEXING_PHASE_QUERYABLEW
+SEARCH_INDEXING_PHASE_PERSISTEDW
+g_SEARCH_ITEM_INDEXING_STATUS
+dwDocIDW
+hrIndexingStatusP
+OnItemIndexedStatusChangeWWW
+sipStatusWWW
+dwNumEntries
+rgItemStatusEntriesWP
+OnCatalogStatusChangeWWW
+guidCatalogResetSignatureWWW
+guidCheckPointSignatureW
+odwLastCheckPointNumberWW
+NInitializeWW
+pszApplicationWW
+pszCatalogWW
+pClientSiteW
+%doAccessCheckWWW
+pGUIDCatalogResetSignatureWW
+pGUIDCheckPointSignature
+>ypdwLastCheckPointNumberW|
+_INLINE_NOTIFY_DATA_CHANGE_ENTRY|
+qeChangeAdviseCodeWWW|
+pszPhysicalAddressWW
+tagBLOBW
+,*cbSizeWW
+pBlobDataWWW|
+pUserDataWWW|
+userSidW
+PdwNumberEntriesW
+rgDataChangeEntriesW
+rgdwDocIDsWW
+ErghrCompletionCodesWD
+CEGatherNotifyInline
+IGatherNotifyInline2
+m(OnDataChangeWithAumidWWW
+c)callerAumidW
+8H[CSearchLifetimeManagerWWp
+IPlmPackageServicing
+84}SERVICING_TERMINATION_INFOWW
+qpszTerminatedAppName
+jOulPriorityWW
+userContextWp
+AllowServicingWW
+ppPackageFullNamesWW
+packageCount
+ppIndirectPackageNamesWW
+indirectPackageCount
+gterminateRunningApps
+'anotifyBi
+}ppAppNamesWW
+pAppNamesCountWW
+ppTerminatedAppInfos
+pTerminatedAppInfoCountWp
+FinishedServicingWWW
+gpPackageFullNamesWWWp
+AAllowUninstallWW
+packageFullNameW'
+Microsoft Search CoClasses Type LibraryWWW
+Gathering Manager ClassWWW
+Gather Manager Admin interface*
+Gatherer Applications Collection interface
+Gatherer Application interface&
+Gatherer Projects Collection Interface
+Gather Project Admin interface
+Gather Admin interface
+Site Restricions Interface
+Site Restriction Interface
+Site Paths collection interfaceWWW
+Site Path interfaceWWW
+Extensions InterfaceWW
+Extension InterfaceWWW
+Crawl Seeds InterfaceW
+Crawl Seed InterfaceWW
+Mappings Interface
+Mapping InterfaceW
+Protocols interfaceWWW
+Protocol Interface
+Gather Logs InterfaceW
+Gather Log InterfaceWW
+Gather Plugins collectionW
+Gatherer Plugin interfaceW1
+Gatherer Application Plugins Collection interfaceW%
+Gatherer Application Plugin interfaceW
+Servers Timings collection
+Server Timing interfaceWWW 
+Embedded Gathering Manager ClassWW
+Gatherer Notification ClassWWW
+Gatherer Notification InterfaceWWW#
+Embeded Gatherer Notification ClassWWW$
+Microsoft Search Command Line ParserWW
+ICmdLineParser InterfaceWW?
+Initializes the object. Must be called before using the object.WWWJ
+Checks to be sure that all arguments given are applicable to this command.4
+Associates a shortcut (abbreviation) with a argumentWW
+Adds an argument and its value/
+Specifies if help is requested on this command.WWWC
+Returns the value of this parameter. Returns VT_EMPTY if not found.WWW
+Microsoft Search Help ClassWWW
+ISearchHelp InterfaceW.
+Utility function to output string to debug out,
+Returns the error message for a give hresultWW%
+Returns help screen for the given id.W#
+Gatherer Log Query Statistics ClassWWW'
+Gatherer Log Statistics Query InterfaceWWW"
+Gatherer Start Addresses Interface
+Gatherer Log Crawls InterfaceW!
+Gatherer Log Statistics InterfaceW(
+Gatherer Log Crawls Statistics InterfaceWW-
+Gatherer Log Error Codes Statistics InterfaceW1
+Gatherer Log Start Addresses Statistics InterfaceW3
+Gatherer Log Transaction Types Statistics InterfaceWWW'
+Gatherer Log Hosts Statistics InterfaceWWW
+Gather Log Result InterfaceWWW
+Gatherer Log Query ClassWW
+Gather Log QueryWW
+Null Word BreakerW
+Inline Notification ClassW&
+Gatherer Inline Notification Interface0
+Search Inline Notification Site Client InterfaceWW"
+Embedded Inline Notification Class0
+Gatherer Inline Notification Interface version 2WW
+Search Lifetime Manager ClassW
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Microsoft Embedded Search
+FileVersion
+7.0.22621.746 (WinBuild.160101.0800)
+InternalName
+MSSRCH.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+MSSRCH.dll
+ProductName
+Windows
+ Search
+ProductVersion
+7.0.22621.746
+VarFileInfo
+Translation
+REGISTRY
+TYPELIB
+en-US
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?
+00080<0@0D0H0L0P0T0X0\0`0d0h0p0x0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:h:
+;(;4;@;X;d;p;|;
+<$<0<H<T<`<l<
+=0=<=H=T=`=l=
+> >,>8>D>P>\>h>t>
+? ?,?8?P?\?h?t?
+0 0,080D0P0\0t0
+1 1$10141@1D1P1T1`1d1p1t1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+303<3H3`3l3x3
+4 484P4\4h4t4
+545@5L5X5p5|5
+606H6`6l6x6
+7 7,787D7P7\7h7t7
+8(848@8L8X8p8|8
+989D9P9\9h9
+:(:@:L:X:d:|:
+;(;4;@;L;X;p;|;
+<4<L<X<d<
+= =,=8=D=\=h=t=
+>(>D>L>T>\>d>l>t>|>
+?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?p?x?
+0 0$0(080H0X0h0x0
+1(181H1X1h1x1
+2(282H2T2`2d2h2l2p2t2x2|2
+3$3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4(4,4<4@4D4L4d4t4x4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8L8h8
+9 9(90989@9H9P9X9`9h9p9x9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+5;6E6
+= >*>
+1%2s2
+2"2&2,202B2F2L2P2V2Z2r2v2|2
+363V3q3{3
+4&4F4a4f4p4
+5!5&505Q5V5`5
+6)6.686=6G6L6V6[6e6j6t6y6
+7$7.737?7I7N7X7]7g7l7v7{7
+8%8*8F8a8f8p8
+94999C9d9i9s9
+:&:F:a:
+:J;m;z;
+;Y<f<|<
+>/>g>q>
+?D?V?_?
+0/1H1
+3.3J3`3p3~3
+4D4i4
+5)5.5
+6"8,8u8
+8(969\9f9
+:";>;O;d;u;
+<><Y<
+<\=v=
+>W>\>
+>@?}?
+4,5N5
+9$9M9
+;P<_<S>h>
+?Q?y?
+132L2
+3;3[3m3s3{3
+5M5m5
+6!6/6
+6-7I7S7z7
+8$9V9h9v9
+:2;8;E;
+<I=]>
+&0;0d0y0
+2-272<2j2y2
+556L6X6p6
+7_7f7
+8-878L8\8l8
+9B9z9
+:+:m:
+;%<;<F<e<
+<"=p=
+?9?Q?m?
+0'0E0U0t0
+061z1
+2#2>2]2
+3>3M3Z3n3
+6P7U7e7j7p7
+8v9N:!;
+?6?{?
+U0(1@1`1p1
+3&4?4e4q4
+536W6u6
+7c7i7p7
+7F8L8`8
+:#;M;
+<.<;<Y<d<
+=?=h=z=
+>">/>
+?m?z?
+192F2T2|2
+2C3I3]3
+314p4
+4C5~5
+5#626F6
+7"858n8
+;:;a;
+1$2n2
+2;3[3`3
+3'4|4
+:*;s;"<
+162<2P2\2r2
+4!5F5
+6$6)6}6
+7B7[7
+8E9f9
+;';N;u;
+;(<h<
+<2=t=
+=:>|>
+30A0N0
+2(2n2}2
+384W4c6
+707}7
+8!868^8j8
+9P9[9r9
+:8:N:v:
+;3;M;T;
+<,<F<M<T<f<
+=Q=W=d=
+>U>w>
+03081N1
+3'4D4I4+5E5
+:':D:h:~:
+;=;[;
+<;<E<m<
+=0>|>
+?-?I?
+070I0e0j0
+171a1k1
+3%4:4K4`4q4
+5/5@5U5f5
+6D6v6
+:H;Q;s;|;
+;/<><O<x<
+>7>p>{>
+090a0x0
+102>2e2
+4s5}5
+6L6Q6
+868N8
+9>9E9K9W9j9
+:-:<:l:
+:8;E;];l;
+=*=>=g=
+=">L>v>
+?8?R?w?
+L0h0l0p0t0x0|0
+0P2d2|2
+3!383T3
+6'6K6T6Z6b6o6t6|6
+7#7>7T7_7d7k7
+848?8L8
+979?9D9
+:X;u;z;
+;-<1<5<9<=<A<E<I<M<Z<
+=L=V=a=
+=&>6>?>P>g>
+?$?F?T?
+,0A0F0^0t0
+1$1<1
+2>2S2`2r2
+3$3G3Y3
+434{4
+6$7[7
+9:9J9[9j9
+97:F;X;
+>/>5>}>
+1&1B1O1X1
+1$2U2Z2
+344w4
+5L5j5|5
+6 6'6.656<6I6
+6#7E7R7s7
+7 8d8
+869A9x9
+<3<8<d<q<
+=!='=+=6=>=C=H=N=R=W=\=a=k=u=
+>'>6>E>T>c>r>
+?&?5?D?S?b?q?
+1H1^1w1
+1<2R2[2}2
+3.3;3M3Z3c3t3
+3I4l4~4
+5%5H5
+6(6E6O6k6
+7K8V8f8
+9&9P9W9^9e9l9s9z9
+:6;D;t;
+<O<s<
+>Z?s?
+1<1`1f1m1t1{1
+2 2'2.2~2
+5?5|5
+646k6
+:>:N:y:
+;-;B;
+<)<><
+<%=:={=
+=!>6>w>
+?2?s?
+)080t0
+1(2=2V2r2
+3,3r3
+484k4
+7$7/7l7
+7K8h8m8
+;R<N=V=b=n=
+?2?9?
+2'3d3
+4P4h4n4
+5 525A5T5
+6!6z6
+717:7D7J7Q7X7_7i7u7
+8]8j8
+9 909K9`9
+; <l<
+<6=}=
+=R>\>
+2$2/2
+3,4f4
+455Q5i5
+6W7c7
+:+;H;
+<H<Z<
+=J=[=z=
+>T>e>n>
+?!?)?1?
+2K2Z2x2
+8A8H8Y8
+8(9O9
+<F=t={=
+>A>u>
+?7?R?l?
+1/1D1M2
+6)7[7
+828I8O8i8
+8,9l9
+<)<x<
+0B1g1
+212K2
+3$3+3;3H3L3R3|3
+4@4M4
+6+616E6N6U6[6|6
+7$7<7G7i7
+748i8
+9=9\9 :2:<:Q:^:
+;];o;
+;=<J<`<
+<(=>=l=
+>D>Z>z>
+?"?D?S?r?
+030j0
+1.1S1
+293@3G3
+3$4w4
+6)6>6G6U6j6
+81878
+:U;[;b;y;
+;/<Y<y<~<
+<$=7=R=
+=(>C>]>
+0B0X0n0
+0M1Z1r1}1
+2P2f2
+3@3K3a3
+3*4;4e4n4
+4K5s5
+516k6
+697Z7
+:,;5;
+<%=S=j=q=
+?)?>?S?d?u?
+0(1:1h2z243<3M3j3M4S4X4`4e4m4r4z4
+5-525
+5X6]6
+9 9$9(9,9094989<9@9D9H9L9^9k9
+>,?;?
+0L0j0u0
+1N2p2
+4*595^5w5
+9(;:;a;h;t;
+=S=3>
+>4?>?N?
+2<2s2
+4-5l5
+7h8z8
+8!9+9
+:1:t:
+0E0s0
+0 1<1p1
+2D2^2p2
+686h6x6
+747v7
+7,8A8h8w8
+:U:p:
+<-<:<Q<[<h<
+=%=e=
+>*?\?
+1!101A1
+3<3m3
+4_4f4w4
+4T5e5
+5<6P6
+9!9+989X9d9
+:N;h;
+080J0
+1#1D1
+152q2v2
+3$383S3^3
+424F4Z4n4
+6*6Z6
+6#747
+8)8q8
+8Q9[9r9=;
+<C=M=
+=A>v>
+>\?i?
+0K1t1{1
+2(3:3
+4H415~5
+656P6
+7&858
+8A9K9^9
+9N:r:
+:P;[;g<r<Z=
+=C>P>f>
+?.?B?L?Q?
+1"1M1
+2%2L2d2t2
+5:5K5Z5v5
+747S7c7
+8Q8Z8q8
+879j9y9
+;3;?;
+<><h<z<
+<3=s=
+0,1B1
+2$2e2
+5:5V5
+5 6Y6
+:%;I;f;{;
+<1<5=
+>C>o>
+0#181L182J2k2x2}2
+3"353i3}3
+5*5<5G5N5]5
+6,636;6B6
+6#7P7
+91:7:=:C:P:V:\:b:
+;*<3<><G<M<
+1 1'111
+1+2i2
+4L4d4l4r4x4~4
+6-6O6
+6(7h7z7H8P8b8g8
+8#9s9
+:%:2:Y:
+>9>R>k>x?
+142\2d2j2w2
+2B3Q3z3
+3,464E4
+6]7[8Z9y9
+:W:b:l:|:
+;h;z;
+0/0T0
+2,6b6
+7/7@7U7\7
+</<J=h=
+>V>t>
+0$000
+0\1c1
+2T2[2
+9#:N:S:
+:s;~;
+=(=7=F=
+041B1V1
+2:2t2
+3O4~4
+5C5i5
+6.7U7
+7?8c8t8
+<>=D>s>
+i0E1L1a1h1
+1i2w2
+354P4f4x4
+636W6
+6L7a7
+:D;y;
+>3>J>l>
+?"?7?>?
+0%0;0R0h0y0
+0%1C1Y1
+2 2$2?2Q2X2w2
+223P3b3l3u3
+7-7=7
+7(8[8`8s8~8
+8+96:C:p:
+<s=x=
+010>0
+1C1p1y1
+2B3W3a3v3
+4 4-4
+5^5h5$6O6U6g6o6}6
+:M:U:x:
+>J>m>
+0(000G0
+5J5U5`5
+8!8O8g8
+=#>?>T>t>
+1!1+1=1K1W1\1f1p1
+8$8C8
+:#;-;
+<L<P<T<X<\<`<
+=V=i=t=
+=(>:>
+?'?2?=?T?\?p?
+050T0c0r0
+191D1u1
+102z2
+4]4}4
+5)5J5V5e5
+676A6
+7$7;7r7}7
+7,8@8P8a8s8
+8c9o9{9
+<(<A<
+<->f>t?
+2(2R2_2
+303I3{3
+6?7r7
+838N8
+919B9g9
+:%:2:V:
+:=;J;a;l;y;
+=7=O=
+?&?,???v?
+444H4R4W4
+60696j6~6
+6 707
+8H9^9o9
+:1:V:g:
+:/;O;
+=(=:=V=g=y=
+> >D>{>
+>,?c?x?
+0=0J0d0n0{0
+0,121F1V1_1l1}1
+2<3I3V3
+6(6B6^6
+7;7X7u7
+9B9]9
+:3:<:L:a:j:
+;2;=;J;
+<!<><P<
+=!=2=g=
+>8>J>
+>+?y?
+0 0%0A0J0Q0j0s0q1
+2$2,232=2
+3.3_3u3
+4+4R4j4}4
+5N5U5\5c5v5|5
+5d788J8(9>9q9
+;!;p;
+?0?q?
+0(0y3
+495L6T6^6
+7,7:7Z7s7
+93:x:
+;D<`<
+<<=E=
+>.?3?O?
+1L1R1Y1m1
+1-2w2
+2;3H3_3l3x3
+454B4S4l4
+5 5*5B5K5~5
+636L6e6~6
+7)7R7a7y7
+:7;m;u;};
+;/<H<f<
+=9=@=F=M=T=[=b=s=
+==>J>d>n>{>
+? ?'?4?E?K?W?w?
+1"1}1
+132E2
+3*3D3N3[3
+3?4E4L4Y4m4
+5,52595M5
+6m6z6
+6_7m7
+7+8C8Q8h8s8|8
+;A;s;
+;$<T<_<h<
+=0=`=o=x=
+?>?z?
+(0C0z0
+1Y1s1
+5;6q6
+7(7F7
+::;e;
+3N3[3
+4,4X4j4
+828K8V8
+8A9^9
+:d;n;
+<-<7<|<c=
+?8?e?
+0;0S0_0
+2*2=2E2l2
+3G3h3r3
+3Q4q4r6
+9>:Q:[:p:
+:&;@;J;T;d;
+<$<.<><
+162m2z2
+3I3z3
+7K7c7j7
+8 848I8R8h8
+;@<a<
+=#>w>
+0V1l1
+1E2b2r2
+647l7
+7V8w8
+9U:h:
+;S;a;n;
+;/<X<
+?8?|?
+2S3x3
+5a5x5
+6)6r6
+707B7N7U7c7
+0+0;0
+071>1O1
+1)292
+6;6G6Q6~6
+797V7~7
+888x8
+9r9|9
+:3;y;
+;g<w<
+='?A?h?
+1+1y1
+2(3F3Z3~3
+4!4J4}4
+5.5E5K5
+6A6v6
+6<8h8z8
+:6:M:
+<-<E<
+<8=f=
+?C?\?b?
+M0Z0l0
+0@1O1w1
+122;2C2I2O2U2
+9+:J;i<
+2 3?4^5}6
+<4=S>r?
+6,6>6P6b6t6
+7(7:7L7^7p7
+7(8:8
+?8?G?
+6e7e8
+=%=x=|=
+=L>d>l>}>
+?+?D?O?\?h?x?
+162U2|2
+6L6w6
+6-7f7
+8$8\8p8
+:d:r:
+;#;J;n;
+<1<:<T<`<g<{<
+2<2d2
+3R3f3
+6@7]7
+8$9P9
+9-:L:h:
+;);>;V;e;z;
+< <5<K<`<u<
+="=7=n=
+>/>D>Y>|>
+0"060
+10171=1
+4s5<6U6j6
+627g7w7
+8!8+888
+9L9Y9
+:j:~:
+;!;5;?;^;};
+;Q<^<o<
+=%=n=
+>)>:>
+2=2Q2d2i2
+3!3&3e3
+3Z4d4y4
+6$686E6W6|6
+;%;g;q;
+>/?O?k?
+040L0
+0Q1y1
+1E2y2
+3+333J3
+4 4(464C4P4
+728s9
+0X4g4
+6P7Z7
+9!9&9
+<<<x=
+2/3e3s3
+4H5]5
+6X7c7
+7#8)8=8I8
+8L9^9
+:O:z:
+:0;s;
+?1?v?
+0*161
+1!2^2
+2(393
+636L6
+6.7;7q7
+7#818:8
+90:R:
+>5?W?
+1R1k1
+1C2`2
+4m4A6v6
+7^8s8
+<!<7<N<U<d<k<z<
+1,1p1
+2;2O2f2p2z2
+4!474>4
+;,;2;8;B;L;[;
+;c<q<
+=&=G=
+>K>Y>v>
+? ?'?9?@?]?d?
+0 0'0D0K0R0
+1b1k1q1v1
+3&3+353A3I3N3o3
+595I5l5
+6.6e6o6
+7#8K8P8
+8-9@9T9
+:0;q;
+=N>T>
+1*2M253C3[3e3
+596b6u6
+:8:f:
+;$<e<
+=%>.>r>
+1#2[2
+4H4R4
+495Z5r5
+5(6I6
+7)8K8
+9l9|9
+9i:y:
+? ?7?Q?^?z?
+0U1c1
+5o6z6
+8'828M9Z9q9|9
+<]<#={=
+>$>/>8>
+?A?m?
+0,080\0
+1$1;1D1W1b1
+3"3D3X3
+3R4a4
+5,5Y5
+5?6F6
+8&8U8[8
+969?9r9
+:4:E:v:
+:$;:;
+;!<?<T<|<
+<B=Q=e=l=s=z=
+=)>A>w>
+0&0N0g0~0
+2A3p3
+3+4s4y4
+5.5K5l5
+5$6X6^6
+767K7[7`7f7l7
+8/8[8
+8-9X9l9z9
+=!=(=3=F=d=v=
+>)><>Z>p>U?
+2+3U3[3g3w3
+6W6u6}6
+8L8k8y8
+: :4:T:f:
+=1>B>J>X>^>e>
+1'282o2Q3X3
+3?4L4^4f4
+6 626@6F6N6T6Z6`6o6
+7-757E7T7\7`7f7j7p7t7
+768M8X8
+9&939f9
+:(:s:y:
+==>J>d>n>{>
+0[0a0h0s0
+1+161c1~1
+1A2G2
+394@4G4N4U4g4t4
+7"7I7f7
+818G8Z8}8
+=<>l>
+?)?A?H?T?`?f?m?}?
+10c0y0
+1C1Y1n1
+1#292N2
+4P5]5b5o5{5
+5o6~6
+9 9;9N9S9_9e9
+9q:}:
+:i;r;
+;.<9<O<}<
+<$=t=z=
+>,>3>
+>X?b?t?
+0G0V0
+071t1z1
+1-2>2k2
+2?3a3
+4"4,414x4
+606K6Z6|6
+8*8A8K8X8
+9=9Z9d9
+:+:A:X:
+;+;4;g;p;
+<U<r<w<o=
+>s>y>
+?Y?m?
+0E0|0
+0]1j1
+2%2I2
+3*3A3K3X3
+4-494`4x4
+43595@5T5~5
+626K6d6}6
+747S7m7
+9:9\9
+=5=F=V=y=
+1E1Q1
+2.2m2t2
+3!3&3Y3w3~3
+5"6O6s6|6
+7S7Y7`7m7
+8$818>8K8W8r8
+809c9n9
+;6;R;_;h;
+<A<K<x<
+<5=N=
+=j>w>
+?!?'?S?d?z?
++0w0}0
+1F1k1p1y1
+2"2.232D2I2f2x2}2
+263z3
+5+6w6}6
+7\7b7i7v7
+8$818D8
+:u:|:
+;(;1;V;_;
+;`<}<
+=$=*=0=K=Q=Y=k=
+=,>1>p>
+131R1
+2(2U2b2{263c3x3
+4C4L4^4r4
+8'9s9
+:?:L:R:X:^:d:j:p:v:|:
+;N<y<
+=/>K>
+0'000@0G0X0n0
+0+171A1j1r1|1
+2%3s3
+3"42474y4
+516[6
+7N7^7g7
+8/959S9m9z9
+:(;/;B;M;^;
+;><b<n<
+<D=P=c=r=
+?)?f?
+040Z0g0x0
+5!5O5l5
+8=9D9K9R9
+9 :@:H:X:e:x:
+;$;+;1;<;Q;b;i;o;
+;8<E<a<s<
+<@=I=W=l=y=
+>4>C>~>
+>&?6?M?[?o?{?
+0T0}0
+3F4R4
+5&5i6
+7\8c8
+919t9
+9k:y:
+;&<A<V<
+="=-=n=
+?%?;?L?a?u?
+0'0N0l0w0
+151K1W1b1g1
+1e2s2
+3H3W3j3q3w3
+374E4[4q4
+5#5:5Y5
+6*6C6R6`6o6}6
+6T7a7o7
+7c8v8
+9!:.:R:
+; ;*;:;
+<8<B<I<V<i<t<y<
+>(>2>T>
+1g1t1
+6*737^7
+8\8f8z8
+8.989
+9#:1:g:
+;8;b;
+>/>J>b>
+>M?W?o?
+1,121_1l1
+6D8`8|:
+>%?9?K?]?o?
+0'1C1
+4@4T4y4
+5&555
+6L7r7{7
+9!:5:C:V:j:
+;%;;;L<
+<T=b=u=
+=F>K>
+?3?B?r?
+0>0n0
+1d1u1
+1$252x2
+2<3`3~3
+405>5R5
+6'6F6y6
+777@7M7^7
+7U8%9/9
+:6;<;C;J;Q;X;_;f;z;
+<1<K<q<
+=[=q=
+=F>L>S>Z>a>h>o>
+?1?M?e?u?
+I0O0V0]0d0k0u0
+1$131A1P1^1m1{1
+252I2u2
+343O3
+5$5s5y5
+9R9i9
+;f;l;
+===I=
+><>F>L>S>Z>a>h>o>
+>&?,?@?j?w?
+0"040
+1!2)2.2N2x2
+4C5N5t5
+8s8y8
+9$:+:8:L:S:g:n:
+;>;Q;_;
+1!1S1x1
+4:4b4
+5a5v5
+767@7F7U7
+8<8H8_8{8
+9$9O9e9q9{9
+;G;^;q;
+=,>1>A>W>5?
+566?6
+8#93999M9Z9h9o9
+9.:5:
+;+;<;Y;j;
+=!=.=;=K=P>
+>@?_?
+2M3Z3q3{3
+4H4Z4
+445d5
+6L6H7_7
+878>8C8
+9p9z9#:A:
+2V2u2
+637E7]7e7k7q7w7
+<!<n<
+>d>c?
+0W1h1
+464;4x4
+445L6
+7,8]8n8
+8$9C9Z9d9i9
+9Q:~:
+;R;c;r;
+;#<=<O<
+=0=t=
+>e>l>
+>*?4?X?b?
+!0+0O0^0
+0)1t1
+2(252?2O2x2
+7K8W8_8
+9.9?9X9b9
+:J;X;
+0e1w1
+2 2:2M2i2
+2m3r3
+8=8b8
+;E;s;
+;N<f<
+< =&=.=@=M=W=
+>/>o>
+1&1W1r1
+2'212=2
+3Y3i3
+505F5~5
+757K7`7
+9&9h9z9
+;7;L;v;
+<)<2<M<f<q<
+=&>[>
+>u?~?
+0%1O1Y1
+3$393C3`3|3
+4_4|4
+5E5Z5q5v5
+5X6f6r6y6
+6"7*7O7k7w7
+7+8>8Y8b8h8
+;&;~;
+;G<Q<
+<(=L=V=
+0!0B0H0[0r0
+191F1L1Y1m1
+2,2l2
+3#3;3
+5G6S6c6
+7M8d8{8
+9U9f9w9>:E:U:\:O;e;
+1'1O1
+7%757
+9h9y9
+9):X:l:
+>1>B>^>u>
+1"1,191C1Q1^1d1r1
+102j2
+3h3}3
+414;4M4l4
+6&6-646;6H6b6
+7$7+7
+:+:2:9:S:Z:a:
+:%;^;
+<I=n=
+>1>8>?>N>S>t>
+?$?+?:?D?y?
+0$0B0I0P0s0
+1A1y1
+4*484N4
+4q5~5
+6(6k6
+7)7E7T7v7
+7%858O8a8
+9/9A9x9
+:0;G;
+<^<m<
+=S=d=y=
+=+>m>v>
+>)?t?{?
+0b0u0
+3%3,333@3Z3
+4t4y4
+5-5]5r5
+5.6]6
+767X7d7
+9(9G9_9r9
+:':::S:r:
+;%;S;
+=0=G=c=t=
+=8>M>p?
+0)0>0I0R0
+1n1y1
+2=2Z2a2h2o2u2
+3;3Y3y3
+5C5^5
+6\6k6y6
+7 8O8z8
+9<:N:
+<3<E<
+<,=Q=y=
+1$242I2a2
+3/3w5
+8[8a8h8o8v8}8
+9=9C9J9g9n9
+; ;6;T;[;b;
+;$<-<
+<@=Z=l=
+>0><>
+0=0I0P0W0^0
+061T1}1
+2"2/2M2_2
+3!3.3H3g3s3
+555<5C5M5
+6(6-636:6A6K6U6_6
+6<7]7l7y7
+919A9z9
+;";{;
+;*?<?
+0E0L0S0Z0a0h0
+2C2I2W2]2j2
+2'3-343;3E3R3|3
+3"4+4=4F4\4k4
+405A5o5
+6[6l6y6
+7H7R7d7
+8S8Y8`8g8t8
+839F9g9
+9<:N:
+;4;I;P;`;l;
+<H<R<r<
+=/>5><>C>P>v>}>
+>$?.?E?Y?
+1+2N2f2
+2H3O3Z3e3j3
+717;7
+8<8`8f8m8t8
+:0:J:Y:y:
+:%;5;O;a;z;
+<R<`<
+>9?\?r?
+131E1
+4%4/4\4r4
+8-8R8n8
+8L9b9h9
+9(:2:D:\:w:
+;<;A;
+<e<u<
+>G?\?j?r?x?~?
+0 0^0c0|0
+1$1<1T1l1
+2,2D2\2t2
+3-3\3
+5*5A5K5X5
+7T8o8
+9%:<:D:P:^:
+<*<8<=<[<
+="=Y=
+=<>`>f>m>t>{>
+?'?0?5?:?D?J?U?
+081G1u1
+2#282
+424D4Z4c4u4
+4?5G5M5
+676q6x6
+7$7o7
+8#8U8u8
+9,9@9
+:0:9:F:P:\:e:m:w:
+;(;2;>;G;O;Y;v;|;
+<#<'<-<6<
+=&>2>
+?(?-?F?K?X?
+2C2L2W2^2y2
+3"323B3R3[3
+4$4.4A4F4
+687s7
+8 828<8
+: :):7:<:L:Q:q:w:|:
+;G;O;\;o;x;
+<"<K<i<
+<5=D=M=Z=v=
+?=?N?S?f?
+00K0U0^0
+1T1^1g1p1
+2$242@2L2X2r2~2
+3&323>3J3V3b3n3z3
+7,787D7P7\7h7t7
+8 808=8Q8^8r8
+9)959@9M9a9n9
+:!:1:A:Q:a:r:}:
+;";2;B;R;b;r;
+<"<2<B<R<
+=4=E=R=f=v=
+>9>S>d>t>
+?!?1?A?Q?^?r?
+0#0>0X0i0y0
+1&161F1V1f1v1
+2!212A2Q2a2q2
+3+383L3Y3m3z3
+404@4M4a4q4
+5"525C5N5[5o5
+6+6;6K6[6k6{6
+7(7<7L7Y7m7z7
+8!8.8B8R8b8o8
+9,9@9P9`9p9
+:!:1:A:N:b:r:
+2-2^2
+3B4|4
+5 5'545;5B5W5}5
+636\6t6
+:.:6:K:S:`:h:{:
+;3;?;H;T;
+=r=y=
+1$141d1
+2*3!4X4
+4(545=5C5H5m5
+7D7Z7
+728P8
+8B9X9
+9-:C:e:z:
+;!;D;
+<1<T<f<
+=&=3=I=b=o=
+>#>9>J>W>q>
+?)???X?e?{?
+0&0<0V0l0
+011M1m1
+1=2r3
+4P8e8
+9X9j9q9
+=S>q>
+>!?8?
+1u2X3
+5.5M5\5q5
+6J6Q6
+6&7S7
+7,8U8l8
+9B9i9
+:N:]:|:
+;3;B;w;
+0/1\1
+7*7\7c7
+:5:H:S:
+:3;[;
+;0<S<|<
+>!?H?`?r?
+0D0Z0
+7#7K7e7
+7S8~8
+9#9W9d9
+93:E:c:
+:,;e;
+=8=f={=
+>O?a?
+0+0r0
+1r2Y5c5
+8I9V9
+;C;r;
+<>=c=
+Q0]0i0q0
+121]1
+2R2X2
+2|3M6j6
+8"828K8k8z8
+:%:.:c:n:x:
+;3;?;d;k;x;
+?/?<?I?u?
+0%121>1D1U1a1q1
+434Z4d4{4
+5!6F6|6
+7.7k7
+8.8P8U8`8l8
+:+:4:F:N:Y:q:v:~:
+;.;6;K;c;h;};
+< <8<=<e<m<{<
+=#=+=1=6=;=U=Z=n=v=|=
+> >->E>J>W>c>
+?&?2?7?K?S?`?x?}?
+0M0W0`0h0u0
+171<1D1P1l1
+2 282=2H2T2u2
+3&3>3C3N3Z3l3u3~3
+4/444r4z4
+5(585@5F5`5e5p5|5
+556>6F6S6i6n6y6
+7*7=7F7N7[7q7v7
+7*8F8b8
+>/?3?
+2&2/2<2E2K2
+4;4e4s4
+4(5o5
+888f9
+:C:^:
+<Y<a<}<
+=S=f=l=
+=0>y>
+2,3g3
+5Z6z6
+8.9k9V;h;
+;i<v<}<
+=C=u=
+?8?J?Y?v?
+0#13181k1
+2U2|2
+2:3K3V3i3
+4C4a4w4
+4Q5_5o5
+6>6I6T6z6
+7@7O7u7
+7/8H8W8
+9F9q9
+9*:C:J:~:
+:E;S;m;y;
+;#<-<<<F<
+=?=e=
+>+?P?
+383B3l3
+4D4m4
+4:5B5U5g5n5~5
+637O7h7
+8J8Y8q8x8
+9A9b9v9
+9.:F:n:
+:K;e;
+<(<8<m<
+<@=G=N=c=
+=U>w>
+>%?8?A?h?
+111S1$2P2
+2!3<3X3|3
+757j7
+9W9u9
+:1:O:
+>F?f?
+0o1}3
+;`>;?
+?1?V?f?o?
+3_3p3~3
+= =&===6>o>
+0(0q091K1e1
+424x4<5
+7*878X8i8
+8.9^9
+;S;5=G=_=
+>(><>P>a>u>
+60<0B0H0N0T0
+1M1|1
+2-3b3
+3P4f4
+4:5v5
+8!8?8f8
+949f9
+:9:f:x;
+<,=v=
+0@0O0o0|0
+0H1W1v1
+2G2T2s2
+3@3M3l3y3
+6%6[6l6}6
+7(7<7P7d7x7
+8@8F8L8R8
+111Z1Q3
+6-7{7
+?6?T?
+7=7f7
+7I8w8
+:k;D<K<^<,=
+0-0^0|0-2
+;Y;s;
+<9=Q=
+2!212A2^2
+3$3*3M3
+7%71777
+?!?y?
+20@0H0N0T0Z0
+071F1L1r1x1
+2+23292?2E2[2y2
+3%3+31373A3q3z3
+4E5Y5
+8N8%9V9d9l9r9x9~9
+0G0p0|0
+1,1B1[1h1~1
+222K2X2n2
+3#3Q3^3t3
+4(4A4N4d4q4
+5&5V536S6
+<"<X<l<q<{<
+?2?B?L?\?
+161p1z1
+5U6l6v6
+7&7:7D7
+:$;I;V;
+=0=_>
+001w1
+2O3U3d3
+6%60656P6
+7,7A7K7T7|7
+909E9L9~9
+>9?H?
+273L3z3
+4,4w4
+5o6V7*8W8
+8Z9a9
+=k=s={=
+>5>=>E>M>r>
+>d?~?
+2A3Z3`3
+5 545@5O5
+8!8/878=8C8I8S8
+:':,:
+:k;|;
+<Y<f<l<y<
+=!=Q=^=
+2(3g3
+5P6]7t7
+8)9r9|9
+:=:D:W:z:
+;&;@;Z;t;
+<+<?<P<c<q<
+<k=/>
+4'4;4D4y4
+7,8f8
+8d9|9
+97:=:`:v:
+=0G0l0v0
+131=1j1
+2C2L2
+344t4
+4Y5l5}5
+556L6
+6?7R7c7v7
+8%8;8
+909B9c9
+:':@:
+;%;>;
+</<g<~<
+<0=R=q=
+>:>V>
+?,?A?
+)0K0`0
+0%1:1}1
+232W2z2
+3+3I3~3
+4 4D4d4}4
+4&5F5[5
+6/6N6\6
+7 7F7X7m7{7
+878O8
+9:9@9S9Y9b9v9{9
+:=:O:y:
+;@;j;o;y;
+>1>`>
+303T3u3
+4n4{4
+5.5_5i5
+6/6C6c6{6
+6'797
+8*8:9Q9n9
+9&:A:_:
+>:>j>
+>+?N?
+=0F0[0d0y0
+0F1Q1
+2)2P2
+3-3i3
+4[4z4
+4-5C5
+646G6
+6<7D7L7z7
+7a8y8
+<(>A>n?s?
+5!6-6D6
+9)9a9
+98:q:
+:H;a;
+<K<^<s<
+<T=t=
+>'>:>D>V>k>
+4+4b4w4
+898c8
+8=9}9
+9.:d:q:
+<@<d<{<
+<b=k=|=
+=?>V>
+1!1\1{1
+2B3Z3v3
+6J6a6
+7Y7^7c7
+8@9y9
+9*:9:H:^:w:
+;3;k;
+=6=S={=
+=A>L>b>
+>'?l?
+0?0T0
+1)1@1
+1I2T2
+2Y3,464x4
+667v7
+898D8
+:<:H:
+:0;V;e;
+<%<6<E<W<c<
+>4>B>
+0?0K0
+0!1G1V1
+2"242@2`2
+2,363U3
+8S9[9`9p9z9~9
+:$;9;M;
+;[<q<
+?"?*?D?L?f?n?
+2/272Q2Y2s2{2
+3`3j3
+3 4>445
+7/7S7
+7#8;8
+;(<c<m<
+>U>k>
+?,?P?m?
+3'4?4
+5#6<6V6y6
+888[8a8
+:+:`:S;
+<B=j=
+>+?:?_?
+0?0K0X0y0
+172G2c2r2
+465\5
+6P6Z6
+:.:J:\:
+:5;G;^;m;
+<&<5<L<[<r<
+?#?5?L?^?r?
+0(0a0p0
+1*1?1\1q1
+2-2D2V2m2
+4"5O5
+5<6i6
+6$7Q7
+9#:h:
+;I;v;
+<T<h<z<
+<&=G=L=R=X=
+=.>A>F>L>R>h>
+1y1"2C2r2
+3&363y3
+626B6
+8!8T8e8
+:&;=;];u;
+=%=\=z=
+> >E>J?`?
+2g2v2
+3$3]3
+7<7\7
+8%8;8J9j9
+9a:q:
+:l;v;
+=#>Q>
+?P?b?m?
+#020M0]0
+2%242H2W2k2z2
+3&353L3[3r3
+4.4>4f4
+4"5G5P5p5
+???X?b?j?
+0K0S0g0
+2d3w3
+6*6c6p6
+7$7:7S7`7v7
+8*8;8H8b8
+909I9V9l9
+:-:G:]:v:
+;);<;C;T;[;l;s;
+;)<w<
+>)><>C>c>
+>*?[?z?
+1`1v1
+3I4r4
+5,6U6a6
+7"878x8
+8t9{96:D:f:q:
+:#;C;p;
+<%<5<W<
+<,=8=f=
+0+0>0M0h0w0
+1"111Z1i1
+2/383N3w3
+6>6Q6
+8@8~8
+:$:2:h:q:
+;0;;;H;
+=!>+>G>[>j>|>
+0-0I0y0
+1:2j2
+425G5T5u5
+636d6
+869O9
+91:J:
+;M;b;q;
+;M<k<
+=Y={=
+?0?=?i?
+060x0
+1R1h1
+2"292
+3E4P4V4u4
+8.8n8
+<V=y=
+=9>z>
+0)161s1
+2,3K3`3w3
+354S4
+435b5
+6:6O6u6
+7,7Y7r7
+8 8G8
+8,9E9
+9$:9:J:X:u:
+=A=d=
+>%>l>x>
+?'?I?Y?
+262Z2}2>3b3
+4*5B5I5
+7m7r7x7}7
+:&;2;
+;P<o<I=T=i=
+1 1'1M1S1`1
+2?2a2
+4<4T4
+4H5{5
+666f6~6
+8b8w8
+8(9D9
+9N:u:
+=#=]=
+>,>_>k>
+?,?=?P?z?
+030L0X0w0
+2=2M2a2
+2;3f3
+444E4
+5J5P5
+5<6J6i6
+7;7F7P7|8#989L9w9
+:-:D:a:r:
+;1<Y<
+=>?U?
+1.1q1
+1R3f3~3
+4)4b4
+495v5
+516E6
+727w7|7
+7+8]8
+8#9f9}9
+9,:C:M:
+;%;/;
+;*<v<
+<4=I=z=
+?Q?c?t?
+3D3J3 5f5
+686r6
+7P7f7
+7+8M8
+8(9R9m9
+9(:5:x:
+<(<2<K<e<
+>@>m>
+>!?b?v?
+1!2C2x2
+3I3~3
+4?4R4e4
+5$5Q5s5
+5.6I6V6
+7A7W7
+878d8
+909N9
+;#;);
+=[=`=f=k=y=
+>#>5>n>
+?7?N?e?|?
+0#0*1J1j1
+1 2)2/2C2`2z2
+3<3b3
+4L6a6q6
+7L8]8d8|8
+9":I:
+:C;i;
+;[<l<k>+?R?h?
+1,151
+2$2x2
+3t4~4
+5?5I5V5
+576L6
+7T7n7
+7=8W8f8
+8=9^9k9
+0i0z0
+3.4@4R4
+5E5w5
+6)6B6S6`6n6{6
+:0:D:N:
+; <6<_<}<
+?9?t?
+1*161<1J1^1}1
+2A2K2
+2m3u3
+7O8U8a8}8
+9-:`:
+<6<X<m<
+<N=e=l=
+>O>U?
+1"1F1f1
+1e3n3
+4.575>5
+8?8F8M8W8
+9-:3:K:\:m:
+;3;H;
+<(</<
+=Z=7>e>y>
+0D0Z0
+121?1g1y1
+2/2A2f2k2v2|2
+515G5
+6$6>6t6
+<(=@=x=
+>c>z>
+>H?Z?
+2N3[3
+4,5p5
+909X9j9
+:A<G<
+?$?:?M?
+0"0^0p0
+0!121V1{1
+3A4{4
+848>8K8S8]8~8
+8n9t9
+:$:0:9:a:g:
+:>;D;Q;s;
+?!?1?
+1>1t1
+2,2C2W2
+2P3W3j3
+4?4R4X4
+475D5
+5F6L6n647b7p7v7
+8i8y8
+9!9<9S9
+;J;e;
+<3<G<M<
+=C=J=_=
+>(>.>
+>(?4?
+4)4E4g4
+6!6/6T6]6
+889M9
+9":7:N:c:
+:I;c;
+=8=_=p=
+9":g:~:
+;(;-;G;_;
+3.3B3R3g3~3
+4.4@4q4
+5 5.5I5\5
+7<8E889C9
+:V;_;s;
+; <%<7<<<F?U?|?
+1%1/191O1Y1
+2@3Y3p3
+5I5V5
+6(6>6
+9(9>9
+9":8:N:
+;i;w;
+<+<5<@<H<i<
+<%=+=Q={=
+=/>X>a>
+>9?w?
+0V0}0
+191T1o1
+2\2b2k3
+4#4e4k4t6
+8!9`9
+:H:h:-<a<j<
+=/>c>l>
+X0j0p0
+1/161C1
+4'4\4
+4h5w5
+6s6I7d7v7
+8R8Y8
+8+9:9u9
+:};#=B=
+>8>G>
+;0X0g0
+404I4q4
+6:6[6q6
+7%7@7P7{7
+7S8c8u8
+:D<t<
+<4=M=`=
+>&>>>O>g>x>
+0.0>0
+181G1b1
+1<2`2
+2H3W3r3
+3?4c4
+585b5
+6(7_7
+8n8{8
+94:H:
+:4;A;
+;a<p<
+<.=>=d=q=
+191F1d1
+3#3I3
+3-474N4T4X4
+5%5;5N5
+6@6R6X6h6s6z6
+727f7p7
+748;8
+<%<.<
+<-=X=
+>#>c>
+>2?@?`?x?
+0X0j0
+0C1N1h1
+4L4X4
+425Y5
+6S6y6
+8V8h8
+9Q:t:
+<Z=e=
+2J3Z3
+464F4
+5i6|6
+6U9m9t9
+:!:.:5:B:I:L;\;s;x;
+5D6^6}6
+6"7R7
+7)8R8
+8,9`9
+9":U:
+:0;y;
+;%<i<
+=#>S>|>
+>P?y?
+090i0
+2(2P2
+2)3Y3
+4&4F4f4
+6/7o7
+7)8?8y8
+8$9|9h:}:
+<#=X=
+>9?F?
+2Y2f2
+334a4
+4"5`5r5}5
+6@6R6]6
+6 727=7
+8"9`9
+:@:j:
+=3=B=d=m=
+>1>b>n>
+>D?j?y?
+0%060E0W0c0
+0?1L1
+4%4C4l4|4
+5 636;6X6
+6\7o7w7
+869I9Q9n9
+;#;+;H;
+;L<_<g<
+=&>9>A>^>
+:$:V:
+<'<g<t<
+=J=Y=h=
+>>?f?
+131q1
+1)2^2t2
+8<8e8
+;A<r<
+0&000C0S0_0
+0'111k1
+2T3l3
+9/9V9
+:!:':O:v:
+;?;l;x;
+<6<d<
+<'=m=
+=!>E>S>
+>F?b?w?
+0G0^0}0
+1@1Z1
+3 3J3g3
+4$4C4|4
+4"5/5C5
+6#6.62666:6>6B6F6J6s6
+767K7y7
+:^;g;
+=H>P>Z>n>
+?A?_?
+0*0C0[0r0
+1'1P1_1
+242C2l2~2
+3%3@3O3j3
+4&484S4b4
+535O5^5
+8!8m8
+9-9@9
+94:=:C:
+:;;s;
+<,<1<
+<!=A>K>a>
+?)?9?H?X?
+1%141D1S1c1r1
+4*444o4
+5+5S5c5|5
+6-6R6w6
+757]7
+8+8I8X8h8|8
+9,:<:
+;B;P;
+<f=m=
+0L0}0
+1!191
+102N2b2
+273V3
+4R4v4
+6.6U6b6p6
+6a7q7
+9a:n:
+50:0@0F0
+151B1O1{1
+1)272d2
+3R3}3
+4'545F5f5
+8@8g8}8
+9O;e;
+=4=@=v=
+=B>d>
+>0?P?
+0J0Y0
+4A5x5
+9%9C9R9x9
+9S:x:
+;N;S; <y<
+?U?]?c?w?
+#090r0
+2B3g3
+;=;J;^;
+<D<i<y<
+1&2?2
+2"3(3K3u3
+6!7J7b7
+7A8[8
+:0<6<
+5?6^6
+;Q=Z=
+2[3s3
+3B4f4{4
+9;:p:
+<#<(<9<@<
+>%>d>
+1.1D1k1_2
+4*4:4R4m4
+5(595c5
+5(676a6w6
+7$8E8
+999m9s9
+;';T;j;
+=->;>Y>
+080V0t0
+1%1T1m1
+2$3?3Z3
+7E7N718Z8u8
+98:F:j:
+<%<H<U<
+=%=.=@=l={=
+>&>=>g>
+><?f?q?
+0a0j0
+1+141C1b1k1~1
+2P3i3
+344l4
+4#5V5\5
+6(656[6
+==>Z>
+4<4^4
+6U6j6
+:1;J;
+;,<`<
+<3=c=
+= >L>a>}>g?
+1%1K1
+1&292H2~2
+3+3T3m3
+4+4T4f4
+5,5G5V5q5
+6(6C6\6o6
+7)7?7X7k7z7
+8*9K9]9
+=(=N=
+>&>b>
+2&3P3k3u3
+4#4Q4
+4,666
+:@;k;
+=!=*=[=
+>;?Z?n?
+0!0Z0s0
+1$1c1
+2)242_2t2
+3#303
+4J4c4
+495X5
+627K7
+7&8D8W8j8s8
+8=9k9
+:2<h<
+<Y=}=
+>/>b>
+0e0x0
+1.1I1Y2
+373L3
+3 444D4
+5^5e5v5}5
+5?6m6
+717C7X7i7r7
+768r8
+9.9B9
+;7;o;
+<2<;<[<p<
+>)?z?
+292i2
+465E5]5
+606G6h6z6
+627E7
+7&8F8
+869O9X9
+;L;[;
+;<<I<
+<F=k=t=
+==>J>
+?&?C?r?
+)0>0k0
+3"4U4
+5(5b5
+898f8
+969O9l9
+;L;s;
+<&<><h<
+22383^3
+9 9@9R9Y9
+:y<H=
+0?1E1
+1"1F1Y1
+4*5N5k5
+7A7Q7j7
+;-;T;`;l;
+==>u>
+3"3c3
+3#4p4
+4?5P5
+6)6y6
+6#7I7
+8&8m8
+9+;5;
+4/4`4t4
+5 585
+6n6{6
+7(858<8
+9-959R9
+<K<U<y<
+=4=c=
+?5?W?
+"000I0n0
+132G2k2
+7$7l7
+8K8X8e8r8
+9'9H9r9
+;:;D;f;{;
+5d60=
+364m4
+4+5a5
+6G7Z7
+>=?X?
+8z9~9
+;6;s;
+<K<X<_<
+5':P:
+57>;>?>C>G>K>O>S>W>[>_>c>g>
+0B1Y1
+1x2 4
+5*5D5
+6(747K7X7s7
+;c;~;
+<+=6=
+>j>{>
+0B1L1l1
+374?5O5c5
+537i7y7
+9(9F9
+<'<O<\<
+>&?N?d?
+5?5h7
+7*8J8j8
+819j9
+153o3
+4a5q5
+6!616A6Q6
+="=b=
+>+>V>
+?G?c?
+0=0Y0i0
+1.1g1
+2O2_2
+3#3I3k3{3
+4.4)6c6
+7H8f8'9<9P9]9s9
+:h:y:
+;!;?;c;
+3/3t4
+5/6m6
+777S7q7
+7#8D8{8
+9J:Z:
+;s;y;
+;'<6<
+>(>3>i>
+?V?s?
+%020f0
+0#1;1^1t1
+495I5`5
+7#7J7b7y7
+8!8R8d8
+959M9j9
+>3>V>w>~>
+>%?I?Y?
+0A0Q0h0
+2F2q2
+4<4f4s4
+5W6e6
+6$7=7
+9"9&9*9.9@9N9
+<'<7<@<d<
+1/45476
+?%?R?
+1<1S3{3
+6'6C6O6n6
+=5=h=
+0!0%0)0-0105090=0A0E0I0M0Q0U0Y0]0a0e0i0
+1;2I2z2
+2#3c3
+4"5,5Y5
+6'646B6]6e6{6
+7"7S7^7
+8)8E8W8o8v8
+9%9E9L9
+9%:>:I:X:l:{:
+:2;q;
+<8<E<g<
+<#=-=9=F=P=v=
+4S5~5
+6T7a7h7u7
+:':B:
+<L<g<
+=2=S=
+>1>j>x>
+1S1n1>2C2Q2g3u3
+8<8`8
+9/9O9
+9A:#;F;g;
+3?3D3K3R3Y3`3g3n3u3|3
+4"4&4*4.42464
+7!8U8,9`9m9;:O:o:
+<l<~<
+ 0.0=0A0E0I0M0Q0U0Y0]0a0e0i0m0q0u0y0}0
+1j2w2
+8%959C9g9
+:6:D:m:y:
+:4;A;
+> >'>6>Q>
+0&0:0^0~0
+0o1|1
+414U4
+435@5Y5m5
+5o6|6
+8>8b8
+8)969O9c9
+: :c:
+;>;U=h=u=
+>$>C>_>
+>E?R?
+151Z1
+2)2W2d2
+6C7O7n7
+8.8s8
+9S9z9
+040O0
+3+4@4
+5,5Z5
+:G:Z:r:
+;&;W;h;
+<$<M<\<
+=A=Q=
+=F?Y?
+091F1v1
+5"5~5
+656^6z6
+9.:>:S:
+;,;E;L<Z<f<
+=/?G?N?d?m?{?
+0"0,0;0[0y0
+3,4|4
+7D8J8
+?J?r?|?
+2;3X3
+5Y5p5a6q6
+70777o7w7
+798G8Z8a8
+8Q9e9
+9%:f:
+=;=h=
+> >?>K>~>
+?<?P?j?
+(050=0G0
+1!1>1W1w1
+2S2l2s2}2
+253w3
+4H4c4
+555y5
+768r8
+9K:Q:l:
+;9;>;[;h;
+<5<\<w<
+="=C=J=
+=W>{>
+?(?6?a?k?s?
+0+020
+2/2N2T2j2
+3;3_3l3
+585q5
+5?6[6
+7r8w8
+;e<t<
+1O1U1W3
+4P4^4r4x4
+829V9u9
+9 :1:A:w:
+:8;J;
+<N<}<
+<)=:=J=z=
+>0>N>h>w>
+?+?E?V?
+00N0h0w0 1>1X1g1
+3?3R3Z3z3
+3(4L4Y4
+6)6S6`6q6
+7+7X7j7
+9+9H9W9
+9X:b:t:
+:";j;s;
+>.?8?
+0H0c0l0
+0+1=1H1q1x1
+3A3G3
+4+4C4_4
+5R5`5p5
+6>6P6
+6?7f7
+8-979w9
+0]1}1
+7*797N7v7~7
+9-9w9
+<&<,<6<E<J<O<X<^<h<n<x<
+>&>->;>
+?1?<?\?h?x?
+010:0C0
+1X1d1
+2,2b2n2
+3@3l3
+4&4.4
+5#5,5[5
+6.6e6
+7/7>7y7
+8*8e8q8
+959M9_9x9
+:O:t:
+<G<e<
+===h=
+>s>}>
+?.?j?
+0<1F1
+132]2n2
+3&3C3k3
+4=4^4
+445X5u5
+7K7{7
+9 9?9U9g9
+;(;T;c;
+;"<-=
+>9>R>l>{>
+?"?1?U?u?
+141Q1`1{1
+142]2t2
+3)393[3|3
+4<4J4
+5A5R5e5p5
+6,686T6g6q6|6
+6$7:7X7i7
+7#878h8
+909\9e9
+: :':;:l:
+;5;A;Y;z;
+<4<M<[<{<
+=9=V=t=
+=7>}>
+?I?p?v?
+50F0S0a0
+1@1N1|1
+182e2
+3,3I3e3l3
+4D4o4
+6>6\6
+6#9K9
+9":U:
+<!=(=C=b=
+=L>h>
+1.1L1h1
+192C2
+2h3r3
+4)4Q4
+727d7i7v7
+7j8p8v8
+9%9V9z9X:i:
+;.;h;y;
+<8<I<l<|<
+=2=_=
+?&?4?N?f?
+4N4~4
+708k8
+8S9e9
+;)<T<j<
+=!=9=E=g=
+>->=>J>Z>h>u>
+?4?]?
+000=0
+051A1L1c1
+393\3
+7#8O8e8
+8M9c9
+9':a:u:|:
+;J;`;
+<3<L<
+=#=5=
+1-2=2~2
+2+3A3j3{3
+3X4c4
+5[5o5
+6I6s6
+<:<C<w<
+=?>M>c>r>
+2]2g2
+3V4`4
+5F5r5
+7*7!8s8
+9%9i9v9
+9(:>:r:
+;";+;O;e;
+313W3
+4"4;4
+5*5M5h5
+6\6r6
+9N9W9
+9%:5:
+<D=K=m=
+1S1`1
+1Z2z2
+3 3=3
+4>4D4I4~4
+4S5{5
+5P6j6
+8 9D9f9w9
+9,:L:{:
+>5?\?
+000i0
+0*171
+4G4u4
+4:5J5m5
+566[6l6
+7*7V7
+8 9o9
+::;V;q;
+2J2T2Z2s2
+293c3{3
+4 41484T4{4
+989a9
+232d2}2
+313S3
+6(7d7
+;"<><l<
+< =?=
+>&?=?
+0#0k0
+1)1D1c1
+2.3c3
+4@5s5
+6:6j6)7
+879i9
+;+<h<
+=:=R=
+6D6h6
+2c3o3
+4.4K4
+7c8p8
+:2:O:u:
+:);6;M;g;
+<:<M<
+=4=f=z=
+=q>~>
+?+???\?
+29364
+6%7M7z7
+898X8w8
+9B:g:
+;0;S;z;
+=/=H=`=q=
+>X>e>T?
+0W1^1
+283q3y3
+3{4O5
+6J6U6t6
+8>8t8
+9!999p9
+9$:`:
+;6;Y;j;w;
+<A<b<
+>*>B>^>g>m>
+> ?Y?
+5'6B6
+6$6^6
+9(9L9|9
+:+;[;
+=C=s=
+0 1P1s1
+1)2L2
+2$3T3w3
+4$5G5j5
+848d8
+8!9D9
+9N:~:
+: <h<
+=?=t=
+4-5e5
+6:6j6
+8#9F9v9
+:I:d:
+172o2
+3"4r4
+:);L;|;
+=1>&?y?
+425q5
+:<;|;
+<B<e<
+<!=D=~=
+1;2k2
+414q4
+6?7o7
+7A8q8
+93:k:
+<2<|<
+>2?z?
+0(1j1
+5I5y5
+696y6
+797\7
+728j8
+8*9l9
+<A<d<
+=@=c=
+>@>c>
+0H0x0
+2X2{2
+2.3v3
+7?7w7
+969c9
+8%9]9N>~>
+1F2~2
+81:l:
+<G=w=
+1C1f1
+2>3n3
+4@5c5
+6)6^6
+8-8]8
+959X9
+9.:^:
+;I;l;
+;0<h<
+=S=v=
+>%>H>k>
+>;?^?
+040d0
+0-1Z1}1
+2!3l3
+5=5}5
+6F7v7
+8,9O9u9
+:V:y:
+:7;w;
+<5<e<
+>A>q>
+???o?
+0=0m0
+1H1x1
+2H2x2
+3C3f3
+414i4
+5%595^5
+676K6h6
+708k8
+8F9v9
+>8>h>
+?:?r?
+0R0z0
+4'5p5
+7$8T8
+8n9f:
+:';W;
+<2=t=l>
+>Y?|?
+141W1z1
+3*3Z3
+4&4I4l4
+4:5x5
+8*9Z9
+:6;n;
+<(=X=
+= >`>
+2G2w2
+3?3w3
+4,5l5
+7 8F8Y8l8
+96:p:
+:+;k;
+;+<N<~<
+071g1
+1+2[2
+3&4V4
+596i6
+7H7[8
+879o9
+: ;P;
+=E=}=
+=B>z>
+1R1u1
+2B2r2
+4!5_5g6
+7Q7~7
+8O8r8
+8%9+:[:~:
+:.;o;
+<2<t<
+>N>b>
+?!?Q?
+131c1
+1#2S2
+3?3l3
+3 4j4
+7(8X8
+9<:_:
+;2;U;x;
+<~<)=Y=
+0'1W1
+1%2H2
+5M6}6
+6G7j7
+8&9W9
+:%;];
+</<g<
+141W1
+2D2y2
+4%5p5
+606`6
+<9<y<
+=/>z>
+>9?i?
+0*1Z1
+3M3}3
+3&4W4
+5B5r5
+7%7~7
+708`8
+9D9k9x9
+<E=h=R>
+>2?e?
+132V2
+3*4b4
+5@5p5
+6K6{6
+9A:q:
+>2>U>
+?#?F?v?
+1B1e1
+1A2q2
+4!5w5
+6'6W6
+767t7
+:$;Y;
+<A<d<
+<9=s=
+>!?t?
+3B3}3
+3.4{4
+4/5y5
+7*8t8
+9N9~9
+9<:l:
+:";R;
+<)=Y=
+>@?p?
+272g2
+2@3p3
+8#9[9
+:.;n;
+=1=T=w=
+?B?r?
+102`2
+2"3S3
+3"4j4
+6=6m6
+2$3^3
+5<6}6
+8-9o9
+;#<d<
+<!=Q=
+?&?V?
+111C1V1`1
+22262R2V2r2v2
+3!313Q3W3r3
+3#4S4
+5!515A5S5
+6"6&6A6Q6a6q6
+8D8k8
+9.9U9|9
+= >m>
+060K0p0
+1-1<1S1b1x1
+2+2W2f2
+3&343i3}3
+4+4D4v4
+6X6g6
+6e7s7
+8)8B8|8
+;U;j;
+<#<2<r<
+=&=5=
+?F?U?d?s?
+151H1p1
+2-242
+3)313<3D3O3U3]3k3x3
+5/6W6
+7(8P8
+=+>:>K>X>
+)0/080A0K0]0w0}0
+0%1:1U1r1
+202\2o2~2
+3.4D4R4h4
+5>5S5o5
+6 606=6
+7&7;7Z7
+8A8P8e8t8
+8(9?94:c:t:
+=!=Y=f=
+>*?Z?q?
+0@0S0n0
+061K1_1r1
+2$252q2
+3)373N3h3u3
+454C4^4x4
+7R8f8l8
+9#:1:G:
+;g<p<
+<4=@=
+171=1B1I1`1
+2)2S2_2
+4-4^4
+4H5U5k5~5
+5+6S6w6
+6!7<7G7Q7X7h7
+8-8W8b8l8s8z8
+8"9-979>9E9L9S9c9}9
+:-:X:c:m:}:
+;$;+;;;];
+<5<;<H<g<q<~<
+>1>U>[>o>
+?1?E?R?
+0'0-0A0c0i0}0
+1B1H1\1e1l1s1
+2%2,2@2a2g2{2
+3/3P3V3]3d3k3
+4C4I4]4i4~4
+5#595A5n5
+696D6K6R6b6l6
+7#7;7u7
+>(>m>}>
+?J?~?
+>0G0Y0
+1H1U1u1
+252h2u2
+2(353U3
+4@4V4\4p4y4
+5B5M5`5
+566]6p6x6~6
+7P7U7}7
+888v8
+=[=}=
+=%><>G>k>
+?%?|?
+$0;0F0j0
+1g1~1
+262A2e2
+3c3z3
+4#4>4
+4X5o5z5
+636E6
+7 7'7D7O7d7q7
+9%:`:
+;%;2<c<
+>O>y>
+?!?:?
+161`1e1x1
+2-2T2e2~2
+4d4s4
+4$535
+5D6S6
+7d7s7
+7$838X8e8
+9%9J9x9
+:8:E:j:
+:,;\;
+<=<|<
+=#=4=a=k=s=
+>%>E>x>
+?8?E?e?
+0%0X0e0
+1=1J1a1k1x1
+2*2A2K2X2
+3#3A3U3
+636[6p6~6
+8!9{9
+<-<I<_<k<
+=6=H=N=f=x=~=
+>&>8>>>V>h>n>
+?(?.?G?Y?
+0#0u0
+2,262E2_2
+333J3_3~3
+4+4@4`4v4~4
+4=5K5T5Z5_5d5k5s5
+8-9=9j9g:
+:S;x;
+</<|<
+=*=2=:=@=E=_=d=p=|=
+>">*>J>b>g>t>|>
+090j0t0
+1.1F1K1V1b1
+222<2K2S2]2s2x2
+2"3*343L3Q3^3j3
+4!4)434I4N4d4n4{4
+5 5(525H5M5X5d5
+6!6J6R6W6p6u6
+7'7/747M7R7]7i7v7~7
+858:8K8S8Y8s8x8
+9!9/979B9Z9_9l9t9
+:-:N:
+:$;Z;z;
+<7<a<
+<;=D=b=
+>$?L?x?
+0&080L0
+1[2a2i2v2
+324a4
+575b5
+<X=t=
+1F1P1
+2o2y2
+2B3R3
+3<4L4
+4/5{5
+6h6y6
+7#707<7E7X7^7e7r7
+9c:w:
+<6=h=
+='>M>k>
+?%?6?c?
+0A0K0
+1&1X1
+292R2^2g2
+484c4
+4,5I5q5
+5,6@6
+7-7=7m7}7
+9,:D;Y;f;
+=H=Z=
+>>>K>
+><?l?
+0=0^0i0
+242M2u2
+3'343f3
+>C>o>u>
+>D?K?e?
+#1-1I1S1
+30363f3
+374?4Q4[4
+71777^7F9|9
+4\5I8!9
+>O>r>
+?$?.?:?@?E?
+0j0x0
+1'2O2
+505B5b5p5
+5)6J6
+637F7_7d7}7
+8#8_8
+9%9/9?9}9
+:!:9:L:
+; ;9;b;
+<N<\<t<
+=)=B=I=
+?>?E?S?
+161z1
+3)444:4G4f4l4
+536Z7l7
+8+8}8
+;C;];h;z;
+112K2~2
+2&353M3W364z4
+6B6p6
+707C7W7w7
+8 8$8(8C8`8u8
+8*9O9Z9
+:Z:e:
+:#;.;f;q;
+=!=S=\=q=
+>C>L>a>
+?3?<?Q?
+010r0
+1/1V1n2
+3N3W3l3
+4D4M4b4
+545=5R5
+6%606H6]6
+6D7W7
+8&898f8u8
+8*9?9[9`9
+9*:?:f:y:
+:J;_;
+<Z<o<
+=J=_=
+>J>_>
+?5?W?\?f?
+0J0_0
+141z1
+1s2|2
+2!3:3G3f3l3
+4-4]4m4
+5;6k6V7i7
+7=8P8u8
+9$9F9[9
+:E:P:
+; <'<q<
+=!>H>
+;0K0e0w0
+1*181X1c1
+203p3
+4H5|5
+607J7
+:Q:l:v:h;x;
+?S?z?
+0 0*080Y0g0
+1,2c2
+213=3O3
+4A4J4c4
+5)5J5e5n5{5
+676B6{6
+;*<I<i<
+='=;=
+>*>E>N>[>}>
+>h?w?
+1#1,191N1y1
+172V2v2
+4:4C4\4
+565K5b5k5x5
+6[6z6
+7c7|7
+8+8=8J8S8d8
+;I;c;
+<:=C=Y=
+?D?Q?b?
+"0X0]0
+161V1_1y1
+1*2:2
+464@4n4w4
+636B6L6
+8]8m8
+9L9Q9
+:<:';
+=W=`=
+?9?p?
+0+1v1
+2$353q3
+6/7?7
+889l9q9
+;;;e;
+>)?y?
+0M1V1
+2>3Z3
+4,5B5u5
+7.7[7
+768E8
+8 9X9g9
+9B:z:
+;Q;`;
+;5<D<
+=8=M=g=
+060S0
+061h1}1
+2-2F2c2
+5*535^5m5
+6&6J6
+6"7L7W7
+7'8B8p8
+899G9f9
+:3:w:
+:D;Q;{;
+=&=;=k=
+=%>/>
+???N?
+(0<0i031H1
+192R2
+393]3
+3-4=4m4}4
+4 5L5V5
+6-6@6Y6
+9<9l9
+9}: ;1;j;y;
+;l<y<
+>0D0W0q0
+0(1<1E1N1W1^1u1
+3$4R4c4
+4.5p5
+6)6=6
+;';H;
+<&<><E<L<R<a<k<{<
+=E>W>
+>k?x?
+2N2X2
+3!3%3)3-3135393=3A3E3I3M3Q3U3Y3]3
+394`4p4z4
+575a5f5
+6<6J6e6x6
+6=7M7
+7C8m8
+9V:h:
+0k1q1x1
+2.252;2B2I2k2x2
+3V3w3
+4L4|4
+4&555s5
+7+7M7Z7
+7N8T8h8t8
+9%9,939:9A9H9O9V9]9q9
+:2:=:P:q:
+;*;S;x;
+<#<1<h<r<x<
+=@=Z=t=
+>!>+>1>8>?>R>O?
+3O3l3
+4L4Q4
+485l5q5
+6C6U6
+8%8i8
+;';5;C;Q;y;
+=D=z=
+060K0
+121G1
+2.2C2
+3F3p3u3
+575s5
+566S6n6
+7H7]7w7
+868R8_8h8
+9@9x9
+:':x:
+:';h;};
+;(<=<V<r<
+=-=L=
+=8>M>l>
+?<?x?
+1R1s1
+5]5m5
+616a6
+9Z9p9
+:R;a;
+;7<y<
+?5?H?b?
+444>4R4
+6'696K6]6r6~6
+6.8w8
+9d9):l;
+;2<A<T<
+>8>X>k>
+>=?a?{?
+.080j0
+0,1H1
+4&434\4
+4X5b5z5
+6`6n6
+999b9
+;)<@<}<
+<(=7=q=
+>D>S>
+?N?]?
+#0;0W0`0
+1Q1`1
+2-2q2w2
+4&5e5
+616F6
+6&7]7l7
+9)999b9
+:;:G:j:v:
+:5;E;];p;
+;+<U<\<
+?"?D?K?x?
+313Q3Y3_3{3
+4&434K4y4
+4,5H5
+6 7z7
+:.:Q:f:
+;%;N;
+2'2Y2
+5%535A5`5
+7G7|7
+838h8w8
+8s9y9
+9U:[:a:g:
+;9;n;};
+=+=o=
+>V>k>
+><?\?
+040I0l0
+1#282
+2J3s3
+5C5X5
+7I7^7
+8*9g9
+9-:L:{:
+;~;|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=
+>:>S>
+>L?o?
+122j2
+3J3Q3X3
+4$4;4H4V415
+6?6Q6
+9-:::Q:[:h:
+;2<G<y<
+<9=C=I=P=W=^=e=
+1<1)2J2Z2
+393G3f3
+4.4u4+5P5e5
+6,6m6
+6*7C7Y7n7
+8)8>8
+:?:{:
+;K;d;
+<5<]<c<j<q<~<
+=,=2=9=@=T=u={=
+2]2j2
+5 575F5]5l5
+606D6S6p6
+7j7t7
+849C9e9n9
+:,:>:c:j:
+:-;D;
+;=<[<n<
+0$0=0I0V0[0i0
+1^2d2
+3"343m3
+4R5X5_5l5
+6#6)60676>6U6b6s6
+708~8
+9L9e9
+:4:I:
+=]>e>
+?/?[?j?
+#01082
+5j6p6v6
+:#:Q:_:
+=->=>]>l>
+>1?V?\?
+0/0G0
+0 131S1w1
+4H4m4
+5.555L5Y5y5
+7"7^758
+;#;8;z;
+;(<?<c<{<
+=D=Q=s=
+=2>^>d>j>
+?A?H?W?
+3"3.3_3k3
+:8:n:
+;<;};
+>)>D>
+? ?&?3?R?X?l?u?|?
+2%2Y2g2u2
+3!3.3:3C3H3R3
+535I5^5
+8,9O9
+:4:B:h:
+;P;v;
+<)<H<f<
+=D=\=k=y=
+=#>@>w>
+>G?S?~?
+0'141`1w1~1
+1G2h2
+3Q3h3
+3,6a6n6
+8/8@8
+9n9{9
+:A;W;
+;Q<l<
+2(2h2r2
+4!4+4N4y4
+676d6
+7$7]7e7k7u7
+:.:;:K:c:w:
+;&;:;R;
+<%=A=e=}=
+>(?5?M?\?
+0%0=0T0
+0C1l1y1
+1F2S2
+507?7F7k7
+7-8>8
+899H9j9s9
+<"=e=
+>M>T>}>
+>Q?{?
+2&2<2
+3 3^3t3
+3M4T4t4
+5%5K5?6L6
+7&7>7h7
+7C8q8x8
+979g9
+;3;E;^;{;
+=C=J=l={=
+>=>Y>|>
+>$?L?b?
+/0E0b0
+2E2U2o2
+3p3{3
+4D4^4e4
+868G8T8u8
+:C:S:
+:';8;W;
+;!<1<7<I<l<
+<U=f=
+>H>R>d>|>
+?K?X?^?
+0%1<1S1x1
+212I2[2m2x2
+444S4j4
+5C5Y5
+6$6C6
+6D7a7
+7e8{8
+9$9b9v9
+:.;a;
+0e0z0
+1t1y1
+2/2K2U2b2
+404?4i4
+5(6t6
+7!7D7
+8(858B8O8\8i8v8
+8'919S9X9c9t9y9
+:$:-:3:9:>:G:M:S:X:a:g:m:r:
+;-;:;G;T;a;n;{;
+<#<5<=<B<G<L<Q<V<[<`<e<j<o<u<
+>1>_>{>
+?6?[?c?i?
+40S0m0
+1<1c1
+3)3T3
+4C4c4
+5"5X5`5
+606T6d6p6
+7 7D7L7T7\7d7l7t7|7
+8 8(848T8\8d8l8x8
+949@9`9p9|9
+:0:L:\:h:
+;4;@;`;h;
+<,<<<D<L<T<\<d<l<t<|<
+=8=H=T=t=
+><>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?l?x?
+0 0,040L0T0x0
+1 1(1H1P1X1t1
+1,2<2H2P2h2
+3 3,3L3X3x3
+4(4H4P4X4d4
+5 5(50585@5H5P5\5|5
+6 6(646T6\6d6l6t6
+7 7(70787@7H7T7t7|7
+8 8,8L8T8\8d8p8x8
+9,949@9`9h9t9
+: :(:0:8:H:d:t:
+; ;(;0;<;\;h;
+<$<,<4<<<D<L<T<\<d<l<t<
+= =@=H=P=X=`=l=t=
+>(>0><>\>h>
+?,?4?<?D?L?X?x?
+0(0H0P0X0`0h0x0
+1 1(10181@1H1T1\1|1
+2$2,242<2D2L2T2d2l2t2|2
+3 303<3D3d3
+4$4,444<4D4L4T4\4h4
+505@5L5l5t5|5
+6(606<6\6d6l6x6
+7,787X7d7
+8$848@8`8h8p8|8
+9(949<9d9l9
+:$:<:L:h:x:
+; ;D;L;T;\;d;l;
+;0<@<L<T<t<
+= =(=0=L=\=h=
+> >,>L>X>x>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+10181@1H1P1\1|1
+2,242<2D2L2T2\2d2l2
+3 3(3L3T3d3l3t3|3
+4,484@4d4l4t4
+5$5,5L5X5x5
+6$6,646<6D6P6X6t6
+7 7(747T7\7d7l7t7|7
+8$8,848<8D8L8T8`8
+9 9@9H9P9X9d9
+:(:H:X:d:
+;$;,;4;@;H;h;p;x;
+< <(<@<H<l<|<
+= =H=\=l=x=
+>$>,>4><>D>L>\>d>l>t>|>
+? ?(?8?@?d?l?t?|?
+0$040@0`0l0
+141<1D1L1T1\1d1l1t1
+2$2,242<2D2L2T2l2x2
+3$3,343L3T3h3x3
+4$4,444<4D4L4T4\4d4l4t4|4
+5D5L5T5\5d5l5t5|5
+6 6@6H6P6X6t6
+7$7<7D7h7|7
+8(888@8d8t8|8
+9,989@9`9h9
+:$:,:4:<:D:L:T:\:d:l:|:
+;(;0;@;d;l;t;|;
+;(<8<D<L<d<|<
+=$=,=4=<=D=L=T=`=h=
+>4><>D>L>T>\>d>l>x>
+?$?,?4?<?H?h?x?
+0 0(040<0p0
+1H1X1d1l1
+2P2`2l2t2
+3 3(30383D3d3p3
+4$444<4D4L4T4\4l4x4
+545D5P5X5x5
+6$6,686X6`6l6
+7T7\7d7x7
+8(8D8T8`8h8
+9$9,949<9L9h9x9
+:$:<:D:X:l:|:
+;(;0;d;t;
+<<<D<L<X<x<
+=4=D=L=d=
+>,>4><>D>L>T>\>t>
+?P?d?x?
+0(0H0P0\0|0
+1$1D1L1T1\1h1p1
+2(2H2P2\2|2
+3$3D3L3T3\3h3
+4<4X4`4h4x4
+585@5L5T5t5|5
+6 6(60686D6d6l6t6
+7 7(747<7\7d7l7t7
+8(8L8T8\8d8l8t8|8
+9(909<9\9d9l9t9
+:8:@:H:P:X:`:l:t:
+; ;(;4;T;\;d;p;
+;0<@<L<l<t<|<
+=$=,=D=h=x=
+>(>8>D>L>l>
+?(?H?T?t?
+0,080X0d0l0
+101D1T1d1p1x1
+2,2H2X2d2
+3 3,3L3X3x3
+444<4X4h4t4
+5(5H5P5X5`5h5t5|5
+6(686@6H6T6\6
+7$707P7X7`7p7|7
+8 8,8L8T8\8h8
+9$9(949<9p9
+: :T:d:p:x:
+;$;,;4;<;H;h;p;x;
+< <(<\<l<x<
+=4=<=D=L=T=\=d=l=t=|=
+><>H>P>
+? ?<?L?X?x?
+040@0`0l0
+1$1,141<1T1`1h1
+2(2H2P2X2h2p2
+3$3,3D3T3\3d3
+4$4,444<4D4L4d4p4
+5 5,5L5T5`5
+6 646D6P6X6
+6 707<7D7x7
+888H8T8t8
+9$9,949<9D9L9T9\9d9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;(;D;T;`;
+<4<<<D<`<p<
+=$=0=8=X=t=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0 0(0L0\0d0l0t0|0
+0 101<1\1h1
+2$242@2`2h2p2x2
+3$3X3h3t3|3
+4(484@4\4l4x4
+5 5(50585@5\5l5x5
+6 6(60686D6L6d6l6t6
+7,7<7H7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:8:@:X:|:
+;(;0;8;@;L;l;t;|;
+<(<H<P<X<d<
+=$=4=@=`=h=p=|=
+>$>,>4>D>L>T>\>l>x>
+?4?<?L?T?d?x?
+0 0(000<0D0x0
+1$1,141<1D1L1X1x1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$444@4`4l4t4
+5 5@5\5l5x5
+6$6,646<6D6L6T6\6h6
+6$747@7H7h7
+8 8T8d8p8x8
+9$9,949<9H9h9p9|9
+: :@:\:l:x:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+< <@<\<l<x<
+=<=L=X=`=
+> >(>\>l>x>
+?<?X?h?t?
+0 0@0L0T0
+1$1,181\1d1l1t1|1
+1 202<2D2d2
+3(303P3l3|3
+4(404T4d4l4t4|4
+5P5`5l5
+606<6T6X6x6
+7 787L7T7h7p7
+8 848<8D8L8`8h8p8x8
+9 9(9<9D9L9T9h9p9x9
+: :(:0:D:L:T:\:p:x:
+;0;8;L;T;\;d;l;t;
+<@<H<L<T<X<`<d<l<p<x<|<
+= =$=,=0=4=<=@=H=L=X=x=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?D?P?p?|?
+000<0\0h0p0
+1$1<1`1t1
+2(2<2L2\2h2p2
+203@3L3T3
+4@4P4\4d4
+5P5`5l5t5
+6$6,6L6h6x6
+7 707<7D7d7
+708@8L8T8
+989H9T9t9|9
+9,:<:H:P:
+:$;,;D;L;\;d;t;
+<$<0<X<l<t<
+=(=4=T=`=h=
+>(>H>P>\>|>
+?4?D?P?p?x?
+ 000<0\0h0
+1,141<1D1L1T1\1d1p1
+2(20282@2H2T2\2
+3 3(30383D3d3p3x3
+4 4(4\4l4x4
+545@5`5l5t5
+6(646T6`6
+7(7H7P7X7d7l7
+848<8H8P8h8x8
+909<9\9d9p9x9
+: :@:L:l:x:
+;@;P;\;|;
+<<<D<P<p<x<
+= =@=L=l=t=
+>,>8>X>d>
+?4?<?D?P?p?|?
+000<0\0d0p0
+2 2(20282@2L2l2t2
+3H3X3d3
+4$4D4P4p4x4
+5$5,545<5D5L5T5`5
+6 6D6L6T6\6d6l6t6|6
+7$7,747<7H7P7
+8 8@8H8P8\8|8
+9 909<9\9h9p9
+:(:H:P:X:h:p:
+;$;0;8;l;|;
+<$<,<4<<<H<h<p<x<
+=(=H=P=X=`=h=p=x=
+>D>T>`>
+?,?8?X?d?
+0$0,0`0p0|0
+1 1(101<1\1h1p1
+2$2,242<2D2L2T2\2d2l2t2|2
+3 3(3D3T3`3
+4$4,444<4D4L4\4d4t4
+5$545<5D5L5T5\5d5l5t5|5
+646@6d6l6t6|6
+7$7,747<7D7L7T7\7d7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+90989@9H9X9|9
+: :@:L:T:
+;8;H;T;\;
+< <(<0<<<\<h<
+=$=0=P=X=d=
+=$>4>@>`>l>
+>,?<?H?P?
+040D0P0X0
+1 1,1L1T1`1
+2(2H2P2\2|2
+3(303L3\3h3
+4 4(4<4L4X4`4|4
+5(505H5P5h5p5
+686@6L6T6
+7\7l7t7
+8$808P8X8`8h8t8
+9(9H9P9X9`9l9
+:,:4:<:D:L:T:`:
+;<;D;T;\;l;t;|;
+<$<,<4<<<D<L<T<\<h<
+=$=D=L=X=`=|=
+>,>8>X>`>h>x>
+?8?@?L?l?x?
+0$00080P0X0p0x0
+181@1P1`1
+2,242@2H2h2
+3(303<3\3h3
+4$4<4H4P4p4x4
+5 585@5X5l5|5
+6,646D6L6T6\6d6l6t6|6
+7 7(70787T7d7p7
+8$8,848<8T8\8d8l8t8|8
+9$909P9\9|9
+: :T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+< <@<P<\<|<
+=4=D=P=p=|=
+>(>8>D>L>d>l>t>
+?$?,?<?H?P?h?
+0$0@0P0\0d0|0
+1 1<1L1T1\1d1l1t1|1
+2<2D2L2T2l2t2|2
+3 3(303L3T3\3l3x3
+4 4D4T4\4d4l4t4
+5$5,545<5D5L5X5
+6$6D6L6T6`6
+7,747<7H7h7t7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,989X9d9
+:8:@:L:l:x:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<D<P<p<x<
+=$=H=X=d=l=
+>$><>H>P>h>
+? ?(?4?T?\?h?p?
+0$0,040<0D0L0T0\0d0p0
+1$1,141<1T1\1d1l1t1|1
+2D2T2`2h2
+303<3D3x3
+484H4T4t4
+5 5(5D5T5`5h5
+6(606H6P6`6h6
+7<7D7L7T7\7d7l7t7|7
+8$8,8D8L8\8x8
+9(9<9L9\9h9p9
+:$:,:4:<:D:L:T:\:d:l:t:
+;<;H;P;p;x;
+< <T<d<p<x<
+=$=0=8=P=t=
+>$>,>4><>D>L>T>\>d>|>
+?0?8?@?P?\?|?
+00080@0L0l0t0
+1$1,141<1D1L1X1`1x1
+202@2L2T2l2
+3$303P3\3|3
+3,4<4H4h4p4|4
+5 5,5L5X5x5
+6(646T6`6
+7 7(7@7l7|7
+8 808L8\8h8p8
+9,9<9H9P9h9p9x9
+:8:L:\:l:x:
+;$;4;<;D;L;T;\;t;
+<$<4<@<H<h<
+= =D=L=T=\=d=l=t=|=
+><>L>X>`>x>
+?<?D?L?T?\?h?p?
+0$00080l0|0
+1,181@1`1h1
+2$2,2`2p2|2
+3 3@3P3X3`3p3x3
+4 4,444T4
+585H5T5t5|5
+6 6(646<6\6x6
+7 7(787@7d7l7t7|7
+8$8,888@8X8h8
+9 9(90989D9L9l9t9
+: :(:0:8:@:L:l:t:
+;$;,;4;<;D;L;d;p;
+<$<,<4<<<D<\<h<
+=,=8=X=d=
+>0><>\>h>
+?,?P?`?l?
+0$040<0X0h0t0|0
+1$1,141<1D1L1T1`1
+2,242<2L2T2\2d2l2t2|2
+3<3D3L3T3\3d3l3t3|3
+4,484@4`4h4p4x4
+5$50585P5`5|5
+6 6(646<6\6d6l6t6
+7$7,7L7h7x7
+888H8T8\8|8
+9$9D9P9p9|9
+:(:4:T:`:
+:(;8;D;d;p;
+<$<,<8<X<d<
+= =(=0=8=@=L=l=t=|=
+>8>L>\>l>x>
+?,?4?P?`?l?t?
+0(080D0L0l0t0|0
+1 1,141T1\1d1
+2$2,242<2D2L2T2\2d2l2x2
+3$3D3L3T3\3d3l3x3
+4$4D4P4X4x4
+5$5,545<5D5L5T5\5d5l5t5
+6 6(60686@6\6l6x6
+7,747<7H7h7p7x7
+8(8H8P8X8`8h8p8x8
+949H9X9d9
+:$:,:8:X:`:h:t:
+;$;0;`;l;t;
+<<<H<h<p<x<
+=4=@=H=h=x=
+> >(>\>l>x>
+>T?`?h?
+040D0L0l0
+1 1@1P1\1|1
+282D2d2l2t2
+3$30383l3|3
+4$4D4`4p4|4
+505@5P5X5|5
+6 6(60686D6d6p6
+7$7,7L7T7\7d7
+8$808P8X8d8
+9$9,949<9D9P9p9x9
+:4:<:X:h:t:
+; ;@;H;P;X;d;
+<(<H<T<t<
+=,=8=@=t=
+=$>4>@>`>l>
+?(?0?<?\?h?p?
+0(0H0T0t0|0
+1$1D1L1X1x1
+2$2,242@2H2h2
+3,343<3D3L3T3d3l3t3|3
+4(404P4X4`4h4p4
+5 5(5H5d5t5
+6$6<6T6h6x6
+7$7,7H7X7d7l7
+8$8,8L8T8\8d8
+9$90989\9l9t9|9
+: :(:H:P:X:`:h:
+;D;T;`;h;
+<L<\<h<p<
+= =T=d=p=x=
+> >(>H>P>l>|>
+?$?4?@?H?h?
+000@0H0P0X0t0
+1$1,1D1P1p1|1
+2 2(2\2d2l2|2
+343<3X3h3t3|3
+4(404L4\4h4p4
+4,5<5H5P5
+6(60686D6L6l6
+787H7T7\7
+8<8X8h8t8|8
+9$9,949<9D9L9T9\9h9
+:$:,:4:<:H:h:p:|:
+;0;8;D;d;p;x;
+<(<H<T<t<
+=,=4=@=`=h=p=x=
+>$>,>8>@>t>
+?4?@?H?|?
+0$0X0h0t0
+1$1,141<1D1L1T1`1
+2$2,282X2`2h2t2
+383@3H3T3t3
+4$4D4L4X4x4
+585D5d5p5
+6@6P6\6d6|6
+7(787D7d7p7x7
+8$8D8L8X8x8
+9 9<9@9\9`9l9
+:8:H:T:\:t:
+;(;4;T;\;d;p;x;
+<$<0<P<\<|<
+=$=D=L=X=`=x=
+> >@>L>l>x>
+? ?D?L?\?d?l?t?|?
+0(080D0L0l0t0|0
+1$1,1`1p1|1
+2 202<2D2x2
+383D3L3l3t3
+4$4<4L4T4p4
+5,545<5X5h5t5
+6 6<6L6X6x6
+70787D7L7l7t7|7
+8$8,888\8d8l8t8|8
+9(9H9P9X9`9h9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;0;T;\;d;l;t;|;
+< <@<H<P<X<d<
+=$=0=T=\=d=l=t=|=
+>$>0>P>X>d>l>
+?$?,?4?<?D?L?X?x?
+0(0H0T0\0
+1@1P1\1d1
+2,242@2`2l2
+3$3,343<3D3L3X3x3
+4 4(4\4l4x4
+5@5P5\5|5
+6<6D6P6X6x6
+7(787D7L7d7|7
+8 8D8X8l8|8
+9,989X9d9
+:(:4:T:\:d:l:t:
+; ;(;0;8;@;L;l;t;|;
+<$<,<4<D<T<\<d<|<
+=,=8=@=X=p=x=
+>L>\>h>p>
+?@?T?d?t?
+0 00080\0d0l0
+141<1D1L1T1\1d1l1t1|1
+2 2@2\2l2x2
+3 30383\3t3|3
+4 4<4L4X4`4
+5(505D5T5`5
+6 606L6`6p6
+7 7@7\7l7x7
+8,848@8H8`8
+9(949T9\9d9p9
+:4:@:`:l:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<0<8<D<d<p<
+=4=<=D=L=X=x=
+><>D>L>X>x>
+?(?H?P?X?d?
+0 0,0L0T0\0h0
+1$1,141<1H1h1p1x1
+2(2H2P2X2d2
+383@3H3P3\3|3
+444<4D4P4p4|4
+5$5D5L5T5\5h5
+6 6,646\6p6x6
+7$7,7`7h7p7
+8$8,848@8d8l8t8|8
+2044484<4H4L4P4T4X4\4`4l4p4t4x4|4
+5 5$5(5,5054585D5H5L5P5T5X5\5h5l5p5t5x5|5
+6(60686<6T6X6p6t6
+7$7(7@7D7d7
+8,8P8T8t8
+9$9(9@9D9d9
+:0:4:L:P:l:
+;,;T;x;
+<<<`<
+=8=X=x=
+=,>d>
+?D?|?
+$0P0|0
+101`1
+1$2\2
+304h4
+6(7`7
+8@8x8
+8 9X9
+:(:L:
+0 0$0,04080<0@0D0H0L0P0X0\0`0d0h0l0p0t0x0|0
+1 1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2,2024282@2D2L2P2T2\2d2h2l2t2|2
+3 3$3,3034383<3D3L3P3T3\3d3h3l3p3x3|3

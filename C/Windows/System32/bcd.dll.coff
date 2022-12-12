@@ -1,0 +1,223 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30137.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Windows\System32\bcd.dll
+
+File Type: DLL
+
+  Image has the following dependencies:
+
+    ntdll.dll
+
+  Section contains the following exports for bcd.dll
+
+    00000000 characteristics
+    AF804013 time date stamp
+        0.00 version
+           1 ordinal base
+          74 number of functions
+          74 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007B70 BcdCloseObject
+          2    1 00008850 BcdCloseStore
+          3    2 0000B540 BcdCopyObject
+          4    3 0000B570 BcdCopyObjectEx
+          5    4 0000BD50 BcdCopyObjects
+          6    5 00007BB0 BcdCreateObject
+          7    6 00008900 BcdCreateStore
+          8    7 000012F0 BcdDeleteElement
+          9    8 00007C60 BcdDeleteObject
+         10    9 00008C30 BcdDeleteObjectReferences
+         11    A 00008E30 BcdDeleteSystemStore
+         12    B 00001300 BcdEnumerateAndUnpackElements
+         13    C 000014D0 BcdEnumerateElementTypes
+         14    D 00001710 BcdEnumerateElements
+         15    E 00001740 BcdEnumerateElementsWithFlags
+         16    F 00007CC0 BcdEnumerateObjects
+         17   10 0000BF10 BcdExportStore
+         18   11 0000BF30 BcdExportStoreEx
+         19   12 00009090 BcdFlushStore
+         20   13 00009110 BcdForciblyUnloadStore
+         21   14 00001780 BcdGetElementData
+         22   15 000017B0 BcdGetElementDataWithFlags
+         23   16 00010900 BcdGetSystemStorePath
+         24   17 0000C110 BcdImportStore
+         25   18 0000C120 BcdImportStoreWithFlags
+         26   19 000091E0 BcdMarkAsSystemStore
+         27   1A 0000C1B0 BcdMigrateObjectElementValues
+         28   1B 00007FA0 BcdOpenObject
+         29   1C 00009260 BcdOpenStore
+         30   1D 000094B0 BcdOpenStoreFromFile
+         31   1E 000094D0 BcdOpenSystemStore
+         32   1F 000081A0 BcdQueryObject
+         33   20 00001A90 BcdSetElementData
+         34   21 00001AC0 BcdSetElementDataWithFlags
+         35   22 00007A50 BcdSetLogging
+         36   23 00009540 BcdSetSystemStoreDevice
+         37   24 000188E8 GUID_BAD_MEMORY_GROUP
+         38   25 00018798 GUID_BOOT_LOADER_SETTINGS_GROUP
+         39   26 000188D8 GUID_CURRENT_BOOT_ENTRY
+         40   27 000187E8 GUID_DEBUGGER_SETTINGS_GROUP
+         41   28 00018938 GUID_DEFAULT_BOOT_ENTRY
+         42   29 00018868 GUID_EMS_SETTINGS_GROUP
+         43   2A 00018758 GUID_FIRMWARE_BOOTMGR
+         44   2B 000188B8 GUID_GLOBAL_SETTINGS_GROUP
+         45   2C 000188A8 GUID_HYPERVISOR_SETTINGS_GROUP
+         46   2D 000188C8 GUID_KERNEL_DEBUGGER_SETTINGS_GROUP
+         47   2E 00018768 GUID_RESUME_LOADER_SETTINGS_GROUP
+         48   2F 000187A8 GUID_WINDOWS_BOOTMGR
+         49   30 000187B8 GUID_WINDOWS_LEGACY_NTLDR
+         50   31 00018778 GUID_WINDOWS_MEMORY_TESTER
+         51   32 000188F8 GUID_WINDOWS_OS_TARGET_TEMPLATE_EFI
+         52   33 00018848 GUID_WINDOWS_OS_TARGET_TEMPLATE_PCAT
+         53   34 000187C8 GUID_WINDOWS_RESUME_TARGET_TEMPLATE_EFI
+         54   35 000187F8 GUID_WINDOWS_RESUME_TARGET_TEMPLATE_PCAT
+         55   36 00018828 GUID_WINDOWS_SETUP_EFI
+         56   37 00018818 GUID_WINDOWS_SETUP_PCAT
+         57   38 00018918 GUID_WINDOWS_SETUP_RAMDISK_OPTIONS
+         58   39 00018808 PARTITION_BASIC_DATA_GUID
+         59   3A 00018928 PARTITION_CLUSTER_GUID
+         60   3B 00018858 PARTITION_ENTRY_UNUSED_GUID
+         61   3C 000187D8 PARTITION_LDM_DATA_GUID
+         62   3D 00018898 PARTITION_LDM_METADATA_GUID
+         63   3E 00018888 PARTITION_MSFT_RECOVERY_GUID
+         64   3F 00018878 PARTITION_MSFT_RESERVED_GUID
+         65   40 00018958 PARTITION_MSFT_SNAPSHOT_GUID
+         66   41 00018838 PARTITION_SPACES_GUID
+         67   42 00018788 PARTITION_SYSTEM_GUID
+         68   43 000131F0 SyspartDirectGetSystemDisk
+         69   44 00013210 SyspartDirectGetSystemPartition
+         70   45 00013230 SyspartDirectSetSystemDevice
+         71   46 000132E0 SyspartGetPhysicalPartitions
+         72   47 00013510 SyspartGetSystemDisk
+         73   48 00013630 SyspartGetSystemPartition
+         74   49 000136A0 SyspartIsSpace
+
+  Section contains the following imports:
+
+    ntdll.dll
+             180017160 Import Address Table
+             18001EE38 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                         417 RtlGUIDFromString
+                         2E4 RtlAllocateHeap
+                         2EF RtlAppendUnicodeToString
+                         931 _ultow_s
+                         414 RtlFreeUnicodeString
+                         489 RtlInitUnicodeString
+                         9B3 wcstoul
+                         5F3 RtlStringFromGUID
+                         40D RtlFreeHeap
+                         827 ZwQueryAttributesFile
+                         936 _vsnwprintf
+                         856 ZwQuerySymbolicLinkObject
+                         545 RtlQueryFeatureConfiguration
+                         7A8 ZwDeviceIoControlFile
+                         939 _wcsicmp
+                         830 ZwQueryDirectoryObject
+                         812 ZwOpenSymbolicLinkObject
+                         9A3 wcscpy_s
+                         981 strcpy_s
+                         7FA ZwOpenDirectoryObject
+                         992 swprintf_s
+                         9A0 wcschr
+                         7FE ZwOpenFile
+                         93C _wcsnicmp
+                         756 ZwClose
+                         9AD wcsrchr
+                         51C RtlNotifyFeatureUsage
+                         859 ZwQuerySystemInformation
+                         937 _vsnwprintf_s
+                         8F1 ZwWaitForSingleObject
+                         847 ZwQueryKey
+                         99F wcscat_s
+                         874 ZwReleaseMutant
+                         806 ZwOpenMutant
+                          80 LdrGetProcedureAddress
+                         860 ZwQueryVolumeInformationFile
+                         771 ZwCreateFile
+                          78 LdrGetDllHandle
+                         83C ZwQueryInformationProcess
+                         47C RtlInitAnsiString
+                         9AF wcsstr
+                         7A1 ZwDeleteFile
+                         839 ZwQueryInformationFile
+                         80A ZwOpenProcess
+                         9AB wcsnlen
+                         941 _wcsupr
+                         986 strncmp
+                         324 RtlCompareMemory
+                         9AA wcsncpy_s
+                         72D ZwAllocateUuids
+                         8FB __C_specific_handler
+                         4F1 RtlLengthSecurityDescriptor
+                         5CA RtlSetOwnerSecurityDescriptor
+                         5BB RtlSetDaclSecurityDescriptor
+                         777 ZwCreateKey
+                         7E1 ZwLoadKey
+                         2C4 RtlAddAccessAllowedAceEx
+                         2E1 RtlAllocateAndInitializeSid
+                         4F2 RtlLengthSid
+                         7BF ZwFlushKey
+                         7A5 ZwDeleteValueKey
+                         88F ZwSaveKey
+                         411 RtlFreeSid
+                         7A2 ZwDeleteKey
+                         7B2 ZwEnumerateKey
+                         85E ZwQueryValueKey
+                         34C RtlCreateAcl
+                         8BC ZwSetSecurityObject
+                         8E2 ZwUnloadKey
+                         35F RtlCreateSecurityDescriptor
+                         8C8 ZwSetValueKey
+                         801 ZwOpenKey
+                          6D LdrDisableThreadCalloutsForDll
+                         284 NtTerminateProcess
+                         305 RtlCaptureContext
+                         509 RtlLookupFunctionEntry
+                         64E RtlVirtualUnwind
+                         618 RtlUnhandledExceptionFilter
+                         970 memmove
+                         205 NtQuerySystemInformation
+                          CF NtAdjustPrivilegesToken
+                         1B8 NtOpenProcessTokenEx
+                         25B NtSetInformationThread
+                         1C1 NtOpenThreadTokenEx
+                         101 NtClose
+                         1CB NtPrivilegeCheck
+                         479 RtlImpersonateSelf
+                         1BE NtOpenSymbolicLinkObject
+                         1AD NtOpenKey
+                         202 NtQuerySymbolicLinkObject
+                         91D _snwscanf_s
+                         93A _wcslwr
+                         153 NtDeviceIoControlFile
+                         274 NtSetValueKey
+                         1AA NtOpenFile
+                         20A NtQueryValueKey
+                         14D NtDeleteKey
+                         1D5 NtQueryBootEntryOrder
+                         1D6 NtQueryBootOptions
+                         268 NtSetSecurityObject
+                         28B NtTranslateFilePath
+                         1A6 NtOpenDirectoryObject
+                         1DC NtQueryDirectoryObject
+                         15B NtEnumerateBootEntries
+                         122 NtCreateKey
+                         96D memcmp
+                         96E memcpy
+                         972 memset
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

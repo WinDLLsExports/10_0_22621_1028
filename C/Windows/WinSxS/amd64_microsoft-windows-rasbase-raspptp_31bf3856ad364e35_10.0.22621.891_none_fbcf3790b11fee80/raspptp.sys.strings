@@ -1,0 +1,571 @@
+!This program cannot be run in DOS mode.
+.text
+h.rdata
+H.data
+.pdata
+H.idata
+HPAGEPPTP:
+`PAGE
+`PAGEWsk
+`fothk
+`INIT
+bGFIDS
+B.rsrc
+B.reloc
+0PTPCt8H
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+@USVWAVH
+A^_^[]
+-fffffff
+fffffff
+fffffff
+fffffff
+.fffffff
+fffffff
+fffffff
+fffff
+AQAPRQPH
+(D$ H
+0XYZAXAY
+ffffff
+fffff
+fffff
+PTPCH
+@0PTPCH
+PTMTH
+x ATAVAWH
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+@8i)r
+t*@8i)r$
+0A_A^A\
+UVWATAUAVAWH
+!\$hH
+!l$pH
+ A_A^A]A\_^]
+C0FREEH
+y PTPTH
+C FREEH
+t$ WH
+9qHv{H
+0PTPCu^H
+|$P s
+0PTPCu*H
+|$ ATH
+WATAUH
+ A]A\_
+x ATAUAVH
+@8y)r
+ A^A]A\
+VWAVH
+ A^_^
+UVWATAUAVAWH
+}0PTPC
+@8i)r
+@8i)r
+@8q)r
+@8q)r
+@8q)r
+@8q)r
+fD98u
+@8q)r
+A_A^A]A\_^]
+0PTPCt8H
+WATAVH
+ A^A\_
+WATAUH
+ A]A\_
+WAVAWH
+ A_A^_
+UVWATAUAVAWH
+t#D8I)r
+D8I)r
+D8I)r
+D8I)r
+D8I)r
+D8I)r
+A_A^A]A\_^]
+x AVH
+WSKCH
+C{PH>
+G?[(.p`
+xtrLua
+TapiLineName
+ClientIpAddresses
+ClientIpMasks
+TrustedIpAddresses
+TrustedIpMasks
+TcpPortNumber
+BaseCallId
+MaxTransmit
+InactivityIdleSeconds
+AlwaysEcho
+AuthenticateIncomingCalls
+PptpTraceMask
+ValidateAddress
+MaxTunnelsPerIpAddress
+WskDisconnectSocket..Enter
+WskDisconnectSocket..Issuing ABORTIVE Disconnect
+WskDisconnectSocket..Issuing reref for DISC Initial
+WskCloseSocketContextAndFreeSocketEx..Enter
+INVALID
+CLOSED
+OFFHOOK
+OFFERING
+PAC_OFFERING
+PAC_WAIT
+DIALING
+PROCEEDING
+ESTABLISHED
+WAIT_DISCONNECT
+CLEANUP
+UNKNOWN
+Microsoft
+LISTEN
+WAIT_REQUEST
+WAIT_REPLY
+WAIT_STOP
+PsGetVersion
+WmiTraceMessage
+WmiQueryTraceInformation
+EtwRegisterClassicProvider
+EtwUnregister
+WskCloseSocket Done
+Freeing Sock Context
+In WskSocketDisconnectDone..removing ref on serversock
+WskSocketDisconnectCompletion..Deref for DISC Pending
+WskCloseStreamServerSocketContext..Enter
+WskCloseSocketContext..Enter
+WskCloseSocketContext..Close on Stream Server Socket
+WskCloseSocketContext..Close on Stream Socket
+WskConnDisconnectEvent..Enter
+WskConnDisconnectEvent..Server Sock..
+WskConnDisconnectEvent..Non-Server Sock..Calling DisconnectHandler
+FreeSockContextCommon..Freeing the Socket Context
+FreeSockContextCommon..Freeing Socket Lists and locks
+FreeSockHandle..Issuing Disconnect for Connected Sockets
+raspptp.pdb
+.text$lp00raspptp.sys!40_serveronly
+.text$mn
+.text$mn$00
+.text$mn$21
+.text$zy
+.text$zz
+.rdata$brc
+.rdata$zz$brc
+.rdata
+.rdata$zz
+.rdata$zzzdbg
+.xdata
+.data$dk00$brc
+.data$zz$brc
+.data
+.data$00
+.data$dk00
+.data$pr00
+.data$zz
+.bss$00
+.bss$pr00
+.bss$zz
+.pdata
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+PAGEPPTP
+PAGEPPTP$zz
+PAGE$zz
+PAGEWsk
+PAGEWsk$lp00raspptp.sys!40_serveronly
+PAGEWsk$zz
+fogrp
+INIT$zz
+.gfids
+.rsrc$01
+.rsrc$02
+X1:^{
+RAS VPN Line
+RtlIpv4AddressToStringA
+KeAcquireSpinLockRaiseToDpc
+KeInitializeSpinLock
+KeReleaseSpinLock
+RtlIpv6AddressToStringA
+RtlCompareMemory
+ExRundownCompleted
+KeGetCurrentIrql
+KeWaitForMultipleObjects
+ExInterlockedInsertTailList
+ExWaitForRundownProtectionRelease
+ExInitializeRundownProtection
+KeSetEvent
+ExAcquireRundownProtection
+KeInitializeEvent
+KeResetEvent
+ExReleaseRundownProtection
+ExFreePoolWithTag
+ExAllocatePool3
+RtlInitUnicodeString
+MmGetSystemRoutineAddress
+IoWMIRegistrationControl
+RtlIpv6StringToAddressW
+MmLockPagableDataSection
+ExAllocatePool2
+RtlIpv4StringToAddressW
+ntoskrnl.exe
+NdisMCoIndicateReceiveNetBufferLists
+NdisFreeTimerObject
+NdisAdvanceNetBufferListDataStart
+NdisAdvanceNetBufferDataStart
+NdisFreeNetBufferList
+NdisCmDispatchIncomingCloseCall
+NdisFreeIoWorkItem
+NdisCmCloseCallComplete
+NdisMCoSendNetBufferListsComplete
+NdisSetTimerObject
+NdisRetreatNetBufferDataStart
+NdisMCmDeleteVc
+NdisGetDataBuffer
+NdisAllocateIoWorkItem
+NdisCmDispatchIncomingCall
+NdisCmMakeCallComplete
+NdisMCmCreateVc
+NdisMCmDeactivateVc
+NdisAllocateNetBufferList
+NdisMCmActivateVc
+NdisQueueIoWorkItem
+NdisAllocateTimerObject
+NdisCancelTimerObject
+NdisMSetMiniportAttributes
+NdisCloseConfiguration
+NdisResetEvent
+NdisOpenConfigurationEx
+NdisInitializeEvent
+NdisMCmRegisterAddressFamilyEx
+NdisMPauseComplete
+NdisSetOptionalHandlers
+NdisWaitEvent
+NdisSetEvent
+NdisMRegisterMiniportDriver
+NdisAllocateNetBufferListPool
+NdisMDeregisterMiniportDriver
+NdisFreeNetBufferListPool
+NdisCmDeregisterSapComplete
+NdisCmCloseAddressFamilyComplete
+NdisCmRegisterSapComplete
+NdisCmDispatchCallConnected
+NDIS.SYS
+SystemPrng
+cng.sys
+RtlCopyBufferToMdl
+GetIfEntry2
+NmrDeregisterClient
+FreeMibTable
+InternalCreateOrRefIpForwardEntry2
+GetUnicastIpAddressTable
+NmrClientAttachProvider
+DeleteIpForwardEntry2
+NmrWaitForClientDeregisterComplete
+GetBestRoute2
+NmrRegisterClient
+GetIpForwardTable2
+NETIO.SYS
+ObfDereferenceObject
+PsCreateSystemThread
+RtlUnicodeStringToAnsiString
+ObReferenceObjectByHandle
+ExInterlockedRemoveHeadList
+KeWaitForSingleObject
+ZwClose
+PsTerminateSystemThread
+ExFreeToNPagedLookasideList
+IoFreeIrp
+ExDeleteNPagedLookasideList
+MmBuildMdlForNonPagedPool
+IoAllocateMdl
+IoFreeMdl
+ExInitializeNPagedLookasideList
+ExAllocateFromNPagedLookasideList
+IoAllocateIrp
+IoReuseIrp
+NdisReadConfiguration
+NdisRetreatNetBufferListDataStart
+NdisGetVersion
+RtlCopyMdlToMdl
+VWAVH
+ENUME3
+0PTPCu
+H9_Pu
+@A^_^
+x AVH
+VWAVH
+H9_Pu-H
+ A^_^
+y0PTPCuxH
+\$ UVWAVAWH
+x0PTPCuEH
+t7D8y)r1H
+A_A^_^]
+VWAVH
+\$ UVWATAUAVAWH
+x0PTPCuIH
+@8q)r
+t<@8q)r6H
+A_A^A]A\_^]
+s WATAUAVAWH
+MicrosofH
+A_A^A]A\_
+WAVAWH
+ A_A^_
+x AVH
+{0PTPCu
+WAVAWH
+0A_A^_
+UVWATAUAVAWH
+7L9sxu
+PA_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+\$ UVWATAUAVAWH
+!l$@H
+@8y)r
+}0PTPCu
+A_A^A]A\_^]
+!l$ E3
+@8y)r
+x0PTPC
+tC@8y)r=H
+@8y)r
+@8y)r
+;\$Ds
+@8y)r
+{ AVH
+L$pH3
+@SUVWATAUAVAWH
+D8|$@t)D
+L$xH3
+A_A^A]A\_^][
+Chu,A
+WATAUAVAWH
+Chu(H
+0A_A^A]A\_
+VWAUAVAWH
+t @8q)r
+t"@8q)r
+A_A^A]_^
+WATAVH
+l$xI;
+0A^A\_
+WATAUAVAWH
+@8|$xt}
+ A_A^A]A\_
+C PTPTH
+D$$PTMTH
+y PTPTu8H
+@USVWATAUAVAWH
+t38Q)r.H
+D$`ENUMH
+t;@8|$0t
+{ PTPTu^E
+t-@8q)r'H
+A_A^A]A\_^[]
+fA96u
+t#@8q)r
+t$ WH
+y PTPT
+D$HENUM
+{0PTPCu
+WATAUAVAWH
+ A_A^A]A\_
+VWATAVAWH
+uL@8nHu
+A_A^A\_^
+~ PTPT
+t:8Y)r5H
+t"8Y)r
+t"8Y)r
+H98ufH
+|$ UAVAWH
+D8y)r
+L9v8t
+D8y)r
+A_A^]
+VWAVH
+Ch@8{pt
+0A^_^
+t$ WAVAWH
+GhM96u
+D$`ENUM
+{0PTPCu
+GhM96
+A_A^_
+|$(E3
+L$pH3
+\$ UVWATAUAVAWH
+tXD8A)rRA
+tAD8A)r;H
+tAD8A)r;H
+tND8A)rHA
+D$pENUM
+{0PTPCu
+tAD8A)r;H
+tLD8A)rFA
+x0PTPC
+ChH9sPu*
+tSD8A)rMA
+D$xE3
+H!D$x
+ENUML
+{0PTPCu
+ChH9sPu
+tMD8A)rGH
+ENUMH
+{0PTPCu
+H9sPu
+tAD8A)r;H
+x0PTPC
+ChH9sPu-
+tAD8A)r;H
+A_A^A]A\_^]
+p AWH
+|$0I;
+|$ UATAUAVAWH
+@8q)r
+L9{@tGH
+A_A^A]A\]
+D$ E3
+L$PH3
+s WAVAWH
+t;@8q)r5H
+t6@8q)r0H
+A_A^_
+x AVAW
+|$0A_A^
+x ATAVAWH
+D8a)r
+ A_A^A\
+x AVH
+ENUMt
+y0PTPCu+
+H99uHH
+WATAUAVAWH
+@8i)r
+RRASH
+@8i)r
+0A_A^A]A\_
+VWATAVAWH
+PTCpH
+L$pH3
+A_A^A\_^
+l$ VWATAVAWH
+~0PTPC
+@8=/0
+A_A^A\_^
+VWATAUAVH
+@8-^/
+~0PTPC
+Fht3H
+ A^A]A\_^
+@89t+
+WAVAWH
+ A_A^_
+x ATAVAWH
+y0PTPCu-L
+ A_A^A\
+UWATAUAVH
+A^A]A\_]
+UWAVH
+D9sHv
+t$ WATAUAVAWH
+A_A^A]A\_
+D$(E3
+UVWATAUAVAWH
+9}wu1H
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+L$HE3
+t$ WH
+x AVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UH
+x ATAVAWH
+wanaI
+WSKCH
+D$(RAwrD
+D$(RAwsD
+A_A^A\
+t$ WH
+x AVH
+VWATAVAWH
+D$(RAwrD
+D$(RAwsD
+@A_A^A\_^
+WATAUAVAWH
+D$(RAwrE
+D$ E3
+D$(RAwsE
+A_A^A]A\_
+t$ WH
+WAVAWH
+x-D8{8u
+|$ E3
+A_A^_
+x AVH
+UWATAVAWH
+D$PfA
+A_A^A\_]
+WAVAWH
+H9y@u
+t$(E3
+A_A^_
+WATAUAVAWH
+H9O@u
+A_A^A]A\_
+UAVAWH
+PTPn3
+A_A^]
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Peer-to-Peer Tunneling Protocol
+FileVersion
+10.0.22621.891 (WinBuild.160101.0800)
+InternalName
+RASPPTP.SYS
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+RASPPTP.SYS
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.891
+VarFileInfo
+Translation
+[*\d]
+W4Xf^
+VSfV`Z
+PXVIX
+WLXTY
+U7X$Y
+\!]:^^^
+XMYsY
+[,\J\
+R S0T
+T3USU

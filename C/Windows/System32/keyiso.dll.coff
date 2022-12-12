@@ -1,0 +1,276 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30137.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Windows\System32\keyiso.dll
+
+File Type: DLL
+
+  Image has the following dependencies:
+
+    ntdll.dll
+    RPCRT4.dll
+    api-ms-win-core-errorhandling-l1-1-0.dll
+    api-ms-win-core-synch-l1-1-0.dll
+    api-ms-win-core-libraryloader-l1-2-0.dll
+    api-ms-win-core-heap-l2-1-0.dll
+    api-ms-win-core-processthreads-l1-1-0.dll
+    bcrypt.dll
+    api-ms-win-core-handle-l1-1-0.dll
+    CRYPTBASE.dll
+    ncrypt.dll
+    api-ms-win-security-sddl-l1-1-0.dll
+    api-ms-win-service-core-l1-1-0.dll
+    api-ms-win-security-base-l1-1-0.dll
+    api-ms-win-core-registry-l1-1-0.dll
+    api-ms-win-core-processenvironment-l1-1-0.dll
+    api-ms-win-core-sysinfo-l1-1-0.dll
+    api-ms-win-security-capability-l1-1-0.dll
+
+  Section contains the following exports for keyiso.dll
+
+    00000000 characteristics
+     B848677 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000039C0 KeyIsoServiceMain
+          2    1          KeyIsoSetAuditingInterface (forwarded to NCRYPTPROV.SetAuditingInterface)
+
+  Section contains the following imports:
+
+    ntdll.dll
+             180013590 Import Address Table
+             180017870 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                         492 RtlInitializeCriticalSection
+                          47 EtwGetTraceEnableLevel
+                          6D LdrDisableThreadCalloutsForDll
+                          4F EtwRegisterTraceGuidsW
+                         1B6 NtOpenProcess
+                          54 EtwTraceMessage
+                          48 EtwGetTraceLoggerHandle
+                         101 NtClose
+                         4ED RtlLeaveCriticalSection
+                         385 RtlDeleteCriticalSection
+                          46 EtwGetTraceEnableFlags
+                          56 EtwUnregisterTraceGuids
+                         284 NtTerminateProcess
+                         305 RtlCaptureContext
+                         2E4 RtlAllocateHeap
+                         5ED RtlSizeHeap
+                         40D RtlFreeHeap
+                         327 RtlCompareUnicodeString
+                         939 _wcsicmp
+                         489 RtlInitUnicodeString
+                         1EB NtQueryInformationToken
+                         4D3 RtlIsMultiSessionSku
+                         3C3 RtlEnterCriticalSection
+                         509 RtlLookupFunctionEntry
+                         51E RtlNtStatusToDosError
+                          CF NtAdjustPrivilegesToken
+                         8FB __C_specific_handler
+                         64E RtlVirtualUnwind
+                         618 RtlUnhandledExceptionFilter
+                         972 memset
+                         96E memcpy
+                         9A1 wcscmp
+
+    RPCRT4.dll
+             180013310 Import Address Table
+             1800175F0 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                         131 NdrServerCall2
+                         1F7 RpcServerUseProtseqW
+                         1A7 RpcImpersonateClient
+                         1CF RpcServerInqBindings
+                         196 RpcEpRegisterW
+                         198 RpcEpUnregister
+                         1E1 RpcServerRegisterIf3
+                         1CB RpcRevertToSelf
+                         1E6 RpcServerUnregisterIfEx
+                         132 NdrServerCallAll
+                         18D RpcBindingVectorFree
+                          1F I_RpcBindingInqLocalClientPID
+
+    api-ms-win-core-errorhandling-l1-1-0.dll
+             180013378 Import Address Table
+             180017658 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           5 GetLastError
+                           D SetLastError
+
+    api-ms-win-core-synch-l1-1-0.dll
+             180013450 Import Address Table
+             180017730 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          1B InitializeSRWLock
+                           6 CreateEventW
+                          24 ReleaseSRWLockExclusive
+                           0 AcquireSRWLockExclusive
+                           F DeleteCriticalSection
+                          25 ReleaseSRWLockShared
+                          18 InitializeCriticalSection
+                          1D LeaveCriticalSection
+                          11 EnterCriticalSection
+                          29 SetEvent
+                           1 AcquireSRWLockShared
+
+    api-ms-win-core-libraryloader-l1-2-0.dll
+             1800133C0 Import Address Table
+             1800176A0 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          19 LoadLibraryExW
+                          14 GetModuleHandleExW
+                          16 GetProcAddress
+                           D FreeLibrary
+                          11 GetModuleFileNameW
+                          15 GetModuleHandleW
+
+    api-ms-win-core-heap-l2-1-0.dll
+             1800133A8 Import Address Table
+             180017688 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           2 LocalAlloc
+                           3 LocalFree
+
+    api-ms-win-core-processthreads-l1-1-0.dll
+             180013408 Import Address Table
+             1800176E8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          36 OpenThreadToken
+                          34 OpenProcessToken
+                          10 GetCurrentThread
+                           C GetCurrentProcess
+
+    bcrypt.dll
+             180013530 Import Address Table
+             180017810 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          19 BCryptExportKey
+                          31 BCryptResolveProviders
+                           E BCryptDestroyKey
+                          1A BCryptFinalizeKeyPair
+                          1E BCryptGenerateKeyPair
+                          1C BCryptFreeBuffer
+
+    api-ms-win-core-handle-l1-1-0.dll
+             180013390 Import Address Table
+             180017670 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           2 DuplicateHandle
+                           0 CloseHandle
+
+    CRYPTBASE.dll
+             180013300 Import Address Table
+             1800175E0 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           9 SystemFunction040
+
+    ncrypt.dll
+             180013568 Import Address Table
+             180017848 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          55 NCryptOpenStorageProvider
+                          5C NCryptSetProperty
+                          4E NCryptImportKey
+                          4B NCryptFreeObject
+
+    api-ms-win-security-sddl-l1-1-0.dll
+             1800134F8 Import Address Table
+             1800177D8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           2 ConvertStringSecurityDescriptorToSecurityDescriptorW
+                           1 ConvertSidToStringSidW
+                           3 ConvertStringSidToSidW
+
+    api-ms-win-service-core-l1-1-0.dll
+             180013518 Import Address Table
+             1800177F8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           A SetServiceStatus
+                           9 RegisterServiceCtrlHandlerExW
+
+    api-ms-win-security-base-l1-1-0.dll
+             1800134C0 Import Address Table
+             1800177A0 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          42 GetTokenInformation
+                          4E IsWellKnownSid
+                          2C EqualSid
+                          29 DuplicateTokenEx
+
+    api-ms-win-core-registry-l1-1-0.dll
+             180013430 Import Address Table
+             180017710 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                          1E RegOpenKeyExW
+                          25 RegQueryValueExW
+                           0 RegCloseKey
+
+    api-ms-win-core-processenvironment-l1-1-0.dll
+             1800133F8 Import Address Table
+             1800176D8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           1 ExpandEnvironmentStringsW
+
+    api-ms-win-core-sysinfo-l1-1-0.dll
+             1800134B0 Import Address Table
+             180017790 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           F GetSystemDirectoryW
+
+    api-ms-win-security-capability-l1-1-0.dll
+             1800134E8 Import Address Table
+             1800177C8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                           0 CapabilityCheck
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

@@ -1,0 +1,2354 @@
+!This program cannot be run in DOS mode.
++Rich
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+Print.PrintSupport.Source.dll
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+ntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+generic
+unknown error
+iostream
+iostream stream error
+system
+SYSTEM\CurrentControlSet\Control\Print\PrintQueue
+DisablePQAC
+Local\SM0:%lu:%lu:%hs
+invalid string position
+string too long
+Windows.UI.Notifications.ToastNotification
+Windows.Foundation.Uri
+Windows.UI.Notifications.ToastNotificationManager
+Windows.Foundation.PropertyValue
+ms-settings:printers
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+ASYNCUI_NOTIFYICON_WINDOW_CLASS
+<duixml>  <element resid="main" layout="borderlayout()" accessible="true" accname="main" accrole="text">    <element id="atom(bitmap)" layoutpos="left" />    <element id="atom(body)" layoutpos="left" contentalign="wrapleft" accessible="true" accname="body" accrole="text"/>  </element></duixml>
+bitmap
+printscan\print\ui\asyncui\prnntfy\notifyicon.cxx
+OpenPrintQueue failed
+TaskbarCreated
+Comctl32.dll
+TaskDialogIndirect
+?QueryActCtxW
+GetModuleHandleExW
+CreateActCtxW
+FindActCtxSectionStringW
+Comctl32.dll
+ActivateActCtx
+IsolationAware function called after IsolationAwareCleanup
+Kernel32.dll
+Kernel32.dll
+DeactivateActCtx
+>XD[E
+PrintConfig.dll
+Software\Microsoft\Windows NT\CurrentVersion\Print
+DisableTrayNotification
+PerUserName
+SYSTEM\CurrentControlSet\Control\Print\Printers\
+printscan\print\ui\asyncui\prnntfy\prnntfy.cxx
+printui.dll
+ConstructPrinterFriendlyName
+DeviceContainerId
+PnPData
+MSJOBOUTPUT=AUTO
+vector<T> too long
+Printers\Settings
+EnableBalloonNotificationsLocal
+EnableBalloonNotificationsRemote
+ms-print-queue:open?
+printer=
+Windows.PrintSupportJobUI
+printscan\print\ui\asyncui\prnntfy\globals.cxx
+vQueueCreate
+/toast/visual/binding/text[number(@id) = '%d']
+/toast
+launch
+Windows.SystemToast.Print.PrintNotification
+Windows.SystemToast.Print.Notification
+%wssplwow64.exe
+%ws\splwow64.exe
+%wsrundll32.exe
+%ws\rundll32.exe
+Prnntfy.dll,AsyncUILoaderEntry
+ShowToastActivity
+OpenPrintQueueActivity
+@Qm6t
+onecore\internal\sdk\inc\wil\opensource/wil/result.h
+<?xml version="1.0" ?><asyncPrintUIResponse xmlns="http://schemas.microsoft.com/2003/print/asyncui/v1/response"><v1><requestClose><CustomUI>%s</CustomUI></requestClose></v1></asyncPrintUIResponse>
+<?xml version="1.0" ?><asyncPrintUIResponse xmlns="http://schemas.microsoft.com/2003/print/asyncui/v1/response"><v1><requestClose><messageBoxUI><buttonID>%d</buttonID></messageBoxUI></requestClose></v1></asyncPrintUIResponse>
+%s Prnntfy.dll,AsyncUILoaderEntry %s
+asyncPrintUIRequest
+requestOpen
+balloonUI
+title
+action
+parameter
+messageBoxUI
+buttons
+button
+CustomUI
+CustomData
+iconID
+resourceDll
+stringID
+entrypoint
+bitmapID
+buttonID
+PrinterName
+IDCANCEL
+%s %s
+Local\%s_ASYNCUI
+LaunchDpaActivity
+HandleV3EventActivity
+LaunchWsdaActivity
+TNotifyAction::DevQueryResultCallback DevQueryResultStateChange
+printscan\print\ui\asyncui\printnotificationutil\notify.cpp
+TNotifyAction::DevQueryResultCallback DevQueryResultAdd
+OpenPrinter() failed
+GetPrinterData(PnPData, DeviceContainerId)
+DevCreateObjectQueryEx() failed
+WaitForSingleObject() failed
+bad allocation
+ShowToastActivity
+PartA_PrivTags
+wilActivity
+threadId
+printerName
+flags
+OpenPrintQueueActivity
+PartA_PrivTags
+wilActivity
+threadId
+printerName
+OAuthDialog
+PartA_PrivTags
+PrinterName
+HResult
+ShowToastActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+ShowToastActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+ActivityError
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+ActivityError
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+OpenPrintQueueActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+OpenPrintQueueActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+ActivityStoppedAutomatically
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+ActivityIntermediateStop
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+LaunchDpaActivity
+PartA_PrivTags
+wilActivity
+threadId
+printerName
+HandleV3EventActivity
+PartA_PrivTags
+wilActivity
+threadId
+printerName
+LaunchWsdaActivity
+PartA_PrivTags
+wilActivity
+threadId
+LaunchDpaActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+LaunchDpaActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+HandleV3EventActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+HandleV3EventActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+LaunchWsdaActivity
+PartA_PrivTags
+PartA_PrivTags
+wilActivity
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+LaunchWsdaActivity
+PartA_PrivTags
+wilActivity
+hresult
+threadId
+Microsoft.Windows.Shell.PrintNotification
+prnntfy.pdb
+.rdata$brc
+.rdata$T$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.gfids
+.giats
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$brc
+.data$r$brc
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+u$WSQ
+v0h<(
+v hd(
+v h|(
+VWjbZ
+VWjkZ
+97s/j
+QQSVW
+u!hH)
+93uHWV
+&PWSV
+QQSVW3
+PQRj+
+PVWQRj+
+WPj h
+u$h8-
+D$(PQ
+T$0QQV
+L$4^3
+XL93uIW
+u'hX-
+tFhpD
+4SVWQQ
+QQQQP
+PPPPPh
+SSPj j
+f95pI
+93uHWV
+tdWhTI
+u,VVV
+SWRQVj
+PQRj+
+PVWQRj+
+QQSVW
+Pj(RQ
+PWVSR
+PWVSR
+x!j@Sj
+F@Pj j
+C\PRh
+_X9_\t
+_89O<t
+S9w$~
+F;w$|
+L$ QP
+D$$tO
+VVVVh
+C8PQh
+F;wL|
+_D9_Ht
+m9F$th
+4SVW3
+WWPj 
+j\Xf9
+9w\u^!0
+90u7h
+9XLtd
+N,ubj
+t%VWj
+x=QWj
+F$Pj j
+;_^[]
+WPj h
+PQRj+
+QQPQQ
+uUQQj
+thj<_W
+@VWj<_W
+xSSh87
+Pj h ,
+j\Yf9
+j\Yf9
+_^[Y]
+Z\9;s
+L$,^3
+F@WWPj j
+~PPj j
+~dPj j
+_l9_ht
+_h9_dt
+^9_<t
+_<9_8t
+_89_4t
+_49_ t
+PRVQh
+(_^[]
+PQRj\h
+PRQj<h
+_8Vj 
+9_<u<hh
+9_8u4h|
+9F$t"9}
+9x@t|
+'9~,u
+_L93u
+u$QSQ
+j j j
+QQQQP
+QQSVW
+QQSV3
+H<!p<
+j8hP.
+Fj _f;
+<w2tK
+QQVW3
+QQVW3
+D$0j'P
+D$0Pj'Z
+9Sht%
+QQSVW
+SSVj j
+SSVj j
+Pjdh`
+PQQSVW
+t&htM
+PQQSVW
+Y__^[
+Y__^[
+IsPsaEnabledForContract
+LaunchPsaAppForError
+prnntfy.dll
+AsyncUILoaderEntryW
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+PrintNotifyTray_Exit
+PrintNotifyTray_Init
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@@
+PrintTray_Notify_WndClass
+PrintConfig.dll
+\Rundll32.exe
+_vsnwprintf
+memcpy_s
+??3@YAXPAX@Z
+_purecall
+??_V@YAXPAX@Z
+memmove_s
+_wcsicmp
+wcsncmp
+_wcsnicmp
+_wtoi
+malloc
+_callnewh
+??0exception@@QAE@XZ
+??0exception@@QAE@ABQBD@Z
+??0exception@@QAE@ABQBDH@Z
+??0exception@@QAE@ABV0@@Z
+??1exception@@UAE@XZ
+?what@exception@@UBEPBDXZ
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+memmove
+_XcptFilter
+_amsg_exit
+_initterm
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+_except_handler4_common
+??1type_info@@UAE@XZ
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+SetLastError
+ReleaseSemaphore
+GetModuleHandleExW
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+FormatMessageW
+GetLastError
+OutputDebugStringW
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+IsDebuggerPresent
+DisableThreadLibraryCalls
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+ReleaseSRWLockShared
+AcquireSRWLockShared
+SetThreadpoolTimer
+GetModuleHandleA
+LoadLibraryW
+GetModuleFileNameW
+OutputDebugStringA
+LeaveCriticalSection
+EnterCriticalSection
+DeleteCriticalSection
+CloseThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+InitializeCriticalSectionEx
+LoadLibraryA
+InitializeCriticalSectionAndSpinCount
+Sleep
+CreateThreadpoolTimer
+FreeLibrary
+UnmapViewOfFile
+GetSystemTimeAsFileTime
+QueueUserWorkItem
+SystemTimeToFileTime
+GetFullPathNameW
+OpenFileMappingW
+MapViewOfFile
+WideCharToMultiByte
+InitOnceBeginInitialize
+InitOnceComplete
+ReadProcessMemory
+OpenProcess
+QueryFullProcessImageNameW
+GetSystemWindowsDirectoryW
+GetSystemDirectoryW
+LocalFree
+RaiseException
+InitializeCriticalSection
+ProcessIdToSessionId
+CompareStringOrdinal
+TryEnterCriticalSection
+CreateProcessW
+GetExitCodeProcess
+lstrcmpiW
+CreateFileMappingW
+CreateEventW
+SetEvent
+ResetEvent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetTickCount
+KERNEL32.dll
+CoCreateInstanceEx
+CoSetProxyBlanket
+CoCreateInstance
+CoInitializeEx
+CoUninitialize
+CoCreateGuid
+StringFromCLSID
+CoTaskMemFree
+StringFromGUID2
+CoCreateFreeThreadedMarshaler
+ole32.dll
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+RegisterTraceGuidsW
+UnregisterTraceGuids
+TraceMessage
+RegGetValueW
+GetUserNameW
+EventWriteTransfer
+EventUnregister
+EventSetInformation
+EventRegister
+EventActivityIdControl
+ADVAPI32.dll
+LoadImageW
+DestroyIcon
+DestroyWindow
+CreateWindowExW
+LoadMenuW
+GetSubMenu
+RemoveMenu
+DestroyMenu
+InsertMenuItemW
+DeleteMenu
+AppendMenuW
+SetMenuItemInfoW
+GetMenuItemInfoW
+SetForegroundWindow
+TrackPopupMenu
+PostMessageW
+LoadCursorW
+LoadIconW
+RegisterClassExW
+GetWindowLongW
+SetWindowLongW
+RegisterWindowMessageW
+GetCursorPos
+DefWindowProcW
+SetTimer
+KillTimer
+PeekMessageW
+RegisterClassW
+CallWindowProcW
+GetWindowThreadProcessId
+GetForegroundWindow
+LoadStringW
+GetDesktopWindow
+USER32.dll
+DeleteObject
+GDI32.dll
+OpenPrinterW
+ClosePrinter
+UnRegisterForPrintAsyncNotifications
+GetPrinterDataExW
+RegisterForPrintAsyncNotifications
+GetPrinterDriverDirectoryW
+GetPrinterDriverW
+WINSPOOL.DRV
+RtlGetDeviceFamilyInfoEnum
+NtQueryInformationProcess
+RtlQueryWnfMetaNotification
+ntdll.dll
+OLEAUT32.dll
+Shell_NotifyIconW
+ShellExecuteExW
+CommandLineToArgvW
+SHELL32.dll
+PathRemoveExtensionW
+PathRemoveFileSpecW
+PathAddBackslashW
+SHLWAPI.dll
+STRAPI_LoadString
+STRAPI_FormatMsg
+STRAPI_Format
+puiapi.dll
+WindowsDeleteString
+WindowsGetStringRawBuffer
+WindowsDeleteStringBuffer
+WindowsPreallocateStringBuffer
+WindowsCreateString
+WindowsPromoteStringBuffer
+WindowsCreateStringReference
+RoGetActivationFactory
+RegOpenKeyExW
+RegQueryValueExW
+RegCloseKey
+GetTickCount64
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+DevCloseObjectQuery
+DevCreateObjectQueryEx
+DevCreateObjectQuery
+DevGetObjectProperties
+DevFindProperty
+DevFreeObjectProperties
+api-ms-win-devices-query-l1-1-0.dll
+api-ms-win-devices-query-l1-1-1.dll
+GetWindowBand
+NtQueryWnfStateData
+RtlTestAndPublishWnfStateData
+RtlWaitForWnfMetaNotification
+api-ms-win-rtcore-ntuser-private-l1-1-0.dll
+InitThread
+UnInitThread
+?Create@DUIXmlParser@DirectUI@@SGJPAPAV12@P6GPAVValue@2@PBGPAX@Z2P6GX11H2@Z2@Z
+?SetXML@DUIXmlParser@DirectUI@@QAEJPBGPAUHINSTANCE__@@1@Z
+?CreateElement@DUIXmlParser@DirectUI@@QAEJPBGPAVElement@2@1PAKPAPAV32@@Z
+?EndDefer@Element@DirectUI@@QAEXK@Z
+?FindDescendent@Element@DirectUI@@QAEPAV12@G@Z
+StrToID
+?SetContentString@Element@DirectUI@@QAEJPBG@Z
+?ContentProp@Element@DirectUI@@SGPBUPropertyInfo@2@XZ
+?SetValue@Element@DirectUI@@QAEJP6GPBUPropertyInfo@2@XZHPAVValue@2@@Z
+?SetAccName@Element@DirectUI@@QAEJPBG@Z
+?CreateGraphic@Value@DirectUI@@SGPAV12@PAUHBITMAP__@@EI_N11@Z
+?SetVisible@Element@DirectUI@@QAEJ_N@Z
+CreateDUIWrapper
+?Destroy@Element@DirectUI@@QAEJ_N@Z
+?Destroy@DUIXmlParser@DirectUI@@QAEXXZ
+InitProcessPriv
+UnInitProcessPriv
+DUI70.dll
+_vsnprintf_s
+?terminate@@YAXXZ
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+WakeAllConditionVariable
+SleepConditionVariableSRW
+memcmp
+memset
+TYPELIB
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    name="Microsoft.Windows.PrintScan.PRNNTFY"
+    processorArchitecture="x86"
+    version="5.1.0.0"
+    type="win32"/>
+<description>Print Notification UI Component</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="x86"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+</dependency>
+</assembly>
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+prnntfy DLL
+FileVersion
+10.0.22621.730 (WinBuild.160101.0800)
+InternalName
+prnntfy.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+prnntfy.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.730
+VarFileInfo
+Translation
+wt5gqecrt7
+w5wwwWwvx
+wwwwwwww
+xwwwwww
+wgew?
+GGRvx
+565qh
+VwvwX
+wwswx
+wwwwwwww
+bA:9=F
+D@;<>` 
+-g_uS~
+k8Kgu,
+g82S~S2
+g523am%
+p522Om
+!!!! 
+~I228
+W,(*.2222.,,(..,!3y
+\KKKQQQNK8KQK8822a
+g___f_\Wg_WWWSSKW
+uuutmmmgggggm~
+:::#777jRRR
+[vvv0
+wt5gqecrt7
+w5wwwWwvx
+wwwwwwww
+xwwwwww
+wgew?
+GGRvx
+565qh
+VwvwX
+wwswx
+wwwwwwww
+bA:9=F
+D@;<>` 
+-g_uS~
+k8Kgu,
+g82S~S2
+g523am%
+p522Om
+!!!! 
+~I228
+W,(*.2222.,,(..,!3y
+\KKKQQQNK8KQK8822a
+g___f_\Wg_WWWSSKW
+uuutmmmgggggm~
+:::#777jRRR
+[vvv0
+C,(]C
+iWVim
+stdole2.tlbWWWTN
++PrintUIObjLibWWW
+CacheManagerd
+ICacheManagerWWWd
+NInitializeWW
+bUIModeW
+bTimerWW
+lTimerCountW
+8)\tagEPrintPropertiesW
+ZkPP_FIRSTWWW
+8kPP_SERVER_NAMEW
+kPP_PRINTER_NAME
+kPP_SHARE_NAMEWW
+nkPP_PORT_NAMEWWW
+xkPP_DRIVER_NAMEW
+kPP_COMMENTW
+kPP_LOCATION
+kPP_DEVMODEW
+kPP_SEPFILEW
+kPP_PRINT_PROCESSORW
+LkPP_PARAMETERSWW
+&kPP_DATATYPE
+kPP_SECURITY_DESCRIPTORW
+GkPP_ATTRIBUTESWW
+0,zkPP_PRIORITY
+kPP_DEFAULT_PRIORITY
+06YkPP_START_TIMEWW
+ kPP_UNTIL_TIMEWW
+kPP_STATUSWW
+kPP_STATUS_STRINGWWW
+WkPP_CJOBSWWW
+kPP_AVERAGE_PPMW
+kPP_TOTAL_PAGESW
+(kPP_PAGES_PRINTEDWWW
+kPP_TOTAL_BYTESW
+0srkPP_BYTES_PRINTEDWWW
+0|ZkPP_BRANCH_OFFICE_PRINTINGWW
+kPP_LAST
+ekJP_FIRSTWWW
+0T-kJP_PRINTER_NAME
+rkJP_MACHINE_NAME
+kJP_PORT_NAMEWWW
+kJP_USER_NAMEWWW
+kJP_NOTIFY_NAMEW
+kJP_DATATYPE
+kJP_PRINT_PROCESSORW
+pkJP_PARAMETERSWW
+kJP_DRIVER_NAMEW
+kJP_DEVMODEW
+kJP_STATUSWW
+kJP_STATUS_STRINGWWW
+0z5kJP_SECURITY_DESCRIPTORW
+PkJP_DOCUMENT
+kJP_PRIORITY
+ZkJP_POSITION
+kJP_SUBMITTEDWWW
+}kJP_START_TIMEWW
+DkJP_UNTIL_TIMEWW
+kJP_TIME
+kJP_TOTAL_PAGESW
+)kJP_PAGES_PRINTEDWWW
+kJP_TOTAL_BYTESW
+rkJP_BYTES_PRINTEDWWW
+rkJP_PRINTER_STATUSWW
+kJP_PRINTER_ASYNCUI_ENABLE_FLAGW
+kJP_LAST
+0M1kJP_LAST_PHYSICALWWW
+0/qkDP_FIRSTWWW
+kDP_CVERSION
+kDP_NAME
+0^~kDP_ENVIRONMENTW
+0V@kDP_DRIVER_PATHW
+2kDP_DATA_FILEWWW
+0c=kDP_CONFIG_FILEW
+kDP_HELP_FILEWWW
+kDP_DEPENDENT_FILESW
+kDP_LANG_MONITOR
+kDP_DEFAULT_DATA_TYPEWWW
+0zmkDP_PREVIOUS_NAMESWW
+kDP_DRIVER_DATEW
+kDP_DRIVER_VERSIONWW
+kDP_MANUFACTURER
+kDP_OEMURLWW
+kDP_HARDWARE_IDW
+kDP_PROVIDER
+0@[KDP_PRINT_PROCESSORW
+KDP_INF_PATH
+cKDP_PRINTER_DRIVER_ATTRIBUTESWWW
+kDP_INFO_LASTWWW
+cKDP_DRIVER_SANDBOXINGWWW
+GKDP_DRIVER_SYSTEM_ISOLATION_DEFAULTW
+KDP_DRIVER_ISOLATION_REG_SET
+"kDP_LAST
+kPORTP_FIRST
+0)[kPORTP_PORTNAMEW
+kPORTP_MONITORNAMEWW
+kPORTP_DESCRIPTIONWW
+hkPORTP_PORTTYPEW
+NkPORTP_PRINTERNAMEWW
+kPORTP_LASTW
+bkFP_FIRSTWWW
+0qWkFP_FLAGSWWW
++kFP_NAME
+4kFP_SIZE
+kFP_IMAGEABLEAREAWWW
+kFP_LAST
+\kSP_FIRSTWWW
+dkSP_SERVER_STATUSWWW
+kSP_LAST
+kPDP_FIRSTWW
+kPDP_DRIVER_VERSIONW
+kPDP_DRIVER_PROVIDER
+0GDkPDP_CVERSIONWWW
+]kPDP_LASTWWW
+kServerStatus_CountW
+UkPrinterProperties_Count
+kJobProperties_Count
+fkJobInfo2Properties_CountWWW
+kDriverProperties_CountW
+0D'kDriverInfoProperties_CountW
+kkPortProperties_CountWWW
+kFormProperties_CountWWW
+UkPrintProperties_CountWW
+7kPrintProperties_Invalid,
+YINotificationsListenerWW,
+StartListenW,
+StopListenWW,
+}]TryStopW,
+IsStoppedWWW
+pbStoppedWWW,
+8lRefreshAllWW
+bSynchronous,
+QueryServerStatusCheckWW
+QcurTimeW
+h\pbNeedWW
+tagEServerStateW
+kSS_FIRSTWWW
+0iNkSS_SERVER_REACHABLE
+mkSS_SERVER_UNREACHABLEWW
+kSS_SPOOLER_REACHABLEWWW
+kSS_SPOOLER_UNREACHABLEW
+kSS_LAST,
+PProcessServerStatusChangeWWW
+eServerStatusWWW
+NeSpoolerStatusWW
+UINT_PTRX
+LONG_PTR,
+Y]OnMsgWWW
+wParamWWT$
+7lParamWW,
+ProcessListenerTaskW
+ICachePropertyWW
+PropertyGetLongW
+nContextIDWW
+ePropertyWWW
+pValueWW
+PropertyGetStringWWW 
+85;_SYSTEMTIMEW 
+wYearWWW 
+p!wMonthWW 
+wDayOfWeekWW 
+~.wDay 
+wHourWWW 
+wMinuteW 
+q_wSecondW 
+wMillisecondsWWW
+%PropertyGetTimeW
+{pTimeWWW
+tagSIZEL
+\cxWW
+\cyWW
+aPropertyGetSIZEW
+pSizeWWW
+_RECTLWW
+{left
+rightWWW
+H{bottomWW
+PropertyGetRECTW
+pRectWWW
+OPropertyGetBLOBW
+pcbBlobSizeW
+9ppBLOBWW
+PropertyGetDWORDLONGL
+IEnumBSTRWWWL
+C:ppStringsWWW
+pceltFetchedL
+>ResetWWWL
+SkipL
+CloneWWW
+ppenumWW
+0PropertyGetMultiStringWW
+ppEnumBstrWW
+PropertySetLongW
+lValueWW
+^PropertySetStringWWW
+9bstrValueWWW
+PropertySetTimeW
+?PropertySetSIZEW
+aPropertySetRECTW
+-PropertySetBLOBW
+cbBlobSizeWW
+pBLOBWWW
+R[PropertySetDWORDLONG
+dValueWW
+PropertySetMultiStringWW
+CopyContentW
+pPropertiesW,
+QsGetPropertyCache
+ppCachePropertyW,
+GetServerPID
+EISimpleCPCWW
+IsSinkSupportedW
+3riid
+?pbSupportedW
+ULONG_PTRWWW
+pAdviseWW
+8pUnkSink
+ypuCookie
+Unadvise
+uCookieW,
+GetCPCWW
+DppCPCWWWx
+IEnumContext
+EICacheContextWWW
+isGetContextID
+pnContextIDW@
+tagEInfosetNotifyTypeWWW@
+0eMkNotifyInvalidWW@
+kNotifyCreateWWW@
+kNotifyDeleteWWW@
+kkNotifyUpdateWWW@
+0kCkNotifyUpdateAll
+)JGetTypeW
+peTypeWW
+OGetServerIDW
+LdGetSpoolerID
+plSpoolerIDW
+GetChangedPropertyOnUpdateWW
+OePropWWW
+V`ppICacheContextWx
+0vCountWWW
+plCountW,
+EnumAllObjectsWW
+{ppEnumContextWWW,
+GetIsCurrentUserAdminOnServerWWW
+_pbIsAdministratorWWWd
+iGetPrintersCache
+}bstrServerNameWW
+nPropCountWW
+pProperties2MonitorW
+bFilterW
+bAcceptStatusNotifyW
+DdwNotifyOptionsW
+ppListenerWWd
+DGetJobsCache
+GbstrPrinterNameWd
+:LGetDriversCacheWd
+GetFormsCacheWWWd
+9GetPortsCacheWWW
+ILocalConnectionListener
+tagNotificationTypeW
+[kNotificationPrintersWWW
+kNotificationJobsWWW
+0_HkNotificationDrivers
+kNotificationPortsWW
+kNotificationFormsWW
+kNotificationServerW
+kNotificationConnectionW
+kNotificationPrinterDriverDataWW
+0lzkNotificationInvalid
+lConnectionIDWWW
+eNotificationTypeWWW
+GetLocalConnectionNameWW
+@7pstrName
+aGetJobListenerWW
+PrepareToStopWWWd
+GetLocalConnectionCacheWd
+8_RemoveServer
+olServerIDWWWd
+"TryRemoveServerW
+:plServerIDWWd
+CheckServerStatusWWWd
+xEnablePDDataMergeWWW
+bEnableWl
+8O{SnapinRegistrationWW
+ISnapinRegistrationW
+Register
+vguidSnapinWW
+guidAboutWWW
+hModuleW
+nSnapinNameIDWWW
+nDescriptionIDWW
+nProviderIDW
+bStandaloneW
+/EUnregisterWW
+RegisterExtendableNodesW
+hnExtendableNodeTypesCountWWW
+pguidExtendableNodeTypes
+kUnregisterExtendableNodesWWW4
+tagESnapinExtensionTypeW4
+ekSnapinExtType_NameSpace4
+ykSnapinExtType_ContextMenuWW4
+kSnapinExtType_ViewW4
+;kSnapinExtType_ToolBarWW4
+kSnapinExtType_PropertySheet4
+&kSnapinExtType_TaskW4
+UkSnapinExtType_Count
+V3RegisterExtensionWWW
+guidNodeToExtend
+DmnExtNameIDWW
+ReExtensionTypeWW
+UnregisterExtensionW
+SnapinStateW
+8kDISnapinState
+{GetComponentDataCLSIDWWW
+pclsidWW
+SetComponentDataCLSIDWWW
+rclsidWW
+QPGetComponentCLSIDWWW
+SetComponentCLSIDWWW
+E}GetRootNodeCLSID
+|SetRootNodeCLSID
+GetExtensionNodeType
+pguidWWW
+SetExtensionNodeType
+rguidWWW`
+IConsole2WWW
+IConsole(
+IHeaderCtrlW(
+InsertColumnt'
+~titleWWW
+nFormatW
+nWidthWW(
+DeleteColumn(
+SetColumnTextWWW(
+2UGetColumnTextWWW
+WgpTextWWW(
+SetColumnWidthWW(
+4GetColumnWidthWW
+pWidthWW
+<SetHeaderWWW
+m/pHeaderW
+IToolbar
+uwireHBITMAPWT
+"_userHBITMAPT
+cfContext
+Z__MIDL_IWinTypes_0007WWW
+JhInprocW
+_userBITMAPW
+\bmTypeWW
+bmWidthW
+bmHeight
+bmWidthBytes
+BbmPlanes
+bmBitsPixelW
+,*cbSizeWW
+pBufferW
+hRemoteW
+&hInproc64WWWT
+sbAddBitmapWWW
+enImagesW
+"Vhbmp
+cxSizeWW
+cySizeWW
+{crMaskWW
+_MMCButtonWW
+JnBitmapW
+idCommandWWW
+DfsStateW
+#fsTypeWW
+lpButtonText
+lpTooltipTextWWW
+AddButtonsWW
+kHnButtons
+L\lpButtonsWWW
+7InsertButtont'
+'nIndexWW
+lpButton
+FDeleteButton
+_MMC_BUTTON_STATEWWW
+ENABLEDW
+CHECKEDW
+HIDDENWW
+jINDETERMINATEWWW
+BUTTONPRESSEDWWW
+`CGetButtonStateWWT$
+]nnStateWW
+pStateWW
+SetButtonStateWW
+^bStateWW
+SetToolbarWW
+pToolbar
+=QueryResultViewW
+r}pUnknownH
+sIImageListWWH
+ImageListSetIcon
+pIconWWW
+-nLocH
+VImageListSetStripWWW
+xpBMapSmW
+wpBMapLgW
+nStartLocWWW
+cMaskWWW
+^QueryScopeImageListW
+;ppImageListW
+mQueryResultImageList
+IDataObjectW
+tagFORMATETCt
+8ppwireCLIPFORMATWW
+_userCLIPFORMATW<
+Z__MIDL_IWinTypes_0001WWW<
+]dwValueW<
+vpwszName
+cfFormat
+8DFtagDVTARGETDEVICEWWW
+tdSizeWW
+S!tdDriverNameOffsetWW
+f?tdDeviceNameOffsetWW
+LItdPortNameOffset
+tdExtDevmodeOffsetWW
+tdDataWW
+dwAspect
+lindexWW
+tymedWWW
+wireSTGMEDIUMWWWh
+X_userSTGMEDIUMWW
+_STGMEDIUM_UNION0
+D__MIDL_IAdviseSink_0003W
+A_userHMETAFILEPICTWW
+Z__MIDL_IWinTypes_0005WWW\
+_remoteMETAFILEPICTW\
+C^mmWW\
+xExt\
+qyExt
+8_D_userHMETAFILEWW$
+Z__MIDL_IWinTypes_0004WWW
+T_BYTE_BLOBWW
+clSizeWW
+<abDataWW\
+hMFW0
+}hMetaFilePictWWW
+_userHENHMETAFILEWWWP
+Z__MIDL_IWinTypes_0006WWW0
+hHEnhMetaFileWWW
+8hg_GDI_OBJECTW
+ObjectTypeWW
+D__MIDL_IAdviseSink_0002W
+hBitmapW|
+88f_userHPALETTEWWW
+Z__MIDL_IWinTypes_0008WWWD
+tagLOGPALETTEWWWD
+palVersionWWD
+palNumEntriesWWW
+atagPALETTEENTRYW
+peRedWWW
+4peGreenW
+peBlueWW
+peFlagsWD
+spalPalEntryW
+hPalette
+2_userHGLOBALp
+Z__MIDL_IWinTypes_0003WWW
+i_FLAGGED_BYTE_BLOBWW
+ fFlagsWW
+.hGeneric0
+hGdiHandleWW0
+hGlobalW0
+lpszFileName0
+pstm0
+pstgh
+DUMMYUNIONNAMEWWh
+pUnkForReleaseWW
+RemoteGetDataWWW
++pformatetcIn
+%pRemoteMediumWWW
+,RemoteGetDataHereWWW
+&pformatetcWW
+QueryGetData
+R(GetCanonicalFormatEtcWWW
+ZfpformatectIn
+pformatetcOutWWW8
+{wireFLAG_STGMEDIUMWW
+h_userFLAG_STGMEDIUMW
+ContextFlags
+YfPassOwnershipWW
+StgmedWW
+RemoteSetDataWWW
+pmediumW
+6VfRelease
+IEnumFORMATETCWW
+RemoteNextWW
+rgeltWWW
+EnumFormatEtcWWW
+dwDirectionW
+ppenumFormatEtcWd
+fIAdviseSinkW
+8:=wireASYNC_STGMEDIUMWd
+RemoteOnDataChangeWW
+PxpStgmedWd
+]_RemoteOnViewChangeWW,
+rIMoniker
+IPersistStreamWW
+8V>IPersist
+AGetClassIDWW
+!0pClassID
+ZIsDirtyWX
+8Q$IStreamW
+83GISequentialStreamWWW
+RemoteReadWW
+^pvWW
+\cbWW
+g-pcbReadW
+RemoteWriteW
+pcbWrittenWW 
+_LARGE_INTEGERWW 
+QuadPart
+_ULARGE_INTEGERWX
+RemoteSeekWW
+dlibMove
+dwOrigin
+plibNewPositionWX
+Y3SetSizeW
+zlibNewSizeWWX
+&RemoteCopyToX
+CommitWW
+grfCommitFlagsWWX
+nRevertWWX
+N!LockRegionWW
+(libOffsetWWW
+dwLockTypeWWX
+UnlockRegion
+tagSTATSTGWW
+pwcsName
+typeL
+_FILETIMEWWWL
+dwLowDateTimeWWWL
+dwHighDateTimeWW
+mtimeWWW
+ctimeWWW
+atimeWWW
+grfModeW
+grfLocksSupportedWWW
+clsidWWW
+grfStateBits
+reservedX
+2Stat
+pstatstg
+&rgrfStatFlagW
+ppstmWWW
+\sfClearDirtyW
+9GetSizeMaxWW
+pcbSizeW
+8c/IBindCtx
+RegisterObjectBoundW
+RevokeObjectBoundWWW
+_+ReleaseBoundObjectsW
+tagBIND_OPTS2WWW
+cbStruct
+%hgrfFlags
+dwTickCountDeadlineW
+dwTrackFlags
+dwClassContextWW
+localeWWx
+_COSERVERINFOWWWx
+@dwReserved1W
+_COAUTHINFOW
+YdwAuthnSvcWW
+dwAuthzSvcWW
+$pwszServerPrincNameW
+dwAuthnLevel
+dwImpersonationLevel@
+O_COAUTHIDENTITYW@
+User@
+UserLengthWW@
+DomainWW@
+DomainLength@
+Password@
+?PasswordLengthWW@
+oFlagsWWW
+pAuthIdentityDataWWW
+^dwCapabilitiesWWx
+pAuthInfoWWWx
+@dwReserved2W
+pServerInfoW
+RemoteSetBindOptions
+pbindoptsWWW
+RemoteGetBindOptions
+8xQIRunningObjectTableW
+lpunkObjectWW
++pmkObjectNameWWW
+pdwRegisterW
+RevokeWW
+dwRegisterWW
+~IsRunningWWW
+GetObjectWWW
+appunkObjectW
+NoteChangeTimeWW
+pfiletimeWWW
+GetTimeOfLastChangeW
+IEnumMoniker
+EnumRunningW
+ppenumMonikerWWW
+LGetRunningObjectTableWWW
+pprotWWW
+RegisterObjectParamW
+qpszKeyWW
+GetObjectParamWW
+ppunkWWWl 
+IEnumStringW
+EnumObjectParamW
+RevokeObjectParamWWW,
+/RemoteBindToObjectWW
+pmkToLeftWWW
+riidResultWW
+k:ppvResultWWW,
+"XRemoteBindToStorageW
+ppvObjWW,
+ReduceWW
+[dwReduceHowFarWW
+ppmkToLeftWW
+ppmkReducedW,
+ComposeWithW
+?pmkRight
+fOnlyIfNotGenericWWW
+ppmkCompositeWWW,
+ZFEnum
+fForward,
+w'IsEqualW
+epmkOtherMonikerW,
+QHash
+pdwHashW
+pmkNewlyRunningW,
+InverseW
+ppmk,
+CommonPrefixWith
+pmkOther
+bxppmkPrefixWW,
+RelativePathToWW
+ppmkRelPathW,
+=GetDisplayNameWW
+ppszDisplayNameW,
+ParseDisplayName
+hrpszDisplayNameWW
+;pchEaten
+ZppmkOutW,
+FIsSystemMonikerW
+pdwMksysd
+4RemoteOnRenameWW
+pmkWd
+RemoteOnSaved
+k{RemoteOnCloseWWW
+eDAdviseW4!
+advf4!
+pAdvSink
+pdwConnectionWWW
+DUnadviseWWW4!
+dwConnection
+IEnumSTATDATAWWW4!
+tagSTATDATAW4!
+x\formatetcWWW
+EnumDAdviseW
+U]ppenumAdvise
+UpdateAllViewsWW
+lpDataObject
+;data
+{hint
+OMessageBoxWW
+lpszText
+lpszTitleWWW
+fuStyleW
+CpiRetval
+IConsoleVerb
+_MMC_CONSOLE_VERBWWW
+1MMC_VERB__dummy_
+GetVerbState
+@*eCmdIDWW
+SetVerbState
+SetDefaultVerbWW
+GetDefaultVerbWW
+peCmdIDW
+QueryConsoleVerb
+ppConsoleVerbWWW
+W"SelectScopeItemW
+IhScopeItemWW`"
+wireHWND
+_RemotableHandle(#
+Z__MIDL_IWinTypes_0009WWW
+GetMainWindowWWW
+|phwndWWW
+NewWindowWWW
+|lOptions`
+$dExpandWW
+hItemWWW
+bExpandW`
+IsTaskpadViewPreferredWW`
+]:SetStatusTextWWW
+kpszStatusTextWWW
+GetConsoleWW
+aSppConsoleWWW
+SetConsoleWW
+pConsole
+IConsoleNameSpace2WW
+8q,IConsoleNameSpaceWWWT$
+}_SCOPEDATAITEMWWT$
+-maskT$
+displaynameWT$
+QnImageWWT$
+nOpenImageWWT$
+l*cChildrenWWWT$
+relativeIDWWT$
+]IDWW
+(InsertItemWW
+zitem
+(DeleteItemWW
+PfDeleteThisW
+SetItemW
+GetItemW
+7jGetChildItem
+xpItemChildWW
+}fpCookieW
+GetNextItemW
+pItemNextWWW
+,<GetParentItemWWW
+pItemParentW
+AddExtension
+lpClsidW
+GetConsoleNameSpaceW
+ITppConsoleNameSpaceWW
+SetConsoleNameSpaceW
+pConsoleNameSpaceWWW
+ISnapinNodeW
+[IsScopeNodeW
+pbIsScopeNodeWWW
+NodeType
+=GpguidNodeTypeWWW
+>ColumnsCount
+pnCountW
+nColumnW
+pbstrDisplayName
+dtagESnapinIconTypeWW
+0gOkSnapinIconExpandedW
+kSnapinIconCollapsed
+7IconIndexWWW
+eIconTypeWWW
+pnIndexW
+ScopeNodeIDW
+ParentID
++GetResultViewTypeWWW
+\#pbstrViewTypeWWW
+LpnViewOptionsWWW
+?CompareToWWW
+pNodeWWW
+pnResult
+_2PreDisplayInfoWW
+c7GetRootNodeW
+ppRootNodeWW
+SetRootNodeW
+pRootNodeWWW
+GetUserCookieWWW
+BppCookie
+7SetUserCookieWWW
+SetRunningAsExtensionWWW
+bExtensionWW
+/GetRunningAsExtensionWWW
+#pbExtensionW
+'{IsKnownExtensionNode
+8`YSnapinComponentDataW
+IComponentDataWWH&
+IComponentWW
+lpConsoleWWW
+._MMC_NOTIFY_TYPE
+MMCN__dummy_H&
+yONotifyWW
+eventWWW
+uargW
+paramWWWH&
+DestroyW
+cookieWW
+_DATA_OBJECT_TYPESWW
+0^4CCT_SCOPEWWW
+[CCT_RESULTWW
+CCT_SNAPIN_MANAGERWW
+CCT_UNINITIALIZEDWWWH&
+QueryDataObjectW
+ppDataObject
+q#ppViewTypeWW
+pViewOptionst'
+8b3_RESULTDATAITEMWt'
+upbScopeItemWWt'
+28itemIDWWt'
+strWt'
+iIndentWH&
+GetDisplayInfoWW
+pResultDataItemWH&
+CompareObjectsWW
+hlpDataObjectAWWW
+hlpDataObjectBWWW
+1BCreateComponentW
+ppComponentW
+ @pScopeDataItemWW
+8|QIObjectWithSiteW
+{2SetSiteW
+^9pUnkSite
+DGetSiteW
+ppvSiteW<(
+SnapinComponentW
+PrinterQueueView
+IPrinterQueueViewWWW
+SetPrinterNameWW
+bStartMonitoring
+ViewExtensionCountWW
+GetViewExtensionCLSIDWWW
+nViewIndexWW
+pbstrCLSIDWW
+ActivateViewExtensionWWWh)
+PrinterQueueViewJobExtension
+8\jIPrinterQueueViewExtensionWW
+J/hwndHost0*
+tagRECTW
+SetObjectRectWWW
+prcHostClientWWW
+|Activate
+DeactivateWW
+Uninitialize
+8VSIStdCallbackInfosetW
+|tagINFOSET_NOTIFY_INFOWW
+eNotifyTypeW
+ePropChanged
+OnNotify
+.ZpContext\+
+PrinterStatusHTMLViewExtensionWW
+LegacyPrintUIWWW$,
+TILegacyPrintUIWW$,
+!ShowJobPropertiesWWW
+dwJobIDW
+nCmdShow
+(_nStartPageWW$,
+wvShowPrinterPropertiesWWW
+nFlagsWW
+#bModalWW$,
+ShowServerProperties
+{_COM_DRIVER_INFO_6WW
+cVersion
+pNameWWW
+<pEnvironment
+pDriverPathW
+pDataFileWWW
+pConfigFileW
+pHelpFileWWW
+BpDependentFilesW
+pMonitorName
+WpDefaultDataType
+DpszzPreviousNamesWWW
+;ftDriverDate
+dwlDriverVersion
+EpMfgName
+opOEMUrlW
+pHardwareIDW
+pProviderWWW
+cchDependentFilesWWW
+GcchPreviousNames$,
+ShowDriverProperties
+pDriverInfo6$,
+ShowDocumentDefaults
+AmbGlobalW$,
+ShowPrinterQueue$,
++0PrintTestPageWWW$,
+ShowErrorMessage
+hrErrorW
+lbstrTitleWWW
+,,bstrMessagePrefixWWW
+uTypeWWW
+XnContext
+0zpiResult$,
+ULaunchNAPWWW$,
+LaunchAPDWWW$,
+LaunchAddPortWWW$,
+UpdateDriver
+xpDriverInfoW$,
+GetErrorTextFromHRESULTW
+pbstrErrorTextWW
+GlobalServiceDSWP-
+IGlobalServiceDSP-
+IsMachineOnDSDomainW
+/pbIsMachineOnDSDomainWWWP-
+nIsUserOnDSDomain
+pbIsUserOnDSDomainWWP-
+GetCurrentDomainDNWW
+pbstrDomainDNWWWP-
+?DSGetParentW
+bstrLPDAPath
+nLevelUp
+WeppIADsWW
+8mntagPPC_INFOW
+bstrUNCNameW
+bstrGPO_DSPathWW
+xbstrGPO_CNWW
+bstrGPO_DisplayNameW
+dwAttributes
+CbPerMachineW
+shrStatus
+dwFlagsWP-
+GetPPCsOnGPO
+ppPPCsWWP-
+SPushPPCsToGPOWWW
+nCountWW
+pPPCsWWWP-
+tRemovePPCsFromGPOWWWP-
+GetPPCsOnCurrentDomainWW
+tagDS_OBJ_INFOWW
+bstrDNWW
+bstrgPLinkWW
+MbstrNameP-
+GetDSObjectsWithPPCW
+PqppDSObjs|.
+UIGlobalNotifyWW
+IUIGlobalNotifyW
+CreateChannelWWW
+CloseChannel
+;~IsChannelOpenWWW
+ 4pbIsChannelOpenW
+SendNotifyWW
+rguidNotificationTypeWWW
+anCookieNotifyWWW
+PostNotifyWW
+pCookieUnknownWWD/
+IStdCallback
+RegisterSendHandlerW
+pCallbackWWW
+pnRegistrationCookie
+AIStdCallbackUnknownW
+RegisterPostHandlerW
+pCallbackUnknown
+UnregisterHandlerWWW
+nRegistrationCookieW 
+PrintUI Objects 1.0 Type LibraryWW
+PrintersCacheManager Class
+ICacheManager InterfaceWWW 
+INotificationsListener InterfaceWW
+ICacheProperty InterfaceWW
+InfoSet - IEnumBSTR interfaceW
+ISimpleCPC InterfaceWW
+IEnumContext Interface
+ICacheContext InterfaceWWW"
+ILocalConnectionListener Interface
+SnapinRegistration ClassWW
+ISnapinRegistration InterfaceW
+SnapinState ClassW
+ISnapinState Interface
+IConsole2 InterfaceWWW
+IConsole Interface
+INodeInit InterfaceWWW%
+Add a column to a Default Result viewW(
+Remove a column to a Default Result viewWW
+Set a columns text
+Gets a columns textWWW
+Set a columns widthWWW
+Gets a columns widthWW
+Sets IConsoles header interfaceWWW
+Add and image to the toolbarWW&
+Add an array of buttons to the toolbar5
+Add a single button to the toolbar at position nIndexW
+Remove a button at the indexWW
+Get an attribute of a buttonWW
+Set an attribute of a buttonWW 
+Sets IConsoles toolbar interfaceWW(
+Queries IConsoles user provided IUnknownWW
+IImageList InterfaceWW>
+Sets an Icon in the image list, creates it if it is not there.I
+Sets a strip in the image list, starting at nLoc using a pair of bitmaps.W<
+Queries the IConsole provided image list for the scope pane.WW=
+Queries the IConsole provided image list for the result pane.WD
+Generates a notification to update view(s) because of content changeWW
+Displays a message box
+Get verb state
+Set verb state
+Set default verbWW
+Get default verbWW
+Query for the IConsoleVerb.WWW
+Selects the given scope item.W(
+Returns handle to the main frame window.WWE
+Create a new window rooted at the scope item specified by hScopeItem.W
+Allows the snap-in to expand/collapse a scope item in the corresponding view. Should be called only by the IConsole associated with a IComponent.W8
+Determines if the user prefers taskpad views by default.WW8
+Allows the snap-in to change the text on the status bar.WW
+IConsoleNameSpace2 InterfaceWW
+IConsoleNameSpace InterfaceWWW?
+Allows the snap-in to insert a single item into the scope view.WWW?
+Allows the snap-in to delete a single item from the scope view.WWW3
+Allows the snap-in to set a single scope view item.WWW3
+Allows the snap-in to get a single scope view item.WWW;
+The handle of the child item if successful, otherwise NULL.WWW:
+The handle of the next item if successful, otherwise NULL.<
+The handle of the parent item if successful, otherwise NULL.WW>
+Allows the snap-in to expand an item in the console namespace.*
+Add a dynamic extension to a selected node
+ISnapinNode InterfaceW
+SnapinComponentData ClassW
+IComponentData InterfaceWW<
+Snap-in entry point. Can QI for IConsole & IConsoleNameSpaceWW
+IComponent InterfaceWW
+Snap-in entry pointWWW
+User actionsWW?
+Release cookies associated with the children of a specific nodeWWWd
+Returns a data object which may be used to retrieve the context information for the specified cookieWW5
+Returns the result view type for the specified cookieW$
+Get display info for the result itemWW3
+The snap-in's compare function for two data objectsWWW'
+Create a Componet for this ComponetDataWWW(
+Get display info for the name space itemWW
+SnapinComponent ClassW
+PrinterQueueView Class
+IPrinterQueueView InterfaceWWW
+property View Extension CountW"
+PrinterQueueViewJobExtension Class$
+IPrinterQueueViewExtension InterfaceWW
+IStdCallbackInfoset InterfaceW$
+PrinterStatusHTMLViewExtension ClassWW
+LegacyPrintUI ClassWWW
+ILegacyPrintUI InterfaceWW
+GlobalServiceDS ClassW
+IGlobalServiceDS Interface
+UIGlobalNotify ClassWW
+IUIGlobalNotify InterfaceW
+IStdCallback Interface
+IStdCallbackUnknown InterfaceW
+TYPELIB
+en-US
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 80888H8P8`8h8x8
+9\9`9h9p9
+: :$:(:,:0:<:
+8#9N;m;>=}=
+D0P0c0{0
+12161<1@1F1J1b1f1l1p1v1z1
+2$2)2/25292C2V2q2
+6&636:6A6V6|6
+727[7s7
+7$8+818>8G8\8e8u8~8
+999x9
+:':-:2:9:P:;<w<
+=!=-=
+>!>b>n>v>
+?4?>?N?X?b?t?
+1&2e2
+303B3u3
+3(4M4{4
+5>6I6d6n6M7
+9%9U9[9h9s9
+:%:.:::B:R:h:q:}:
+;3;<;B;G;L;S;[;p;
+=Q=s=
+?.?4?b?
+9%9-9H9P9a9i9
+:+:Y:f:o:{:z; <
+=(=0=A=I=a=s={=
+=$>1>9>E>
+>%?^?g?m?s?x?~?
+0=1q1
+2&222:2[2v2
+4D6a7
+9L:w:
+=?=d=
+>^?e?
+8)8/858?8I8X8u8{8
+9#959
+:&:H:_:z:
+,070C0K0a0i0
+2/3F3O3V3[3l3|3
+4(424O4Y4h4
+4.545Z5|5
+636Q6
+767U7g7
+7P8a8
+8,969J9c9|9
+:E:K:a:
+;X;c;h;
+;#<(<.<;<N<T<}<
+=K=\=b=
+>)>6>A>F>W>
+?#?*?
+0+0=0h0
+0;1J1\1b1
+2/343
+4%4*4;4K4P4a4
+5(5H5[5k5~5
+5>6C6T6
+7*7u7
+8I8N8
+9 989=9e9u9z9
+:4:9:J:r:|:
+;";];b;s;
+;-<;<W<\<z<
+<[=v=
+?L?e?k?
+050_0j0}0
+0,171<1M1
+242^2f2
+4R4z4
+6B6F6K6Q6W6]6c6i6o6u6|6
+6(7g7
+:&;N;
+=&=I={=
+151>1R1g1~1
+2*3;3P3]3
+474@4l4
+6W6`6e6j6{6
+7!7S7X7]7x7
+8#828E8x8
+9#979F9L9Q9W9q9
+:(:7:C:H:M:^:i:
+:%;7;E;x;
+<8<@<
+=6=@=U=_=w=
+>N>X>q>{>
+?(?P?Z?
+0*040_0i0
+1.1@1R1d1v1
+2-222B2
+2/3H3N3^3o3
+4;4_4p4v4
+5(5.5L5y5
+6%666<6M6Z6`6q6
+687d7
+758I8^8f8
+=P>z>
+?!?B?d?
+ 0?0R0]0
+0%1,1:1E1a1k1u1
+1*292@2K2`2
+2T3]3~3
+424Q4Z4w4
+696M6d6y6
+6Q7V7h7x7
+7%8=8U8_8v8
+939i9t9
+9X:t:~:
+:!;(;3;Q;`;g;r;
+<Q<^<
+>2>k>
+>:?^?
+0>1H1
+3r3w3
+3/4<4A4v4
+5$5.5C5P5U5
+6 6*646I6V6[6
+858:8P8
+9@9e9l9w9
+:4:F:b:v:
+;3;S;
+>#?q?y?
+1+1:1E1w1|1
+6b6g6w6
+6,757O7
+:H;|;
+;)<5<O<
+?$?F?
+0'181
+1@2E2
+3B3O3T3j3
+3#4.4@4F4Q4i4o4
+6+7A7r7
+8$808k8
+9.9H9S9f9
+:4:c:y:
+;B;a;
+=)>6>
+?`?e?u?
+0!1)1f1k1{1
+1h2m2
+4&5K5
+516<6M6
+657?7s7|7495:H:
+>$?F?d?o?v?
+030>0E0
+0)101L1f1
+10272r2
+303N3Y3`3
+3F4h4
+5H6V6
+6$7\7i7
+839P9d9
+: :C:u:~:
+:O;T;d;
+<&=o=t=
+=p>}>
+0D0R0
+161c1j1
+263O3T3Y3i3y3
+4/5M5]5c5
+616<6J6[6
+6e7{7
+8$848E8U8e8z8
+879M9a9}9
+:-;@;N;
+<&<+<<<M<c<
+<[=v=
+>#>\>e>s>
+>0?E?R?W?h?
+0!0&070
+161?1U1}1
+2.2\2k2r2
+343Q3m3s3
+3(41474J4m4
+5;5W5\5r5
+5)6.6b6h6{6
+8G8M8p8~8
+9(9V9c9h9
+;+;0;9;R;[;n;
+<.<U<m<s<
+<G=L=\=l=z=
+> >0>D>I>Y>
+?*?B?G?
+01080t0
+1i1x1}1
+2f2k2|2
+2%393B3Q3V3f3v3
+484>4N4Q5Y5`5h5
+7l8r8
+9P9e9
+9C:c:
+:5;Q;
+=*>0>c>j>
+5$5S5]5
+868V8f8z8
+;C;M;d;j;n;s;y;};
+;U<f<
+<#=D=
+>8>G>X>i>z>
+70E0|0
+1*1o1
+2"2U2f2t2
+3-3f3
+4.494K4P4U4w4
+5,575<5L5x5
+6X6s6
+6<7A7Q7t7
+9R9X9i9
+:,:m:
+;$;4;z;
+;><[<v<
+=3=9=
+>#>Z>~>
+?B?G?X?
+2#3(383
+4X4]4m4
+5*5/5?5
+5?6T6Z6j6{6
+6=7_7r7x7
+8 83898p8
+9A9e9
+:):r:w:
+<(<5<l<v<
+<.=;=
+=S>Z>w>
+?D?P?
+ 0'0.0:0?0O0o0v0{0
+2"2+2K2a2
+3#3c3h3x3
+5!515t5x5|5
+8#9R9W9j9d:
+;&<B<
+=s>x>
+?*?\?b?k?
+J0O0_0
+2<2B2K2
+4E4Z4
+4>5C5S5c5
+6 6)6
+6+777H7a7
+7?8s8x8
+9\9c9o9
+:8:a:f:v:1;;;
+;H<N<U<
+=b>h>x>
+1&171>1[1m1
+1l2{2
+2I4X4g4y4
+4'5,5=5X5|5
+858;8W8h8
+8#9G9
+:$:Q:W:m:
+;#;(;O;b;l;
+>'>Q>Z>j>~>
+?$?S?_?d?
+0$0*0L0Y0
+1$151R1X1
+1!2I2
+2]3e3
+4$4`4
+6&646=6
+71787y7
+9#9.959
+<C=}=
+2U2i2
+4)4o4
+4%50575=5E5
+666b6j6
+6p7w7~7
+8,8>8V8z8
+9'9,949c9x9
+:5:H:
+;0;a;s;
+;r<}<
+=n=x=
+>@>}>
+#0)0V0{0
+1 181U1
+2"2(2J2p2
+6#6B6
+8&8,848:8a8
+8&9T9r9
+:0:X:s:y:
+;.;>;C;n;
+<@<W<q<
+<U=s=
+0B0_0h0s0z0
+1#1-1=1M1S1^1d1p1
+2b2r2
+2!3-393E3R3^3r3~3
+4%414J4j4v4
+5!5'5
+6 6)6>6S6b6j6y6
+7!757K7R7X7b7q7y7
+8"898V8
+:9:\:
+;2;6;R;V;q;
+< <@<`<
+=4=8=D=L=
+>$>(>D>H>d>h>
+?,?4?<?D?H?L?T?h?p?x?
+0 0@0P0t0
+00080@0H0P0X0`0h0p0x0
+181\1

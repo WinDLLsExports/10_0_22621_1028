@@ -1,0 +1,4800 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+ResyncResetTime
+MaxResyncAttempts
+Software\Microsoft\Input
+%s%s%d
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+CoreUIComponents.dll
+CoreMessaging.dll
+ext-ms-win-tsf-msctf-l1-1-0
+ext-ms-win-tsf-msctf-l1-1-1
+ext-ms-win-tsf-msctf-l1-1-2
+ext-ms-win-tsf-msctf-l1-1-3
+ext-ms-win-tsf-msctf-l1-1-4
+ext-ms-win-tsf-msctf-l1-1-0.dll
+ext-ms-win-tsf-msctf-l1-1-1.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+api-ms-win-security-capability-l1-1-0.dll
+api-ms-win-coreui-secruntime-l1-1-0.dll
+ext-ms-win-ntuser-windowstation-l1-1-0.dll
+api-ms-win-rtcore-ntuser-window-l1-1-0.dll
+ext-ms-win-mininput-inputhost-l1-1-0
+ext-ms-win-mininput-inputhost-l1-1-1
+ext-ms-win-mininput-inputhost-l1-2-1
+ext-ms-win-mininput-inputhost-l1-4-0
+ext-ms-win-mininput-inputhost-l1-1-0.dll
+ext-ms-win-ntuser-private-l1-1-0
+ext-ms-win-ntuser-private-l1-1-1
+ext-ms-win-ntuser-private-l1-2-0
+ext-ms-win-ntuser-private-l1-3-1
+ext-ms-win-ntuser-private-l1-3-2
+ext-ms-win-ntuser-private-l1-3-3
+ext-ms-win-ntuser-private-l1-5-0
+ext-ms-win-ntuser-private-l1-6-1
+ext-ms-win-ntuser-private-l1-3-1.dll
+ext-ms-win-ntuser-private-l1-2-0.dll
+ext-ms-win-ntuser-keyboard-l1-1-0.dll
+ext-ms-win-ntuser-keyboard-l1-3-1.dll
+api-ms-win-rtcore-ntuser-private-l1-1-9.dll
+ext-ms-win-rtcore-ntuser-dpi-l1-2-0.dll
+ext-ms-win-ntuser-window-l1-1-0.dll
+dNtsq
+F|]@&
+ext-ms-win32-subsystem-query-l1-1-0
+ext-ms-win32-subsystem-query-l1-1-0.dll
+ext-ms-win-dwmapi-ext-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-private-l1-1-1.dll
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad function call
+regex_error(error_collate): The expression contained an invalid collating element name.
+regex_error(error_ctype): The expression contained an invalid character class name.
+regex_error(error_escape): The expression contained an invalid escaped character, or a trailing escape.
+regex_error(error_backref): The expression contained an invalid back reference.
+regex_error(error_brack): The expression contained mismatched [ and ].
+regex_error(error_paren): The expression contained mismatched ( and ).
+regex_error(error_brace): The expression contained mismatched { and }.
+regex_error(error_badbrace): The expression contained an invalid range in a { expression }.
+regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings.
+regex_error(error_space): There was insufficient memory to convert the expression into a finite state machine.
+regex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+regex_error(error_complexity): The complexity of an attempted match against a regular expression exceeded a pre-set level.
+regex_error(error_stack): There was insufficient memory to determine whether the regular expression could match the specified character sequence.
+regex_error(error_parse)
+regex_error(error_syntax)
+regex_error
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-1.dll
+api-ms-win-security-sddl-l1-1-0.dll
+RemoteCoreInputViewManager
+System\RemoteTextInputProcessor
+System\RemoteTextInputState
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+sntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+TextInputClientCreate2
+TextInputHostGetCurrent
+TextInputHostGetForHwnd
+TextInputHostSiteCreate
+TextInputServerCreate
+tsfGetKeyboardState
+Local\SM0:%lu:%lu:%hs
+Windows.UI.Internal.Input.ActivationWatcher
+Windows.Internal.ApplicationModel.WindowManagement.Window
+Windows.Internal.ApplicationModel.WindowManagement.AppViewInProc
+Windows.UI.ViewManagement.UISettings
+Windows.Internal.ApplicationModel.WindowManagement.WindowInProc
+TextInputHost
+TextInputServer
+TextInputServerRestricted
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+onecore\internal\sdk\inc\wil\opensource\wil\win32_helpers.h
+onecore\internal\sdk\inc\wil\opensource\wil\winrt.h
+bad locale name
+generic
+iostream
+system
+System\CurrentControlSet\Services\CoreUI
+IDKOnHolo
+IDKOnXbox
+IsPresent
+System\CurrentControlSet\Services\MinShell
+RefreshEnabledInputProfilesForContainers
+TextInputServer::RegisterTextInputHost
+mincore\textinput\dev\framework\server\textinputserver.cpp
+TextInputServer::RegisterTextInputHostSite
+TextInputServer::RegisterTextInputClient
+TextInputServer::EditControlRegister
+Client Registration not found
+acknowledge focus leave in previous control
+acknowledge focus leave in previous host
+EditControlFocusEnter couldn't find registerd edit control
+acknowledge focus leave in editcontrol
+Got EditControlTapped in TIS in container - need to support.
+Edit control couldn't be found
+Got RichContentTypesChanged in TIS in container, may need to add support.
+Got AltPeopleProviderChanged in TIS in container, may need to add support.
+Got AltPlacesProviderChanged in TIS in container, may need to add support.
+inputInjection
+Acknowledge focus leave in host
+There is no TextInputClient in focus
+There is no registered TextInputClient for the provided id
+TextInputServer::GetIsWin32Client
+TextInputServer::FindTextInputHostRoot
+TextInputServer::SetViewInstanceIdDelegation
+TextInputServer::InputHostSetProcessIDDelegation
+inputForegroundObservation
+Filling input host app info failed
+Input host is null
+Input host app id obtained from window manager
+Input host window is not known to window manager
+Input host app id obtained from process token
+Input host process does not contain app id in process token
+Input host process access failed
+Null TextInputHost
+ProcessId
+RemoteProcessId
+ThreadId
+RemoteThreadId
+WindowId
+IsInVirtualizationContainer
+AppId
+AppPath
+.*\\(?:msrdc|hvsirdpclient)\.exe
+IsRemoteTih
+RdpTextProtocolVersionMajor
+RdpTextProtocolVersionMinor
+invalid map<K, T> key
+invalid map/set<T> iterator
+vector<T> too long
+deque<T> too long
+invalid string position
+list<T> too long
+string too long
+bad cast
+vector<bool> too long
+map/set<T> too long
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+d=Z!4
+f=>5V
+]MJjB
+onecore\internal\sdk\inc\wil\opensource\wil\result_macros.h
+()$^.*+?[]|\-{},:=!
+Windows.Data.Json.JsonObject
+Windows.Data.Json.JsonValue
+JTk_S/
+TextInputHostRegistration::RuntimeClassInitialize
+CTextInputClientFreeThread::EditControlRegister
+CTextInputClientFreeThread::EditControlFocusChange
+Increase outstanding count of host
+CTextInputClientFreeThread::EditControlUnregister
+CTextInputClientFreeThread::SelectionChanged
+CTextInputClientFreeThread::EditControlTextChanged
+CTextInputClientFreeThread::EnableNotifications
+CTextInputClientFreeThread::AltPeopleProviderChanged
+CTextInputClientFreeThread::AltPlacesProviderChanged
+CTextInputClientFreeThread::EnableInput
+CTextInputClientFreeThread::OnHostKeyEvent
+CTextInputClientFreeThread::OnHostCharacterEvent
+CTextInputClientFreeThread::CompleteGetLayoutBounds
+CTextInputClientFreeThread::EditControlLayoutChanged
+CTextInputClientFreeThread::DeferCurrentOperation
+CTextInputClientFreeThread::BeginDeferredOperation
+CTextInputClientFreeThread::CompleteOperation
+CTextInputClientFreeThread::CompleteQueryText
+CTextInputClientFreeThread::CompleteGetSelection
+CTextInputClientFreeThread::RunAsync
+CTextInputClientFreeThread::OnCompositionTerminated
+7Z75B
+TextInputHost::Initialize
+TextInputHost::SetKeyProcessingFlags
+TextInputHostSite::Initialize
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+IsVailContainer
+mincore\textinput\dev\framework\client\textinputclient.cpp
+Key event acknowledged
+Task was overridden, acknowledgement suppressed
+TextInputClient::FailFastHandleInconsistency
+Determine composition - operation rejected
+TextInputClient::CreateTextInputClientRegistration
+TextInputClient::DeleteTextInputClientRegistration
+Focus change ignroed because control has unregistered
+Pop outstanding operations because there is no connection with input service
+Terminating composition on focus loss
+Calling EditControlFocusLeave
+Dropping SelectionChange notification because edit control is resyncing
+TextInputClient::SelectionChanged
+Do initial populate for the edit control
+Reprocessing incomplete text change
+Drop invalid selection change
+SelectionChange notification saved
+Dropping TextChanged notification because edit control is resyncing
+Setting the rollback tracker
+Cache tracker updated
+TextInputClient::EditControlHostOwnerRegister
+Acknowledge key event
+Task was overridden, don't send key completion
+Direct send to framework
+Acknowledge key event 2
+Task was overridden, don't send key completion 2
+Acknowledge Character event
+Task was overridden, don't send character key completion 
+Key event targed to framework, send without ack
+Acknowledge Character event 2
+Task was overridden, don't send character key completion 2
+Operation Ignored, outstanding operation in host
+Operation Ignored, no Edit Control
+Operation Ignored, oustanding operations
+Operation Ignored, still populating
+Acknowledge accelerator key event
+Acknowledge BeginKeyEventPayload
+Acknowledge BeginKeyEventPayload 2
+Acknowledge EndKeyEventPayload
+Acknowledge EndKeyEventPayload 2
+Terminating composition on edit control reset
+(private)
+CAsyncTaskScheduler::DeferCurrentTask
+CAsyncTaskScheduler::CompletePendingTask
+Cancel task because resync is in progress
+ClientOwnerRegistration::CommitPendingChanges::<lambda_11164acd7e74ca5c3d8050b858e6b3c7>::operator ()
+ClientOwnerRegistration::CommitPendingChanges
+ClientOwnerRegistration::_FinalizeComposition
+No match found.
+Pop non committed operation
+Pre State
+Post State
+TsfOneMessageWindowClass
+TsfOnePrivateMessage
+Fc?u(I{
+CEnumInputProcessorProfiles::RuntimeClassInitialize
+TsfInputProfileManager::OnInterestedPropertyChanged
+vm>E0O?@
+Y*Y\w
+DeserializeForCompositionClause
+dH-=N
+Reconversion
+2mincore\textinput\dev\framework\tsfone\src\ic.cpp
+@Qm6t
+)0mRw9
+F|]@&
+mincore\textinput\dev\framework\tsfone\src\reconversioncandidatelist.cpp
+mincore\textinput\dev\candidatewindow\candidatemessage\candidatemessage.cpp
+mincore\textinput\dev\sharedlibs\messageproxyreconnectadapter\messageproxyreconnectadapter.cpp
+Not expecting to pull a proxy when we have one
+Proxy connection failed: %ls
+Not expecting a valid proxy yet
+Not expecting an existing timer
+D:(A;;0x01;;;WD)(A;;0x01;;;AC)(A;;0x01;;;S-1-15-3-1024-1502825166-1963708345-2616377461-2562897074-4192028372-3968301570-1997628692-1435953622)
+TextInputStateAdapterCreate
+TextInputStateAdapter::OnConnected
+TextInputStateAdapter::OnPropertyChanged
+TextInputStateAdapter::SetInterestedProperty
+TextInputStateAdapter::IsProxyInitialized
+TextInputStateAdapter::RuntimeClassInitialize
+CoreUIComponents.dll
+CoreUIFactoryCreate
+TextInputStateAdapter::PropertyChangeHelper
+WIN://SYSAPPID
+onecore\shell\lib\calleridentity\calleridentity.cpp
+CandidateWindowAPI::CandidateItem::GetDisplayString
+CandidateWindowAPI::CandidateItem::SetDisplayString
+CandidateWindowAPI::CandidateItem::GetDisplayStringRef
+CandidateWindowAPI::CandidateItem::GetMetadataStringRef
+CandidateWindowAPI::CandidateItem::GetMetadataString
+mincore\textinput\dev\candidatewindow\candidatelist\candidateitem.cpp
+CandidateWindowAPI::CandidateItem::SetMetadataString
+CandidateWindowAPI::CandidateItem::GetLanguage
+CandidateWindowAPI::CandidateItem::GetStyle
+mincore\textinput\dev\candidatewindow\candidatelist\candidatelist.cpp
+Input\Public.AlpcPort\Server
+Input\Service.AlpcPort\Server
+Input\Core.AlpcPort\Server
+Input\Features.AlpcPort\Server
+Input\Injection.AlpcPort\Server
+Input\Locales.AlpcPort\Server
+Input\Test.AlpcPort\Server
+Input\PublicRestricted.AlpcPort\Server
+activatibleClassId
+System\NavigationServer_MonitorViewManager
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+TextInputFramework!TextInputServer::SetKeepSoftwareKeyboardVisibleOnEditControlFocusLoss
+bKeepVisible
+Current Window PID
+TextInputFramework!TextInputServer::EditControlCompositionTerminated
+uiEditControlID
+bOverride
+TextInputFramework!TextInputServer::InputHostDelegateInput
+SourcePID
+SourcePID
+DelegatePID
+DelegatePID
+TextInputFramework!TextInputServer::InputHostSetViewIDDelegation
+SystemProcessID
+SystemThreadID
+sourceViewInstanceId
+delegateViewInstanceId
+ForegroundViewInstanceId
+TextInputFramework!TextInputServer::InputHostSiteDelegateInput
+SystemProcessID
+SystemThreadID
+sourceViewInstanceId
+delegateViewInstanceId
+ForegroundViewInstanceId
+TextInputFramework!TextInputServer::NotifyViewOfActivationStateChange
+ViewId
+oldActivationState
+newActivationState
+TextInputFramework!TextInputServer::InputHostOnWindowEnabled
+ViewInstanceId
+bEnable
+TextInputFramework!TextInputServer::InputHostSiteEnableWindow
+ViewInstanceId
+bEnable
+TextInputFramework!TextInputServer::InputHostKeyEventRaised
+uKeyEventID
+TextInputFramework!TextInputServer::InputHostAcceleratorKeyCompleted
+uKeyEventID
+bRequestActivation
+bHandled
+TextInputFramework!TextInputServer::SetCompositionInfo
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::SetCompositionInfo
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iCompositionBegin
+iCompositionEnd
+TextInputFramework!TextInputServer::SetTextFormat
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::SetTextFormat
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iFormatBegin
+iFormatEnd
+TextInputFramework!TextInputServer::RequestInputProfileActivation
+LangID
+IME Clsid
+IME Profile ID
+TextInputFramework!TextInputServer::InputHostSiteDepartFocusComplete
+TextInputFramework!TextInputServer::InputHostNavigateFocusComplete
+TextInputFramework!TextInputServer::InputHostSiteNavigateFocus
+TextInputFramework!TextInputServer::InputHostDepartFocus
+TextInputFramework!TextInputServer::EditControlNavigateFocus
+ulTextInputClientID1
+ulTextInputClientID2
+EditControlID
+bOverride
+TextInputFramework!TextInputServer::InputHostNavigateFocus
+bOverride
+TextInputFramework!TextInputServer::UpdateCurrentInputFocus
+oldViewId
+newViewId
+oldPID
+newPID
+oldTID
+newTID
+TextInputFramework!TextInputServer::SetCurrentTextInputHost
+"Null TextInputHost"
+TextInputFramework!TextInputServer::SetCurrentTextInputHost
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::NotifyDelegateOfDelegationStateChange
+SourceViewInstanceId
+SourceProcessId
+DelegationEnabled
+TextInputFramework!TextInputServer::UpdateCurrentTextInputHost
+CurrentDelegateViewInstanceId
+TextInputFramework!TextInputServer::UpdateCurrentTextInputHost
+foregroundViewInstanceId
+delegateViewInstanceId
+spDelegateHost
+TextInputFramework!TextInputServer::UpdateCurrentTextInputHost
+NewHost
+bIsDelegate
+ViewInstanceID
+ProcessID
+ThreadID
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+OpenProcessError
+"Input host process access failed"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+"Input host process does not contain app id in process token"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+AppId
+"Input host app id obtained from process token"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+"Input host window is not known to window manager"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+AppId
+"Input host app id obtained from window manager"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+TextInputFramework!TextInputServer::NotifyForegroundInputHostInfoToOwner
+ViewInstanceID
+ProcessID
+ThreadID
+"Input host is null"
+TextInputFramework!TextInputServer::FillForegroundInputHostAppInfo
+ViewInstanceID
+ProcessID
+ThreadID
+Error
+"Filling input host app info failed"
+TextInputFramework!TextInputServer::NotifyForegroundInputHostInfoToOwner
+ViewInstanceID
+ProcessID
+ThreadID
+TextInputFramework!TextInputServer::UpdateForegroundTextInputHost
+pHost
+LocalProcessID
+LocalThreadID
+LocalWindowID
+ContainerID
+RemoteProcessID
+RemoteThreadID
+RemoteWindowID
+TextInputFramework!TextInputServer::UpdateForegroundProcess
+uiPID
+TextInputFramework!TextInputServer::SetActiveInputProfile
+ulTextInputClientID1
+ulTextInputClientID2
+LangID
+IME Clsid
+IME Profile ID
+TextInputFramework!TextInputServer::SetTextVirtualizationParameters
+windowId
+containerId
+TextInputFramework!TextInputServer::ConnectionClosed
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::OnInputFocusEvent
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::OperationCompleted
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::UnhandledKey
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+uiKey
+hstrKeyText
+uiModifiers
+TextInputFramework!TextInputServer::UnhandledKey
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+uiModifiers
+TextInputFramework!TextInputServer::OperationCompleted2
+"There is no registered TextInputClient for the provided id"
+TextInputFramework!TextInputServer::OperationCompleted2
+ulTextInputClientID1
+ulTextInputClientID2
+textInputClientThreadId
+uiEditControlID
+uiOperationID
+acknowledgmentType
+TextInputFramework!TextInputServer::OperationCompleted
+"There is no registered TextInputClient for the provided id"
+TextInputFramework!TextInputServer::OperationCompleted
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+acknowledgmentType
+TextInputFramework!TextInputServer::ForceRemoveFocus
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::ForceRemoveFocus
+TextInputFramework!TextInputServer::TagText
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::TagText
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iTagBegin
+iTagEnd
+uiTagStyle
+TextInputFramework!TextInputServer::StartPositionTracking
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::StartPositionTracking
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+bTrackEditControlPosition
+bTrackSelectionPosition
+TextInputFramework!TextInputServer::StartLayoutChangeTracking
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::StartLayoutChangeTracking
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+bListening
+range.Begin
+range.End
+TextInputFramework!TextInputServer::SetInComposition
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::SetInComposition
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+bInComposition
+TextInputFramework!TextInputServer::SetInputMethodMode
+hstrIMEMode
+TextInputFramework!TextInputServer::SetInputLocale
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::SetInputLocale
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+uiLocaleID
+TextInputFramework!TextInputServer::SetSelection
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::SetSelection
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iSelectionBegin
+iSelectionEnd
+bindDirection
+gripperVisibility
+TextInputFramework!TextInputServer::ReportError
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::ReportError
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+hstrEditbufferString
+iSelBegin
+iSelEnd
+hrError
+hstrErrorString
+TextInputFramework!TextInputServer::ReplaceText
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::ReplaceText
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iReplaceBegin
+iReplaceEnd
+hstrReplaceString
+TextInputFramework!TextInputServer::ReplaceText
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iReplaceBegin
+iReplaceEnd
+TextInputFramework!TextInputServer::InsertText
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::InsertText
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iPosition
+hstrText
+TextInputFramework!TextInputServer::InsertText
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iPosition
+TextInputFramework!TextInputServer::InsertChar
+"There is no TextInputClient in focus"
+TextInputFramework!TextInputServer::InsertChar
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iPosition
+chCharacter
+uiChecksum
+TextInputFramework!TextInputServer::InsertChar
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+uiOperationID
+iPosition
+uiChecksum
+TextInputFramework!TextInputServer::InputHostFocusLeave
+"Acknowledge focus leave in host"
+TextInputFramework!TextInputServer::InputHostFocusLeave
+uiOrdinal
+bOverride
+SystemProcessID
+SystemThreadID
+m_uiCurrentWindowProcessID
+TextInputFramework!TextInputServer::InputHostFocusEnter
+uiOrdinal
+bOverride
+SystemProcessID
+SystemThreadID
+m_uiCurrentWindowProcessID
+TextInputFramework!TextInputServer::EditControlKeyEventCompleted
+ulTextInputClientID1
+ulTextInputClientID2
+uEditControlID
+uKeyEventID
+TextInputFramework!TextInputServer::InputHostKeyEventCompleted
+uKeyEventID
+TextInputFramework!TextInputServer::OnEditControlOrSelectionPositionChanged
+textInputClientID1
+textInputClientID2
+uEditControlID
+SelectionBoundsLeft
+SelectionBoundsTop
+SelectionBoundsRight
+SelectionBoundsBottom
+ControlBoundsLeft
+ControlBounds.Top
+ControlBoundsRight
+ControlBoundsBottom
+TextInputFramework!TextInputServer::OnEditControlLayoutChanged
+textInputClientID1
+textInputClientID2
+uEditControlID
+TextBoundsLeft
+TextBoundsTop
+TextBoundsRight
+TextBoundsBottom
+ControlBoundsLeft
+ControlBoundsTop
+ControlBoundsRight
+ControlBoundsBottom
+TextInputFramework!TextInputServer::RequestSoftwareKeyboardVisibilityChange
+bVisible
+viewType
+Current Window PID
+TextInputFramework!TextInputServer::EditControlUnpopulate
+"Edit control couldn't be found"
+TextInputFramework!TextInputServer::EditControlUnpopulate
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+iBegin
+TextInputFramework!TextInputServer::EditControlPopulate
+"Edit control couldn't be found"
+TextInputFramework!TextInputServer::EditControlPopulate
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+iPopulateBegin
+TextInputFramework!TextInputServer::EditControlTextChanged
+"Edit control couldn't be found"
+TextInputFramework!TextInputServer::EditControlTextChanged
+ulTextInputClientID1
+ulTextInputClientID2
+uiEditControlID
+iOffset1
+iOffset2
+iTextLength
+bOverride
+TextInputFramework!TextInputServer::EditControlFocusLeave
+ulTextInputClientID1
+ulTextInputClientID2
+EditControlID
+bOverride
+"Client Registration not found"
+TextInputFramework!TextInputServer::EditControlFocusLeave
+ulTextInputClientID1
+ulTextInputClientID2
+EditControlID
+bOverride
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::EditControlFocusLeave (Send Ack)
+EditControlID
+"acknowledge focus leave in editcontrol"
+TextInputFramework!TextInputServer::EditControlFocusEnter is going to be dropped
+TextInputFramework!TextInputServer::EditControlFocusEnter (Ack)
+bOverride
+ProcessID
+ThreadID
+"acknowledge focus leave in previous host"
+TextInputFramework!TextInputServer::EditControlFocusEnter (Ack)
+bOverride
+PreviousID
+"acknowledge focus leave in previous control"
+TextInputFramework!TextInputServer::EditControlFocusEnter
+bOverride
+"Client Registration not found"
+GainingFocusID
+LosingFocusControlID
+LosingFocusHostInfo
+TextInputFramework!TextInputServer::EditControlFocusEnter
+bOverride
+SystemProcessID
+SystemThreadID
+GainingFocusID
+LosingFocusControlID
+LosingFocusHostInfo
+TextInputFramework!TextInputServer::UnregisterTextInputHostSite
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::RegisterTextInputHostSite
+SystemProcessID
+SystemThreadID
+hostedView
+TextInputFramework!TextInputServer::UnregisterTextInputHost
+SystemProcessID
+SystemThreadID
+TextInputFramework!TextInputServer::NotifyRemoteForegroundTextInputHost
+RemoteProcessID
+RemoteThreadID
+WindowID
+ContainerID
+IsWin32
+TextInputFramework!TextInputServer::RegisterTextInputHost
+SystemProcessID
+SystemThreadID
+viewInstanceId
+windowInstanceId
+textInputHostType
+FeatureError
+featureId
+featureVersion
+featureBaseVersion
+featureStage
+lineNumber
+module
+process
+originFile
+originLineNumber
+originModule
+originName
+message
+callerModule
+callerReturnAddressOffset
+originCallerModule
+originCallerReturnAddressOffset
+FeatureVariantUsage
+featureId
+featureVersion
+featureBaseVersion
+featureStage
+enabled
+variantKind
+variant
+addend
+EnabledFeatureUsage
+featureId
+featureVersion
+featureBaseVersion
+featureStage
+enabled
+addend
+FeatureUsage
+featureId
+featureVersion
+featureBaseVersion
+featureStage
+enabled
+addend
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+TextInputFramework!CTextInputClientFreeThread::OnCompositionTerminated
+uEditControlID
+TextInputFramework!CTextInputClientFreeThread::EditControlTextChanged
+uEditControlID
+nChangeBegin
+nChangeEnd
+nNewLength
+spReg.m_iTextLength
+spReg.m_Selection.Begin
+spReg.m_Selection.End
+nSelectionBegin
+nSelectionEnd
+TextInputFramework!CTextInputClientFreeThread::SelectionChanged
+uEditControlID
+nSelectionBegin
+nSelectionEnd
+TextInputFramework!CTextInputClientFreeThread::EditControlUnregister
+TextInputFramework!CTextInputClientFreeThread::EditControlFocusChange
+Outstanding count
+"Increase outstanding count of host"
+TextInputFramework!CTextInputClientFreeThread::EditControlFocusChange
+fInFocus
+TextInputFramework!CTextInputClientFreeThread::EditControlRegister
+TextInputFramework!TextInputHost::EndKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.VirtualKey
+OutstandingOperationCount
+TextInputFramework!TextInputHost::EndKeyEventPayload
+uiEditControlID
+uiKeyEventID
+OutstandingOperationCount
+TextInputFramework!TextInputHost::BeginKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.VirtualKey
+OutstandingOperationCount
+TextInputFramework!TextInputHost::BeginKeyEventPayload
+uiEditControlID
+uiKeyEventID
+OutstandingOperationCount
+TextInputFramework!TextInputHost::OnNonCUIConfigurationChange
+nonCUIConfiguration.bEnableNonCUIDepartFocus
+m_nonCUIConfiguration.bEnableNonCUIDepartFocus
+TextInputFramework!TextInputHost::OnActivationStateChange
+activationState
+m_activationState
+TextInputFramework!TextInputHost::OnInputDelegated
+NewDelegateWindow
+TextInputFramework!TextInputHost::OnInputDelegated
+sourceViewInstanceId
+sourceProcessId
+bDelegated
+m_bDelegated
+m_hDelegateWindow
+TextInputFramework!TextInputHost::OnAcceleratorKeyEvent
+uiKeyEventID
+uiEditControlID
+AcceleratorKeyRoutingStage
+keyEventInfo.VirtualKey
+OutstandingOperationCount
+TextInputFramework!TextInputHost::OnAcceleratorKeyEvent
+uiKeyEventID
+uiEditControlID
+AcceleratorKeyRoutingStage
+OutstandingOperationCount
+TextInputFramework!TextInputHost::GetCurrentTextInputHost
+TextInputFramework!TextInputHost::IsTextInputHostExistInThread
+uiThreadID
+TextInputFramework!TextInputHost::GetFocusedOnThread
+uiThreadID
+TextInputFramework!TextInputHost::InputHostFocusLeave
+bOverride
+dwOrdinal
+TextInputFramework!TextInputHost::InputHostFocusEnter
+bOverride
+dwOrdinal
+TextInputFramework!TextInputHost::PutHasFocus
+pPrevFocused
+PrevTID
+pFocused
+NewTID
+TextInputFramework!TextInputHost::PutHasFocus
+bFocus
+m_hWnd
+TextInputFramework!TextInputHost::GetEndpoint
+TextInputFramework!TextInputHost::OperationCompleted
+eAcknowledgmentType
+OutstandingOperationCount
+TextInputFramework!TextInputHost::OnCharacterEvent
+uiEditControlID
+uiKeyEventID
+uiKeyDownEventID
+OutstandingOperationCount
+TextInputFramework!TextInputHost::OnKeyEvent
+uiEditControlID
+uiKeyEventID
+uiLastSeenKeyEventID
+keyEventInfo.VirtualKey
+OutstandingOperationCount
+TextInputFramework!TextInputHost::OnKeyEvent
+uiEditControlID
+uiKeyEventID
+uiLastSeenKeyEventID
+OutstandingOperationCount
+TextInputFramework!TextInputHostSite::DelegateInput
+sourceViewInstanceId
+delegateViewInstanceId
+bDelegate
+m_viewInstanceId
+TextInputFramework!TextInputClient::NotifySelectionChanged
+sel.Begin
+sel.End
+overriding
+control.ID
+TextInputFramework!TextInputClient::OnEditControlOperationCompleted
+uiEditControlID
+OperationID
+TextInputFramework!TextInputClient::PopulateEditControl - GetSelectionAsync Continuation failure
+hrResult
+EditControlID
+TextInputFramework!TextInputClient::ResetEditControl
+"Terminating composition on edit control reset"
+TextInputFramework!TextInputClient::ResetEditControl
+uiEditControlID
+TextInputFramework!TextInputClient::LeaveDarkMode
+TextInputFramework!TextInputClient::EnterDarkMode
+bFocusChanged
+TextInputFramework!TextInputClient::EndKeyEventPayload
+uiKeyEventID
+"Acknowledge EndKeyEventPayload 2"
+TextInputFramework!TextInputClient::EndKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.VirtualKey
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::EndKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::EndKeyEventPayload
+uiKeyEventID
+"Acknowledge EndKeyEventPayload"
+TextInputFramework!TextInputClient::BeginKeyEventPayload
+uiKeyEventID
+"Acknowledge BeginKeyEventPayload 2"
+TextInputFramework!TextInputClient::BeginKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.VirtualKey
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::BeginKeyEventPayload
+uiEditControlID
+uiKeyEventID
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::BeginKeyEventPayload
+uiKeyEventID
+"Acknowledge BeginKeyEventPayload"
+TextInputFramework!TextInputClient::SetCoreDispatcherHandled
+TextInputFramework!TextInputClient::OnHostAcceleratorKeyEvent
+uKeyEventID
+"Acknowledge accelerator key event"
+TextInputFramework!TextInputClient::OnHostAcceleratorKeyEvent
+uKeyEventID
+uEditControlID
+eRoutingStage
+VirtualKey
+EventFlags
+TextInputFramework!TextInputClient::OnHostAcceleratorKeyEvent
+uKeyEventID
+uEditControlID
+eRoutingStage
+EventFlags
+TextInputFramework!TextInputClient::OnConversionModeChanged
+TextInputFramework!TextInputClient::OnCandidateUIEvent
+uEditControlID
+EventType
+TextInputFramework!TextInputClient::OnCompositionTerminated
+uEditControlID
+TextInputFramework!TextInputClient::StartNavigateFocus
+DestinationViewID
+TextInputFramework!TextInputClient::PopulateAndSendSelNotification
+selection.Begin
+selection.End
+iPopBegin1
+iPopEnd1
+iPopBegin2
+iPopEnd2
+TextInputFramework!TextInputClient::PopulateAndSendSelNotification - QueryTextAsync continuation failure (EditBuffer text cache not fully populated)
+hrResult
+iPopBegin1
+iPopEnd1
+EditControlID
+TextInputFramework!TextInputClient::PopulateAndSendSelNotification - second QueryTextAsync continuation failure (EditBuffer text cache not fully populated)
+hrResult
+iPopBegin2
+iPopEnd2
+EditControlID
+TextInputFramework!TextInputClient::MergePendingTextChange
+"Rolling back state (cache tracker and doc length)"
+TextInputFramework!TextInputClient::SendPendingSelectionChange
+uiEditControlID
+iSelectionBegin
+iSelectionEnd
+TextInputFramework!TextInputClient::NotifyTextChangedInternal - QueryTextAsync continuation failure (notification dropped - consider adding resync)
+hrResult
+cpPopBegin1
+cpPopEnd1
+EditControlID
+TextInputFramework!TextInputClient::NotifyTextChange
+uiEditControlID
+iChangeBegin
+iChangeEnd
+TextInputFramework!TextInputClient::RegisterEditControl
+m_uiEditClientOperationID
+uiEditControlID
+pRegistration.m_iTextLength
+rangeSelection.Begin
+rangeSelection.End
+TextInputFramework!TextInputClient::GetRegistrationAndCheckNoAbort
+uiEditControlID
+"Operation Ignored, still populating"
+TextInputFramework!TextInputClient::GetRegistrationAndCheckNoAbort
+uiEditControlID
+Outstanding Op Count
+"Operation Ignored, oustanding operations"
+TextInputFramework!TextInputClient::GetRegistrationAndCheckNoAbort
+uiEditControlID
+"Operation Ignored, no Edit Control"
+TextInputFramework!TextInputClient::GetRegistrationAndCheckNoAbort
+uiEditControlID
+"Operation Ignored, outstanding operation in host"
+TextInputFramework!TextInputClient::ReportOperationFailed
+uiEditControlID
+uiOperationID
+hrError
+PerfTICOnKeyEvent
+scanCode
+ciceroStartingTime
+virtualKey
+eventFlags
+deviceId
+ISOD: TextInputFramework!TextInputClient::OnKeyEvent
+scanCode
+virtualKey
+eventFlags
+deviceId
+ISOD: TextInputFramework!TextInputClient::OnKeyEvent
+eventFlags
+deviceId
+TextInputFramework!TextInputClient::SetActiveInputProfile
+LangID
+IME Clsid
+IME Profile ID
+TextInputFramework!TextInputClient::SetKeyDownHandled
+TextInputFramework!TextInputClient::EditControlLayoutChanged
+uEditControlID
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiKeyEventID
+"Task was overridden, don't send character key completion 2"
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiKeyEventID
+"Acknowledge Character event 2"
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiKeyEventID
+"Key event targed to framework, send without ack"
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiKeyEventID
+"Task was overridden, don't send character key completion "
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiEditControlID
+uiKeyEventID
+uiKeyDownEventID
+chLog
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiEditControlID
+uiKeyEventID
+uiKeyDownEventID
+TextInputFramework!TextInputClient::OnHostCharacterEvent
+uiKeyEventID
+"Acknowledge Character event"
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiKeyEventID
+"Task was overridden, don't send key completion 2"
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiKeyEventID
+"Acknowledge key event 2"
+TextInputFramework!TextInputClient::OnHostKeyEvent
+"Direct send to framework"
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiKeyEventID
+"Task was overridden, don't send key completion"
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiEditControlID
+uiKeyEventID
+uiLastSeenKeyEventID
+keyEventInfo.VirtualKey
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiEditControlID
+uiKeyEventID
+uiLastSeenKeyEventID
+keyEventInfo.EventFlags
+TextInputFramework!TextInputClient::OnHostKeyEvent
+uiKeyEventID
+"Acknowledge key event"
+TextInputFramework!TextInputClient::EditControlTextChanged
+uiEditControlID
+iChangeBegin
+iChangeEnd
+iNewLength
+spReg.m_iTextLength
+spReg.m_Selection.Begin
+spReg.m_Selection.End
+"Cache tracker updated"
+TextInputFramework!TextInputClient::EditControlTextChanged
+"Do initial populate for the edit control"
+TextInputFramework!TextInputClient::EditControlTextChanged
+"Setting the rollback tracker"
+TextInputFramework!TextInputClient::EditControlTextChanged
+"Dropping TextChanged notification because edit control is resyncing"
+TextInputFramework!TextInputClient::EditControlTextChanged
+uiEditControlID
+iChangeBegin
+iChangeEnd
+iNewLength
+spReg.m_iTextLength
+spReg.m_Selection.Begin
+spReg.m_Selection.End
+iSelectionBegin
+iSelectionEnd
+TextInputFramework!TextInputClient::NotifySelectionChanged
+iSelectionBegin
+iSelectionEnd
+bOverride
+pReg.m_uiEditControlID
+TextInputFramework!TextInputClient::SelectionChanged
+"SelectionChange notification saved"
+TextInputFramework!TextInputClient::SelectionChanged
+"Drop invalid selection change"
+TextInputFramework!TextInputClient::SelectionChanged
+"Reprocessing incomplete text change"
+TextInputFramework!TextInputClient::SelectionChanged
+"Do initial populate for the edit control"
+TextInputFramework!TextInputClient::SelectionChanged
+uiEditControlID
+iSelectionBegin
+iSelectionEnd
+spReg.m_iTextLength
+TextInputFramework!TextInputClient::SelectionChanged
+"Dropping SelectionChange notification because edit control is resyncing"
+TextInputFramework!TextInputClient::SelectionChanged
+uiEditControlID
+iSelectionBegin
+iSelectionEnd
+TextInputFramework!TextInputClient::EditControlTappedEx
+uiEditControlID
+iTapPosition
+bSettingFocus
+spReg.m_iTextLength
+TextInputFramework!TextInputClient::EditControlTapped
+uiEditControlID
+spReg.m_iTextLength
+TextInputFramework!TextInputClient::EditControlUnregister
+uiEditControlID
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+spReg->m_uiEditControlID
+"Calling EditControlFocusLeave"
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+"Terminating composition on focus loss"
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+"Pop outstanding operations because there is no connection with input service"
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+uiEditControlID
+iCaretPos
+TextLength
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+"Focus change ignroed because control has unregistered"
+TextInputFramework!TextInputClient::EditControlFocusChangeInternal
+bInFocus
+TextInputFramework!TextInputClient::EditControlRegister
+uiOperationID
+uiEditControlID
+TextInputFramework!TextInputClient::UpdateLayoutInfo
+uiEditControlID
+TextInputFramework!TextInputClient::SetCompositionClause
+uiOperationID
+uiEditControlID
+TextInputFramework!TextInputClient::SendRawCandidateMessage
+uiEditControlID
+"Determine composition - operation rejected"
+TextInputFramework!TextInputClient::SetTextFormat
+uiOperationID
+uiEditControlID
+iFormatBegin
+iFormatEnd
+TextInputFramework!TextInputClient::SetCompositionInfo
+uiOperationID
+uiEditControlID
+iCompositionBegin
+iCompositionEnd
+TextInputFramework!TextInputClient::RequestInputProfileActivation
+LangID
+IME Clsid
+IME Profile ID
+TextInputFramework!TextInputClient::ReportError
+uiOperationID
+uiEditControlID
+hstrEditText
+iSelectionBegin
+iSelectionEnd
+iErrorcode
+hstrErrorText
+TextInputFramework!TextInputClient::Resynchronize
+bOverride
+uiEditControlID
+TextInputFramework!TextInputClient::UnhandledKey
+uiOperationID
+uiEditControlID
+uiKey
+hstrKeyText
+uiModifiers
+TextInputFramework!TextInputClient::UnhandledKey
+uiOperationID
+uiEditControlID
+uiModifiers
+TextInputFramework!TextInputClient::OnKeyEvent
+uiKeyEventID
+"Task was overridden, acknowledgement suppressed"
+TextInputFramework!TextInputClient::OnKeyEvent
+uiKeyEventID
+uiEditControlID
+bNotifyFramework
+VirtualKey
+EventFlags
+TextInputFramework!TextInputClient::OnKeyEvent
+uiKeyEventID
+uiEditControlID
+bNotifyFramework
+EventFlags
+TextInputFramework!TextInputClient::OnKeyEvent
+uiKeyEventID
+"Key event acknowledged"
+PerfTICOperationCompleted
+IsKeyUp
+IsHWKB
+IsVirt
+IsVKey
+ProfileType
+LangID
+CLSID
+GuidProfile
+Flags
+TimeFromCiceroToISInMs)
+DurationOfISKeyEventProcessorInMs
+DurationOfIMEInMs
+DurationOfISInMs
+DurationOfAppInMs
+DurationOfTransportationInMs
+CiceroTimeInMs
+TimeFromISToCiceroInMs
+TimeFromEndIMEToStartAppInMs
+TimeFromEndAppToEndISInMs
+DurationOfVirtInMs
+TimeFromCiceroToIS/Cicero%
+%DurationOfISKeyEventProcessor/Cicero%
+DurationOfIME/Cicero%
+DurationOfIS/Cicero%
+DurationOfApp/Cicero%
+DurationOfTransportation/Cicero%
+TimeFromISToCicero/Cicero%
+TimeFromEndIMEToStartApp/Cicero%
+TimeFromEndAppToEndIS/Cicero%
+DurationOfVirt/Cicero%
+TimeStartFromCicero(PerfCounter)
+TimeEndFromCicero(PerfCounter)
+TimeStartFromIS(PerfCounter)
+TimeEndFromIS(PerfCounter)
+TimeStartFromIME(PerfCounter)
+TimeEndFromIME(PerfCounter)
+TimeStartFromApp(PerfCounter)
+TimeEndFromApp(PerfCounter)
+TimeISBeginKeyEventPayload(PerfCounter)
+TimeTICBeginKeyEventPayload(PerfCounter)
+TimeStartFromISKeyEventprocessor(PerfCounter)
+TimeEndFromISKeyEventprocessor(PerfCounter)
+TimeStartFromVirt(PerfCounter)
+TimeEndFromVirt(PerfCounter)
+PerformancecounterFrequency(PerfCounter)
+acknowledgmentType(PerfCounter)
+ISOD TextInputFramework!TextInputClient::OperationCompleted
+uiEditControlID
+acknowledgmentType
+PerfTICOperationCompleted
+PartA_PrivTags
+IsKeyUp
+IsHWKB
+IsVirt
+IsVKey
+ProfileType
+LangID
+CLSID
+GuidProfile
+Flags
+TimeFromCiceroToISInMs
+DurationOfISKeyEventProcessorInMs
+DurationOfIMEInMs
+DurationOfISInMs
+DurationOfAppInMs
+DurationOfTransportationInMs
+CiceroTimeInMs
+TimeFromISToCiceroInMs
+TimeFromEndIMEToStartAppInMs
+TimeFromEndAppToEndISInMs
+DurationOfVirtInMs
+TimeFromCiceroToIS/Cicero%
+%DurationOfISKeyEventProcessor/Cicero%
+DurationOfIME/Cicero%
+DurationOfIS/Cicero%
+DurationOfApp/Cicero%
+DurationOfTransportation/Cicero%
+TimeFromISToCicero/Cicero%
+TimeFromEndIMEToStartApp/Cicero%
+TimeFromEndAppToEndIS/Cicero%
+DurationOfVirt/Cicero%
+TimeStartFromCicero(PerfCounter)
+TimeEndFromCicero(PerfCounter)
+TimeStartFromIS(PerfCounter)
+TimeEndFromIS(PerfCounter)
+TimeStartFromIME(PerfCounter)
+TimeEndFromIME(PerfCounter)
+TimeStartFromApp(PerfCounter)
+TimeEndFromApp(PerfCounter)
+TimeISBeginKeyEventPayload(PerfCounter)
+TimeTICBeginKeyEventPayload(PerfCounter)
+TimeStartFromISKeyEventprocessor(PerfCounter)
+TimeEndFromISKeyEventprocessor(PerfCounter)
+TimeStartFromVirt(PerfCounter)
+TimeEndFromVirt(PerfCounter)
+PerformancecounterFrequency(PerfCounter)
+acknowledgmentType(PerfCounter)
+PerfTICOnKeyEvent
+PartA_PrivTags
+scanCode
+ciceroStartingTime
+virtualKey
+eventFlags
+deviceId
+TextInputFramework!TextInputClient::SetTimeConversionMultiTime
+Status
+TextInputFramework!TextInputClient::OperationCompleted
+uiOperationID
+uiEditControlID
+acknowledgmentType
+Outstanding Op count
+TextInputFramework!TextInputClient::ForceRemoveFocus
+uiEditControlID
+TextInputFramework!TextInputClient::TagText
+uiOperationID
+uiEditControlID
+iTagBegin
+iTagEnd
+uiTagStyle
+TextInputFramework!TextInputClient::StartPositionTracking
+uiOperationID
+uiEditControlID
+bTrackEditControlPosition
+bTrackSelectionPosition
+TextInputFramework!TextInputClient::StartLayoutChangeTracking
+uiOperationID
+uiEditControlID
+bListening
+range.Begin
+range.End
+TextInputFramework!TextInputClient::SetInComposition
+uiOperationID
+uiEditControlID
+bInComposition
+TextInputFramework!TextInputClient::SetInputLocale
+uiOperationID
+uiEditControlID
+uiLocaleID
+TextInputFramework!TextInputClient::SetSelection
+uiOperationID
+uiEditControlID
+iSelectionBegin
+iSelectionEnd
+bindDirection
+gripperVisibility
+TextInputFramework!TextInputClient::SetSmartLink
+operationID
+editControlID
+linkBegin
+linkEnd
+URIText
+URLText
+altText
+richType
+TextInputFramework!TextInputClient::ReplaceText
+uiOperationID
+uiEditControlID
+iReplaceBegin
+iReplaceEnd
+cchTextLength
+TextInputFramework!TextInputClient::ReplaceText
+uiOperationID
+uiEditControlID
+iReplaceBegin
+iReplaceEnd
+TextInputFramework!TextInputClient::ReplaceTextInternal - QueryTextAsync continuation failure (EditBuffer text cache not extending as designed)
+hrResult
+cpPopBegin1
+cpPopEnd1
+cpPopBegin2
+cpPopEnd2
+OperationID
+EditControlID
+TextInputFramework!TextInputClient::ReplaceTextInternal - second QueryTextAsync continuation failure (EditBuffer text cache not extending as designed)
+hrResult
+cpPopBegin2
+cpPopEnd2
+OperationID
+EditControlID
+TextInputFramework!TextInputClient::InsertText
+uiOperationID
+uiEditControlID
+iPosition
+cchTextLength
+TextInputFramework!TextInputClient::InsertText
+uiOperationID
+uiEditControlID
+iPosition
+TextInputFramework!TextInputClient::InsertChar
+uiOperationID
+uiEditControlID
+iPosition
+chCharacter
+uiChecksum
+chLog
+TextInputFramework!TextInputClient::InsertChar
+uiOperationID
+uiEditControlID
+iPosition
+EditControlUsageStats
+PartA_PrivTags
+ImmCount
+Tsf1Count
+Tsf3Count
+TotalCount
+IsHwKbd
+KeyboardModeChanged
+IsTimeElapsed
+IsOverride
+TextInputFramework!CAsyncTaskScheduler::GenerateQueryID
+_uCurrentQueryID
+TextInputFramework!CAsyncTaskScheduler::HasPendingTask
+eType
+Found
+TextInputFramework!CAsyncTaskScheduler::RunAfterLastEditAction
+TextInputFramework!CAsyncTaskScheduler::RunCancellations
+TextInputFramework!CAsyncTaskScheduler::CancelPendingEditActions
+TextInputFramework!CAsyncTaskScheduler::CancelPendingTasks
+TextInputFramework!CAsyncTaskScheduler::CompleteTask
+"Cancel task because resync is in progress"
+TextInputFramework!CAsyncTaskScheduler::CompletePendingTask
+TextInputFramework!CAsyncTaskScheduler::CompletePendingTask
+eType
+eState
+uDeferredOperationID
+TextInputFramework!CAsyncTaskScheduler::BeginPendingTask
+eState
+TextInputFramework!CAsyncTaskScheduler::BeginPendingTask
+eType
+eState
+uDeferredOperationID
+uCurrentQueryID
+TextInputFramework!CAsyncTaskScheduler::DeferCurrentTask
+Deferred OperationID
+eType
+TextInputFramework!ClientOwnerRegistration::OnOperationAcknowledged
+Control.Id
+Op.Type
+Op.Id
+"No match found."
+remaining
+TextInputFramework!ClientOwnerRegistration::OnOperationAcknowledged
+Control.Id
+Op.Type
+Op.Id
+Op.Ordinal
+remaining
+TextInputFramework!ClientOwnerRegistration::OnOperationCommitted
+ControlID
+ordinal
+TextInputFramework!ClientOwnerRegistration::_PushClientOperation
+ControlID
+ordinal
+committed
+TextInputFramework!ClientOwnerRegistration::RebaseTask
+ControlID
+task.id
+task.type
+task.base
+lastEvent
+fCanRun
+TextInputFramework!ClientOwnerRegistration::_PopulateAndNotify
+selection.Begin
+selection.End
+iPopBegin1
+iPopEnd1
+iPopBegin2
+iPopEnd2
+TextInputFramework!OutstandingOpTracker::PopOutstandingOp
+m_uiEditControlID
+eType
+uiSerial
+TextInputFramework!OutstandingOpTracker::PopOutstandingOp
+m_uiEditControlID
+eType
+uiSerial
+uiSize
+TextInputFramework!OutstandingOpTracker::PopOutstandingOp: Ignoring because outstanding op list is empty.
+uiOperationID
+eType
+TextInputFramework!OutstandingOpTracker::PopOutstandingOp
+uiOperationID
+TextInputFramework!OutstandingOpTracker::SetOutstandingOpID
+uiOperationID
+m_uiEditControlID
+eType
+uiSerial
+TextInputFramework!OutstandingOpTracker::PushOutstandingOp
+uiOperationID
+m_uiEditControlID
+eType
+uiSerial
+uiSize
+TextInputFramework!ClientOwnerRegistration::~OutstandingOpGuard
+m_uiEditControlID
+m_eAckType
+"Pop non committed operation"
+TextInputFramework!EditBufferCacheTracker::NotifyTextChangeFromInputService
+iChangeBegin
+iChangeEnd
+cchReplacement
+TextInputFramework!EditBufferCacheTracker::NotifyTextChange
+iBegin
+"Post State"
+TextInputFramework!EditBufferCacheTracker::NotifyTextChange
+iBegin
+"Pre State"
+TextInputFramework!EditBufferCacheTracker::NotifyTextChange
+iChangeBegin
+iChangeEnd
+cchReplacement
+TextInputFramework!CReplayableEditAction::Complete
+TaskID
+TextInputFramework!CRequestConversionModeChangeAsync::Complete
+TaskID
+TextInputFramework!CGetLayoutBoundsAsync::Complete
+TaskID
+TextInputFramework!CGetSelectionAsync::Complete
+TaskID
+selection.Begin
+selection.End
+TextInputFramework!CQueryTextAsync::Complete
+TaskID
+cchText
+TextInputFramework!CEditActionAsync::Complete
+TaskID
+TextInputFramework!CTask::DelegateCompletionHandlers
+From.ID
+From.State
+To.ID
+To.State
+count
+InputServiceLatency
+ProfileType
+LangID
+CLSID
+GuidProfile
+Flags
+IsHWKB
+IsVirt
+Bucket1KeyUpCount
+Bucket1KeyUpLatencySum
+Bucket2KeyUpCount
+Bucket2KeyUpLatencySum
+Bucket3KeyUpCount
+Bucket3KeyUpLatencySum
+Bucket4KeyUpCount
+Bucket4KeyUpLatencySum
+Bucket5KeyUpCount
+Bucket5KeyUpLatencySum
+Bucket6KeyUpCount
+Bucket6KeyUpLatencySum
+Bucket1KeyDownCount
+Bucket1KeyDownLatencySum
+Bucket2KeyDownCount
+Bucket2KeyDownLatencySum
+Bucket3KeyDownCount
+Bucket3KeyDownLatencySum
+Bucket4KeyDownCount
+Bucket4KeyDownLatencySum
+Bucket5KeyDownCount
+Bucket5KeyDownLatencySum
+Bucket6KeyDownCount
+Bucket6KeyDownLatencySum
+Bucket1GamingKeyUpCount
+Bucket1GamingKeyUpLatencySum
+Bucket2GamingKeyUpCount
+Bucket2GamingKeyUpLatencySum
+Bucket3GamingKeyUpCount
+Bucket3GamingKeyUpLatencySum
+Bucket4GamingKeyUpCount
+Bucket4GamingKeyUpLatencySum
+Bucket5GamingKeyUpCount
+Bucket5GamingKeyUpLatencySum
+Bucket6GamingKeyUpCount
+Bucket6GamingKeyUpLatencySum
+Bucket1GamingKeyDownCount
+Bucket1GamingKeyDownLatencySum
+Bucket2GamingKeyDownCount
+Bucket2GamingKeyDownLatencySum
+Bucket3GamingKeyDownCount
+Bucket3GamingKeyDownLatencySum
+Bucket4GamingKeyDownCount
+Bucket4GamingKeyDownLatencySum
+Bucket5GamingKeyDownCount
+Bucket5GamingKeyDownLatencySum
+Bucket6GamingKeyDownCount
+Bucket6GamingKeyDownLatencySum
+TextInputFramework!CInputContextAdapter::_OnCompositionEnded
+TextInputFramework!CInputContextAdapter::_UpdateInputPaneDisplayPolicy
+TextInputFramework!CInputContextAdapter::_GetCurrentSelection
+editCookie
+Begin
+TextInputFramework!CInputContextAdapter::_SetExpectedTextChange
+expectedStart
+expectedOldEnd
+expectedNewEnd
+TextInputFramework!CInputContextAdapter::_ExecuteOperation
+fForceAsync
+TextInputFramework!CInputContextAdapter::CancelKeyEventPayload
+TextInputFramework!CInputContextAdapter::ApplyKeyEventPayload
+TextInputFramework!CInputContextAdapter::EndKeyEventPayload
+TextInputFramework!CInputContextAdapter::BeginKeyEventPayload
+TextInputFramework!CInputContextAdapter::OnCloseCandidateUI
+TextInputFramework!CInputContextAdapter::OnReconvertRequest
+fReturnCandidates
+fReturnRange
+TextInputFramework!CInputContextAdapter::_RequestEditSession
+dwFlags
+TextInputFramework!CInputContextAdapter::OnBusyChange
+fBusy
+TextInputFramework!CInputContextAdapter::OnEditSessionEnded
+ecReadOnly
+fLayoutChanged
+TextInputFramework!CInputContextAdapter::OnStatusChange
+TextInputFramework!CInputContextAdapter::OnTextChange
+Start
+OldEnd
+NewEnd
+Exp.Start
+Exp.OldEnd
+Exp.NewEnd
+TextInputFramework!CInputContextAdapter::OnFocusChange
+fInFocus
+TextInputFramework!CInputContextAdapter::UpdateUILessMode
+fShow
+TextInputFramework!CInputContextAdapter::OnSetCompositionClause
+deferralId
+TextInputFramework!CInputContextAdapter::RequestConversionModeChange
+deferralId
+TextInputFramework!CInputContextAdapter::OnCandidateMessage
+deferralId
+TextInputFramework!CInputContextAdapter::SetTextFormat
+deferralId
+Begin
+Style
+TextInputFramework!CInputContextAdapter::SetInComposition
+deferralId
+fInComposition
+fHardwareKeyboard
+TextInputFramework!CInputContextAdapter::SetSelection
+deferralId
+Begin
+CaretbindDir
+TextInputFramework!CInputContextAdapter::SetText
+deferralId
+Begin
+TextInputFramework!CInputContextAdapter::GetLayoutBounds
+deferralId
+Begin
+RangeBoundsLeft
+RangeBoundsRight
+RangeBoundsTop
+RangeBoundsBottom
+ControlBoundsLeft
+ControlBoundsRight
+ControlBoundsTop
+ControlBoundsBottom
+TextInputFramework!CInputContextAdapter::GetSelection
+deferralId
+Begin
+TextInputFramework!CInputContextAdapter::GetText
+deferralId
+Begin
+TextInputFramework!CInputContextAdapter::OnCompositionTerminated
+TextInputFramework!CInputContextAdapter::DoEditSession - finalizing ongoing composition
+TextInputFramework!CInputContextAdapter::DoEditSession
+TextInputFramework!CInputContextAdapter::OnCandidateMessage
+TextInputFramework!CInputContextAdapter::SetTextFormat
+formatBegin
+formatEnd
+TextInputFramework!CInputContextAdapter::RequestConversionModeChange
+TextInputFramework!CInputContextAdapter::GetControlName
+TextInputFramework!CInputContextAdapter::GetAppName
+TextInputFramework!CInputContextAdapter::GetCurrentEditControlInfo
+TextInputFramework!CInputContextAdapter::GetSelection
+begin
+TextInputFramework!CInputContextAdapter::GetCaretPosition
+TextInputFramework!CInputContextAdapter::GetLayoutBounds
+rangeBegin
+rangeEnd
+RangeBoundsLeft
+RangeBoundsRight
+RangeBoundsTop
+RangeBoundsBottom
+ControlBoundsLeft
+ControlBoundsRight
+ControlBoundsTop
+ControlBoundsBottom
+TextInputFramework!CInputContextAdapter::ForceRemoveFocus
+TextInputFramework!CInputContextAdapter::TagText
+tagBegin
+tagEnd
+uTagStyle
+TextInputFramework!CInputContextAdapter::SetInComposition
+fInComposition
+TextInputFramework!CInputContextAdapter::SetInputLocale
+TextInputFramework!CInputContextAdapter::SetSelection
+selectionBegin
+selectionEnd
+bindDirection
+visibility
+TextInputFramework!CInputContextAdapter::PreventCloseCandidateUI
+fPreventClose
+TextInputFramework!CInputContextAdapter::SetCompositionClause
+TextInputFramework!CInputContextAdapter::SendReconvertCandidateList
+iReconvertBegin
+iReconvertEnd
+TextInputFramework!CInputContextAdapter::QueryText
+queryBegin
+queryEnd
+TextResult
+TextInputFramework!CInputContextAdapter::ReplaceText
+replaceBegin
+replaceEnd
+TextInputFramework!CInputContextAdapter::InsertText
+position
+TextInputFramework!CInputContextAdapter::InsertChar
+Character
+TextInputFramework!CInputContext::RequestEditSession denied
+TextInputFramework!CCompositeContextAdapter::OnDetached - finalizing composition
+Microsoft.Windows.Wil.FeatureLogging
+TextInput
+.R0?z
+TouchKeyboard
+RaiseFailFastException
+std::exception: %hs
+TextInputHostCreate
+TextInputHostCreateEx
+NavigateFocusInfoCreate
+}h><P
+unknown error
+iostream stream error
+TextInputServer::GetAllTextInputHostsByProcess
+ATextInputHostSiteRegistration::RuntimeClassInitialize
+CTextInputClientFreeThread::EditControlTapped
+CTextInputClientFreeThread::EditControlTappedEx
+CTextInputClientFreeThread::EditControlReconvertRequest
+CTextInputClientFreeThread::EditControlHostOwnerRegister
+CTextInputClientFreeThread::EditControlInfoChanged
+CTextInputClientFreeThread::RichContentTypesChanged
+CTextInputClientFreeThread::IsOperationCanceled
+Rolling back state (cache tracker and doc length)
+EditBufferCacheTracker::InsertNewRegion
+EditBufferCacheTracker::SplitRegion
+EditBufferCacheTracker::GetNextRangeToUnpopulate
+SharedMessagePortRefPtr::Initialize
+bad allocation
+ARSDS
+TextInputFramework.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$T$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.text
+.text$di
+.text$lp00TextInputFramework.dll!20_pri7
+.text$lp01TextInputFramework.dll!20_pri7
+.text$lp03TextInputFramework.dll!35_hybridboot
+.text$lp04TextInputFramework.dll!35_hybridboot
+.text$lp06TextInputFramework.dll!50_coldboot
+.text$mn
+.text$np
+.text$x
+.text$yd
+.text$zs
+.text$zy
+.text$zz
+.tls$
+.tls$ZZZ
+.xdata$x
+minATL$__a
+minATL$__f
+minATL$__m
+minATL$__z
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$dk00$brc
+.data$r$brc
+.data
+.data$00
+.data$dk00
+.data$zz
+.bss$00
+.bss$dk00
+.bss$pr00
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+QQRhp
+VVRhp
+RRWhp
+VVRhp
+RRWhp
+VVWhp
+VVRhp
+SSWhp
+RRWhp
+VVRhp
+VVRhp
+Pj5SSRhp
+E(VWj
+WWRhp
+Pj4WWRhp
+E$VWj
+PVWWRhp
+E SVW
+SSWhp
+Pj<WWRhp
+VVRhp
+RRVhp
+RRVhp
+QQSVW
+vQWj@
+D$(PQQ
+PQSVW
+9X<u3
+9H@u+
+vRWh@
+D$(PQQ
+yh97t<
+trPhA
+tJWhB
+t&PhH
+v9Wh@
+0;G@u
+j;GDuQ
+0;G@u
+g;GDuN
+9F<uH
+E 9F@u@
+0;C@u
+`;CDuG
+v8Ph@
+u WRV
+PQSVW
+S ;V@u
+px;pt
+9PxuJ
+S u:;U
+HP9HL~
+PQSVW
+tuVho
+PQSVW
+O<_^[
+0u2;5
+0u$;5
+vQQj 
+vhPj 
+t^VhU
+toVh"
+toVh<
+:;G@u
+U;GDuT
+0uI;=
+D$(PQQ
+PQQSVW
+PQSVW
+;8u9Q
+A4;A8t
+]4v8j
+7Z75u*
+7;:t#
+WjqhT
+WjthT
+WjwhT
+Wj|hT
+PQQhL
+PWWh0
+8F|t+
+L$|_^3
+8F|t!
+PQSVW
+G@9G r
+0uG;=
+0;C@u 
+b;CDuF
+tL9qltG
+0u&;5
+0u?;5
+0u/;5
+tQ9yltL
+t09Q u+
+0;G@u$
+u;GDuQ
+9NLt<
+s-9Gpw(
+sD+Op
+t:9w t5;
+t)9ylt$
+9WhuEQ
+tL9qltG
+tE9ylt@
+tE9ylt@
+t-9Y u(
+>;r(tV
+vJVjH
+v/WjH
+8F|tZ
+0un;=
+9O\tB
+d;G@u!
+>;GDu
+tO9qltJ
+^(9~$t.W
+9WHuC9GLu>
+9GPu3
+9GXu(
+9xhuL
+t[SSQ
+PQSVW
+QQSVW
+0um;5
+693tK
+QQSVW
+v2Wj@
+9Fxts
+:C$tc
+D$,VWj
+97uph
+vPPh@
+_^[Y]
+v1Wj 
+L$4^3
+tAh$.
+PQSVW
+QQSVW3
+@t QWP
+t_G;}
+PQSVW
+ti8_Yt
+PQSVW
+0PPh0
+U SVW
+PQQSVW
+PQSVW
+v$Vj@
+v;VjH
+9Hhu68]
+_^[Y]
+G@9G r
+0VWh)
+0PVWh*
+t&h,-
+PQQSVW
+Y__^[
+QRPhX
+QRPhx
+0QRPh
+QRPh8
+QRPhX
+QRPhx
+QRPh8
+QRPhX
+QRPhx
+VWj03
+0PWSV
+0PVVW
+Y__^[
+QRPh8
+QRPhX
+u&QWS
+u&QWS
+u&QWS
+u&QWS
+PQSVW
+PQSVW
+PQSVW
+PQSVW
+PQSVW
+|$hWQ
+|$hWQ
+Vj'h 
+u&QWS
+u&QWS
+u&QWS
+u&QWS
+u&QWS
+WPWWV
+9_^[]
+t.;:u
+t.;9u
+t.;9u
+F _^3
+v\Wj(
+vBPj(
+vRWj(
+;G4t5
+vQSj 
+vISj 
+vIRj 
+QQSVW
+vMPj 
+vBPj 
+PPPPPPP
+SVWtN
+vhVh 
+XDj4Y
+Af98u
+Af98u
+vOPj 
+_^[Y]
+<SVWQQ
+j+j,h
+CxPQV
+j@jAhx
+j?j@h
+v1Vj 
+vcVj 
+;G,tr3
+D$8PQQ
+WWWWWWW
+QQSVW
+w$_^Y]
+t$Ff;
+QSVWj
+9wh~WV
+F;wh|
++GL+OL
+j\Xf9FHu
+9GD|.
+~L|u\
+w(_^[]
+f99t7
+tC97u?jL
+~L}uA
+?w}t$j
+FP t:
+PQQVW
+j0Zt4f;
+uH9_@tH9wDu9
+QQSVW
+G8PWh
+0Y_^]
+29F<u
+t.;:u
+9H8tH;x8
+;p8~>
+8Fvu 8Fuu
+Fh+A`
+v<Sh@
+Gl+A`
+v9Vh@
+T$(Pj
+D$(PQQ
+v9Vh@
+D$8PRVQ
+v9Vh@
+v9Vh@
+v]WhB
+D$,PQQ
+QQSVW
+t:;X8~5
+D$TPQQ
+D$,PQQ
+j0QPf
+tBAf;
+QQVW3
+v'Wj@
+v>Wh@
+n8Wqt
+t@@f;
+t5j0R
+0PhA!
+8Wpt,V
+A,+A(
+SVWu9
+;F,uK
+98u;9~@u6P
+N;F4uV3
+F@9~<t:98u6P
+_^[Y]
+t3;S8~.
+Q$;S8~
+tKPhl
+8Gdt1
+~@_^[
+D$,PQQ
+D$,PQQ
+PQQVW
+y`97t9
+u&QWS
+PQSVW
+sX;s\t(;s\t
+5VVVj
+PPPPVV
+;p\tM
+PQSVW
+f9L$(u-
+9D$\t
+>@_^]
+f9T$(u1
+9D$\t
+X_^[]
+u&QWS
+PQSVW
+u&QWS
+9G|u]
+PQRRh
+sL+Ch
+G$SPQ
+SVWv!j
+9w$tl
+{(9s,t
+H$WSQ
+B8PRQ
+9_<tC
+u&QWS
+QQSVW
+%;{ } 
+L$4Q3
+D$(PWQ
+D$(Pj
+L$D_^[3
+u&QWS
+9_T~t
+C;_T|
+PQSVW
+u&QWS
+G|ShD
+PQSVW
+_^[Y]
+PQSVW
+PQSVW
+u&QWS
+PQSVW
+PQSVW
+PQSVW
+PQSVW
+9Fxuq
+9Fxue
+QVWj0
+W9A|u
+O4_^[
+_|_^[
+PQSVW
+G;{L~
+PQSVW
+D$$Pj
+9L$8t%
+D$,Pj
+9w8~3
+C;_8|
+w8_^[
+QQSVW
+QQSVW
+9F$t(
+A,;A }W
+A,@PR
+PQSVW
+PQSVW
+u&QWS
+~/9N(t
+9N,v#
+B;V,r
+xr;y(}mW
+QQSVW
+g9w(u=
+;G s@
+%;W,r
+3;y r
+Y9w(t
+x@;A(};
+PQSVW
+\$(Yu?
+L$<_^[3
+T$ Rj
+T$DRVWSQ
+T$ Rj
+T$DRVW
+D$HSQ
+L$<_^[3
+_^[Y]
+QQVWj
+;B<us
+D$ PQ
+PQSVW
+u&QWS
+@(F;E
+_^[Y]
+_ _^[
+PQSVW
+PQSVW
+D$$PSW
+u&9D$
+L$D_^[3
+u&QWS
+PQSVW
+;O(u4
+;O,u3
+F;w8|
+F;w8}
+QSVW3
+D$ PW
+f;D$ t
+SVWt|
+;K(u8
+_^[Y]
+uUA9K@~OQ
+D$$9t$
+D$ ;t$
+9H@~EQ
+9M t(
+SVWj0
+x4;_@},
+G<_^[
+@_^[]
+L$$_^[3
+u&QWS
+C89C4
++Q4+y4
++Q4+y4
++Q4+y4
+PQSVW
+9_8~-
+C;_8|
+PQQSVW
+u!!O$3
+PQSVW
+QQSVW
+PQSVW
+9H@~]Q
+u&QWS
+D$$Pj
+D$ Pj
+u.9D$
+t$f9D$
+O,;1~3
++_0VQ
+D$$Pj
+tF9D$ t@!D$
+u&QWS
+tBVj_
+D$lQP
+D$hPQ
+D$$PQ
+D$,PQ
+CH;D$
+D$(PQ
+D$8PQ
+D$0PQ
+D$8PQ
+D$HPQ
+D$ PQ
+D$TPQ
+PQSVW
+D$XSVW3
+QQSVW
+V4_^[]
+WWj'S
+t;VjGh
+VjXh 
+t~Pjbh
+tHPjg
+Pj`h,
+Pjah,
+PQSVW
+v,Sh4
+PQQSVW
+uRVWj
+97s/j
+t:Wjuh8
+PQSVW
+VVRhp
+QQRhp
+PQVVRhp
+VVRhp
+VVRhp
+VVRhp
+VVRhp
+RRWhp
+PQRRWhp
+VVRhp
+VVRhp
+PQWWRhp
+VVRhp
+VVRhp
+VVRhp
+RRVhp
+PQWWVhp
+SSVhp
+VVRhp
+QQWhp
+!9F0u
+t7#F(
+;0t=j
+SVWv5j
+vSPj(
+vVWj(
+u^;AhuY
+v[Qj 
+vhPj 
+9RSDSt
+QQSVW
+v#Vj(
+vCPj(
+v$Pj(
+9F8u8
+v]Vj(
+}8v^j
+]4v5j
+v*Wj(
+vEVj(
+t&9Ahu!
+L$ QP
+v;Wj 
+vTVh 
+vMPj(
+{(vfj
+{ v_j
+v<Sh 
+v;Vj(
+tL;{8t
+{0vzj
+VWvij
+ t>PW
+{,vpj
+0Ph$.
+PQSVW
+PQSVW
+PQSVW
+u#WQSj
+VVRhp
+D$hSVW
+D$0PW
+D$,PS
+D$@PS
+QQSVW
+QQSVW
+QQSVW
+QQSVW
+VVRhp
+VVRhp
+vRVhA
+vXWj@
+v8Wj@
+D$(PV
+u&QWS
+vHWj@
+VVRhp
+QQRhp
+VVRhp
+RRWhp
+RRVhp
+SSVhp
+SSVhp
+VVRhp
+WWRhp
+VVRhp
+QQWhp
+VVRhp
+VVRhp
+9_Pta
+tT;^8~O
+D$@PS
+v'VjH
+v1Wj@
+v'Sh@
+tm!\$
+!_D8Zyt
+]4vmj
+TSVW3
+D$HQQj
+v2Sh@
+v;Qh@
+]<vCj
+v>Wh@
+}<vWj
+uDSVP
+v*RjH
+98tMP
+}<vMj
+AH+AD
+ND)~H;NHu
+u&QWS
+PQSVW
+vEVh@
+XSVWt
+u$SWV
+u&QWS
+WindowsStringHasEmbeddedNull
+WindowsIsStringEmpty
+RoOriginateErrorW
+RoOriginateError
+WindowsGetStringRawBuffer
+CoreUIFactoryCreate
+CoreUIClientCreate
+CoreUICreate
+MsgStringCreateShared
+MsgRelease
+MsgBufferShare
+MsgBlobCreateShared
+TextInputClientWrapperCreate
+InputFocusMonitorCreate
+ApiSetQueryApiSetPresence
+CapabilityCheck
+OpenProcessForQuery
+OpenProcessTokenForQuery
+GetUserObjectInformationW
+GetThreadDesktop
+DestroyWindow
+PostMessageW
+DefWindowProcW
+RegisterClassW
+CreateWindowExW
+RegisterWindowMessageW
+GetAncestor
+GetClientRect
+ClientToScreen
+ScreenToClient
+SendMessageW
+GetFocus
+PeekMessageW
+DispatchMessageW
+SetInputFocus
+CheckProcessForClipboardAccess
+ActivateKeyboardLayout
+GetKeyState
+GetAsyncKeyState
+GetKeyboardLayout
+GetKeyboardState
+GetWindowDpiAwarenessContext
+EnumThreadWindows
+QueryWin32SubsystemHost
+DwmGetWindowAttribute
+GetDesktopVisualTransform
+CoTaskMemFree
+RoGetMatchingRestrictedErrorInfo
+WindowsDeleteString
+SetRestrictedErrorInfo
+CoTaskMemAlloc
+WindowsCreateStringReference
+CoCreateFreeThreadedMarshaler
+CoGetMalloc
+CoTaskMemRealloc
+WindowsCreateString
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+TextInputFramework.dll
+DllGetActivationFactory
+DllCanUnloadNow
+DllGetClassObject
+InputFocusChanged
+NavigateFocusInfoCreate
+TextInputClientCreate2
+TextInputClientCreate
+TextInputHostCreate
+TextInputHostCreateEx
+TextInputHostGetCurrent
+TextInputHostGetForHwnd
+TextInputHostSiteCreate
+TextInputServerCreate
+TsfOneCreate
+tsfGetAsyncKeyState
+tsfGetKeyState
+tsfGetKeyboardState
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_function_call@std@@
+.?AVregex_error@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@@
+.?AVbad_cast@@
+.?AVout_of_range@std@@
+.?AVruntime_error@std@@
+.?AV<lambda_6c5ed80337ad65c6906ad06516705678>@@
+.?AV<lambda_7c97d1dbae8594534d09683e73042d79>@@
+.?AV<lambda_5f314933bd0a20ca2021b717373269aa>@@
+.?AV<lambda_0f26218d01e08da3fe0a1df69193949d>@@
+.?AV<lambda_e3f0513b0316fad38f9251ba88b6f1af>@@
+.?AV<lambda_1788d3c68371b79599720f01c92d3ba9>@@
+.?AV<lambda_65297c684661eb6b53aa11bd9bf64401>@@
+.?AV<lambda_dd3e130f521f8dcafd63181ff0eaf6f7>@@
+.?AV<lambda_e6c9ccdaa97443cfeb8c3fa029e5d100>@@
+.?AV<lambda_3317a41935112e4f47ed021eed228052>@@
+.?AV<lambda_4dc4eb463c15f0a865bade35a6170ef8>@@
+.?AV<lambda_827260ace61194d6950ee651efb59e38>@@
+.?AV<lambda_ec1b8f146103d5d4834639607488dda4>@@
+.?AV<lambda_1c9a6722fc6428dfbb0306a8db7f27c0>@@
+.?AV<lambda_d4dc0c8850b6b0193a503976b9b27fda>@@
+.?AV<lambda_91ca1420dafa19577ae4510d2449c138>@@
+.?AV<lambda_90771d58b94690706b9acb5e206e68e5>@@
+.?AV<lambda_e9e9082622ae00c6d8089b53da7cb82d>@@
+.?AV<lambda_fd73d4cde05d9d5326330a423f70a62a>@@
+.?AV<lambda_876f197ed4aea1c76018a2d5b5c33ccb>@@
+.?AV<lambda_025484939d7652f1cddc686cf3af1035>@@
+.?AV<lambda_9daec916d62c4b3527e43317010cdbea>@@
+.?AV<lambda_ae5aa7ccc2b7fd9c4a28343158bdc68e>@@
+.?AV<lambda_1ebe40b69784b2be3174c63a58edf341>@@
+.?AV<lambda_845a7a7170520d7791ca8024456f4e85>@@
+.?AV<lambda_fb1267cf3a2efde58232157359a0c0de>@@
+.?AV<lambda_358cceab28f9ac55f1b2e19ebc75d2ba>@@
+.?AV<lambda_f51145b0b763e378e35904cd8e7126a1>@@
+.?AV<lambda_716e0f8935031306e19ef8933c994859>@@
+.?AV<lambda_7c4c859806b052ccd39a29efd8c8448e>@@
+.?AV<lambda_0fb52db9dfe34fd7ee252e7f580bc472>@@
+.?AV<lambda_00f9cbef66646b8414eef53a1fc45b85>@@
+.?AV<lambda_ce2767a16248e70c924011a7411cb863>@@
+.?AV<lambda_9f53e9ec09ac8caa8ebc2fe09ef32c33>@@
+.?AV<lambda_9badb2344ba66641b4cb62ad7fde5191>@@
+.?AV<lambda_a4e79fc74cf243223f8412a08074a345>@@
+.?AV<lambda_ea867d7f108435dbb05d7e3985283595>@@
+.?AV<lambda_36f0e53a38437d86d6b9059adfffde41>@@
+.?AV<lambda_11b8a16ab3c5355e3144415542a6da07>@@
+.?AV<lambda_943577fa4a270819a0d58bb21546c84e>@@
+.?AV<lambda_2ec96a82045fef1672f2870f7c8e925b>@@
+.?AV<lambda_2b58f448215aafad0d6e209e8de8a3aa>@@
+.?AV<lambda_0a3eb0f1274e61512ce52d3ca6cead9d>@@
+.?AV<lambda_b7f0a620b2f7853fedd1c82e9c597f56>@@
+.?AV<lambda_6e33d94d45b7e0a99a5135a5baf55952>@@
+.?AV<lambda_8c77584c3d81ed0c1a9b4916eabffb68>@@
+.?AV<lambda_c3f0ace25d3b50ac7aa9a153bfc6f505>@@
+.?AV<lambda_b350a4f667817b870acd0423ca2de999>@@
+.?AV<lambda_39f42afee008d7f55c2714dce61dee46>@@
+.?AV<lambda_e683eef2b8cf9e045d85b36bfa537c26>@@
+.?AV<lambda_5fca5c05f1ca9d39f6de9bb31e0df610>@@
+.?AV<lambda_0465ef1564439ac7d2e04093071be1fd>@@
+.?AV<lambda_80e3fcff07990b39db935607265be350>@@
+.?AV<lambda_399ee890acac1b188f690cc6e408f4b2>@@
+.?AV<lambda_0668707fdab4821b7f9a6bf9d885d50e>@@
+.?AV<lambda_bd2e4f02c0be4a1328766a3323a25e32>@@
+.?AV<lambda_3af9aef5d5ee95320587a9a44b24ed91>@@
+.?AV<lambda_c245094a63e73b2711e8cd387e35aa5f>@@
+.?AV<lambda_1d75ff2b0d234a3364ef40d5242a6eae>@@
+.?AV<lambda_14e87c169bdce93d73f74c26d639d5b8>@@
+.?AV<lambda_ef87ed88af42dbc92e44dbf0e06cb9be>@@
+.?AV<lambda_0a42f5282fa51f339c096915b3fce9d0>@@
+.?AV<lambda_226adaf75a6f7510360118b045d034ea>@@
+.?AV<lambda_ff26bfb024db25747fa616fa8d74c0ab>@@
+.?AV<lambda_617fb4e0a11bc7d414841fafa10142b8>@@
+.?AV<lambda_0878948fd41287d04a34b01dd7f40c70>@@
+.?AV<lambda_13e9a9094e2ea706eb2c99e84f89937d>@@
+.?AV<lambda_11f03275e1d903b7c23bc5bf1e1b59aa>@@
+.?AV<lambda_49a125a06d384bc57f5232b9be9c6ea3>@@
+.?AV<lambda_dccaf5750e2e4765d08346286075c825>@@
+.?AV<lambda_6b48587d0cd3ce46f34eb3d21b71ee17>@@
+.?AV<lambda_c7cd420fbe064c7f30b266b7710dc483>@@
+.?AV<lambda_534d86dcd4a7154bd69e25c0097cac36>@@
+.?AV<lambda_2fddf4627c1da9c71b18aa4bd605752b>@@
+.?AV<lambda_8ccff3458e73674aba7b383f543ab883>@@
+.?AV<lambda_10a10d6a427b6f1bb07010a7eb2d32c6>@@
+.?AV<lambda_5f06633c3fcf2b4f8a6cfb34c46bf965>@@
+.?AV<lambda_983e8f90d7b8d57dd2fe3ca13e19e425>@@
+.?AV<lambda_2c54e2add5287f6bba82f67563bdbaf9>@@
+.?AV<lambda_1f36bae7c1940afa203cc8e153e67ece>@@
+.?AV<lambda_5aabbb0a8293d73df152602f7e4639df>@@
+.?AV<lambda_7310489644d7e9588e564baa5bc005c0>@@
+.?AV<lambda_bdca957af53cac1970dcc11988554849>@@
+.?AV<lambda_a20241d2dfa57463be732d0b8144c619>@@
+.?AV<lambda_3d7272148ae2d318e35b0b63f8342aa0>@@
+.?AV<lambda_2c8fa9b30b952e33b293e4fb118b841d>@@
+.?AV<lambda_764e0904061f0978aeccfb36a27081bd>@@
+.?AV<lambda_a191ae4854d37f2cf76c16a54dea3892>@@
+.?AV<lambda_72fb707d68253e363fe548569c811de7>@@
+.?AV<lambda_04a7d0949910838b009dbe24c61f9bf0>@@
+.?AV<lambda_7c924a94ecc5c100f4372753de948e09>@@
+.?AV<lambda_11164acd7e74ca5c3d8050b858e6b3c7>@@
+.?AV<lambda_4e710429145bf5256470fe729fc968a1>@@
+.?AV<lambda_c1a5d1a0df5e6bad2b7f71a1166eb615>@@
+.?AV<lambda_105ca39964cd7d9fd3efd5d2c69fa25e>@@
+.?AV<lambda_f3d62466f32e69dd3fa952773d643deb>@@
+.?AV<lambda_b8412eb10e5a2b8f2c62c405258ba2fa>@@
+__CxxFrameHandler3
+_vsnwprintf
+memcpy_s
+??3@YAXPAX@Z
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+_vsnprintf_s
+??_V@YAXPAX@Z
+_purecall
+_XcptFilter
+_amsg_exit
+malloc
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_except_handler4_common
+GetModuleFileNameA
+InitOnceExecuteOnce
+HeapFree
+GetModuleHandleExW
+EncodePointer
+GetCurrentThreadId
+FormatMessageW
+ReleaseSRWLockExclusive
+DisableThreadLibraryCalls
+AcquireSRWLockExclusive
+TlsAlloc
+ReleaseSRWLockShared
+HeapAlloc
+DecodePointer
+GetProcAddress
+AcquireSRWLockShared
+GetProcessHeap
+GetModuleHandleW
+TlsFree
+DebugBreak
+CreateSemaphoreExW
+SetLastError
+ReleaseSemaphore
+WaitForSingleObject
+TerminateProcessOnMemoryExhaustion
+ReleaseMutex
+GetTickCount64
+GetLastError
+OutputDebugStringW
+RaiseFailFastException
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+CreateMutexExW
+GetCurrentProcessId
+EventWriteTransfer
+UuidCreate
+IsDebuggerPresent
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-3.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-2.dll
+api-ms-win-core-handle-l1-1-0.dll
+OLEAUT32.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+RPCRT4.dll
+api-ms-win-core-profile-l1-1-0.dll
+RtlGetDeviceFamilyInfoEnum
+RtlPublishWnfStateData
+RtlDllShutdownInProgress
+NtQueryInformationProcess
+ntdll.dll
+memmove_s
+strcpy_s
+strrchr
+strchr
+RtlGetMultiTimePrecise
+wcsncpy_s
+wcscpy_s
+RtlReleaseSRWLockExclusive
+RtlAcquireSRWLockExclusive
+RtlWakeAllConditionVariable
+RtlSleepConditionVariableSRW
+?what@exception@@UBEPBDXZ
+??0exception@@QAE@ABQBD@Z
+??0bad_cast@@QAE@PBD@Z
+??0bad_cast@@QAE@ABV0@@Z
+??1bad_cast@@UAE@XZ
+realloc
+srand
+wcschr
+_callnewh
+setlocale
+_CxxThrowException
+memcpy
+memmove
+_errno
+___lc_handle_func
+___lc_collate_cp_func
+memcmp
+__pctype_func
+___lc_codepage_func
+calloc
+___mb_cur_max_func
+_ismbblead
+memset
+??0exception@@QAE@ABQBDH@Z
+abort
+_wcsdup
+__crtCompareStringW
+__crtLCMapStringW
+_wsetlocale
+EventUnregister
+EventRegister
+EventSetInformation
+SetThreadpoolTimer
+CreateThreadpoolTimer
+LeaveCriticalSection
+EnterCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionEx
+RegGetValueW
+InitOnceComplete
+InitOnceBeginInitialize
+FindStringOrdinal
+EventWrite
+OpenThreadToken
+GetCurrentThread
+RevertToSelf
+OpenProcess
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+RaiseException
+RoGetActivationFactory
+K32GetModuleFileNameExW
+GetModuleFileNameW
+RoActivateInstance
+InitializeCriticalSection
+TlsSetValue
+TlsGetValue
+RegOpenKeyExW
+RegQueryValueExW
+QueryPerformanceFrequency
+RegCloseKey
+LocalFree
+LocalAlloc
+HeapReAlloc
+LocalReAlloc
+SetEvent
+CreateEventW
+GetStringTypeW
+LoadLibraryW
+FreeLibrary
+OpenProcessToken
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+WideCharToMultiByte
+MultiByteToWideChar
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+RtlCompareUnicodeString
+RtlNtStatusToDosErrorNoTeb
+RtlAllocateHeap
+RtlInitUnicodeString
+NtQueryInformationToken
+RtlFreeHeap
+_ftol2_sse
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+"TextInputFramework.DYNLINK"
+FileVersion
+10.0.22621.1017 (WinBuild.160101.0800)
+InternalName
+"TextInputFramework.DYNLINK"
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+"TextInputFramework.DYNLINK"
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.1017
+VarFileInfo
+Translation
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :X:p:x:|:
+;(;4;@;X;\;`;d;p;t;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+0>1h1
+5O5y5
+V3!4h4
+<7=y=
+>!>A>K>a>
+?$?(?.?2?8?<?R?V?\?`?f?j?
+0&0A0K0b0f0l0p0v0z0
+111W1f1
+2 2&2*2
+3!4x4
+596I6
+7"717H7
+8=9j9
+9":F:M:T:
+=\=y=+>
+>H?i?
+0]1w1
+3C3c3
+4"4=4d4
+89:K:U:a<m<~<
+=6=B=Y=
+>)?7?H?
+0#0q0{0
+2"2d2
+364H4
+516E6W6
+7J7d7z7
+7G8f8p8
+9':e:
+;;<\<
+\0k0|0
+0_1k1|1P2
+:g;l<
+<(={>
+0K2]2H3Z3
+586J6
+;8<J<
+>#>X>j>
+6!717@7R7]7z7
+7'8p9
+=,=>=I=f=o=
+4(5:5h5
+556Z6m6
+6"777I7
+8.9o9
+:-;J;
+<$<M<
+=F=u=
+=&>v>
+0^0v0
+1"161D1h1u1|1
+2&2-2\2
+2D3u3
+384J4
+5!5+565[5e5
+;9;V;
+<1<[<x<
+?&?8?e?z?
+0(1]1c1m1
+222u2
+2 393
+4(494f4n4}4
+4/5B5R5
+6 6s6
+6%7>7N7]7n7
+8[8m8
+::;U;h;q;
+<.<6<E<R<Z<f<o<{=
+>1>k>
+0H1t1
+4(585c5l5
+6[6n6
+7(7.787U7_7
+;h;p;
+;O<`<r<
+>0>m>
+>e?z?
+1#111\1
+2]2J3
+4.5@5S5{5
+6(727D7
+9.9=9V9l9
+<.<=<N<k<
+?(?8?c?l?
+0[0n0
+262<2F2c2n2
+3P4n4
+4L5t5
+6&6-646;6M6h6
+8!9=9
+:#:f:
+;)<7<I<t<
+<0=L=
+>1>}>
+0)0/060=0O0W0]0d0k0!2+2=2[2
+2J3\3t3
+4E4n4
+6-6G6s6
+9R:~:
+:3;{;
+<3=\=
+>(?:?
+0$393I3 4:758C8T8_8k8
+1T1w1
+1"2h2z2
+2)3d3a4
+4c5|5
+6$6<6
+7m7w7
+809D9O9b9j9
+:.;t;
+=5>N>
+1"171]1c1u1
+3(3{3
+4#454R4d4
+4J5|5
+5;6K6n6
+7.7@7
+7+8y8
+9(9>9h9z9
+9):d:
+;';@;J;
+?5?R?g?y?
+0G0\0n0
+1P1h1z1
+253=3M3U3]3p3
+344E4`4f4m4t4
+6f7y7
+8A8j8|8
+9+9S9`9
+=J>h>v>
+?)?0?D?K?_?f?
+#040O0V0]0d0k0r0y0
+2&3V3p3}3
+4(4i4|4
+5$555W5
+607;7V7f7
+8.8G8_8
+:4:?:J:_:
+=V>a>{>
+0Z1z1
+7i7t7
+7/8D8
+9(959<9N9s9
+:(:::q:
+;-;E;{;
+=&=>=w=
+>->4>;>B>I>P>W>
+2X2d2s2
+2@3N3Y3
+4#4A4^4m4
+5D5^5e5
+7J7t7
+7B8]8
+8K9f9
+;G<a<
+<8=r=
+>.?h?
+0C0L0h0
+1C1N1Y1n1
+3Y4h4y4
+6H7Z7
+808d8t8
+8*979K9d9r9
+:f:l:
+:6;L;
+<0<R<h<
+=N>}>!?+?=?Z?m?
+151~1
+2K2]2
+3j3v3
+4"4-4<4I4Q4[4
+585J5
+6M6Y6l6y6
+6B7a7}7
+8 8(878D8L8V8g8
+: :(:2:
+<c<u<
+>->q>
+181J1m1
+4=4a4
+4>5P5r5
+9<9V9b9}9
+:/:7:F:S:[:e:
+<-<X<x<
+=$=<=R=
+0&010
+2I3a3t3
+545Q5
+5'6C6j6
+7O7g7
+7B8Y8{9
+;0;H;b;j;w;
+</<D<s<
+<*=A=x=
+>H?c?u?
+0-050A0L0T0^0
+131e1w1
+1L2U2x2
+2"363b3
+404B4J4W4b4j4t4
+5,5<5D5Q5\5d5n5
+6E6d6
+7P7j7
+:;;K;
+0#0S0y0
+0 1E1c1
+1[2m2
+2*3<3D3Q3\3d3n3
+4:5W5
+757x7
+838^8
+9"9T9u9
+; <9<s<
+>X>)?
+0E1c1
+2'2/292
+4D4d4s4
+7H7W7q7
+8Q8l8
+9)9;9Q9
+:";:;Q;`;s;|;
+=8>F>Z>g>y>
+?)?W?u?
+020<0N0
+4/4@4j4~4
+5*5/5M5d5
+7+7n7
+8G8h8z8
+:,:=:
+<#<7<
+<%=P=[=t=}=
+>:?D?V?
+1 11122
+303|3u4
+5)555N5W5
+7)7B7K7
+8_9{9
+:-:F:
+;M<|<
+>0>9>~>
+> ?`?
+1+2@2
+2R3o364s4
+6$7z7
+8#808;8C8O8\8
+:c:q:~:
+<)=K=U=g=
+>8>G>
+181J1D2l2
+2"363\3s3
+4f4z4
+4(5:5q5
+6$6,6:6H6W6
+7!747A7P7Y7d7
+7(8:8y8
+9 909N9W9~9
+:(;S;_;
+<;<V<
+>+?=?a?m?}?
+212O2b2
+3[3~3
+4G4x4
+626h6z6
+737W7
+7;8V8
+9P9h9
+:3;];
+<3<b<
+=*=5=
+0?1W1
+3h4z4
+9(=:=y=
+=8>H>
+1"1?1M1}1
+1(2:2
+4P4h4
+5K6]6
+6=7I7S7[7q7
+8.8n8
+9'9?9U9
+:,:Q:
+;8;?;G;O;e;};
+<Y=d=v=
+>,?u?
+0(161Y1w1
+2H2W2q2w2
+2;3M3a3p3
+3 4Q4
+555h5z5O637l7t7|7
+:":H:Z:
+;";M;
+;:<p<
+=(=M=u=
+>f>k>}>
+>;?G?
+2Z2d2v2
+3E3T3v3
+374y4
+5(636D6
+6O7[7l7
+:R:a:s:
+<#<L<d<
+=E=]=
+>9>i>
+>$?O?y?
+1?1\1
+102~2
+2L3x3
+3[4j4{4
+607o7
+8/8x8
+:);Y;g;
+<"<)<0<7<><E<^<
+<^=c=
+60Y0z0
+0-1|1
+2[2k2
+3:3H3e3z3
+454L4S4b4i4x4
+4@5G5f5m5t5
+6$767I7|7
+7(8>879J9S9Y9^9c9j9r9
+:*;1;a;o;
+<$<2<O<w<
+=*=Q=j=|=
+>,>7>=>
+0H0Z0
+051H1[1
+3%373k3
+484I4
+5(5<5m5
+6%6+6f6
+7&8A8H8X8_8o8v8|8
+8)9/959;9
+: :(:8:
+<"<)<o<
+7:7@7x7
+7?8K8
+=@=I=v=
+= >7>O>e>
+>J?e?
+^0w041Q1g1
+3"3-3M3X3c3y3
+4>4`4v4.5I5_5
+6"6V6
+:A:s:
+0%0+0/0;0?0J0[0x0
+3$3,3Q3d3m3s3x3
+4@4W4o4
+5.7>7_7i7z7
+8 8g8
+8P9g9
+:6:A:_:
+:d;k;
+<5<P<q<
+?*?9?C?q?
+80?0W0
+1"1a1
+1+2<2X2k2
+3Q3a3q3
+464=4D4K4R4Y4`4g4n4u4|4
+748>8T8\8h8n8u8
+989^9m9
+:%:.:p:
+;j;z;
+<4<I<t<
+=&>->N>U>n>
+>:?H?
+1*1A1N1
+1Z2s2
+2H3W3
+3@4U4]4|4
+445\5s5
+6,6|6z7^8
+8&9]9
+: :':K:
+<1<T<l<
+= =D=^=
+>*>S>j>
+0*0r0{0
+0<1]1
+3+3G3M3R3W3\3a3f3k3p3u3z3
+4>4X4m4z4
+5'5A5T5Y5_5s5x5
+5%6C6O6q6
+7H8R8m8
+9"9?9H9S9Z9r9x9~9
+:-:3:>:D:P:`:i:}:
+;3;d;
+;R<^<j<
+=2=>=J=
+?3?B?J?Y?e?
+0$0/0<0P0`0m0
+1#181S1m1
+2$282E2Y2f2z2
+3<3A3S3_3k3w3
+4)494I4Y4i4y4
+555O5`5m5
+6!656B6V6c6|6
+7=7]7e7u7
+8'8:8i8w8
+9#989C9y9
+:*:@:\:q:~:
+;";F;Q;o;z;
+<'<?<q<|<
+=R=]=f=
+>Q?_?
+0"1P1|1
+373C3
+444h4
+4W5\5c5j5q5x5
+6E6m6
+7<7R7f7s7
+7 8B8_8
+9"9/9V9
+9/:h:
+;!;-;9;H;T;
+<0<=<Q<a<q<
+0!0)0>0
+1-191p1
+2'2O2Y2
+4E4N4T4Y4{4
+5$5Q5`5x5
+6>6T6
+7)7C7U7n7
+8=8K8s8
+9-9;9c9
+:+:S:
+;C;k;z;
+<D<T<]<y<
+=6=E=v=
+=L>W>q>
+?-?S?
+5 5-545;5M5w5
+5#6;6B6
+6)767K7
+7 8X8
+8!939
+9':a:
+;A;{;
+;)<c<
+=2=c=
+>2>c>
+?2?c?
+020f0x0
+2%2-2:2B2U2~2
+3"3.3
+4 4-464
+555K5g5
+6k6u6
+6(727D7
+7$898?8V8
+929V9}9
+<<<W<
+="=S=
+101B1S2
+363?3j3y3
+4)4W4m4
+525A5Y5
+656]6u6
+727b7
+8=:S:
+;';=<
+4U8j8
+<U<b<
+=-=6=;=n=u=
+?+?6?C?J?\?
+0+060C0J0\0
+3%343
+5+6m7
+859b9u9
+91:7:Z:`:
+;`;n;
+<-<:<Z<
+= =V=g=
+>%>A>J>V>^>k>
+?c?n?
+6.7}7
+:$:+:V:}:
+:&;N;W;
+=4=O=W>
+>$?^?
+242N2j2
+3<3V3s3
+5R5p5z5
+676n6|6
+6T7m7
+8 8@8
+9::S:
+;(;c;
+<B=u=
+=+>q>
+>0i0u0
+131H1o1
+2'2:2B2
+3f3r3
+5$5:5G5
+7!7A7}7
+8!898
+9#:\<
+='=t=
+;,;4;D;K;X;`;k;
+;A<O<n<2=g=
+=,>M>
+?1?7?r?
+1=1h1w1
+1C2[2
+2!3-3>3
+5L5h5
+7=7r7
+868N8
+9=9U9
+:V:n:
+:^;E<s<
+<#=l=
+>*>B>i>
+?6?N?
+1S1l1
+3(3d3u3
+6Y6l6
+7,7V8
+:J:o:
+;=;\;s;
+<!=D=}=
+?#?x?
+0C1U1
+4,4B4L4
+7%777
+<A<M<
+=0=T=j=
+?-?X?
+0 0P0h0
+1>1u1
+272U2\2r2
+2-3`3x3
+4t5{5'6A6
+7,7I8
+9U:u:
+<X<j<
+=.>C>R>z>
+???X?g?
+0,0}0
+0@1O1}1
+2(2V2r2
+373S3b3
+424N4]4
+545I5X5
+9>:[:g:x:
+> >R>j>
+>I?f?
+0D0*1;1
+142W2
+3K3i3
+444T4l4
+:(;c;T=
+6U7&:f;
+4L5\6
+:-;>;O;`;q;
+>?>Z>g>
+?%?J?x?
+7N9[9
+:#<3<U<
+<J=$>
+030V0
+5$525>5F5W5r5
+787T7b7n7v7
+9P:h:
+;J;b;
+2=2e2
+3.4Z4
+4A5m5
+7$8P8u8
+:?:i:
+;7;a;
+3P3v3
+3"4/4z4
+4'525H5S5i5t5
+6/6:6P6[6q6|6
+7A7|7
+798Q8i8|8
+9&9T9l9
+:!:9:u:
+;N;f;
+=1=Z=
+=$><>|>
+>/?n?
+050x0
+161f1
+1&2V2
+3F3v3
+3.4]4e4
+4,5@5X5
+5@6c6{6
+7K7k7
+8-8E8\8r8
+8'9g9
+9E:t:
+<#=p=
+=!>`>
+5#6s6
+9!919A9Q9a9q9
+<H<T<f<
+<8=P=e={=
+>C>q>
+>2?C?\?f?m?s?y?
+0 1j1
+3)3>3
+6%6T6w6
+8,8X8}8
+9:9_9t9
+:H:k:
+:C;o;
+<A<d<
+=0=w=
+=%>J>v>
+?=?i?
+0*0V0{0
+1@1l1
+212]2
+2"3L3p3
+3$4P4u4
+5B5n5
+7(7G7s7
+8\9q9
+9B;U;k<
+8S8w8
+9<9b9
+;$;:;E;[;f;|;
+<!<,<B<M<c<n<
+=)=4=J=U=k=v=
+>1><>R>]>s>~>
+?#?9?D?Z?e?{?
+0!0,0B0M0
+0M1g1y2
+6A6y6
+8-9X9
+:T:]:
+?B?^?
+1R2j2
+3\4v4
+5.6e6
+;!;E;
+<M<e<
+<Y=t=
+=0>r>
+0!0=0F0O0
+081R1b1n1
+2<2M2^2s2
+576|6
+708I8
+8O9h9
+>~>O?
+1C1m1
+1<2Z2j2y2
+4"5<5_5k5{5
+637y7
+8E8_8
+:8;n;
+<&=V=
+>F>v>
+?6?f?
+1F1v1
+262f2
+2&3V3
+4F4v4
+:U;`;
+=^={=
+2G2`2
+2f3~3
+536A6R6
+;/;;;Y;
+<N<x<
+<9=d=
+>.?G?
+3"5;5
+<C<I<W<n<
+<<=[=i=
+4=5}5
+748s8
+8!9s9
+>1?m?
+ 0S0u0
+203s3
+687`9
+4#5s5
+9#:s:
+;A;Q;a;q;
+<!<1<A<Q<a<q<
+=!=1=A=Q=a=q=
+>!>1>A>Q>a>q>
+?!?1?A?Q?a?
+5P5[5a5g5
+6K6`6
+7B8P8
+N1a2m2
+3!3c3
+<C<X<
+=]>h>
+292\2d2
+3/4B4T4
+5!515A5Q5
+7m7t7~7
+8$8*868
+9D9S9d9
+9$:3:D:~:
+=*>k>
+434Z4s4|4
+4I5Z5a5h5|5
+8V8e8
+9&9N9`9
+:6:=:J:Q:X:_:f:m:t:{:
+;";);0;7;>;E;L;S;Y;`;g;n;
+< <c<s<
+<"=I=x=
+==>H>U>
+2C2}2
+2+3e3
+3.4H4
+4&535
+7h7n7
+7(898
+909D9Q9c9
+:.:A:K:V:u:|:
+:J;R;
+=L>v>
+?9?k?
+0J0c0
+1+1L1q1
+172U2
+585>5I5q5
+6D7{7
+99:I:c:u:
+;,;>;
+<==L=c=m=t=|=
+3%3L3p3
+4"444k4
+5 535=5]5
+6/6G6
+:-:M:
+=#=p={=
+=%>0>Y>j>
+?"?)?0?B?v?}?
+0&1Z1
+2"2?2
+373I3b3
+4?4T4
+6@6L6U6\6c6j6q6x6
+7V7g7
+9):K:]:j:|:
+;!;(;.;I;W;
+<5<;<A<
+=6=f=
+=&>V>
+>'?6?F?
+031>1Q1a1
+1+2M2k2
+4#4B4L4^4n4
+5P5v5
+6C6|6
+797s7
+929A9Q9|9
+:,:<:g:v:
+;%<<<~<
+>:?L?
+1l1z1
+3%444Y4^4
+5A5F586K6\6
+6+7S7
+8S8^8p8
+809Z9r9
+;#;I;_;p;
+;3<R<f<
+<)===N=
+>->^>
+?<?g?y?
+000a0s0
+0#1Q1
+1&282I2
+2%3+3:3R3
+3(424D4t4
+4X5l5
+6!686_6
+747e7
+8C8L8o8
+8M9e9
+:$:;:
+;<;t;
+<S<b<s<
+=G=V=g=
+>0>R>a>r>
+>(?l?
+0-0J0Y0j0
+0k1z1
+182f2m2
+2!3<3J3g3
+3`4o4
+4(5<5M5
+6/666B6I6{6
+8.8h8
+:7;p;
+<F<x<
+=<=x=
+>->Z>j>
+?.?>?
+141O1a1
+5,5D5r5
+617\7j7~7
+8:8R8a8z8
+9-9:9W9b9
+:,:F:v:
+:.;m;
+2o3o4
+4I5j5
+5)6<6K6c6
+7 7'7.757G7l7
+7!808G8N8U8\8c8j8q8
+:;:U:
+;C<M<[<g<n<z<
+>'>>>c>
+?!?>?
+0G0P0
+3$363O3l3
+4,4>4
+485X5
+686I6V6h6z6
+687f7
+8-8]8
+9":C:t:
+:=;f;o;
+<0<N<
+>e?s?
+151Z1
+2&2,2
+3H3h3
+585S5j5
+617E7i7r7
+8K8k8
+:+:4:Z:h:
+<@<G<g<}<
+=,=O=
+=<>b>
+2$2+2C2j2
+2H3_3
+4%4>4[4
+575K5u5
+6,6>6
+7F9c9
+9h:r:
+?1?C?\?y?
+060[1j1
+222_2n2
+3!333L3i3
+454E4_4q4
+5(5=5
+526F6_6~6
+7)787
+8C8x8
+8!969
+:$:1:8:?:F:M:T:[:b:i:p:w:~:
+;(;M;];v;
+<"<E<_<p<}<
+= ='=.=5=<=C=J=
+?#?5?@?L?z?
+0#0*01080>0E0i0
+1,1E1^1c1
+2#2.2Z2g2{2
+3&3H3V3j3
+474f4
+6$6;6R6
+777`7
+8?8J8o8
+9%9{9
+:(:X:
+;@;z;
+;(<b<
+>*?t?
+_061M1t1{1
+3.4N4t4{4
+435^5
+7C8s8
+:B;Z;
+=)=_=
+2i3z3
+4+4@4
+5.575R5h5o5
+536@6E6r6
+697D7V7
+8C8l8v8
+;$;c;
+=&>n>
+?2?Y?
+2c2x2
+5"6z6
+8W8`8
+919B9M9b9x9
+<J<s<
+=(=1=I>o>
+0W0n0
+0S1r1
+3?3O3i3{3
+424G4
+4J5U5n5
+5F6T6l6y6
+7.8A8J8v8}8
+8j9s9
+9&:=:
+;,<b<
+>+?A?
+0&0?0
+2I2]2
+3.3p3
+4;5N5q5
+5<6X6
+7(858K8X8|8
+9)9;9
+:T:c:
+:&;?<H<X<p<
+= =7=Q>
+>"?@?I?q?
+<1<s<
+>9?]?y?
+1j2{3
+5k5~5
+7H7{7
+:/:U:
+<)<z<
+=<=W=q=
+141}1
+2%2F2
+5,6064686<6@6D6H6L6P6T6X6
+6C7e7
+7/8U8|8
+: :2:I:`:w:.;b;v;
+<g=p=
+=]>)?D?^?
++0B0k1
+4A4{4
+4@5_5v5
+7D7Y7w7
+:':_:
+=V={=
+?@?z?
+253N3^3
+5'676Q6c6|6
+787e7t7
+8 8-8Q8b8
+9(:6:J:W:^:e:l:~:
+;(;5;G;O;
+<'=-=H=V=
+>*>a>
+?.?M?
+0_0}0
+1[2o2
+4H5N5
+90:m:
+<*<;<
+=&>M>
+?3?v?
+0'1n1~1
+2G2T2f2n2
+3A3j3
+4D4v4
+5H5T5
+96:y:
+1+2l2
+7/8j8
+9\9w9
+:%:+:>:
+:,;_;
+=1>I>d>
+1,2D2T2
+3.3E3\3
+3"414I4w4
+5#5L5S5Z5
+5M6n6}6
+7!757B7I7P7b7
+8#8S8\9
+<H=R=d=
+>*>C>
+%060N0Q1
+2"2D3
+4E4m4-5q5
+5+6e6 7N7p7
+8#8C8
+:':A:[:v:
+;%;?;Q;j;
+<F<p<{<
+<6=\=j=~=
+>8>[>x>
+5m5z5
+9'9U9k9
+:7:D:Z:g:
+;9;L;u;
+>)>1>M>_>
+? ?E?e?s?~?
+0M0v0
+0+1e1
+7-9:9f9
+;5;U;
+;.<8<
+<D=d=~=
+=R>i>
+464Z5w5
+;+<N<e<
+4c6z6
+8%9Q9
+9;:k:
+<$=<=Q={=
+2+3F3
+575X5
+676e6{6
+7:7H7\7i7p7w7~7
+8"888?8F8M8T8
+8#9=9m9
+9#:[:
+:0;w;
+;*<F<
+<;=z=
+=+>\>
+> ?j?
+0<0v0
+191f1
+3"3Y3
+3&4}4
+4%5g5
+9,9h9
+9 :/:C:M:
+<G<]<
+<%=2=
+>#?X?l?
+233V3r3
+4@4`4x4
+4F5a5
+586R6H7]7
+8&8Q8f8q8
+:U;\;
+<2<=<i<
+=]=x=
+=2>q>
+?A?e?
+2*3>3^3
+505B5[5x5
+6$626v6
+6X7t7
+:B:S:
+;$</<I<j<{<
+=M=[=r=
+0)1r2
+6!777d7r7
+d325?8\8
+<l>W?w?
+080O0
+2+2A2S2
+333>3W384
+4e5s5
+646A7
+8,8K8
+8"9?9v;
+<+<@<j<
+<%=z=
+1/2U2
+4g5n5
+767Q758Y8$929
+:#;E=
+?&?I?
+1%1F1j1
+222X2b2o3{3
+334?4
+545\5n5
+6c6n6
+6$7D7b7q7
+8F8a8{8
+8)9Y9
+:I:|:
+;9;l;
+;)<Y<
+=I=y=
+><>i>
+>,?Y?
+0+1H1`1k1
+1%2.2F2r2
+3(3:3L3l3~3
+4&4N4`4
+4,5>5b5t5
+6%6M6_6
+787J7r7
+7 828Z8l8
+9B9T9
+:6:H:s:
+:*;<;U;\;x;
+<8<J<x<
+=8=J=x=
+>8>J>x>
+?#?'?+?/?3?7?;???C?G?K?O?S?W?[?_?c?g?k?o?s?
+0"040O0u0
+1%131e1
+2%2^2
+5=6Z6w6
+7(7?7U7o7
+=&=0=Q=
+?5?@?v?
+0!0a0t0
+1Q1d1
+102`2r2
+2)363R3i3
+4[4u4
+4"5c5p5
+6`7z7
+7H8e8
+949W9
+:-;e;
+<(<`<
+>$>T>
+1D1t1
+242}2
+4<4d4
+4!5Q5
+696n6
+858m8
+9A9q9
+:E:u:
+:1;T;
+;)<y<
+<!=D=t=
+>4>,?c?
+1$1G1t1
+4D4t4
+4$5T5
+646W6
+7L7o7
+7,8w8
+9A9n9
+9!:a:
+:A;y;
+;1<a<
+=+>[>
+>+?[?~?
+0;0^0
+2F3~3
+474Z4}4
+5,5O5r5
+6 7f7
+848d8
+9?9o9
+<#=c=
+=6>x>
+2C2{2
+343d3
+4=5~5
+6-6]6
+7K7{7
+8.8n8
+:R:u:
+;9;q;
+<C<s<
+???n?
+0.1p1
+1#2F2v2
+2)3Y3
+4!5r5
+6/7o7
+848W8z8
+8"969U9
+:<:t:
+<H<x<
+<,=\=
+>I>y>
+0=0w0
+2^2z2
+444H4g4
+5B5|5
+586z6
+667J7i7
+7$8A8Q8a8q8
+9#969@9s9
+=*=:=P=
+>Y>g>l>y>
+3!3+3=3W3]3f3o3y3
+4Q4r4|4
+656e6
+8F8X8
+929C9Y9q9
+92:B:d:w:
+=$=6=j=u=
+>!>/>?>O>d>w>
+>4?E?R?f?~?
+080N0q0
+1,1=1
+393?3}3
+4 4)4/44494@4H4W4
+7'7-72797P7
+8@8n8+9C9
+;$</<J<T<
+= >,>L>m>t>
+?;?h?t?
+1M1[1m1
+2u3|3
+8G8S8
+:+:^:s:
+;S;e;
+<.<><X<j<
+?$?M?d?
+5K5v5
+546k6
+8K8z8
+9s:(;
+<:<}<
+627q8
+9 9'9.9
+0:1b2m2t2
+6N7a7r7
+718Y8p8
+8-9S9k9
+:&:i:
+;";a;
+=A=Y=
+080m0
+1\1o1
+1&2C2z2
+5\6k6{6
+7&7.7I7
+8<9{9
+9!:Z:
+;';5;E;w;
+<[<y<
+=5=M=
+1H1n1
+1;2m2
+4'454E4v4
+4)5s5
+5I6g6u6
+8[8r8
+:a:z:
+<,<4<
+>&>9>A>
+2T2g2
+3.3J3
+4E4i4
+5I5`5
+516}6
+9-9M9T9l9
+:/:O:g:
+;A;P;m;
+=6===L=S=b=i=
+=2>S>
+1(1>1H1g1
+2,3F3V3l3
+5)5<5D5
+5h6^7~7
+8 8O8l8
+9P9i9
+;-;6;?;
+;<<h<
+>$>5>
+?+?8?G?Z?b?
+0)1;1M1t1y1
+2)2y2
+4$454
+4)5B5O5^5q5y5
+5R6l6|6
+8!848<8c8:9S9]9
+: ;4;E;
+;,<E<R<a<t<|<
+<0=A=]=
+=>>W>d>s>
+?5?F?
+0c0l0
+1>1K1S1[1a1|1
+3 3:4
+5o6,8I8Y8
+<1<A<Q<
+>m>Q?
+1)1C1`1
+2A2q2
+3<3e3
+3)4M4
+4c5x5
+767S7
+82;,<g<|<
+=S=|=
+?9?Q?
+0Y0q0
+071P1
+2@3n3
+374P4
+5$5u5
+5)6A6
+8\8t8
+8`9x9
+9\:v:
+:G;`;
+3S3g3y3
+7#7u7
+858P8
+:":S:
+;';5;N;f;
+;5<J<\<
+?Q?f?t?
+292`2|2
+3'3?3U3v3
+3%4C4[4s4
+555_5w5
+606k6
+9-9k9
+:!:9:Q:
+;E;l;
+<5<h<
+=(=P=g=
+>)>{>
+?'???_?t?
+000D0\0r0
+0%1R1j1
+1;2O2g2}2
+3@3T3l3
+3%4U4m4
+6*6@6u6
+727J7b7
+758f8
+:[:s:
+:T;m;
+<B<N<^<j<
+<;=g=~=
+?S?m?
+0V0n0
+0$1c1}1
+1]2f2
+3@4K4`4
+4G5`5
+576P6
+7)7O7}7
+8X8r8
+9$:<:p:
+;C;[;
+<"<)<;<l<s<}<
+=#=E=
+>@>r>
+>X?p?
+1)252D2f2|2
+363?3W3d3
+3V4p4
+7`7x7
+:,;e;
+0S1}1
+142t2
+7A7l7
+7G9Z9
+;O;l;
+>1>A>
+?,?3?p?
+:/;A;R;
+?$?<?o?
+0j1.2@2W2
+3E4]4
+5&575_5n5
+8 868G8o8~8
+9h9h:v:
+:`;n;
+?,?X?t?
+0+1q1
+30383v3
+4,4=4t4
+:$;=;y;
+;#<<<
+<+=6=H=
+>0?F?W?
+2&2K2b2
+3:3Y3m3~3?4k4
+6&7C7R7e7m7
+7X8q8
+879G9X9i9
+:$;<;r;!<0<C<K<h<
+>*?3?n?
+1g1p1
+2C3X3m3~3
+3G4V4f455Q5_5p5
+5F677F7V7
+748N8c8t8
+<0<A<]<n<
+=W>q>
+1)2F2|2
+2d3~3
+6-6I6
+6+7H8
+:1:S;
+;F<i<
+<>=P=
+0 1w1
+2-2G2Y2r2
+343A3S3e3
+6%666
+93:";7;p;
+>P?l?
+.0D0h0
+2-3v3
+819w9
+0$1j1
+2!2O2
+2"3)3s3
+6 6@6H6T6t6
+7 7(747T7\7h7p7
+8$8,8D8X8`8h8t8|8
+9 9@9H9T9t9|9
+:(:0:8:D:d:l:x:
+;(;0;@;d;l;t;|;
+<$<,<4<<<D<L<T<`<
+=(=0=8=@=H=T=\=t=|=
+>4><>D>L>T>\>t>|>
+?$?,?4?<?D?P?t?|?
+0 0(000<0\0h0
+181D1d1l1t1
+2(20282@2L2l2t2
+3 3(343T3\3d3p3
+4 4(40484D4d4l4t4|4
+5$5,585X5`5h5p5|5
+6$6,646<6D6P6p6|6
+7$7,787X7`7h7t7
+8$808P8X8d8
+9 9(90989D9d9p9
+:4:<:D:L:T:\:d:l:t:
+; ;(;0;8;@;P;X;|;
+<$<0<P<X<`<h<t<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>P>t>|>
+?(?L?T?\?d?l?t?|?
+0,040<0D0P0p0x0
+1(1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343@3`3h3p3|3
+4 404T4\4d4l4t4|4
+5$5D5P5p5|5
+6,646@6H6p6
+7 7,7L7T7\7d7l7x7
+8 8(848T8\8h8
+9$9D9P9p9|9
+:8:D:L:
+;(;H;T;t;
+< <(<0<8<D<d<
+= =@=P=t=
+> >(>,>4>H>P>d>l>t>|>
+?$?,?0?4?<?P?p?x?
+0$0(00040@0H0
+1 1(1\1d1l1|1
+20282D2d2l2t2|2
+3D3T3`3h3
+3(484D4d4p4
+5$5,585X5d5
+6$6,6`6p6|6
+7D7T7`7
+7 808<8D8x8
+8(989D9L9
+:$:0:8:l:|:
+;,;8;@;t;
+;$<4<@<`<h<t<
+=0=8=D=d=l=t=
+>$>,>p>
+? ?0?<?D?x?
+080D0L0d0
+1$1,141<1D1L1T1\1d1l1x1
+2<2H2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4 4@4L4l4t4
+5$5,545<5D5L5T5\5d5|5
+646<6D6P6p6x6
+7 7(7P7X7l7t7|7
+8<8H8P8h8p8x8
+9(909H9`9t9|9
+: :(:0:8:D:p:
+;H;X;d;l;
+<P<`<l<t<
+=4=D=P=p=x=
+>8>@>H>T>t>|>
+?0?<?\?d?l?t?
+040D0P0X0
+1<1L1X1`1
+2$2,242@2`2h2t2
+3 3(303<3\3h3
+444<4D4L4T4`4
+5$505P5X5`5l5
+6$6,646@6`6l6
+7(747T7`7
+848@8`8l8
+9$9D9P9X9
+:8:@:H:T:t:|:
+;0;8;D;d;l;x;
+<<<D<P<p<x<
+=$=0=P=X=`=h=p=x=
+>H>X>d>l>
+?4?<?D?P?p?|?
+0(0H0T0t0
+1$1D1L1X1x1
+2 2@2L2l2x2
+3$303P3\3|3
+4<4H4h4t4
+585@5L5l5t5
+60686D6d6l6x6
+7<7H7h7p7|7
+8(80888D8d8l8x8
+9 9(90989@9H9T9t9
+:(:4:T:\:d:t:
+; ;0;<;\;d;p;
+<$<,<8<X<`<h<t<
+> >(>0>8>@>D>H>L>
+,00040<0`0d0h0l0t0
+181X1t1
+2@2x2
+2 3X3
+484p4
+506h6
+7(8`8
+9@9x9
+9 :X:
+;8;p;
+<0=h=
+>(?`?
+0@0x0
+0 1X1
+282p2
+304h4
+5(6`6
+0$0,0004080<0D0H0L0T0\0`0d0h0l0p0x0|0
+1 1(10181@1H1
+fuIK4!
+<dq ^b
+'f^}Q!
+RO+KL
+!hU:*i
+/3BqMvs%
+8v<g5
+`u*O@
+dB`e_
+%?X"X
+IQpMH
+.NXtkW
+T+Lk_k7>
+;Eg^M
+vLU*s
+]2dXl
+B^SRo'
+izgtqh
+,"~JgL:
+LJwii
+<|_to7T
+k.M&"/?_
+YKC8f8
+BjT.O*H
+1/u27"
+/+8I<
+}#[U+
+#n448
+;ECZ>
+I+O/$'
+r>2Yh
+|G]/u'P
+~,#S[J
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+g@',4
+,s4tve9f6nHR9D1tfNJbJEzqIb9Ci7S3qBi+ODRMivCk=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+UQL+B
+20221110014709.019Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+221104190125Z
+240202190125Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service0
+Bkdh$
+L)N+0
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+q*928z
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221110002614Z
+20221111002614Z0x0>
+100.0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Mp]DO
+yX"pQ

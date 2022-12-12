@@ -1,0 +1,1992 @@
+!This program cannot be run in DOS mode.
+JKRichl
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+noref
+upnphost.dll.mui
+ddd:deviceList
+ExtensionMap
+ddd:presentationURL
+SOFTWARE\Microsoft\Windows\CurrentVersion\UPnP
+FreeTimeout
+SOFTWARE\Microsoft\Ole
+SOFTWARE\MICROSOFT\UPnP Device Host
+SOFTWARE\MICROSOFT\UPnP Device Host\HTTP Server\VROOTS
+RedirectionKey
+default.htm;index.htm
+upnphost/
+Description Documents
+text/xml; charset="utf-8"
+ddd:iconList/ddd:icon
+ddd:serviceList
+ddd:iconList
+/upnphost
+upnphost
+ddd:url
+uuid:
+/upnphost/
+ddd:mimetype
+udhisapi.dll?content=
+Microsoft
+udhisapi.dll
+ddd:eventSubURL
+UPnP Device Host
+/ddd:root/ddd:device
+urn:schemas-upnp-org:device-1-0
+ddd:serviceList/ddd:service/ddd:serviceId
+//ddd:device/ddd:iconList/ddd:icon/ddd:url
+//ddd:device/ddd:serviceList/ddd:service/ddd:SCPDURL
+REMOVE
+ddd:UDN
+xmlns:scpd='urn:schemas-upnp-org:service-1-0'
+xmlns:ddd='urn:schemas-upnp-org:device-1-0'
+MaxXMLSize
+ProhibitDTD
+MaxElementDepth
+SelectionNamespaces
+//ddd:UDN
+/ddd:root
+//ddd:icon
+//ddd:device
+ddd:serviceId
+//ddd:SCPDURL
+ddd:controlURL
+File Size Limit
+udhisapi.dll?event=
+//scpd:stateVariable
+udhisapi.dll?control=
+/ddd:root/ddd:URLBase
+ddd:serviceList/ddd:service
+/ddd:root/ddd:device/ddd:UDN
+HTTP Server
+VROOTS
+scpd:action/scpd:name
+UDN Mappings
+Description
+SOFTWARE\Microsoft\UPnP Device Host
+RedirectionKey
+Providers
+Devices
+urn:schemas-upnp-org:service-1-
+direction
+dataType
+float
+string
+number
+retval
+bin.hex
+boolean
+time.tz
+dateTime
+argument
+fixed.14.4
+bin.base64
+dateTime.tz
+stateVariable
+relatedStateVariable
+sendEvents
+string
+scpd:stateVariable/scpd:name
+specVersion
+major
+minor
+action
+actionList
+allowedValue
+argumentList
+allowedValueList
+serviceStateTable
+scpd:argument/scpd:name
+SOFTWARE\Microsoft\UPnP Control Point
+UPnPControlPoint
+AllowedInterfaces
+%02x-
+MS TCP Loopback interface
+AddressList
+AdditionalIPv6Scope
+IncludeOnlyListedAddresses
+System\CurrentControlSet\Services\SSDPSRV\Parameters
+upnphost
+NoUrlMimeFiltersS
+OFTWARE\MICROSOFT\UPnP Device Host\Devices
+DeviceLifetime
+OLEAUT32.dll
+^.I@DB
+(-$"qW
+FWINHTTP.dll
+WS2_32.dll
+profapi.dll
+ext-ms-win32-subsystem-query-l1-1-0
+ext-ms-win32-subsystem-query-l1-1-0.dll
+CRYPT32.dll
+IPHLPAPI.DLL
+Module
+HrRegCreateKeyEx
+HrRegOpenKeyEx
+^CUPnPEventingManager::Initialize - Object passed in does not support IUPnPEventSource!
+CUPnPEventingManager::Initialize
+AddSubscriber failed, CUPnPEventingManager is not initialized!
+CUPnPEventingManager::AddSubscriber - CoTaskMemAlloc()
+CUPnPEventingManager::AddSubscriber
+RenewSubscriber failed, CUPnPEventingManager is not initialized!
+CUPnPEventingManager::RenewSubscriber
+RemoveSubscriber failed, CUPnPEventingManager is not initialized!
+CUPnPEventingManager::RemoveSubscriber
+OnStateChanged failed, CUPnPEventingManager is not initialized!
+OnStateChanged() called, but nothing to do.
+CUPnPEventingManager::OnStateChanged
+CUPnPEventingManager::OnStateChangedSafe
+Shutdown failed, CUPnPEventingManager is not initialized!
+CUPnPEventingManager::Shutdown
+CUPnPEventingManager::FinalRelease
+Life Time
+ddd:serviceType
+Content-Type: text/xml; charset="utf-8"
+content-type:
+Content-Language: 
+Content-Length: %d
+http://
+%S::%S
+ddd:serviceList/ddd:service[./ddd:serviceType = '
+Content-Language
+Content-Length
+Content-Type
+:5706
+:2869
+5479f6b6-71ac-44fc-9164-7e901a557f81
+SOFTWARE\MICROSOFT\UPnP Device Host\HTTP Server
+IsEnabled
+MaxHeaderSize
+DefaultPage
+MaxHttpSize
+HTTPD: InitListening Failed
+MaxConnections
+\HTTP Server
+;jy>:$
+3LgNB
+HrIsAllowedCOMCallLocality failed !
+CUPnPAutomationProxy::Initialize - Unable to allocate service type!
+CUPnPAutomationProxy::Initialize - NULL service object!
+CUPnPAutomationProxy::Initialize(): Exiting
+GetDispIdsOfEventedVariables failed, CUPnPAutomationProxy is not initialized!
+CUPnPAutomationProxy::GetDispIdsOfEventedVariables(): Could not allocate array of dispids
+CUPnPAutomationProxy::GetDispIdsOfEventedVariables(): Exiting
+QueryStateVariablesByDispIds failed, CUPnPAutomationProxy is not initialized!
+CUPnPAutomationProxy::QueryStateVariablesByDispIds(): Could not allocate array of dispids
+CUPnPAutomationProxy::QueryStateVariablesByDispIds(): IDispatch::Invoke failed
+CUPnPAutomationProxy::QueryStateVariablesByDispIds(): Could not allocate name/data type strings
+CUPnPAutomationProxy::QueryStateVariablesByDispIds(): Could not allocate output arrays
+CUPnPAutomationProxy::QueryStateVariablesByDispIds(): Exiting
+HrExecuteRequestHelper failed, CUPnPAutomationProxy is not initialized!
+QueryStateVariable
+GetVariableType failed, CUPnPAutomationProxy is not initialized!
+CUPnPAutomationProxy::GetVariableType(): Exiting
+GetInputArgumentNamesAndTypes failed, CUPnPAutomationProxy is not initialized!
+CUPnPAutomationProxy::GetInputArgumentNamesAndTypes(): Failed to allocate argument name and/or type
+CUPnPAutomationProxy::GetInputArgumentNamesAndTypes(): Failed to allocate output arrays
+CUPnPAutomationProxy::GetIntputArgumentNamesAndTypes(): No such action
+CUPnPAutomationProxy::GetInputArgumentNamesAndTypes(): Exiting
+GetOutputArgumentNamesAndTypes failed, CUPnPAutomationProxy is not initialized!
+CUPnPAutomationProxy::GetOutputArgumentNamesAndTypes(): Failed to allocate argument name and/or type
+CUPnPAutomationProxy::GetOutputArgumentNamesAndTypes(): Failed to allocate output arrays
+CUPnPAutomationProxy::GetOutputArgumentNamesAndTypes(): No such action
+CUPnPAutomationProxy::GetOutputArgumentNamesAndTypes(): Exiting
+CUPnPAutomationProxy::HrVariantInitFroXMLType(): Exiting
+CUPnPAutomationProxy::HrInvokeAction(): Failed to initialize for XML data type
+CUPnPAutomationProxy::HrInvokeAction(): Failed to allocate arguments array
+CUPnPAutomationProxy::HrInvokeAction(): Failed to copy out arg
+CUPnPAutomationProxy::HrInvokeAction(): Failed to allocate memory for out args
+CUPnPAutomationProxy::HrInvokeAction(): Failed to allocate memory for action name
+CUPnPAutomationProxy::HrInvokeAction(): Failed to fill in deferred exception info
+CUPnPAutomationProxy::HrInvokeAction(): Deferred exception info failed,  Caller has incorrect privelege
+Action Failed
+UPnPError
+SOAP-ENV:Client
+CUPnPAutomationProxy::HrInvokeAction(): Failed to invoke action
+Invalid Args
+Invalid Action
+CUPnPAutomationProxy::HrInvokeAction(): Exiting
+Invalid arguments passed to HrQueryStateVariable!
+CUPnPAutomationProxy::HrQueryStateVariable(): Failed to copy result to output
+CUPnPAutomationProxy::HrQueryStateVariable(): Failed to allocate memory for output arg
+CUPnPAutomationProxy::HrQueryStateVariable(): Failed to allocate memory for action name
+CUPnPAutomationProxy::HrQueryStateVariable(): Failed to fill in deferred exception info
+CUPnPAutomationProxy::HrQueryStateVariable(): Deferred exception info failed,  Caller has incorrect privelege
+CUPnPAutomationProxy::HrQueryStateVariable(): PROPGET failed
+Invalid Var
+CUPnPAutomationProxy::HrQueryStateVariable(): Exiting
+^FIsThisTheNodeNameWithNamespace(): Exiting
+FIsThisTheNodeTextValue(): Failed to get node text
+FIsThisTheNodeTextValue(): Exiting
+fIsNodeValueInList(): Failed to get node text
+fIsNodeValueInList(): Before returning
+<dataType> element contained invalid value
+HrValidateDataType(): Exiting
+8$HrCopySsdpMessage
+yQ+8~
+@.dll
+ddd:UPC
+modelURL
+modelName
+deviceType
+modelNumber
+friendlyName
+manufacturer
+ddd:modelURL
+serialNumber
+ddd:modelName
+ddd:deviceType
+manufacturerURL
+ddd:modelNumber
+presentationURL
+ddd:friendlyName
+ddd:manufacturer
+modelDescription
+ddd:serialNumber
+ddd:manufacturerURL
+ddd:modelDescription
+serviceType
+serviceId
+SCPDURL
+ddd:SCPDURL
+controlURL
+eventSubURL
+mimetype
+width
+ddd:width
+height
+ddd:height
+depth
+ddd:depth
+/root/specVersion
+/ddd:root/ddd:specVersion
+Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+Object Moved
+Not Modified
+Bad Request
+Forbidden
+Object Not Found
+Internal Server Error
+Not Implemented
+HTTP Version Not Supported
+?ffffff
+<actionList> did not contain any <action> elements
+<name> element was empty
+ForceRemove
+NoRemove
+Delete
+API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+RegDeleteKeyExW
+advapi32.dll
+RegDeleteKeyW
+CLSID
+TYPELIB
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_PERFORMANCE_DATA
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+LocalServer32
+REGISTRY
+HrRegDeleteKeyTree
+HrRegEnumKeyEx
+HrRegSetValue
+urn:schemas-upnp-org:event-1-0
+HrAddRootElement
+version="1.0"
+e:propertyset
+e:property
+HrComposeEventBody
+HrInitEventApi
+HrInitEventApi: CreateTimerQueue
+HrFromLastWin32Error: InternetSetOption
+HrInitInternetSession: InternetOpen
+HrInitInternetSession
+FreeSubscriber: DeleteTimerQueueTimer
+HrRegisterEventSource
+HrDeregisterEventSource
+uuid:%s
+EventQueueWorker
+HrAddSubscriber: CreateEvent
+HrAddSubscriber: CreateThreadpoolWait
+HrAddSubscriber: CreateTimerQueueTimer
+HrAddSubscriber
+HrRenewSubscriber: CreateTimerQueueTimer
+HrRenewSubscriber
+HrRemoveSubscriber
+HrBeginEventingForSubscriber
+HrSubmitEvent
+HrSubmitEventZero
+%s%s%s%s
+HrComposeUpnpNotifyHeaders
+HrSubmitNotifyToSubscriber: HttpSetOption
+HrSubmitNotifyToSubscriber: HttpSendRequest
+HrSubmitNotifyToSubscriber: HttpReceiveResponse
+HrSubmitNotifyToSubscriber: SzFromWsz
+HrSubmitNotifyToSubscriber: HttpOpenRequest
+HrSubmitNotifyToSubscriber: InternetConnect
+HrSubmitNotifyToSubscriber: No internet session!
+HrSubmitNotifyToSubscriber: WinHttpCrackUrl
+HrSubmitNotifyToSubscriber
+HTTP/1.1
+text/xml; charset="utf-8"
+NOTIFY
+Content-Type
+upnp:event
+upnp:propchange
+Provider ProgId
+Resource Path
+Container Id
+Init String
+ProgId
+Unspecified
+ddd:deviceList/ddd:device
+../ddd:eventSubURL
+No registration params being passed in 
+%S::upnp:rootdevice
+upnp:rootdevice
+CDescriptionManager::StartURLListening: Already Listening on specified URL
+//ddd:service/ddd:SCPDURL[../ddd:serviceId = '
+//ddd:service/ddd:serviceType[../ddd:serviceId = '
+Mimetype
+Filename
+Files
+0bd2834d-d10e-46e9-84ba-34e538bea2d3
+ServicesActive
+UPnPHostConfig
+\Microsoft\Windows\UPnP
+0oJ7o
+iHrHttpInitialize
+HrAddVroot
+HrRemoveVroot
+text/html
+CVRoots::AddVRoot - already present
+CVRoots::AddVRoot
+CVRoots::RemoveVRoot
+\HTTP Server\VROOTS
+<a href="
+</a></body>
+Connection: 
+Last-Modified: 
+keep-alive
+Location: 
+Date: 
+Content-Language: 
+Content-Length: 
+Content-Type: 
+Server: 
+8|GqT
+GetExtensionVersion
+HttpExtensionProc
+TerminateExtension
+\udhisapi.dll
+Content Type
+DevHostHttpListener::HandleHTTPRequest(): Exiting
+Eqapplication/octet-stream
+.dll/
+HTTP/
+Content-Type:
+Content-Length:
+Accept:
+Cookie:
+If-Modified-Since:
+Connection:
+eGU>{
+APPL_MD_PATH
+/LM/W3SVC/1/ROOT/
+APPL_PHYSICAL_PATH
+SERVER_PORT
+CONTENT_LENGTH
+CONTENT_TYPE
+PATH_INFO
+PATH_TRANSLATED
+QUERY_STRING
+REMOTE_ADDR
+REMOTE_HOST
+LOCAL_ADDR
+REQUEST_METHOD
+SCRIPT_NAME
+SERVER_NAME
+HTTP_VERSION
+SERVER_PROTOCOL
+HTTP/1.1
+SERVER_SOFTWARE
+ALL_HTTP
+ALL_RAW
+HTTP_ACCEPT
+HTTP_HOST
+HTTP_USERAGENT
+HTTP_ACCEPTLANG
+HTTP_
+AddressFamily
+RemoteAddress
+HttpUserAgent
+DlnaFriendlyName
+punkRemoteEndpointInfo
+CUPnPAutomationProxy::ExecuteRequest(): Exiting
+CUPnPAutomationProxy::ExecuteRequestWithEndpointInfo(): failed to create remote endpoint object
+CUPnPAutomationProxy::ExecuteRequestWithEndpointInfo(): Exiting
+CUPnPAutomationProxy::SupportsEndpointInfo - exiting
+CUPnPAutomationProxy::HrProcessServiceDescription(): Could not build tables from service description
+CUPnPAutomationProxy::HrProcessServiceDescription(): Could not get document element
+CUPnPAutomationProxy::HrProcessServiceDescription(): Failed to load XML
+CUPnPAutomationProxy::HrProcessServiceDescription(): Could not set async property
+CUPnPAutomationProxy::HrProcessServiceDescription(): Could not allocate BSTR service description
+CUPnPAutomationProxy::HrProcessServiceDescription(): Could not create DOM document
+CUPnPAutomationProxy::HrProcessServiceDescription(): Exiting
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to build variable table
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to get <stateVariable> elements
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to get <serviceStateTable> element
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to build action table
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to get <action> elements
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Failed to get <actionList> element
+CUPnPAutomationProxy::HrBuildTablesFromServiceDescription(): Exiting
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get sendEvents attribute
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get variable data type
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get variable name
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get list item
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to allocate variable table
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get list length
+CUPnPAutomationProxy::HrBuildVariableTable(): Failed to get dispId
+CUPnPAutomationProxy::HrBuildVariableTable(): Exiting
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to build argument lists
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to get action name
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to get list item
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to allocate action table
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to get list length
+CUPnPAutomationProxy::HrBuildActionTable(): Failed to get dispId
+CUPnPAutomationProxy::HrBuildActionTable(): Exiting
+CUPnPAutomationProxy::HrBuildArgumentLists(): Failed to allocate memory for input arguments
+CUPnPAutomationProxy::HrBuildArgumentLists(): Failed to allocate memory for out arguments
+CUPnPAutomationProxy::HrBuildArgumentLists(): Failed to initialize arguments
+CUPnPAutomationProxy::HrBuildArgumentLists(): Failed to get <argumentList> children
+CUPnPAutomationProxy::HrBuildArgumentLists(): Failed to get <argumentList> element
+CUPnPAutomationProxy::HrCountInAndOutArgs(): Failed to get <direction> value
+CUPnPAutomationProxy::HrCountInAndOutArgs(): Failed to get list item
+CUPnPAutomationProxy::HrCountInAndOutArgs(): Failed to get list length
+CUPnPAutomationProxy::HrCountInAndOutArgs(): Exiting
+CUPnPAutomationProxy::HrInitializeArguments(): Failed to find related state variable
+CUPnPAutomationProxy::HrInitializeArguments(): Failed to get <relatedStateVariable> value
+CUPnPAutomationProxy::HrInitializeArguments(): Failed to get <name> value
+CUPnPAutomationProxy::HrInitializeArguments(): Failed to get list item
+CUPnPAutomationProxy::HrInitializeArguments(): Failed get retval element
+HrBuildFaultResponse(): Failed to allocate UPnP error string
+HrBuildFaultResponse(): Failed to allocate UPnP Error code string
+HrBuildFaultResponse(): Failed to allocate fault string
+HrBuildFaultResponse(): Failed to allocate fault code string
+HrBuildFaultResponse(): Exiting
+http://
+unknown
+M-POST
+http://*:%d%S
+httpapi.dll
+HttpInitialize
+HttpCreateHttpHandle
+HttpAddUrl
+HttpTerminate
+HttpRemoveUrl
+HttpReceiveRequestEntityBody
+HttpSendHttpResponse
+HttpSendResponseEntityBody
+HttpReceiveHttpRequest
+false
+HrGetTypedValueFromElement: get_nodeTypedValue()
+HrGetTypedValueFromElement: put_dataType()
+HrGetTypedValueFromElement: SysAllocString()
+OBJ: FIsThisTheNodeName - get_baseName
+HrAreThereDuplicatesInChildNodeTextValues(): Failed to allocate BSTR for XSL pattern
+HrAreThereDuplicatesInChildNodeTextValues(): Failed to get node text value
+HrAreThereDuplicatesInChildNodeTextValues(): Failed to get list item
+HrAreThereDuplicatesInChildNodeTextValues(): Failed to allocate text value array
+HrAreThereDuplicatesInChildNodeTextValues(): Failed to get nodes matching XSL pattern
+HrAreThereDuplicatesInChildNodeTextValues(): Exiting
+HrGetFirstChildElement - get_firstChild
+HrGetChildElement - get_nodeType
+HrGetChildElement - get_nextSibling
+HrGetTextValueFromAttribute(): Failed to get attribute value
+HrGetTextValueFromAttribute(): Failed to allocate attribute name BSTR
+HrGetTextValueFromAttribute(): Failed to get IXMLDOMElement interface
+HrCreateElementWithType(): put_nodeTypedValue
+HrCreateElementWithType(): put_dataType
+HrCreateElementWithType(): SysAllocString
+HrCreateElementWithType(): Could not create element
+HrCreateElementWithType(): Could not allocate BSTR
+SOAP size Limit
+WszFromSz: new
+SzFromWsz: MemAlloc
+<name> element may not contain '-'
+HrValidateName(): Failed to get node text
+HrValidateName(): Exiting
+HrValidateRelatedStateVariable(): Failed to get list item
+<relatedStateVariable> '%s' did not contain the name of a state variable
+HrValidateRelatedStateVariable(): Failed to get list length
+HrValidateRelatedStateVariable(): Failed to select nodes
+HrValidateRelatedStateVariable(): Failed to allocate XSL pattern string
+HrValidateRelatedStateVariable(): Exiting(): 
+<direction> contained invalid value. Must be "in" or "out".
+<retval> contained a text value. Must be empty.
+HrValidateArg(): Failed to get text of <retval> element
+<argument> did not contain exactly one <name> element
+<argument> did not contain exactly one <directio> element
+<argument> did not contain exactly one <relatedStateVariable> element
+HrValidateArg(): Exiting
+<retval> element found in "in" <argument>
+<retval> element found in "out" <argument> that was not the first one
+"in" <argument> found after one or more "out" <argument>s
+<argumentList> did not contain any <argument> elements
+<argumentList> contained <argument> elements with duplicate names
+HrValidateArgList(): Failed to check for duplicate names
+HrValidateArgList(): Exiting
+<action> did not contain exactly one <name> element
+HrValidateAction(): Exiting
+<actionList> contained <action> elements with duplicate names
+HrValidateActionList(): Failed to check for duplicate names
+HrValidateActionList(): Exiting
+minimum
+maximum
+<allowedValueRange> did not contain exactly one <minimum> element
+<allowedValueRange> did not contain exactly one <maximum> element
+<allowedValueRange> contained multiple <step> elements
+HrValidateAllowedValueRange(): Exiting
+<allowedValue> element must not be empty
+HrValidateAllowedValue(): Exiting
+HrValidateAllowedValueList(): Failed to get list item
+<allowedValueList> element was empty
+HrValidateAllowedValueList(): Failed to get list length
+HrValidateAllowedValueList(): Failed to get node children
+HrValidateAllowedValueList(): Exiting
+<stateVariable> optional attribute "sendEvents" must be  "yes" or "no"
+<stateVariable> contains both <allowedValueRange> and <allowedValueList>
+allowedValueRange
+defaultValue
+<stateVariable> did not contain exactly one <name> element
+<stateVariable> did not contain exactly one <dataType> element
+<stateVariable> contains multiple <allowedValueList> elements
+<stateVariable> contains multiple <allowedValueRange> elements
+<allowedValueList> may only modify a string variable
+<allowedValueRange> may only modify a numeric variable
+HrValidateStateVariable(): Exiting
+<serviceStateTable> did not contain any <stateVariable> elements
+<serviceStateTable> contained <stateVariable> elements with duplicate names
+HrValidateSST(): Failed to check for duplicate names
+HrValidateSST(): Exiting
+<major> version number is incorrect - should be "1"
+<major> specVersion element must appear exactly once
+<minor> specVersion element must appear exactly once
+HrValidateSpecVersion(): Exiting
+<specVersion> element must appear exactly once
+<serviceStateTable> element must appear exactly once
+<actionList> element must appear no more than once
+Root node invalid - should be <scpd xmlns="urn:schemas-upnp-org:service-1-0">
+HrValidateServiceDescription(): Failed to get SCPD node
+HrValidateServiceDescription(): Exiting
+exclusion
+inclusion
+ignoring
+including
+ARSDSJ
+R$K.'D
+upnphost.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zz
+.rdata$zzzdbg
+.text$di
+.text$lp00upnphost.dll!30_clientonly
+.text$mn
+.text$np
+.text$yd
+.text$zy
+.text$zz
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$00$brc
+.data$dk00$brc
+.data
+.data$00
+.data$dk00
+.data$zz
+.bss$00
+.bss$dk00
+.bss$pr00
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+R$K.'D
+9LKLH
+QSVWjd
+QSVW3
+WWh,)
+t%9x0t 98t
+9_0t\
+|!#V(
+jjjjjjj
+F,9~$t
+SVWj8
+D$ Pj
+j\Zf;TH
+PPPPW
+Yj'PV
+x,hT1
+tKf;\V
+D$LPV
+D$@PS
+D$@PS
+L$8;D$D
+QQSVW
+SVWP3
+D$DVW
+f9D$ 
+CLPh02
+CPPhP2
+CXPh 2
+C\Ph 2
+D$<PQ
+L$D_^[3
+QQSVW
+QQSVW
+tQVVVVj
+QQSVW3
+wp9wH
+PVhx8
+D1,Ph
+QQSVW
+G(Ph49
+~0_^[
+WVVVV
+SSSSSSSj
+YY_^]
+QSVWhp
+~h9~Tt
+~\9~Ht
+~P9~<t
+~D9~0t
+Y__^[
+QRPhl
+QRPh,
+PSSSSSSh 
+PWWWWWWW
+ SVW3
+,VVVV
+PVVVVVV
+tdj?W
+D$8PQ
+t Sh,
+t&QhdS
+t Vh`
+t VhX
+98u<h
+PQRj+
+QQSVWj
+awJtd
+QQQQQQQPQQQ
+QQSVW3
+SSSSPSSSSSS
+t5SSSS
+QQSVW
+tnj'[f;
+j%YWf;
+j{Xf;
+j=Xf9
+j=Xf9
+j{Xf9
+j{Xf9
+j}Xf9
+t'VWj'
+?=u3W
+SVWj(
+PVWQRj+
+VPVVVV
+PQRj+
+$SVW3
+D$,PQ
+tIVhD>
+PVWQRj+
+Yt3hp
+SVt&3
+N6PQW
+G !3!
+QSVWj
+PRRSQ
+t@WhL
+9N u}
+PWVSR
+PWVSRj1h
+PVWQRj+
+PVWQRj+
+x,Vkw
+D$LPV
+L$\_^[3
+;|$$|
+L$<_^[3
+QQQQP
+D$(PRhx6
+D$LPQ
+t$$Vj
+L$D_^[3
+D$0SVW
+D$0PW
+;T$$r
+L$<_^[3
+L$$_^[3
+QQSVW
+VWhTA
+AQPVh
+tAWRV3
+QQSVW
+tVh\B
+;D$,|
+D$|hx+
+D$0VP
+D$,PW
+w0PWh
+PWRSVj0hdB
+0_^[]
+SVWPh 2
+S$Vh49
+G,_^[]
+L$$_^[3
+D$DPQ
+D$PPQ
+D$@PQ
+L$L_^[3
+D$DPQ
+D$PPQ
+D$@PQ
+L$L_^[3
+D$<PQ
+D$8PQ
+L$D_^[3
+D$(VW
+D$ PRQ
+D$$PWQ
+!{d9{`tr
+L$,_^[3
+PWVSRj
+^,9^ t
+Y9^$t j
+PPPPj
+PPSVj
+s(ZRQPj
+QSWf;
+QSWf;
+F G;~
+^ [^]
+VWQRj+
+PWRQVj
+8_^[]
+RVPWQSj
+vXPQW
+QQSVW
+|=9F0t8SW
+SVVVWj
+t69^8u#9^<u
+t$ G3
+%;G4s 3
+~(9~,t
+~,9~4t
+~49~Lt
+~L9~Pt
+~P9~Tt
+~T9~Ht
+~H9~Xt
+~X9~\t
+Ch9C$uI9CLuD9C(u?9CXu:
+F\9~`t$
+QQSVW
+9O<t>
+t'SSj@Vj
+9F4ud
+VWPP3
+9F,ug
+9FHud
+t!j.P
+`_^[]
+SSVPj
+@_^[]
+ ;^@r
+9W4v,3
+t"VhXI
+t1QhXK
+tTVhhD
+t;Wh 
+t;Whp
+SVWP3
+w?t[H
+uphx6
+9s@v)
+9s4v)
+t$ WR
+t$8WS
+D$ ;M
+D$$Pj
+D$DPj
+\$ t'Wh
+PjwhpR
+Sj=[f
+9_0t~9_8~v
+K`9C@
+PPSh 8
+|$$Wj
+D$8Pj
+9xDt7
+PPPPPP
+D$ +D$
+D$,Vj
++D$$P
+u f9:u3
+9~8uS;
+QQSVW
+9^0u5
+9{Lu`9{Hu[
+IL9~<
+9{LtM
+PRQj[h
+PRVQh
+9~ v,
+YG;~ r
+G9~ s
+Q VW;A
+9w v%
+F;w r
+x.u,h 
+QQSVWj
+VVVVj
+tR9pDtM
+9^4~(
+_89_<t
+_D9_Ht
+^9_`t
+x@t>~
+x\tZ~
+RVQWSPj
+Wj?j@
+9wdv*
+w8;wdr
+Sd;S8
+9CdwI
+A;K\r
+,;K8v.
+9FdrU
+A;N\r
+WinHttpCrackUrl
+WinHttpConnect
+WinHttpSetStatusCallback
+WinHttpSetTimeouts
+WinHttpSendRequest
+GetAddrInfoW
+WinHttpCloseHandle
+WinHttpSetOption
+WinHttpOpenRequest
+WinHttpOpen
+FreeAddrInfoW
+WinHttpReceiveResponse
+WSAAddressToStringA
+GetHostNameW
+QueryWin32SubsystemHost
+CryptStringToBinaryW
+GetAdaptersAddresses
+upnphost.dll
+SvchostPushServiceGlobals
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ServiceMain
+Microsoft-Windows/10.0 UPnP/1.0
+realloc
+wcscat_s
+_purecall
+malloc
+_XcptFilter
+_amsg_exit
+_initterm
+_except_handler4_common
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+EtwTraceMessage
+EtwRegisterTraceGuidsW
+EtwGetTraceEnableLevel
+EtwGetTraceLoggerHandle
+EtwGetTraceEnableFlags
+EtwUnregisterTraceGuids
+ntdll.dll
+NdrOleFree
+NdrOleAllocate
+NdrDllGetClassObject
+NdrDllCanUnloadNow
+EnterCriticalSection
+LeaveCriticalSection
+DisableThreadLibraryCalls
+CreateEventW
+SizeofResource
+VirtualProtect
+RegEnumValueW
+CoTaskMemAlloc
+RegDeleteValueW
+VirtualAlloc
+CoUninitialize
+GetModuleFileNameW
+CoCreateInstance
+RegOpenKeyExW
+InitializeCriticalSection
+CoTaskMemFree
+CoRegisterClassObject
+WaitForSingleObject
+CharNextW
+RegSetValueExW
+RegEnumKeyExW
+MultiByteToWideChar
+GetLastError
+RegCreateKeyExW
+SetEvent
+CharPrevW
+CloseHandle
+GetSystemInfo
+SetServiceStatus
+FindResourceExW
+LoadResource
+CoTaskMemRealloc
+HeapDestroy
+GetProcAddress
+DeleteCriticalSection
+SetProtectedPolicy
+GetModuleHandleW
+FreeLibrary
+RegQueryInfoKeyW
+CoInitializeEx
+RegCloseKey
+CoRevokeClassObject
+RegisterServiceCtrlHandlerExW
+VirtualQuery
+LoadLibraryExW
+CreateFileW
+RegDeleteKeyExW
+RegDeleteTreeW
+CoQueryProxyBlanket
+CoSetProxyBlanket
+Sleep
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+RPCRT4.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-service-core-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+UnregisterWaitEx
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+lstrcpynW
+lstrcmpiW
+api-ms-win-core-string-obsolete-l1-1-0.dll
+CreateErrorInfo
+SetErrorInfo
+combase.dll
+CloseThreadpool
+CreateThreadpool
+TrySubmitThreadpoolCallback
+CloseThreadpoolCleanupGroup
+CloseThreadpoolCleanupGroupMembers
+SetThreadpoolThreadMaximum
+CreateThreadpoolCleanupGroup
+CreateThread
+lstrlenW
+CreateTimerQueueTimer
+DeleteTimerQueueEx
+UuidToStringW
+CloseThreadpoolWait
+QueueUserWorkItem
+RpcStringFreeW
+WaitForThreadpoolWaitCallbacks
+CreateThreadpoolWait
+SetThreadpoolWait
+DeleteTimerQueueTimer
+UuidCreate
+CreateTimerQueue
+CLSIDFromProgID
+CLSIDFromString
+WideCharToMultiByte
+GetSystemDefaultLocaleName
+CoCreateGuid
+CreateThreadpoolWork
+SubmitThreadpoolWork
+WaitForThreadpoolWorkCallbacks
+DeleteFileW
+ResetEvent
+CreateDirectoryW
+GetSystemDirectoryW
+CopyFileExW
+RegQueryValueExW
+OpenThreadToken
+GetCurrentThread
+AllocateAndInitializeSid
+CheckTokenMembership
+FreeSid
+OpenSCManagerW
+OpenServiceW
+QueryServiceConfigW
+CloseServiceHandle
+GetSystemTime
+GetFileTime
+FileTimeToSystemTime
+LoadStringW
+SystemTimeToFileTime
+SetLastError
+GetFileSize
+GetFileAttributesW
+CompareFileTime
+UuidFromStringW
+CoGetCallContext
+GetFileAttributesExW
+TryEnterCriticalSection
+WaitForMultipleObjectsEx
+CancelIoEx
+GetOverlappedResult
+LoadLibraryW
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-localization-l1-2-2.dll
+api-ms-win-core-file-l2-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+_vsnwprintf
+_wcsicmp
+wcsstr
+_wcsnicmp
+wcschr
+_vsnprintf
+iswalpha
+iswspace
+_itoa_s
+_memicmp
+_stricmp
+strrchr
+wcsrchr
+strchr
+strstr
+_strnicmp
+IsCharAlphaNumericW
+IsCharAlphaW
+LockResource
+ReadFile
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+lstrcmpW
+ApiSetQueryApiSetPresence
+api-ms-win-core-apiquery-l1-1-0.dll
+DeregisterService
+RegisterServiceEx
+FreeSsdpMessageEx
+SsdpStartup
+SsdpCleanup
+SSDPAPI.dll
+StringFromGUID2
+GetPersistedRegistryLocationW
+RegOpenKeyExA
+RegQueryValueExA
+UuidFromStringA
+api-ms-win-stateseparation-helpers-l1-1-0.dll
+_ftol2_sse
+memcmp
+memcpy
+memmove
+memset
+REGISTRY
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+UPnP Device Host
+FileVersion
+10.0.22621.726 (WinBuild.160101.0800)
+InternalName
+unpnhost.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+unpnhost.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.726
+VarFileInfo
+Translation
+    NoRemove AppID
+    {
+        ForceRemove {E495081B-BBA5-4b89-BA3C-3B86A686B87A} = s 'upnphost'
+        {
+            val LocalService = s upnphost
+            val LaunchPermission = b '010004805800000064000000000000001400000002004400030000000100140015000000010100000000000100000000010014001F000000010100000000000502000000000014000B00000001010000000000010000000001010000000000051200000001020000000000052000000020020000'
+        }
+    }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8dc-730d-11d4-bf42-00b0d0118b56} = s 'UPnPDynamicContentSource'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8dd-730d-11d4-bf42-00b0d0118b56} = s 'UPnPDescriptionManager'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8df-730d-11d4-bf42-00b0d0118b56} = s 'UPnPDevicePersistenceManager'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8e1-730d-11d4-bf42-00b0d0118b56} = s 'UPnPContainerManager'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+                ForceRemove {6d8ff8e7-730d-11d4-bf42-00b0d0118b56} = s 'UPnPContainerManager64'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {204810b9-73b2-11d4-bf42-00b0d0118b56} = s 'UPnPRegistrar'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {0fb40f0d-1021-4022-8da0-aab0588dfc8b} = s 'UPnPAutomationProxy'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8d2-730d-11d4-bf42-00b0d0118b56} = s 'UPnPEventingManager'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8e5-730d-11d4-bf42-00b0d0118b56} = s 'UPnPValidationManager'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+        NoRemove CLSID
+        {
+                ForceRemove {2e5e84e9-4049-4244-b728-2d24227157c7} = s 'UPnPRemoteEndpointInfo'
+                {
+                        val AppID = s '{E495081B-BBA5-4b89-BA3C-3B86A686B87A}'
+                }
+        }
+REGISTRY
+en-US
+0 0,000<0@0L0P0\0`0l0p0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3(3,34383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4
+585<5`5d5h5l5p5t5x5|5
+6 6$6,60686<6D6H6P6T6\6`6h6l6t6x6
+7 7$74787H7L7\7`7p7t7
+8(8,808@8D8H8X8\8`8p8t8x8
+9 9094989H9L9P9`9d9h9x9|9
+:(:0:4:H:P:T:h:p:t:
+;(;0;4;H;P;T;h;p;t;
+<0<H<`<d<l<p<x<|<
+=$=(=8=<=L=P=`=d=h=x=|=
+> >(>,>@>H>L>`>h>l>
+? ?$?(?,?0?4?8?<?D?H?`?x?
+0(040@0L0d0|0
+1 1$1(1,1014181@1H1P1X1`1h1p1x1
+24282<2@2D2H2L2P2T2X2\2`2d2l2p2t2x2|2
+3 3(30383@3H3P3X3d3h3l3p3t3x3
+!4'4,4F4a4g4l4
+6I6a6
+6-7l7s7
+8F9M9T9[9
+;8;V;
+<9>G>R>
+?R?Z?`?p?
+0.0F0K0P0d0}0
+6(6Q6X6]6c6
+7#8?8P8X8`8i8r8g9
+:+;@;m;
+<&<@<X<
+=0=;=t=
+?B?{?
+1$1Y1
+1)2K2
+374B4P4U4x4
+5#5-5D5i5u5
+6,6e6j6
+7*7?7L7b7g7
+848f8~8
+929w9
+98:q:
+<K<a<f<
+=.=6=w=
+3>3X3
+5(5-5W5u5
+6?6O6u6
+8#9O9y9
+9+:Y:h:
+;B;b;
+=#=E=Z=l=
+=)>?>g>|>
+0N0e0
+0/181\1
+1:2S2m2
+4/4C4M4T4]4f4s4
+6#6^6r6x6
+6K768
+9&979K9
+:^:x:
+;I;h;m;
+<6<N<
+= =0=Z=s=x=
+=/>I>`>o>
+?#?3?]?v?{?
+0 090E0U0
+2!212@2J2b2
+576I6
+7I7]7c7
+7A8Z8`8y8
+:=:U:\:k:
+:E;[;c;
+<6<S<y<
+?I?q?
+0L0W0h0m0
+0#121[1k1p1
+282G2p2
+3E4^4
+5?5I5^5f5
+708W8
+;M;l;
+<><H<_<
+=8=v={=
+?N?d?m?
+0H0Q0h0m0z0
+1>1G1M1
+1%272B2^2}2
+3(373X3p3y3
+4!4*4d4m4
+5M5V5g5l5
+6Q6V6o6
+6!7&767
+:+:z:
+:7;Z;{;
+;1<`<
+=V=j=q=x=
+>&>J>[>d>j>}>
+?'?-?P?Y?_?r?{?
+0I0W0
+161@1
+4+494>4S4Z4o4v4
+5(565<5V5\5v5{5
+606\6
+; ;;;
+<%=z=
+>@>v>}>
+><?q?
+O0W0_0g0
+6\6b6i6{6
+7#7;7Z7r7
+7A8X8l8s8
+8J9U9
+= ={=
+>>>K>c>h>
+?#?k?
+2+373O3z3
+4-4h4
+7>7W7v7
+8%9i9
+:>:W:v:
+;-<F<f<r<
+=4=R=~=
+0&020
+1N1p1
+4,5L5{5
+546e6
+6,7=7W7c7
+9&929r9
+;M;f;
+;!<:<o<
+=7=K=e=
+>L?]?u?
+0T1r1
+2%212
+2*3[3
+3>4V4
+6L7]7w7
+9'9F9R9
+:!:+:5:?:I:S:]:g:q:{:
+;1;f;
+>>>W>r>~>
+1#1c1
+1\2m2
+223c3
+3,4=4W4c4
+6;6m6
+7-7F7e7q7
+899Y9
+9":4:j:o:
+;:;H;N;{;
+<%<8<T<
+=!>A>^>
+0'0A0]0
+151R1q1
+2!2T2
+3C3f3
+5d5i5y5
+6)717A7F7
+8::f:
+:3;M<
+?*?3?Q?Z?t?y?
+1/151B1L1S1]1g1q1{1
+2i2n2
+3&3+3q3z3
+424B4
+717T7_7i7o7u7{7
+8#8(8=8S8]8c8
+9,969J9O9U9Z9`9{9
+:(:Q:^:d:j:p:v:|:
+:*;J;P;y;
+<%<+<1<7<=<B<H<N<S<Y<e<n<
+>O>j>
+>C?L?f?v?|?
+0%0+01070
+1,141A1F1c1i1s1y1
+122F2M2`2
+323b3y3
+4c4z4
+5$5i5
+6#676^6t6
+7,777=7L7Q7j7p7z7
+8%8+8a8v8
+9!9C9W9^9m9
+:):7:?:a:g:
+<*<><E<h<q<
+=!=N=^=c=
+>&>,>2>`>w>
+2>2b2
+4=4Q4W4
+585G5P5Y5n5
+6%60676O6U6[6a6g6m6t6{6
+7!7-7=7F7]7c7i7o7u7{7
+8%818=8Z8r8z8
+929=9R9]9r9
+:-:=:M:Z:n:~:
+;/;<;P;`;p;
+<-<><F<Z<y<
+=%=8=S=j=
+=&>1>I>N>`>s>
+?,?4?H?M?[?a?f?
+0!0>0
+495K5
+7)7N7
+8]9k9
+:!;&;>;a;f;~;
+=0=5>:>J>d>i>
+?7???T?Y?j?v?{?
+0@0s0
+3'3/3T3Y3i3~3
+3.4W4
+5;5W5
+6'7@7O7O8Z8x8
+9,91969O9T9Y9x9J:f:
+;!;F;K;a;i;
+<#<<<Q<V<o<
+=7=T=h=u=z=
+>*>/>H>]>b>{>
+?$?)?A?c?
+0F0K0`0u0
+171X1
+282X2]2v2
+343J3P3f3y3
+4&4>4n4t4
+5!5<5A5Z5q5v5
+6Y6^6y6
+6!7)7.7G7c7h7
+8$868>8T8\8n8
+9 9M9U9Z9s9
+:+:E:^:p:
+;2;D;L;b;j;|;
+;d<i<
+<O=X=^=w=
+>#>9>L>W>p>
+?/?J?e?
+0+050W0c0j0
+1=1M1R1k1
+2 252:2P2b2l2
+383M3R3h3z3
+4F4x4
+5'5@5S5Y5r5
+616I6j6v6{6
+7'7,7E7o7t7
+768;8O8a8f8
+999C9e9q9v9
+:&:4:C:]:l:{:
+:2;z;
+=3=8=Q=k=}=
+>#>2>
+?0?E?J?[?
+0%0>0x0
+1d1r1
+3E3J3c3
+505E5J5c5~5
+6"6?6D6Z6b6
+6(71767D7L7e7r7
+8;8U8o8|8
+9!9B9V9]9u9
+:-:A:H:
+;#;=;E;Z;_;m;s;x;
+<7<i<n<
+=0=8=W=i=
+>/>4>M>b>g>
+?.?E?N?n?
+(0-0C0K0o0
+0c1h1~1
+2+202B2J2\2a2w2
+4(404
+5!5F5h5}5
+5S6X6n6v6
+747?7U7]7
+8g8l8
+9#9+9K9s9
+:E:R:W:m:u:
+;F;K;a;i;
+;$<)<?<G<d<
+<Z=_=u=}=
+>:>P>X>
+>,?\?
+H0Y0q0
+3"3*3V3n3
+4#494A4
+465;5Q5Y5v5
+6J6O6e6m6
+7\7a7w7
+82878M8U8l8q8
+9"9'9=9E9\9a9w9
+:3:J:R:i:
+;#;-;2;H;P;h;n;
+<-<5<K<Q<g<o<
+= =(=D=I=_=g=
+>$>,>H>M>c>k>
+?!?;?P?k?
+I0V0a0f0y0
+101C1I1Z1
+2,2>2
+393F3T3Y3q3v3
+44494J4i4n4
+565O5
+6*676=6]6h6n6
+8=8C8o8t8
+9o9u9z9
+:5;=;I;g;
+;*<]<
+=Z=m=v={=
+>'>,>E>Z>_>x>
+?,?=?J?`?f?
+$0)0B0v0
+191Q1x1
+2?2S2k2
+3(3-3?3J3
+4)444S4Y4r4
+585N5i5
+6!6;6@6Y6~6
+7*7C7K7`7e7~7
+8>8\8h8n8
+9M9Y9
+:#:*:1:?:[:e:~:
+:g;y;
+<H<V<_<f<
+>=>W>h>v>
+>L?S?
+0-0c0
+021=1R1Y1
+2-2>2H2m2
+3 3'3.3F3Q3^3
+4#4g4{4B6o6v6
+6)7V7]7
+82898`8n8|8
+9$9+929j9x9
+:H:^:
+;C;I;R;Y;e;k;t;{;
+;*<2<8<N<S<p<x<~<
+=(=3=i=
+>/>A>n>r>x>|>
+>N?W?
+0C1m1
+1(2l2
+3!4(4@4G4X4
+5A5M5m5|5-6J6~6
+=K=V=c=
+>;>E>R>|>
+>+?=?E?{?
+1,12171K1Q1W1u1
+2 2&272a2r2
+3+3}3
+6+6?6V6`6
+6>7`7u7
+7V8l8r8
+899U9m9r9
+9.:H:
+:J;O;`;
+<>=G=b=h=u=
+=#>;>n>>?w?
+0#01090_0j0
+2 2-2
+2-3Q3f3s3
+4#4Z4l4r4
+7 7F7o7t7
+9#9-979@9E9S9[9{9
+9 :U:g:x:
+:P;V;d;{;
+<3<><L<Y<
+=#=t=
+=$>8>F>K>a>r>x>~>
+?!?2?8?B?K?[?a?f?{?
+0!060<0A0F0Y0
+1)1?1K1Q1V1[1n1
+1K2P2g2w2}2
+3.3H3M3g3
+3)494A4F4V4f4u4}4
+5#515=5I5N5c5s5z5
+6+60656J6s6
+7*717\7a7
+7:8^8c8w8
+9)9K9P9d9
+9&:,:2:P:U:k:
+:_;e;r;
+<-<V<g<l<z<
+=8===S=^=d=n=t=
+>">Q>V>[>`>e>
+?@?J?O?]?q?v?
+0#0(0;0F0K0`0v0|0
+1/191L1
+1/242I2Y2_2
+2)3.3A3d3i3}3
+4,42474J4P4
+5 5%535;5V5b5n5s5
+6$6*63686F6N6
+7$797?7E7|7
+8$888O8U8^8c8q8y8
+91979=9t9
+;8;b;n;u;
+<#<8<H<`<t<
+=J=Z=b=r=
+=+>;>C>U>j>|>
+?$?8?=?Q?^?i?
+0-0Q0Z0`0j0|0
+1!181=1K1Z1_1v1
+2)2/272=2G2^2c2q2
+3;3A3n3
+4)4A4F4T4g4m4
+4S5T7
+8!8K8R8W8_8d8i8|8
+9#:7:E:
+:%;:;H;
+<N<f<{<
+>(?g?l?|?
+0F1K1[1
+1,2?2S2
+3)3m3r3
+4%4/454G4X4
+5g6l6|6
+6%7*7:7
+8t9y9
+9g:l:|:
+:^;c;h;
+<'<-<E<R<
+<.=3=8=]=c=
+>%>f>k>p>
+?%?<?I?
+0D0Q0
+0)1.131R1X1
+1!2.2h2m2r2
+343:3L3Y3
+3)4.434R4X4u4
+5E5T5l5
+< <`<q<
+=@=T=
+?)?=?
+2Q2Z2c2h2y2
+4V5_5d5u5
+7"737
+8(8>8Q8o8
+8,9<9f9~9
+9':H:]:i:z:
+=!=6=N=m=
+='>]>
+>$?d?
+0@0L0_0
+111|1
+3I3d3
+5;6B6
+768?8D8U8
+9%9L9
+;#;>;i;
+<$<5<G<
+<)=.=?=S=[=
+>(>->>>O>p>
+>(?y?
+0&070
+03181I1Z1
+2(282T2z2
+3&30393L3
+4Z4_4d4
+5 5%5
+7,7N7S7d7v7
+8.8~8
+9<9|9
+:K:[:e:j:{:
+=Y=g=p=u=
+= >9>>>N>d>
+?<?N?d?
+0?0R0W0g0}0+1Y1e1q1
+232<2D2b2
+2<3E3O3T3e3
+3)474@4E4V4f4k4|4
+4-525B5^5
+666W6s6
+8-8M8i8
+869;9K9l9
+9&:b:
+:2;7;H;w;|;
+;4<B<z<
+=0>>>f>
+>U?g?m?
+00W0\0c0t0y0
+081V1[1m1
+2#2A2T2k2r2
+3$3{3
+6s7y7
+7U8l8{8
+9[9n9w9
+9+:B:K:j:
+=>=X=o=z=
+> >%>6>W>
+?>?H?M?^?
+0?0e0x0
+0&1@1S1z1
+2L2Q2b2w2
+3+3t3z3
+3!4C4U4z4
+4I5a5
+7x7}7
+7@8E8V8
+9"939*:4:
+;0;B;
+;;<@<Q<c<
+=*=<=Z=_=d=u=
+0.030C0
+1V1[1k1
+1%2Q2\2
+3"3.353>3C3T3
+4/4l4u4
+4)5B5|5
+6;6E6
+617k7
+8>8U8j8
+9+9;9A9I9Y9
+:#:L:
+=)=C=X=
+>D>I>Y>i>u>|>
+>'?8?D?Z?
+021?1O1T1e1w1
+262;2@2m2}2
+3%3v3
+4 4>4N4T4d4j4
+505<5B5e5j5z5
+646L6d6|6
+7U7Z7j7z7
+8=8`8{8
+9!969\9x9}9
+;);a;
+;!<K<_<m<
+<D=I=Z=
+>4>9>J>^>M?W?
+000M0e0
+1P1U1e1
+2K2W2
+3?3H3Q3f3n3w3
+3%464;4K4i4r4
+4P5i5
+6P6_6t6
+7Q7!8=8C8Q8Y8u8z8
+9N9Z9~9
+9$:v:
+<5<b<
+=.=:=\=
+>%>i>
+0S0r0
+191X1x1
+2-23282
+525r5
+6Z6f6
+8'898^8l8r8
+9&9,9@9q9>:
+:+;D;I;];
+;%<3<8<T<k<q<
+<"=(=
+=k>v>
+?"?8?
+1O2v2
+2T3p3
+55586=6V6i6}6
+7+7`7z7
+828]8
+9D9o9
+:(:I:}:
+;2;7;S;
+<4=>=H=R=T>
+0$1B1G1]1
+2=2b2q2v2
+2#3E3f3m3
+5#666;6N6~6
+7Q7W7i7
+7`8}889O9]9
+9+:J:
+=1=6=I=Z=s=
+>6>@>N>X>
+>$?5?=?H?R?_?h?z?
+070E0
+141J1`1v1
+1!2>2C2Y2
+2C3H3[3v3{3
+50586=6P6
+6.737N7
+8b8l8
+8D9M9\9
+:/:7:=:
+<9<d<z<
+=i=~=
+>Q>x>
+0&0A0G0Z0
+0^1d1w1
+2"3q3
+4*4<4A4T4g4
+5%5+5:5a5s5x5
+5$626R6p6}6
+7%72797M7_7f7y7
+9#9>9\9c9n9
+:%:r:w:
+;-;4;y;~;
+;j<o<
+> >3>U>
+>2?8?
+151C1e1
+2"3%464z4
+5N5x5
+7b7n7
+8*828d8
+849^9~9
+;?<D<Z<z<
+<L=f=
+>L>Q>_>g>w>
+?$?1?<?A?O?W?
+14191K1e1j1x1
+2:2V2[2x2
+24393G3O3o3
+4/444F4h4
+646D6I6W6_6
+7"7c7l7
+8)8N8Z8`8n8v8
+9?9L9^9
+:D:\:d:
+;,;5;:;I;s;x;
+<D<b<g<w<
+=N=l=q=
+>#>2>7>E>R>i>t>y>
+>H?k?
+000K0
+1&151<1L1[1`1n1}1
+252=2P2
+3!3'353=3N3q3}3
+4(4K4m4
+5)515M5U5]5~5
+5O6Z6h6p6
+707U7Z7_7n7
+8/868=8B8P8]8j8o8}8
+9-92979F9s9x9
+:+:::A:F:T:c:h:v:
+>G>L>W>x>}>
+>'?,?<?u?
+0!0G0i0z0
+1)111U1e1m1
+2(2=2E2j2~2
+22373I3`3i3o3
+40454F4X4]4k4s4
+5)515M5X5_5o5w5
+5'6L6X6
+7$7/7I7`7x7
+8)8/8b8o8
+9'999>9L9\9k9r9w9
+9):~:
+;L;Q;i;
+<^<x<
+=Y=s=x=
+>/>4>z>
+>`?f?|?
+90?0U0]0
+1$2)242U2Z2i2
+3.3W3a3s3{3
+434O4\4n4u4
+43595G5O5
+6,626g6l6
+9,9:9^9c9m9|9
+:7:Q:p:
+;C;L;Q;V;i;
+<+<W<g<
+>6>H>M>f>{>
+?#?(?a?~?
+0$0O0]0c0
+1,1A1
+2/2@2O2Y2l2x2~2
+3#363X3e3j3
+3A4K4Q4e4v4|4
+5&5,5@5T5s5y5
+6+6T6
+7(71767G7Y7i7q7w7
+8O9T9f9
+9$:):A:d:i:
+;G;];c;t;
+<,<N<[<`<}<
+=T=]=b=v=
+>'>,>@>T>
+?1?n?s?
+0/040r0
+1$191R1]1t1}1
+2]2s2
+4'4A4_4r4
+5>5S5
+6(6.6N6X6i6
+7$7[7`7
+8(808D8W8w8
+9M9S9\9a9o9u9z9
+: :2:B:_:
+;-;7;<;M;];~;
+;/<4<E<e<y<~<
+=$=,=
+>&>U>Z>z>
+?0?:?L?h?z?
+0C0Q0
+0-1C1Q1
+2"2Y2f2k2
+3$3@3
+4O5T5e5
+6#7*7:7U7m7~728C8m8
+879A9I9R9W9e9k9
+:):.:P:Y:j:o:
+;-;2;Q;Z;k;p;
+<=<D<K<R<Y<`<g<n<u<
+=(=S=X=h=
+>(>S>X>h>
+>&?c?q?v?
+0$0D0M0T0]0
+111X1m1
+2(202J2P2^2f2
+2:3D3l3
+4&4+4<4|4
+5A5Y5
+6#646|6
+7A7v7
+8'8T8q8v8
+8@9\9
+:,:5:::H:N:S:h:
+:";R;^;c;y;
+<$<U<_<q<|<
+=$=1=c=}=
+=8>>>O>
+1;1M1V1[1i1q1
+3D3Y3
+495E5]5
+5!696_6~6
+9 919o9
+:9;B;G;U;];
+<?<Z<m<
+>%>;>S>_>l>x>
+5:5y5
+5+6}6
+9'9>9|9
+9::m:
+5:6}6
+6>7T7w7
+9&9<:j:
+;/;L;P;l;p;x;|;
+<$<(<H<d<h<
+=$=(=D=H=d=h=
+0$000<0H0T0`0l0x0|0
+1 1$1(1,1014181D1H1L1P1T1X1\1h1l1p1t1x1|1
+2$2(24282D2H2T2X2d2h2t2x2
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0t0x0|0

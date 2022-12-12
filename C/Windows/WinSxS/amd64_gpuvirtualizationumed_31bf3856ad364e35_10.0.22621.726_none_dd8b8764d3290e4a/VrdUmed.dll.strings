@@ -1,0 +1,526 @@
+!This program cannot be run in DOS mode.
+[Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+q0R^G'
+q0R^G'
+q:_0#
+|$ AVH
+VWAVH
+p:_0#
+p:_0#
+p:_0#
+@A^_^
+q:_0#
+@SVWH
+p:_0#
+\$ UH
+M H1E
+ H3E H3E
+ntelA
+ineID
+\$ UVWATAUAVAWH
+D9l$(|
+D$,D8-
+t(D8-
+UVWAVAWH
+D9|$(
+t(D8=L
+A_A^_^]
+t:fA9(t4H
+fA9,@u
+p AWH
+x AVH
+UVWAVAWH
+H!\$8H
+H!\$@I
+A_A^_^]
+UVWAVAWH
+H!\$8H
+H!\$@I
+H!_(H!_0H!_8H!_@M
+A_A^_^]
+l$ VWAVH
+L$0E3
+L$0fD
+L$ UVWATAUAVAWH
+pA_A^A]A\_^]
+97tKA
+A8]8t
+t$ WH
+3D$8%x
+x AVH
+\$ UVWAVAWH
+t,D8=j
+L9{Hu
+A_A^_^]
+\$ VWAVH
+D$0H;
+u%H!\$8H
+D$@E3
+L$hH3
+VWAVH
+0A^_^
+UVWATAUAVAWH
+ty@8=
+t"@8=T
+fA9>u
+@A_A^A]A\_^]
+L$ SUVWH
+L$hH+
+f9,Cu
+(_^][
+WAVAWH
+}0H+}(H
+0A_A^_
+\$ WH
+L$`H3
+L$XH3
+t$ WAVAWH
+{8D8{@uXL9?u$E3
+0A_A^_
+D$ 4&j
+H;K@H
+VWATAVAWH
+ A_A^A\_^
+D$@H;
+L$`H3
+UWATAVAWH
+A_A^A\_]
+VWAVH
+ A^_^
+WATAUAVAWH
+T$0L+
+A_A^A]A\_
+L$ UVWATAUAVAWH
+C D8U@u
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$dfD
+D$hfE
+D+D$x
+D+D$xD
+A_A^A]A\_^]
+t$ WH
+t$ WH
+L$ E3
+H UATAUAVAWH
+A_A^A]A\]
+L$`H3
+qY[04
+UVWATAUAVAWH
+}HL9M@t
+L97sKI
+ A_A^A]A\_^]
+WAVAWH
+rHfD9?w
+C9fD9?u,
+ A_A^_
+t$ WATAUAVAWH
+f9<Au
+f9<Au
+fD94Ou
+tG9)u
+|$(H;
+|$0H;
+|$8H;
+|$HH;
+|$pH;
+t$XE3
+t4E88t/H
+E8<0u
+ A_A^A]A\_
+x AVH
+uPH9i
+L$ SVWH
+L$ SVWAVH
+(A^_^[
+t$ WAVAWH
+0A_A^_
+VWATAVAWH
+ A_A^A\_^
+x UAVAWH
+T$0H+
+L$0fD
+HcD$$HcL$ H
+A_A^]
+WAVAWH
+fD96u)L
+ A_A^_
+VWAVH
+@A^_^
+x AVH
+WAVAWH
+ A_A^_
+UVWAVAWH
+L$HH3
+PA_A^_^]
+D$(E3
+h UAVAWH
+L$@I+
+L$PH;
+T$PL;
+A_A^]
+H!G H!G(H!G0H!G8!G@
+L$ SVWAVH
+(A^_^[
+L$@E3
+x AVH
+bad allocation
+bad array new length
+Unknown exception
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+RaiseFailFastException
+lntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+Local\SM0:%lu:%lu:%hs
+Vrd.UMED
+ThreadingModel
+InprocServer32
+clsid
+%s\%s\%s
+ProgId
+Vrd User Mode Emulation Driver
+%s\%s
+CLSID
+RSDShO
+VrdUmed.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.rdata$brc
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gehcont
+.gfids
+.rdata
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$brc
+.data$r$brc
+.data$rs$brc
+.data
+.pdata
+.rsrc$01
+.rsrc$02
+VrdUmed.dll
+DllRegisterServer
+DllUnregisterServer
+DllCanUnloadNow
+DllGetClassObject
+wcsnlen
+_initterm
+_initterm_e
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+__CxxFrameHandler4
+__std_terminate
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___std_type_info_destroy_list
+_o___stdio_common_vsnprintf_s
+_o___stdio_common_vswprintf
+_o__callnewh
+_o__cexit
+_o__configure_narrow_argv
+_o__crt_atexit
+_o__errno
+_o__execute_onexit_table
+_o__initialize_narrow_environment
+_o__initialize_onexit_table
+_o__invalid_parameter_noinfo
+_o__purecall
+_o__register_onexit_function
+_o__seh_filter_dll
+_o_free
+_o_malloc
+__C_specific_handler
+memset
+_CxxThrowException
+api-ms-win-crt-private-l1-1-0.dll
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+SetLastError
+EnterCriticalSection
+ReleaseSemaphore
+GetModuleHandleExW
+DeviceIoControl
+LeaveCriticalSection
+InitializeCriticalSectionEx
+WaitForThreadpoolTimerCallbacks
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+FormatMessageW
+GetLastError
+ReleaseSRWLockExclusive
+OutputDebugStringW
+CloseThreadpoolTimer
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+HeapAlloc
+GetProcAddress
+CreateMutexExW
+AcquireSRWLockShared
+DeleteCriticalSection
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+DebugBreak
+IsDebuggerPresent
+StringFromCLSID
+GetModuleFileNameW
+RegCreateKeyW
+RegSetValueExW
+RegDeleteKeyW
+RegCloseKey
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+InitializeSListHead
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-registry-l2-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+memcmp
+memcpy
+memmove
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@std@@
+.?AVtype_info@@
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Virtual Render Device UMED
+FileVersion
+10.0.22621.726 (WinBuild.160101.0800)
+InternalName
+VrdUmed
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+VrdUmde.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.726
+VarFileInfo
+Translation
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,+b3R25C5+KjDHhGqA6RYfefq9KZQjpM4KhOLIr4iR4Y=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+20220914233459.996Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211028192739Z
+230126192739Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service0
+6z$WD
+IsK6*
+L8zp0
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+vFfl|
+n{(aM0
+"c}FK
+^?H4"
+g;^z 
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:2AD4-4B92-FA011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220914214448Z
+20220915214448Z0t0:
+1,0*0
+1(0&0
+en`tuv
+R|=`q(
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+6JC{u

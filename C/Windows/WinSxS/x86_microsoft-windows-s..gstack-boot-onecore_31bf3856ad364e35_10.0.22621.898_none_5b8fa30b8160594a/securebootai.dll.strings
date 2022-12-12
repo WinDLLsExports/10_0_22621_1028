@@ -1,0 +1,613 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+kernelbase.dll
+RaiseFailFastException
+ntdll.dll
+RtlNtStatusToDosErrorNoTeb
+RtlDllShutdownInProgress
+RtlDisownModuleHeapAllocation
+WilFailureNotifyWatchers
+Secure Boot AI
+CSI Secure Boot Advanced Installer
+onecore\base\secureboot\servicing\advancedinstaller\securebootai.cpp
+Windows::WCP::SecureBoot::BasicInstaller::Install
+Not-null check failed: Services
+Not-null check failed: Component
+Not-null check failed: Success
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Control
+SecureBoot
+AvailableUpdates
+Component->Manifest->GetTableOfContents(&Toc)
+Component->Manifest->SearchULONGTable( 0, Toc, Windows::Cms::CMS_SECTIONID_SECUREBOOT_SECTION, &SecureBootTable)
+Component->Manifest->EnumerateULONGTable( 0, SecureBootTable, &SecureBootElements)
+SecureBootElements->Next(1, &Item, &NumElements)
+Component->Manifest->GetBlob(Item.Value, &Size, (void**)&CmsElement)
+SYSTEM\CurrentControlSet\Control\SecureBoot\Servicing
+Attempting to apply Secure Boot update
+message
+Secure Boot: {message}
+The Secure Boot update could not be applied. This may be due to your BitLocker configuration (e.g. policy that disallows Secure Boot for integrity validation). Please suspend BitLocker before applying the Secure Boot update or fix the policy conflict.
+Secure Boot update was successfully applied
+Windows::WCP::SecureBoot::BasicInstaller::Uninstall
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\Staging.h
+WilStaging_02
+\EFI\Microsoft\Boot\Bootmgfw.efi
+RevocationOverride
+SYSTEM\CurrentControlSet\Control\SecureBoot
+SYSTEM\CurrentControlSet\Control\SecureBoot\RestartRequiredForCredGuard
+FveCloseVolume
+FveOpenVolumeW
+FveGetAuthMethodInformation
+FveGetAuthMethodGuids
+FveGetSecureBootBindingState
+GetSecureBootBindingStateAPINotLoaded
+GetSecureBootBindingState
+BindingNotPossible
+FveGetStatusW
+FveKeyManagement
+FveCommitChanges
+FveCommitChangesEx
+SYSTEM\CurrentControlSet\Control\SecureBoot\State
+WinTrust.dll
+WTHelperGetFileHash
+SeSystemEnvironmentPrivilege
+fveapi.dll
+\SecureBootUpdates\DBXUpdate.bin
+ParameterCheck
+LibraryLoad
+IsBitLockerResealNeeded
+WillBitLockerResealSucceed
+WillBitLockerResealSucceedFalse
+\SecureBootUpdates\DBUpdate.bin
+GetSecureBootUpdateFilePath
+InsertSecureBootEntryDb
+ApplySecureBootUpdateFveActionDb
+InsertSecureBootEntryDbx
+ApplySecureBootUpdateFveActionDbx
+.efi.mui
+%s\%s
+Local\SM0:%lu:%lu:%hs
+WillBitLockerResealSucceedFailed
+Action
+PartA_PrivTags
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+ApplySecureBootUpdateSucceeded
+UpdateType
+IsResealNeeded
+WillResealSucceed
+SecureBootUpdateCaller
+RevokedBootmanager
+PartA_PrivTags
+ApplySecureBootUpdateFailed
+Action
+UpdateType
+IsResealNeeded
+WillResealSucceed
+SecureBootUpdateCaller
+RevokedBootmanager
+PartA_PrivTags
+Microsoft.Windows.Security.SBServicing
+RSDSDj&-
+securebootai.pdb
+.rdata$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+.edata
+.data$brc
+.data$r$brc
+.data
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+u$WSQ
+E,SVW
+Z\9;s
+QQSVW3
+97s/j
+PQQSVW
+VSh@.
+D$(PQ
+T$0QQV
+L$4^3
+PQSVW
+PQSVW
+PQQSVW
+4SVWQQP
+QQSVW
+QQSVW3
+j PjZ
+VWjpP
+93uHWV
+93uHWV
+QQPWQ
+&PWSV
+PVSSh
+Y__^[
+Y__^[
+SECUREBOOTAI.DLL
+DllCanUnloadNow
+DllCsiGetHandler
+.?AVResultException@wil@@
+.?AVexception@@
+_purecall
+malloc
+_callnewh
+_XcptFilter
+_amsg_exit
+_initterm
+msvcrt.dll
+_except_handler4_common
+_lock
+_unlock
+__dllonexit
+_onexit
+FormatMessageW
+GetModuleHandleExW
+GetModuleFileNameA
+DebugBreak
+GetModuleHandleW
+GetProcAddress
+GetLastError
+SetLastError
+RegCreateKeyExW
+RegCloseKey
+DisableThreadLibraryCalls
+DeleteCriticalSection
+InitializeCriticalSection
+HeapDestroy
+Sleep
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+ntdll.dll
+CertCreateCertificateContext
+CryptMsgClose
+CertFreeCertificateContext
+CryptQueryObject
+CertCloseStore
+CryptMsgGetParam
+CertFindCertificateInStore
+CertGetCertificateContextProperty
+CRYPT32.dll
+?RtlGetFacilityTracingFlags@Rtl@WCP@Windows@@YIKPAU_RTL_TRACING_FACILITY@123@@Z
+?RtlTraceVa@Rtl@WCP@Windows@@YIXKKPAU_RTL_TRACING_FACILITY@123@QBDKPAD@Z
+?RtlTraceFormat_PCWSTR@Rtl@WCP@Windows@@YIXPAUIRtlFormattedOutputStream@13@PBX@Z
+ConvertNtStatusToHResult
+RtlReportErrorOrigination
+RtlFreeLBlob
+WCP.dll
+__CxxFrameHandler3
+_vsnwprintf
+memcpy_s
+_wcsicmp
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+_vsnprintf_s
+wcsstr
+memmove_s
+?terminate@@YAXXZ
+??1type_info@@UAE@XZ
+ReadFile
+InitOnceBeginInitialize
+FindFirstFileW
+GetFileSizeEx
+RegQueryValueExW
+CreateSemaphoreExW
+HeapFree
+EnterCriticalSection
+OpenThreadToken
+FindNextFileW
+ReleaseSemaphore
+EventUnregister
+RegGetValueW
+RegOpenKeyExW
+LeaveCriticalSection
+InitializeCriticalSectionEx
+OpenProcessToken
+WaitForThreadpoolTimerCallbacks
+FindClose
+WaitForSingleObject
+CreateFileW
+RegSetValueExW
+ReleaseMutex
+GetSystemDirectoryW
+EventSetInformation
+ReleaseSRWLockExclusive
+OutputDebugStringW
+CloseThreadpoolTimer
+GetCurrentThread
+InitOnceComplete
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+HeapAlloc
+EventRegister
+CreateMutexExW
+AcquireSRWLockShared
+GetProcessHeap
+EventWriteTransfer
+FreeLibrary
+GetSystemWindowsDirectoryW
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+LoadLibraryExW
+IsDebuggerPresent
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-lsalookup-l2-1-0.dll
+NtQuerySystemInformation
+RtlInitUnicodeString
+NtSetSystemEnvironmentValueEx
+RtlNtStatusToDosError
+_CxxThrowException
+memcmp
+memset
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+CSI Secure Boot Servicing Plugin
+FileVersion
+10.0.22621.898 (WinBuild.160101.0800)
+InternalName
+securebootai.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+securebootai.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.898
+VarFileInfo
+Translation
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0
+001H1T1X1\1`1d1h1l1p1|1
+>%?1?D?
+A143"4a4
+5!5B5F5L5P5V5Z5v5
+7"777=7B7I7`7r7{7
+8"888A8M8U8g8
+9!9&9-959J9
+:(;7;{;
+<!<)<9<?<K<R<{<
+<1=D=L=\=b=
+>V>a>
+?6?D?L?\?b?v?~?
+0"0'0b0
+171K1s1|1
+383k3
+4n4s4}4
+6!6&6A6F6a6g6x6
+7%777=7L7R7[7a7h7n7t7z7
+9R:d:
+;-;S;
+<2<J<b<}<
+=%=.=
+=#>,><>E>U>^>r>
+1"1i1w1
+646=6
+6Q7l7
+8E8N8Z8g8}8
+809?9G9T9):d:}:
+;N;Z;v;
+>*>4>C>
+3&3i3
+4"4;4F4
+6L7V7j7p7t7y7
+8F8M8f8}8
+9 9B9$:+:
+>?>H>T>\>}>/?8?D?L?c?
+0'1r182
+?(?7?T?Z?c?l?v?
+1-1F1]1x1
+2(3H3b3x3
+4?4d4s4)575{5
+6*6W6q6~6
+7S7Y7
+8)8g8m8
+939;9
+;#<6<L<T<[<g<x<
+='=8=B=_=i=x=
+=2>C>i>
+?1?z?
+0_0n0
+111V1^1e1k1u1
+2.2]2
+3-333u3z3
+3 4`4j4
+5"5.5l5
+62686>6k6
+6,7I7S7}7
+818G8M8S8_8u8
+8-93999E9x9
+:":.:A:G:M:_:|:
+;F;Q;u;
+<\<o<y<
+>:>i>
+131B1L1p1
+3$3S3
+4+424H4i4s4
+5T5h5o5'6.6
+657N7`7k7q7
+8?8^8m8
+9P9|9
+:j;t;
+<(<:<D<e<o<
+0;0J0v0
+0-141P1W1j1y1
+1W2^2
+313M4^4m4t4
+5:6K6Z6a6
+:a;i;p;x;
+;:<[<v<
+>c>|>
+?d?~?
+040=0I0V0o0y0
+2#2>2M2
+5F6\6
+7.7H7^7q7y7
+8'818G8Q8`8z8
+:.:3:^:x:
+;0;G;a;t;y;
+;E<c<o<
+=h>r>
+?2?R?r?w?
+(0-0?0]0q0w0:1X1g1p1y1
+162D2U2]2s2{2
+353;3A3G3M3S3Z3a3h3o3v3}3
+4#4,4?4K4W4c4o4
+5*6M6p6
+7<7_7
+8%9R9u9
+:N:q:
+;5;S;b;
+<0<<<\<p<
+=(=H=T=t=
+>4>H>h>t>
+? ?$?,?0?8?<?D?H?d?h?
+0 0,0P0X0|0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,WeNR1PCuzz4GE4MKe91fekG9E4VCnn+JCJlslMRPUko=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+20221110212959.402Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F77F-E356-5BAE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220302185126Z
+230511185126Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F77F-E356-5BAE1%0#
+Microsoft Time-Stamp Service0
+z|1yJ
+~jxWq
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+(":f'
+aO"D=
+$A>p-
+2.3T:J
+Y8(z]a
+4Zak[`
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:F77F-E356-5BAE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221110232708Z
+20221111232708Z0v0<
+1.0,0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+"?$&[
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+\NkGq

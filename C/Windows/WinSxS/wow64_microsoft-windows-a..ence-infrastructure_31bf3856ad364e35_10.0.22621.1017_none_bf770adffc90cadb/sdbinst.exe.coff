@@ -1,0 +1,281 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30137.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Windows\WinSxS\wow64_microsoft-windows-a..ence-infrastructure_31bf3856ad364e35_10.0.22621.1017_none_bf770adffc90cadb\sdbinst.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Image has the following dependencies:
+
+    ADVAPI32.dll
+    KERNEL32.dll
+    msvcrt.dll
+    USER32.dll
+    SHELL32.dll
+    ntdll.dll
+
+  Section contains the following imports:
+
+    ADVAPI32.dll
+                433000 Import Address Table
+                433400 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                  28F RegQueryValueExW
+                  273 RegEnumValueW
+                  269 RegDeleteValueW
+                  282 RegOpenKeyExW
+                  29F RegSetValueExW
+                  270 RegEnumKeyExW
+                  25A RegCreateKeyExW
+                  289 RegQueryInfoKeyW
+                  260 RegDeleteKeyExW
+                  251 RegCloseKey
+                  265 RegDeleteKeyW
+                  2D9 SetNamedSecurityInfoW
+                  142 GetNamedSecurityInfoW
+                  285 RegOpenKeyW
+                  264 RegDeleteKeyValueW
+                  277 RegGetValueW
+                  114 EventWriteTransfer
+                  10C EventRegister
+                  10E EventUnregister
+                  271 RegEnumKeyW
+
+    KERNEL32.dll
+                433054 Import Address Table
+                433454 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                  3EA LocalAlloc
+                  25A GetFileAttributesW
+                  231 GetCurrentThreadId
+                  4D1 ReleaseMutex
+                  2FA GetSystemDirectoryW
+                  53F SetFileAttributesW
+                  5A4 Sleep
+                  210 GetConsoleMode
+                  1BB FormatMessageW
+                  277 GetLastError
+                  437 OutputDebugStringW
+                  600 WaitForSingleObjectEx
+                  127 DeleteFileW
+                  42F OpenSemaphoreW
+                   94 CloseHandle
+                  56D SetProcessWorkingSetSizeEx
+                  3E4 LoadLibraryW
+                  36B HeapSetInformation
+                  363 HeapAlloc
+                  639 WriteConsoleW
+                  2C6 GetProcAddress
+                   E9 CreateMutexExW
+                  3EF LocalFree
+                  22D GetCurrentProcessId
+                  2CD GetProcessHeap
+                  28F GetModuleHandleW
+                  1BF FreeLibrary
+                   BC CopyFileW
+                  626 WideCharToMultiByte
+                  303 GetSystemTimeAsFileTime
+                  263 GetFileType
+                  118 DebugBreak
+                  583 SetThreadPreferredUILanguages
+                  39D IsDebuggerPresent
+                  25C GetFileInformationByHandle
+                  122 DeleteCriticalSection
+                  408 MoveFileExW
+                  28E GetModuleHandleExW
+                  58E SetThreadpoolTimer
+                    0 AcquireSRWLockExclusive
+                   9F CloseThreadpoolTimer
+                  4D4 ReleaseSRWLockExclusive
+                  602 WaitForThreadpoolTimerCallbacks
+                  37E InitializeCriticalSectionEx
+                  3DD LeaveCriticalSection
+                  145 EnterCriticalSection
+                  18F FindFirstFileExW
+                  4D5 ReleaseSRWLockShared
+                    1 AcquireSRWLockShared
+                  189 FindClose
+                  1A0 FindNextFileW
+                   C9 CreateDirectoryW
+                  3E3 LoadLibraryExW
+                  28D GetModuleHandleExA
+                   DA CreateFileW
+                  28B GetModuleFileNameW
+                  436 OutputDebugStringA
+                  176 ExpandEnvironmentStringsW
+                  325 GetTickCount
+                  46D QueryPerformanceCounter
+                  5B4 TerminateProcess
+                  594 SetUnhandledExceptionFilter
+                  5D5 UnhandledExceptionFilter
+                  63A WriteFile
+                  4D6 ReleaseSemaphore
+                  2EC GetStdHandle
+                  22C GetCurrentProcess
+                  55F SetPriorityClass
+                  555 SetLastError
+                  367 HeapFree
+                   FC CreateSemaphoreExW
+                  28A GetModuleFileNameA
+                  5FF WaitForSingleObject
+                  108 CreateThreadpoolTimer
+
+    msvcrt.dll
+                433190 Import Address Table
+                433590 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                   3C ?what@exception@@UBEPBDXZ
+                    A ??0exception@@QAE@ABQBDH@Z
+                    9 ??0exception@@QAE@ABQBD@Z
+                  514 memcpy
+                  508 malloc
+                  517 memmove_s
+                  325 _purecall
+                  516 memmove
+                  513 memcmp
+                   69 _CxxThrowException
+                  12B _callnewh
+                  3EE _vscwprintf
+                  173 _except_handler4_common
+                  140 _controlfp
+                   11 ??1type_info@@UAE@XZ
+                  314 _onexit
+                   A5 __dllonexit
+                  3CF _unlock
+                  26B _lock
+                   3A ?terminate@@YAXXZ
+                  1F3 _initterm
+                   ED __setusermatherr
+                   D7 __p__fmode
+                  12D _cexit
+                  17C _exit
+                  4B9 exit
+                   EB __set_app_type
+                   FA __wgetmainargs
+                  11A _amsg_exit
+                   D2 __p__commode
+                   74 _XcptFilter
+                  566 towupper
+                  58A wcsrchr
+                  456 _wfullpath
+                  3F5 _vsnprintf_s
+                  4C3 fgetwc
+                    B ??0exception@@QAE@ABV0@@Z
+                    C ??0exception@@QAE@XZ
+                   10 ??1exception@@UAE@XZ
+                   13 ??3@YAXPAX@Z
+                  563 tolower
+                  418 _wcsicmp
+                  515 memcpy_s
+                  3F7 _vsnwprintf
+                   29 ??_V@YAXPAX@Z
+                   80 __CxxFrameHandler3
+                  518 memset
+                   AC __iob_func
+                  3F1 _vsnprintf
+                  57F wcscpy_s
+                  57A wcscat_s
+                  41C _wcslwr
+                  541 strcpy_s
+                  57B wcschr
+                  58E wcsstr
+                  53D strchr
+                  422 _wcsnicmp
+                  536 sprintf_s
+                  524 qsort
+
+    USER32.dll
+                433188 Import Address Table
+                433588 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                  264 LoadStringW
+
+    SHELL32.dll
+                433180 Import Address Table
+                433580 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                      Ordinal   680
+
+    ntdll.dll
+                433280 Import Address Table
+                433680 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                  153 NtDeleteKey
+                   81 LdrGetProcedureAddress
+                   7A LdrGetDllHandle
+                  403 RtlFreeUnicodeString
+                  3A6 RtlDosPathNameToRelativeNtPathName_U_WithStatus
+                  471 RtlInitUnicodeString
+                  106 NtClose
+                  5D0 RtlStringFromGUID
+                  1EB NtQueryInformationFile
+                  46C RtlInitString
+                  37F RtlDeleteCriticalSection
+                  2E8 RtlAllocateHeap
+                  3C5 RtlEqualString
+                  121 NtCreateFile
+                  3B8 RtlEnterCriticalSection
+                  464 RtlInitAnsiString
+                  4F9 RtlMultiByteToUnicodeN
+                  779 ZwEnumerateKey
+                  479 RtlInitializeCriticalSection
+                  3FD RtlFreeHeap
+                  4DA RtlLeaveCriticalSection
+                   3D EtwEventUnregister
+                   3E EtwEventWrite
+                   3B EtwEventRegister
+                  71D ZwClose
+                  820 ZwQuerySystemInformation
+                  8AE ZwUnmapViewOfSection
+                  405 RtlGUIDFromString
+                  2F2 RtlAppendUnicodeStringToString
+                  2F3 RtlAppendUnicodeToString
+                  738 ZwCreateFile
+                  611 RtlUpcaseUnicodeChar
+                  3A4 RtlDosPathNameToNtPathName_U_WithStatus
+                  612 RtlUpcaseUnicodeString
+                  750 ZwCreateSection
+                  431 RtlGetNativeSystemInformation
+                  472 RtlInitUnicodeStringEx
+                  7B7 ZwMapViewOfSection
+                  825 ZwQueryValueKey
+                  800 ZwQueryInformationFile
+                  7C8 ZwOpenKey
+                  77C ZwEnumerateValueKey
+                  588 RtlRunOnceExecuteOnce
+                  8BD ZwWriteFile
+                  822 ZwQuerySystemTime
+                  2A8 NtWriteFile
+                  39E RtlDoesFileExists_U
+                  3D0 RtlExpandEnvironmentStrings_U
+                  127 NtCreateKey
+                  27A NtSetValueKey
+                  25C NtSetInformationKey
+                  1B3 NtOpenKey
+                  346 RtlCopyUnicodeString
+                  322 RtlCompareMemory
+                  507 RtlNtStatusToDosError
+                  1F9 NtQueryKey
+                  1E8 NtQueryInformationByName
+                  558 RtlReAllocateHeap
+
+  Summary
+
+        1000 .data
+        2000 .idata
+        3000 .reloc
+        1000 .rsrc
+       31000 .text

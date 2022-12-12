@@ -1,0 +1,1730 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+ntdll.dll
+RtlDllShutdownInProgress
+WilStaging_02
+WLDP_HOST_ID_IE
+WLDP_HOST_ID_VBA
+WLDP_HOST_ID_WSH
+WLDP_HOST_ID_MSI
+WLDP_HOST_ID_ALL
+WLDP_HOST_ID_GLOBAL
+WLDP_HOST_ID_UNKNOWN
+WLDP_HOST_ID_POWERSHELL
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+CRYPT32.dll
+api-ms-win-security-lsalookup-l2-1-0.dll
+DEVOBJ.dll
+WINTRUST.dll
+FVEAPI.dll
+ext-ms-win-kernel32-package-l1-1-0.dll
+ext-ms-win-kernel32-package-l1-1-2.dll
+ext-ms-win-kernel32-package-l1-1-0
+ext-ms-win-kernel32-package-l1-1-2
+api-ms-win-appmodel-unlock-l1-1-0.dll
+api-ms-win-stateseparation-helpers-l1-1-0.dll
+ext-ms-win32-subsystem-query-l1-1-0
+ext-ms-win32-subsystem-query-l1-1-0.dll
+ext-ms-win-ntuser-windowstation-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-1
+ext-ms-win-ntuser-windowstation-l1-1-2
+RPCRT4.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+Exception
+ReturnNt
+ReturnHr
+LogNt
+LogHr
+FailFast
+%hs(%u)\%hs!%p: 
+%hs!%p: 
+(caller: %p) 
+%hs(%d) tid(%x) %08X %ws
+Msg:[%ws] 
+CallContext:[%hs] 
+[%hs(%hs)]
+[%hs]
+kernelbase.dll
+WilFailureNotifyWatchers
+RtlUnregisterFeatureConfigurationChangeNotification
+LogStagedFeatureUsage
+NtQueryWnfStateData
+NtUpdateWnfStateData
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+WilError_03
+onecore\internal\sdk\inc\wil\Staging.h
+SYSTEM\CurrentControlSet\Control\CI\VAILSettings\
+GuestWindowsMode
+CIVAILSettings
+onecore\base\ngscb\wldp\dll\wldp.cpp
+SYSTEM\CurrentControlSet\Control\CI\Developer\DeveloperUnlock
+CIDeveloper
+O:BAG:BAD:(A;CIID;KA;;;SY)(A;CIID;KA;;;BA)(A;CIID;KR;;;WD)(A;CIID;KR;;;RC)(A;;KR;;;AC)(A;;KR;;;S-1-15-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681)
+Microsoft
+SchemaExt-Composable-Vail
+SHA256
+vector<T> too long
+CERT_NAME_UNKNOWN
+onecore\base\ngscb\wldp\dll\hostlockdown.cpp
+\Users\
+%USERPROFILE%
+ReportDEPlatformHstiSecureThunderboltBit
+CodeIntegrity-CloudEdition-Enforce-Required
+%SystemDrive%\data\systemdata\etw\Non-Production Errors.txt
+%SystemRoot%\System32\CodeIntegrity\Data\Non-Production Errors.txt
+ERROR: Failed finding required partition: %S
+\\.\harddisk%upartition%u\\
+Microsoft\WatermarkHSTITestComplete.bin
+Microsoft\WatermarkSBTestComplete.bin
+%SystemRoot%\System32\CodeIntegrity\Data
+%SystemRoot%\System32\CodeIntegrity\Data\WatermarkHSTITestComplete.bin
+%SystemRoot%\System32\CodeIntegrity\Data\WatermarkSecurityTestComplete.bin
+TEST FAIL: BCD: Foud banned Element type 0x%08lx at OS Loader
+TEST FAIL: BCD: Foud banned Element type 0x%08lx at BootManagecr
+DMCfgUtils.dll
+SyncGetDeviceUniqueID
+ERROR: Failed initializing required file path: %S
+TEST FAIL: ManufacturingMode is on
+ERROR: Couldn't get watermark state in required location.
+TEST FAIL: HSTI: Failed to reteive result or HSTI not verified
+TEST FAIL: Required policy is not enforced.
+Security
+// Security Watermark Test Log
+// This log file describes test failures from the Security Watermark Test.
+// If you see this log file, it means that this device is not ready to ship
+// because some of the production self tests are failing.  If this is a pre-production
+// device, this is an expected result and this file can be ignored (or deleted).  If this
+// is supposed to be a production ready device, check the log below to identify tests that
+// are failing, and see the Security Watermark documentation for information on how to fix the
+// issues identified by these tests.
+generic
+unknown error
+iostream
+iostream stream error
+system
+onecore\base\ngscb\wldp\dll\filetrust.cpp
+invalid string position
+string too long
+Gh]$`
+VulnerableDriverBlocklistEnable
+System\CurrentControlSet\Control\CI\Config
+onecore\base\ngscb\wldp\dll\canexecute.cpp
+onecore\internal\sdk\inc\wil\opensource\wil\result_macros.h
+onecore\base\ngscb\wldp\dll\toasthelper.cpp
+/toast/visual/binding/text[number(@id) = '%d']
+/toast/actions/action[number(@id) = '%d']
+content
+NonImmersivePackage
+Windows.Defender.SecurityCenter
+<toast launch="https://go.microsoft.com/fwlink/?linkid=2193834" activationType="protocol"> <visual>  <binding template="ToastGeneric">   <text id="2002"></text>   <text id="3002"></text>  </binding> </visual> <actions>  <action id="4002" activationType="protocol" arguments="https://go.microsoft.com/fwlink/?linkid=2193834"/> </actions></toast>
+<toast launch="https://go.microsoft.com/fwlink/?linkid=2193834" activationType="protocol"> <visual>  <binding template="ToastGeneric">   <text id="2000"></text>   <text id="3000"></text>  </binding> </visual> <actions>  <action id="4000" activationType="protocol" arguments="https://go.microsoft.com/fwlink/?linkid=2193834"/> </actions></toast>
+<toast launch="https://go.microsoft.com/fwlink/?linkid=2193834" activationType="protocol"> <visual>  <binding template="ToastGeneric">   <text id="IDS_TOASTTITLE_GENERAL_BLOCK"></text>   <text id="IDS_TOASTBODY_GENERAL_BLOCK"></text>  </binding> </visual> <actions>  <action activationType="protocol" arguments="https://go.microsoft.com/fwlink/?linkid=2193834" content="Learn more" /> </actions></toast>
+<toast launch="https://go.microsoft.com/fwlink/?linkid=2187074" activationType="protocol"> <visual>  <binding template="ToastGeneric">   <text id="2001"></text>   <text id="3001"></text>  </binding> </visual> <actions>  <action id="4001" activationType="protocol" arguments="https://go.microsoft.com/fwlink/?linkid=2187074"/> </actions></toast>
+<toast launch="https://go.microsoft.com/fwlink/?linkid=2187074" activationType="protocol"> <visual>  <binding template="ToastGeneric">   <text id="IDS_TOASTTITLE_SWITCH_ENFORCE"></text>   <text id="IDS_TOASTBODY_SWITCH_ENFORCE"></text>  </binding> </visual> <actions>  <action activationType="protocol" arguments="https://go.microsoft.com/fwlink/?linkid=2187074" content="Learn more" /> </actions></toast>
+Windows.Data.Xml.Dom.XmlDocument
+WinSta0
+Default
+Segoe UI Light
+Segoe UI SemiBold
+Segoe UI
+Segoe Pseudo
+Yu Gothic UI Light
+Yu Gothic UI Semibold
+Yu Gothic UI
+Malgun Gothic Semilight
+Malgun Gothic Bold
+Malgun Gothic
+Leelawadee UI Semilight
+Leelawadee UI Bold
+Leelawadee UI
+Microsoft YaHei UI Light
+Microsoft YaHei UI Bold
+Microsoft YaHei UI
+Microsoft JhengHei UI Light
+Microsoft JhengHei UI Bold
+Microsoft JhengHei UI
+bWti^
+ul%G1
+byjA`
+w9X!P/
+oLW\f
+f4Og|
+X\?E/5
+l6s+o
+sQPI[5T
+bgOne
+m]#0D
+Da6N^
+@W=7A=
+d|BNeU
+,B>DY
+Vving1
+gxI3!'
+ew0hp
+WAxK0i
+FWph?r
+'R{=f
+xv#?H
+7T})gW
+%UM;%
+hwp1p0
++dBVY
+Ly^X`
+hgtlCm
+^BNQ,^
+z?801i:It6
+$>b~t
+1o?-XfF
+$(SQO
+rY&'K
+VY$[X
+VG2/iI
+S~=5p
+NtQuerySystemInformation
+GenuineIntel
+ 0Bg]
+AppInfo
+ncalrpc
+0f738e20-73c0-4ca8-aa6a-8dfef545fea8
+OemId
+UnlockIDCopy
+VerifiedAndReputableUI
+DisableMshtmlUmci
+ShellSmartscreenSuppressed
+BrowserSmartscreenSuppressed
+WcosOOBELogCollection
+LegacyWhqlFlighting
+VerifiedAndReputablePerfMode
+VAILSettings
+VAILPolicy
+Enforced
+WindowsLockdownPolicySettings
+U%>?'
+WldpClassIsInApprovedList
+DecisionLocation
+ClsId
+Provider
+ValueName
+IsApproved
+ErrorCode
+WldpFindResourceFailure
+ProviderName
+Module
+OriginalFileName
+ErrorCode
+WldpNtQuerySecurityPolicyFailure
+ProviderName
+Module
+OriginalFileName
+ErrorCode
+BlockDialogShown
+PartA_PrivTags
+FileName
+CurrentProcess
+hResult
+DialogGuid
+UserActionsTaken
+WldpValidationAudit
+ProviderName
+Module
+OriginalFileName
+WldpIsAppApprovedByPolicy
+PartA_PrivTags
+PackageFamilyName
+PackageVersion
+CurrentProcess
+hResult
+WldpValidationBlockedByPolicy
+ProviderName
+Module
+OriginalFileName
+WldpRetailUnlocked
+PartA_PrivTags
+WldpIsWcosProductionConfiguration
+WcosConfigurationResult
+ErrorCode
+ IsProductionConfiguration
+PartA_PrivTags
+WldpIsWcosProductionConfiguration
+RequiredConfigurationChecks
+FailedConfigurationChecks
+ErrorCode
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+FallbackError
+PartA_PrivTags
+wilResult
+hresult
+fileName
+lineNumber
+module
+failureType
+message
+threadId
+callContext
+originatingContextId
+originatingContextName
+originatingContextMessage
+currentContextId
+currentContextName
+currentContextMessage
+failureId
+failureCount
+function
+VulnerableDriverBlocklistStateChanged
+State
+ElligibleToDisable
+Succeeded
+PartA_PrivTags
+(1>{R
+Microsoft.Windows.Security.CodeIntegrity.Activity
+WldpTraceLoggingProvider
+Microsoft.Windows.Security.CodeIntegrity.State
+Microsoft.Windows.Security.CodeIntegrity.State
+RaiseFailFastException
+lstd::exception: %hs
+RtlNtStatusToDosErrorNoTeb
+RtlDisownModuleHeapAllocation
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlNotifyFeatureUsage
+Local\SM0:%lu:%lu:%hs
+%s, "%s", 0x%08x, 
+%s, NONE, 0x%08x, 
+Unknown
+Global
+PowerShell
+AllHostIds
+EnterpriseDefinedClsId
+BuiltInList
+Override
+AllKeys
+RefreshGlobalData
+ParameterValidation
+Audit
+FailedConvertGuidToUnicodeString
+GlobalBuiltInList
+ProviderBuiltInList
+EnforceStateList
+NotFound
+ALLOWCLSIDS
+O:SYG:SYD:(A;OICI;0x1;;;AC)(XA;;0x1;;;WD;(exists WIN://PKG))
+LockDownRestriction
+System\CurrentControlSet\Control\CI\Policy
+SHA384
+SHA512
+SYSTEM\CurrentControlSet\Control\CI\Developer\DeveloperUnlockCertificates
+CIDeveloperCerts
+f2(Cv
+SeSystemEnvironmentPrivilege
+TEST FAIL: SecureBoot: Secure Boot is not enabled
+TEST FAIL: SecureBoot: Found prohibited certs in list: %d
+TEST FAIL: SecureBoot: Invalid Secure Boot Policy option
+\StringFileInfo\12341234\OriginalFilename
+\VarFileInfo\Translation
+\StringFileInfo\%04X%04X\OriginalFilename
+\StringFileInfo\%04X%04X\InternalName
+RUNDLL32
+SVCHOST
+SvchostPushServiceGlobals
+SvchostPushServiceGlobalsEx
+ServiceMain
+wuaueng.dll
+WUServiceMain
+gpsvc.dll
+GroupPolicyClientServiceMain
+ngcsvc.dll
+NgcServiceMain
+ScDeviceEnum.dll
+ScDeviceEnumServiceMain
+NETSETUPSVC.dll
+NetSetupServiceMain
+BFE.DLL
+BfeServiceMain
+cryptsvc.dll
+CryptServiceMain
+icsvc.dll
+HeartbeatServiceMain
+KvpexchangeServiceMain
+ShutdownServiceMain
+TimesyncServiceMain
+icsvcext.dll
+RdvServiceMain
+VssServiceMain
+IKEEXT.DLL
+IkeServiceMain
+ipsecsvc.dll
+SpdServiceMain
+PeerDistSvc.dll
+SVCServiceMain
+ProfSvc.dll
+UserProfileServiceMain
+SECLOGON.EXE
+SvcEntry_Seclogon
+SHSVCS.DLL
+HardwareDetectionServiceMain
+sysmain.dll
+SysMtServiceMain
+THEMESERVICE.DLL
+themeservicemain
+Umpnpmgr.DLL
+PlugPlayServiceMain
+Umpo.DLL
+umpomain
+w32time.dll
+SvchostEntry_W32Time
+wcmsvc.dll
+WcmSvcMain
+winhttp.dll
+WinHttpAutoProxySvcMain
+certprop.dll
+certpropservicemain
+wlansvc.dll
+wlansvcmain
+scardsvr.exe
+calaismain
+ncdautosetup.dll
+svchostmain
+cscsvc.dll
+cscservicemain
+wcncsvc.dll
+wcnservicemain
+provsvc.dll
+providerservicemain
+dot3svc.dll
+dot3svcmain
+pnrpsvc.dll
+svcservicemain
+imservicemain
+StorageUsage.dll
+GetStorageUsageInfo
+acmigration.dll
+ApplyMigrationShims
+acproxy.DLL
+PerformAutochkOperations
+ppioobe.dll
+setupcalendaraccountforuser
+edgehtml.dll
+davclnt.dll
+davsetcookie
+appxdeploymentextensions.onecore.dll
+shellrefresh
+pla.dll
+plahost
+aeinv.dll
+updatesoftwareinventory
+shell32.dll
+control_rundll
+shcreatelocalserverrundll
+startupscan.dll
+susruntask
+appxdeploymentclient.dll
+appxprestagecleanupruntask
+uxtheme.dll
+generaltel.dll
+rungeneraltelemetry
+runinusercxt
+pfsvwsswapassessmenttask
+shsetup.dll
+shunattendedsetup
+monext.dll
+start
+windows.storage.applicationdata.dll
+cleanuptemporarystate
+wininetplugin.dll
+migratecacheforuser
+dfdts.dll
+dfdgetdefaultpolicyandsmart
+dfshim.dll
+Shopenverbshortcut
+shopenverbapplication
+sharpmaintain
+coin.dll
+runsoftwareinstall
+nvi2.dll
+deferreddelete
+reseteng.dll
+rjvcreatesuccesstaskentrypoint
+setupapi.dll
+installhinfsection
+policyagentprovider.dll
+setup_checknamespaces
+display.dll
+showadaptersettings
+policyagentendpoint.dll
+setup_initializepolicy
+nvprxy.dll
+proxy
+werconcpl.dll
+launchercapp
+webconfigca.dll
+zzzzinvokemanagedcustomactionoutofproc
+rechelper.dll
+_rhpid698rheng2@16
+aiod.dll
+createreaderusersettings
+slmsprbootstrap.dll
+setupplayreadydata
+firewallcontrolpanel.dll
+shownotificationdialog
+ReportDEPlatformIsHSTIVerified
+TEST FAIL: Failed to get SecureBoot Binding State: hr=0x%08lx
+TEST FAIL: Invalid SecureBoot Binding State: %d
+TEST FAIL: Failed to get WCOS Device Encryption Security Info: hr=0x%08lx
+TEST FAIL: Device is not secure for WCOS Device Encryption
+FVEAPI.dll
+Software\Microsoft\Windows\CurrentVersion\BitLocker\Overrides
+bad allocation
+SYSTEM\CurrentControlSet\Control\SecureBoot\State
+UEFISecureBootEnabled
+VendorIdentifier
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+WLDP.pdb
+.rdata$brc
+.rdata$00$brc
+.rdata$zz$brc
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.gfids
+.giats
+.rdata
+.rdata$00
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.text
+.text$di
+.text$lp00wldp.dll!20_pri7
+.text$lp01wldp.dll!20_pri7
+.text$lp09wldp.dll!50_coldboot
+.text$mn
+.text$np
+.text$x
+.text$yd
+.text$zy
+.text$zz
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.data$00$brc
+.data$dk00$brc
+.data$r$brc
+.data
+.data$00
+.data$dk00
+.data$zz
+.bss$00
+.bss$dk00
+.bss$pr00
+.bss$zz
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+QQWhH
+PQRRShH
+VVRhp
+f;A*sQSV
+PQSVW
+PQQSVW
+Y__^[
+Y__^[
+QRPh<
+QRPh\
+QRPh|
+QRPh<
+QRPh\
+QRPh|
+QQh$1
+|$hWQ
+|$hWQ
+<SVWQQ
+pHVVh
+D$$Ph 
+8SVWj
+QQSVW3
+t/j Xf9
+QPSSWQP
+xQWj@
+t)h8;
+WPQQV
+|$pWQ
+WPWWV
+pHVVh
+D$ PQQ
+L$,_^[3
+L$,_^[3
+QQh|@
+QWWWWWW
+QRRPh
+j j!h
+j j!h
+j j!h
+j j!h
+QQVW3
+PVVhHu
+(SVWj
+PSSShxu
+uojDXPj@
+L$(9M
+D$8Ph
+D$DPh
+j X9D$
+&PWSV
+j0^Vj
+PQQVW
+PQQSVW
+PQQSVW
+PQQSVW
+PQQSVW
+PQQVW
+QQh$1
+PQQSVW
+v$hp/
+v hD0
+v h\0
+QQSVW3
+PQQSVW
+PQQVW
+PQQVW
+PQQVW
+L$4^3
+PQQVW
+97s/j
+PQQSVW
+E VW3
+QQSV3
+T$(j,
+v_j,^
+D$DPj
+L$T_^[3
+PSSSSSV
+WSSSV
+WWWVh
+t'=]t
+PRjYV
+PSjYV
+D$\Pj
+D$ WPj
+D<XPh
+D$\Pj
+D$8j P
+SSSSj
+PPPPj
+VVVRVW
+D$ PQQ
+Xj@^Vf
+WWWWW
+t#WWj
+PSWVVhP
+Xj@^Vf
+PSSht
+tHhTt
+SVj@3
+QQSVW
+SRVQhdt
+PWVSRjIhdt
+PRVQhdt
+PQRj3hdt
+PQRj+
+PjGhdt
+PjLhdt
+RQjShdt
+CoTaskMemFree
+StringFromCLSID
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+CryptHashCertificate2
+CryptSIPRetrieveSubjectGuidForCatalogFile
+CertVerifyCertificateChainPolicy
+CertGetCertificateContextProperty
+CertDeleteCertificateFromStore
+CertAddEncodedCertificateToStore
+CertFreeCertificateContext
+CertEnumCertificatesInStore
+CertCloseStore
+CertFindCertificateInStore
+CertGetNameStringW
+CertOpenStore
+LookupPrivilegeValueW
+CoUninitialize
+CoInitializeEx
+CoCreateInstance
+DevObjGetDeviceInterfaceDetail
+DevObjEnumDeviceInterfaces
+DevObjDestroyDeviceInfoList
+DevObjGetClassDevs
+DevObjCreateDeviceInfoList
+CryptCATAdminReleaseCatalogContext
+WTHelperIsChainedToMicrosoftFromStateData
+CryptCATAdminReleaseContext
+ConfigCiPackageFamilyNameCheck
+CryptCATCatalogInfoFromContext
+WTIsFirstConfigCiResultPreferred
+CryptCATAdminEnumCatalogFromHash
+WTLogConfigCiScriptEvent
+CryptCATAdminAcquireContext2
+WTLogConfigCiSignerEvent
+WinVerifyTrust
+WTHelperGetProvCertFromChain
+CryptCATAdminCalcHashFromFileHandle3
+WTHelperProvDataFromStateData
+WTHelperGetProvSignerFromChain
+FveGetSecureBootBindingState
+FveQuery
+GetPackageFullName
+GetStagedPackageOrigin
+IsDeveloperModeEnabled
+GetPersistedRegistryValueW
+QueryWin32SubsystemHost
+OpenServiceW
+StartServiceW
+RpcBindingFromStringBindingW
+RpcStringBindingComposeW
+I_RpcExceptionFilter
+RpcBindingSetAuthInfoExW
+RpcStringFreeW
+OpenSCManagerW
+CloseServiceHandle
+RpcBindingFree
+QueryServiceStatus
+NdrClientCall2
+Wldp.dll
+WldpIsAppApprovedByPolicy
+WldpIsProductionConfiguration
+WldpIsWcosProductionConfiguration
+WldpQueryPolicySettingEnabled2
+WldpQueryPolicySettingEnabled
+WldpQueryPolicySettingEnabledInternal
+WldpQueryWindowsLockdownMode
+WldpQueryWindowsLockdownRestriction
+WldpResetProductionConfiguration
+WldpResetWcosProductionConfiguration
+WldpSendSmartAppControlBlockToast2
+WldpSendSmartAppControlBlockToast
+WldpSendSmartAppControlSwitchEnforceToast
+WldpSetWindowsLockdownRestriction
+WldpTraceLoggingWDACBlockDialogShown
+WldpAddDeveloperCertificateForDynamicCodeTrust
+WldpCanExecuteBuffer
+WldpCanExecuteFile
+WldpCanExecuteStream
+WldpChangeVulnerableDriverBlocklistState
+WldpCheckDeviceEncryptionNotStarted
+WldpCheckRetailConfiguration
+WldpCheckWcosDeviceEncryptionSecure
+WldpDisableDeveloperMode
+WldpEnableDeveloperMode
+WldpGetLockdownPolicy
+WldpIsAllowedEntryPoint
+WldpIsClassInApprovedList
+WldpIsDebugAllowed
+WldpIsDynamicCodePolicyEnabled
+WldpIsProductionConfigurationInProc
+WldpIsVulnerableDriverBlocklistDisabled
+WldpIsVulnerableDriverBlocklistEligibleToDisable
+WldpQueryDeviceSecurityInformation
+WldpQueryDynamicCodeTrust
+WldpQuerySecurityPolicy
+WldpSetDynamicCodeTrust2
+WldpSetDynamicCodeTrust
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_alloc@std@@
+.?AVResultException@wil@@
+.?AVexception@@
+ew|>&=4_
+__CxxFrameHandler3
+wcsnlen
+_vsnwprintf
+memcpy_s
+??3@YAXPAX@Z
+_purecall
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+_vsnprintf_s
+memmove_s
+??_V@YAXPAX@Z
+_wcsicmp
+wcschr
+_wcsnicmp
+_vsnprintf
+malloc
+_callnewh
+??0exception@@QAE@ABQBD@Z
+??0exception@@QAE@ABQBDH@Z
+?what@exception@@UBEPBDXZ
+_CxxThrowException
+memcpy
+memmove
+_XcptFilter
+_amsg_exit
+_initterm
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_except_handler4_common
+GetModuleFileNameA
+CreateSemaphoreExW
+HeapFree
+SetLastError
+EnterCriticalSection
+ReleaseSemaphore
+GetModuleHandleExW
+EventUnregister
+RegGetValueW
+InitializeCriticalSectionAndSpinCount
+LeaveCriticalSection
+InitializeCriticalSection
+InitializeCriticalSectionEx
+WaitForThreadpoolTimerCallbacks
+WaitForSingleObject
+GetCurrentThreadId
+ReleaseMutex
+EventSetInformation
+FormatMessageW
+GetLastError
+ReleaseSRWLockExclusive
+OutputDebugStringW
+CloseThreadpoolTimer
+DisableThreadLibraryCalls
+AcquireSRWLockExclusive
+WaitForSingleObjectEx
+OpenSemaphoreW
+CloseHandle
+SetThreadpoolTimer
+ReleaseSRWLockShared
+CreateThreadpoolTimer
+HeapAlloc
+EventRegister
+GetProcAddress
+CreateMutexExW
+AcquireSRWLockShared
+DeleteCriticalSection
+GetCurrentProcessId
+GetProcessHeap
+GetModuleHandleW
+FreeLibrary
+DebugBreak
+IsDebuggerPresent
+EventActivityIdControl
+GetTokenInformation
+DuplicateTokenEx
+WriteFile
+SetFilePointer
+OpenProcessToken
+LocalAlloc
+CreateFileW
+RegSetValueExW
+RegCreateKeyExW
+LocalFree
+EventWriteTransfer
+AccessCheck
+RegDeleteKeyExW
+RegCloseKey
+EventWrite
+OpenThreadToken
+GetCurrentProcess
+GetVersionExW
+GetCurrentThread
+AdjustTokenPrivileges
+GetFileVersionInfoSizeExW
+GetFileVersionInfoExW
+GetModuleFileNameW
+VerQueryValueW
+QueryFullProcessImageNameW
+CreateDirectoryW
+ReadFile
+ExpandEnvironmentStringsW
+DeviceIoControl
+GetOsManufacturingMode
+DeleteFileW
+LoadLibraryExW
+GetFinalPathNameByHandleW
+InitOnceBeginInitialize
+InitOnceComplete
+RegSetKeyValueW
+SetFilePointerEx
+WindowsCreateStringReference
+RoActivateInstance
+WindowsDeleteString
+RaiseException
+LoadStringW
+WindowsGetStringRawBuffer
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-3.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-registry-l1-1-1.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+NtQuerySystemEnvironmentValueEx
+NtQuerySystemInformation
+RtlFindActivationContextSectionGuid
+RtlEqualUnicodeString
+RtlIsApiSetImplemented
+NtSetSystemInformation
+RtlGetPersistedStateLocation
+RtlIsStateSeparationEnabled
+RtlInitUnicodeString
+NtQuerySecurityPolicy
+RtlStringFromGUIDEx
+RtlAppendUnicodeStringToString
+RtlCopyUnicodeString
+RtlFindUnicodeSubstring
+ZwFilterBootOption
+ntdll.dll
+LoadLibraryExA
+GetProcessMitigationPolicy
+api-ms-win-core-processthreads-l1-1-1.dll
+GetSystemInfo
+RegQueryValueExW
+RegOpenKeyExW
+TraceMessage
+RegGetValueA
+api-ms-win-downlevel-advapi32-l1-1-0.dll
+VirtualProtect
+VirtualQuery
+RtlNtStatusToDosError
+ApiSetQueryApiSetPresence
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+_stricmp
+CreateWellKnownSid
+memcmp
+memset
+WEVT_TEMPLATE
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Windows Lockdown Policy
+FileVersion
+10.0.22621.891 (WinBuild.160101.0800)
+InternalName
+wldp.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+wldp.dll
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.22621.891
+VarFileInfo
+Translation
+CRIM@
+Microsoft-Windows-VerifyHardwareSecurity/Operational
+Microsoft-Windows-VerifyHardwareSecurity/Admin
+MAPST
+BMAP,
+checksMap
+TTBLp
+EventData
+CurrentCheckBit
+CurrentCheckBit
+EventData
+TEMP|
+EventData
+database
+bytes
+database
+bytes
+TEMP(
+EventData
+HostProvider
+ModulePath
+Method
+InternalName
+HostProvider
+ModulePath
+Method
+InternalName
+TEMP|
+EventData
+HostProvider
+ModulePath
+Method
+InternalName
+HostProvider
+ModulePath
+Method
+InternalName
+TEMP(
+EventData
+HostProvider
+ModulePath
+Method
+InternalName
+HostProvider
+ModulePath
+Method
+InternalName
+EventData
+HostProvider
+ModulePath
+Method
+HostProvider
+ModulePath
+Method
+TEMP(
+EventData
+HostProvider
+ModulePath
+Method
+InternalName
+HostProvider
+ModulePath
+Method
+InternalName
+TEMP(
+EventData
+HostProvider
+ModulePath
+Method
+InternalName
+HostProvider
+ModulePath
+Method
+InternalName
+TEMPP
+EventData
+PRVAh
+Microsoft-Windows-VerifyHardwareSecurity
+securebootEnabledFailedCheck
+securebootEnabledFailedToCheck
+certsFailedCheck
+certsFailedToCheck
+securebootPolicyFailedCheck
+securebootPolicyFailedToCheck
+reportCheck
+HostLockdownCheck
+win:Error
+win:Warning
+win:Informational
+TASKx
+CheckGeneric
+CheckSecureBootEnabled
+CheckCertificates
+CheckSecureBootPolicy
+CheckHostLockdownPolicy
+WEVT_TEMPLATE
+en-US
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5\5`5h5p5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7$7,747<7D7L7T7\7d7h7l7p7t7x7|7
+8$8,848<8D8L8T8\8d8l8p8t8|8
+9$9,949<9D9L9T9\9d9l9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=l=p=t=x=|=
+6A7p7
+;q;{;
+>6>R>V>\>`>f>j>
+? ?&?*?0?4?:?>?D?H?N?R?X?\?q?
+121G1p1|1
+2*2F2{2
+3V3g3x4
+4_5f5
+5h6z6
+6Y7`7
+7H8U8g8p8y8
+9H9T9
+;H;W;j;p;w;{;
+<(<2<A<G<V<]<c<m<w<
+<(=5=
+>G?r?y?
+1Y1m1t1z1
+2#2-272A2J2g2m2
+3(393F3S3`3m3s3
+4"4,464E4L4R4\4f4p4~4
+51676>6C6H6M6S6q6y6
+687G7
+8%8>8]8j8
+9H9v9
+:4:R:
+;8;d;j;
+<#<N<h<}<
+< =7=Q=d=i=o=
+=5>S>_>
+X0b0}0
+0"181K1T1_1f1~1
+2)292?2J2P2\2l2u2
+2N3b3n3
+3.4:4F4R4^4
+4$5J5V5b5n5
+6!6'6
+7 7)7>7S7b7j7y7
+8)858A8I8]8n8y8
+9#939C9S9c9s9
+:!:1:A:Q:^:r:
+;";2;B;R;_;s;
+<1<><W<r<
+=,=<=L=\=l=|=
+>#?_?
+1b2J3M4S4c4m4w4|4
+8 8-858H8q8z8
+9!9X9j9
+:W;h;
+=B=j=p=
+= >5>S>U?d?|?
+0$0<0
+1!1"3)3
+434?4P4Y4_4d4
+7#72787@7F7L7R7W7]7e7k7q7w7|7
+9<9b9o9
+:`:l:
+;#;1;
+=1>@>M>X>a>g>
+?!?U?Z?_?e?
+1)1U1a1}1
+393_3m3
+3@4G4x4~4
+4*595`5
+7>7K7u7z7
+8g8q8
+9(9?9x9}9
+>"?+?8?>?E?m?u?
+0'030
+2P2W2
+3!3.333?3
+8E:L:
+1n1u1
+12292
+3<3C3
+4%4j5q5
+:(:/:H:O:g:n:
+>F?Z?h?
+8U9\9
+9S;Z;m;t;
+2 2;2S2Y2k2z2
+707b7(8?8
+=/=a=
+0M0Y0
+1$1W1a1
+2<2M2[2g2
+3k3+777
+8%9{;
+<$=>=P=~=
+=">+>a>{>
+?!?_?h?
+0L0T0x0
+1-1<1
+2R2l2~2
+3W3`3|3
+3.4I4Q4h4p4
+516H6P6j6z6
+6"7+747F7R7\7g7w7
+8a8v8
+;*;K;S;`;n;w;
+;>>F>X>g>u>}>
+?$?4?F?v?
+#050\0n0
+1:1B1^1h1
+8E8N8z8
+9'999c9~9
+:#:-:d<l<~<
+<?=J=Z=l=
+?!?>?F?b?q?{?
+5>5P5t5
+6:6D6
+8-9I9j9
+9S:j:
+:5;K;Z;d;o;
+<P<W<i<p<|<
+=!>(>F>M>`>g>z>
+>F?M?y?
+0"0)0:0A0Z0b0
+1H4O4
+5 5'5?5F5W5^5p5w5
+9]:q:{:
+3K5R5e5l5
+6*606@6G6Y6h6
+6B7G7M7
+728?8i8
+8&9+9<9V9s9}9
+95:B:q:{:
+:c;m;
+=%>u>
+?#?5?
+0&0+0f0u0
+041K1\1
+3"353I3
+4 5P5
+7@7(8t8
+;>;J;f;
+<5<><h<v<
+=C=I=W=
+>+>H>W>~>
+0/0;0[0
+0"161D1b1
+232L2b2x2
+3(3A3l3~3
+4)4X4~4
+5A5R5V5Z5^5b5f5j5n5r5
+; ;6;f;x;
+?!?W?f?
+1,1Z1r1
+5/5[5m5
+9F:G<S<
+=<>_>p>
+<0K0c0
+233N3
+3)4{4
+5E5Q5g5
+7 7V7&868V8D9U9t9{9
+9):.:9:
+;%;r;~;
++0=0C0
+0&141
+2$2)2P2e2
+3*3:3r3
+324P4
+465g5
+5#6T6
+7-7R7
+8"8[8
+919>9E9{9
+:3:@:G:
+;&;J;W;^;
+>=>N>
+>M?]?d?r?
+0,0L0w0
+141Q1
+1J2Z2a2
+4*5C5I5S5l5
+6^6p6
+727H7o7
+8.8T8o8
+8M9]9
+<)<L<y<
+=4=T=
+=$>D>Z>a>s>z>
+0!090F0L0Y0_0i0o0
+1;1S1e1z1
+1,212<2S2_2
+333:3R3u3
+4)5Y5
+6$7a7
+;:;z;
+;M<}<
+3/4o4
+5!6Q6t6
+;3<`<
+=8>k>
+0.1w1
+3/3_3
+4A4y4
+767w7
+7%8f8
+>#>@>_>v>|>
+>7?=?R?{?
+]0d0r0y0
+1*1L1`1m1
+122S2a2
+3)3/3D3K3
+5B6H6
+8Q8X8z8
+9f:v:
+;Z;j;
+=K=[=
+=2>C>
+?.?G?U?
+10>0u0
+1A1N1
+2*2f2r2
+3g3u3
+4P4W4x4
+4O5\5
+5(6/6V6]6
+8.8B8H8}8?9V9m9s9
+;);>;
+;/<H<
+= =+=4=
+?^?j?
+0&0O0
+0!2.2
+323h3t3
+4D4U4b4v4
+4(5H5^5
+6"6<6M6
+6H7W7i7o7
+8/8f8
+9"949
+:-;?;r;
+;%<Q<X<t<~<
+>,?b?
+.0n0u0
+1/1<1
+102A2g2
+5%5N5
+566@6L6l6{6
+6L7]7
+718X8
+9<9P9V9\9f9p9
+:$:-:7:@:J:\:
+;.;~;
+<:<?<
+<M=m=
+=L>S>o>v>
+2B2P2\2m2t2z2
+4 5,5x5
+6'60696?6D6I6P6X6g6
+7f8w8
+=N>`>
+>6?\?
+1%1T1
+2'2U2
+3e3%4;4r4
+5.5G5X5b5
+6-7O7w7
+7-898h8t8
+9.9}9
+;9;G;l;v;
+;i<5=A=R=[=a=f=
+>!>(>0>R>j>v>
+?7?E?N?T?Y?^?e?m?
+0U091
+1 2=3_3
+3p4}4
+5!5P5]5
+6B6X6
+7L7`7s7
+7C8~8
+<3<U<|<
+1<2F2q2
+3$3+3Q3_3
+4R4o4
+5q5v5
+6+6=6F6Q6
+6O7[7g7
+8F8O8X8n8
+9%9D9Q9
+;3;l;u;
+<W<`<z<
+<&=e=
+= >*>7>d>n>t>
+?$?F?Y?
+20F0T0s0
+191F1K1X1]1j1
+2$222U2`2u2
+3.3A3N3U3f3y3
+4Q4W4
+6&6L6h6
+797_7
+8e9q9
+9#:2:~:
+;&;6;B;N;[;f;p;
+<#<E<o<
+<2>v>
+>2?<?Z?
+010`0m0
+0E1T1
+2*262L2R2X2g2l2r2x2~2
+2+3X3^3d3}3
+4I4~4
+5;5O5
+6/6Q6Z6
+7.7H7m7v7
+8F8R8
+979E9
+:?:t:
+:!;X;
+<[<c<x<
+=<=A=R=o=
+>.>f>n>~>
+>-?_?
+00Z0v0|0
+1*1L1
+1)272K2
+3)3m3y3
+4<4J4U4h4
+5.5<5Y5z5
+7$777@7G7Y7`7g7
+8$8.8c8}8
+;$<*<K<R<i<p<
+= =T=
+>(>R>[>
+>[?b?
+0'0/0B0S0
+0`1e1
+2I2a2
+6!6h6
+8"858F8
+879p9
+0@0a0k0{0
+0/141L1n1s1~1
+2;2@2Q2}2
+454_4n4s4
+5F5K5
+6 6h6y6
+6%787X7
+8'8^8
+9&9<9
+:-;;;
+<'<n<}<
+=F=T=u=
+><>H>h>t>
+?(?L?T?\?d?l?t?|?
+0 0@0L0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+242<2D2L2T2\2d2l2t2|2
+3 3$3,3@3H3P3X3\3`3h3|3
+4(4L4X4`4
+5<5H5h5p5x5
+6,646<6D6L6T6`6
+747<7H7h7t7
+848<8D8L8T8\8h8
+9$9,949<9D9L9X9x9
+:$:,:4:@:`:h:p:x:
+;,;4;<;D;P;t;|;
+<$<D<L<X<x<
+=$=,=4=@=`=h=p=x=
+>4><>H>h>p>x>
+?(?H?X?|?
+0,040<0D0L0T0`0
+1$101P1\1|1
+2$2,242<2D2L2\2h2
+3,383X3d3
+4$484H4T4\4
+5,585X5d5
+6$606P6X6d6
+7 7(747T7\7h7
+80888@8H8P8X8`8l8
+9L9\9h9
+:8:D:L:
+;0;@;P;\;d;
+< <(<0<8<T<d<p<
+=4=<=H=h=p=|=
+> >0><>\>d>p>
+? ?@?H?P?X?`?l?
+0$0,040<0H0h0p0x0
+1$1,181\1d1l1t1|1
+2$2,242<2D2L2T2\2h2
+34383
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0l0p0t0x0|0
+0<1@1D1L1t1
+242T2p2
+0 0$0(0,04080<0@0D0L0P0X0\0`0d0h0l0p0x0|0
+Ua>;E
+BDH)d3Z
+u*v\o[$
+X[@EX
+|# _U
+CLn 9
++-6c!T
+~k-6u
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+220505192315Z
+230504192315Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+?/=KzdN
+uyL7j
+#HMDuV
+:Tt3n
+v~Bpd
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+229879+4700220
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+&go`4
+m<&8cx
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+TlP0X
+R!s4Z
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+,malyLfOhLDwrnAOCaAZAx5MJyY0uM8xyS92+5fhPQRA=0Z
+"Microsoft Window
+ http://www.microsoft.com/windows0
+IvcMp
+c6*&aw
+}s%D]
+J]p"?
+20221031191835.872Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:AE2C-E32B-1AFC1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211202190513Z
+230228190513Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:AE2C-E32B-1AFC1%0#
+Microsoft Time-Stamp Service0
+Hr[i3c
+CL|$z
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+>dDV_
+FUmb[
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+q\Q17
+&S|9a
+!]_0t
+U0S0Q
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,
+J>f;O
+!TkjE
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:AE2C-E32B-1AFC1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20221101004213Z
+20221102004213Z0w0=
+1/0-0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+#PjkTe
+sN:H9
